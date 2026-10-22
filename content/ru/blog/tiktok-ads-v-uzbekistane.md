@@ -54,5 +54,5 @@ TikTok Ads — сильный канал выхода на молодую акт
 ## Ещё по теме
 
 - [A/B-тесты рекламных креативов: как проводить](/ru/blog/ab-test-kreativov/)
-- [Meta Pixel и Conversions API: зачем нужны и как установить](/ru/blog/meta-pixel-i-conversions-api/)
+- [Лид-форма или сообщения в Direct: что приносит больше продаж](/ru/blog/lid-forma-ili-soobshcheniya/)
 - [Как настроить таргет в Instagram: пошаговое руководство](/ru/blog/kak-nastroit-target-v-instagram/)

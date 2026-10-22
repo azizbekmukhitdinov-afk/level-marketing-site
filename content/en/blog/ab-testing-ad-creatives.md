@@ -63,6 +63,6 @@ A/B testing moves your advertising from guesswork to numbers. At least one test 
 
 ## More on this topic
 
-- [Meta Pixel and Conversions API: why you need them and how to set them up](/en/blog/meta-pixel-and-conversions-api/)
-- [Lookalike audiences: how to find people like your customers](/en/blog/lookalike-audiences/)
+- [Lead form or Direct messages: which brings more sales](/en/blog/lead-form-or-messages/)
+- [Ad account blocked: what to do and how to prevent it](/en/blog/ad-account-blocked/)
 - [How to set up Instagram ads: a step-by-step guide](/en/blog/how-to-set-up-instagram-ads/)

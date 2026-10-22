@@ -63,6 +63,6 @@ A/B test reklamani taxmindan raqamlarga o‘tkazadi. Har hafta kamida bitta test
 
 ## Shu mavzuda yana
 
-- [Meta Pixel va Conversions API: nima uchun kerak va qanday o‘rnatiladi](/blog/meta-pixel-conversions-api/)
-- [Lookalike auditoriya: mijozlaringizga o‘xshash odamlarni qanday topish](/blog/lookalike-auditoriya/)
+- [Instant forma yoki Direct'ga xabar: qaysi biri ko‘proq sotuv olib keladi](/blog/instant-forma-yoki-xabarlar/)
+- [Reklama kabineti bloklandi: nima qilish va qanday oldini olish](/blog/reklama-kabineti-bloklandi/)
 - [Instagram'da target reklama qanday sozlanadi: bosqichma-bosqich qo‘llanma](/blog/instagramda-target-reklama-sozlash/)

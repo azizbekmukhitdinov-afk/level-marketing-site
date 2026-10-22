@@ -54,5 +54,5 @@ TikTok Ads is a strong channel for reaching a young, active audience, but first 
 ## More on this topic
 
 - [A/B testing ad creatives: how to run it](/en/blog/ab-testing-ad-creatives/)
-- [Meta Pixel and Conversions API: why you need them and how to set them up](/en/blog/meta-pixel-and-conversions-api/)
+- [Lead form or Direct messages: which brings more sales](/en/blog/lead-form-or-messages/)
 - [How to set up Instagram ads: a step-by-step guide](/en/blog/how-to-set-up-instagram-ads/)

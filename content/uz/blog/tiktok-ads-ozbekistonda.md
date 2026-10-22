@@ -54,5 +54,5 @@ TikTok Ads — yosh va faol auditoriyaga chiqishning kuchli kanali, lekin avval 
 ## Shu mavzuda yana
 
 - [Reklama kreativlari uchun A/B test: qanday o‘tkaziladi](/blog/kreativlar-ab-test/)
-- [Meta Pixel va Conversions API: nima uchun kerak va qanday o‘rnatiladi](/blog/meta-pixel-conversions-api/)
+- [Instant forma yoki Direct'ga xabar: qaysi biri ko‘proq sotuv olib keladi](/blog/instant-forma-yoki-xabarlar/)
 - [Instagram'da target reklama qanday sozlanadi: bosqichma-bosqich qo‘llanma](/blog/instagramda-target-reklama-sozlash/)

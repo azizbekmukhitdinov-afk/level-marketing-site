@@ -63,6 +63,6 @@ A/B-тесты переводят рекламу из догадок в цифр
 
 ## Ещё по теме
 
-- [Meta Pixel и Conversions API: зачем нужны и как установить](/ru/blog/meta-pixel-i-conversions-api/)
-- [Lookalike-аудитории: как найти людей, похожих на ваших клиентов](/ru/blog/lookalike-auditoriya/)
+- [Лид-форма или сообщения в Direct: что приносит больше продаж](/ru/blog/lid-forma-ili-soobshcheniya/)
+- [Рекламный кабинет заблокирован: что делать и как не допустить](/ru/blog/reklamnyy-kabinet-zablokirovan/)
 - [Как настроить таргет в Instagram: пошаговое руководство](/ru/blog/kak-nastroit-target-v-instagram/)
