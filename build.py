@@ -24,6 +24,8 @@ SITE = json.loads((ROOT / "site.json").read_text(encoding="utf-8"))
 BASE = SITE["url"].rstrip("/")
 # Sub-path the site lives under (e.g. /level-marketing-site on github.io); empty on a custom domain.
 ROOT_PATH = re.sub(r"^https?://[^/]+", "", BASE)
+# Stylesheet version, so browsers fetch the new CSS after every change.
+CSS_VERSION = __import__("hashlib").md5((ROOT / "static" / "style.css").read_bytes()).hexdigest()[:8]
 
 # ---------- markdown ----------
 
@@ -249,7 +251,7 @@ def page(lang, title, desc, path, body, alts=None, schema=None, og_type="website
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="/style.css">
+<link rel="stylesheet" href="/style.css?v={CSS_VERSION}">
 {schema_tag}
 </head>
 <body>
