@@ -13,7 +13,7 @@ Eng qimmat xato — hech kimga kerak bo‘lmagan mahsulotga oylar va pul sarflas
 
 ## 1. Raqobatchilarni o‘rganing
 
-Agar bunday mahsulotni hech kim sotmasa, ehtimol talab yo‘q — yoki siz bo‘sh joy topdingiz. Raqobatchilar ko‘p bo‘lsa, talab bor, lekin ajralib turish kerak. Ularning narxi, taklifi va sharhlarini ko‘ring, faol reklamalarini esa Meta Ad Library'da toping. Batafsil — raqobatchilar tahlili maqolasida.
+Agar bunday mahsulotni hech kim sotmasa, ehtimol talab yo‘q — yoki siz bo‘sh joy topdingiz. Raqobatchilar ko‘p bo‘lsa, talab bor, lekin ajralib turish kerak. Ularning narxi, taklifi va sharhlarini ko‘ring, faol reklamalarini esa Meta Ad Library'da toping. Batafsil — [raqobatchilar tahlili](/blog/raqobatchilar-tahlili/) maqolasida.
 
 ## 2. Qidiruv so‘rovlarini tekshiring
 
@@ -52,7 +52,7 @@ Muvaffaqiyat mezonini testdan **oldin** yozing: masalan, «ariza narxi X dan pas
 
 ## Xulosa
 
-Avval tekshiring, keyin tuzating va shundan keyingina masshtablang. Kimga sotayotganingizni aniq bilish uchun — maqsadli auditoriya, test va o‘sish uchun pulni rejalash haqida — [marketing byudjeti](/blog/marketing-byudjeti-rejasi/) maqolalari. Level Marketing test kampaniyasini ishga tushirish va natijani tahlil qilishda yordam beradi.
+Avval tekshiring, keyin tuzating va shundan keyingina masshtablang. Kimga sotayotganingizni aniq bilish uchun — [maqsadli auditoriya](/blog/maqsadli-auditoriya/), test va o‘sish uchun pulni rejalash haqida — [marketing byudjeti](/blog/marketing-byudjeti-rejasi/) maqolalari. Level Marketing test kampaniyasini ishga tushirish va natijani tahlil qilishda yordam beradi.
 
 ## Shu mavzuda yana
 

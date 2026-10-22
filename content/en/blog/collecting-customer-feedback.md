@@ -50,7 +50,7 @@ NPS = % promoters − % detractors. **An example (illustrative numbers):** out o
 |---|---|
 | The words customers use | Ad copy and headlines, your [USP](/en/blog/unique-selling-proposition/) |
 | Fears before buying | Your FAQ and [sales script](/en/blog/sales-script/) |
-| Competitors they mention | Competitor analysis |
+| Competitors they mention | [Competitor analysis](/en/blog/competitor-analysis/) |
 | Praise | Ask for a public review — see [online reputation](/en/blog/online-reputation-and-reviews/) |
 | Complaints | Fixes to the product and service |
 | Sources | Splitting the budget between channels |

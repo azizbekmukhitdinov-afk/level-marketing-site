@@ -13,7 +13,7 @@ At the start of a business, marketing mistakes are especially costly: money is s
 
 ## 1. A product "for everyone"
 
-"Everyone needs our product" means your ads speak to no one in particular. Choose one core segment: who they are, where they are and what problem they have. See our guide to target audiences.
+"Everyone needs our product" means your ads speak to no one in particular. Choose one core segment: who they are, where they are and what problem they have. See our guide to [target audiences](/en/blog/target-audience-and-customer-persona/).
 
 ## 2. Ads without a strategy
 
@@ -58,5 +58,5 @@ All of these mistakes can be fixed — often without raising the ad budget. To t
 ## More on this topic
 
 - [How to plan a marketing budget: share of revenue vs goal-based](/en/blog/planning-a-marketing-budget/)
-- [How to validate a business idea before you advertise](/en/blog/validate-a-business-idea/)
+- [Competitor analysis: what you can learn in one day](/en/blog/competitor-analysis/)
 - [Network marketing (MLM): can you make money, and how to spot a pyramid](/en/blog/network-marketing-mlm/)

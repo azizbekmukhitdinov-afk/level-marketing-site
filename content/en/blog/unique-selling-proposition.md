@@ -22,7 +22,7 @@ If customers can't see the difference between you and a competitor, they compare
 ## How to find your USP: 4 steps
 
 1. **List customers' pains.** Ask your sales team: which questions and objections come up most? Why do people leave without buying?
-2. **Analyse competitors.** What do they promise, and what do they leave out? More in our competitor analysis article.
+2. **Analyse competitors.** What do they promise, and what do they leave out? More in our [competitor analysis](/en/blog/competitor-analysis/) article.
 3. **List your strengths:** speed, guarantees, specialisation, process, payment model, service.
 4. **Find the overlap** — something customers care about, competitors lack and you genuinely have.
 

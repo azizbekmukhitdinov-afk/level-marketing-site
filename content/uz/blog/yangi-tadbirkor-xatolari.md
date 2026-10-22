@@ -13,7 +13,7 @@ Biznesni boshlaganda marketingdagi xatolar ayniqsa qimmatga tushadi: pul kam, va
 
 ## 1. «Hamma uchun» mahsulot
 
-«Mahsulotimiz hammaga kerak» — demak, reklamangiz hech kimga aniq murojaat qilmaydi. Bitta asosiy segmentni tanlang: kim, qayerda, qanday muammo bilan. Qo‘llanma — maqsadli auditoriya maqolasida.
+«Mahsulotimiz hammaga kerak» — demak, reklamangiz hech kimga aniq murojaat qilmaydi. Bitta asosiy segmentni tanlang: kim, qayerda, qanday muammo bilan. Qo‘llanma — [maqsadli auditoriya](/blog/maqsadli-auditoriya/) maqolasida.
 
 ## 2. Strategiyasiz reklama
 
@@ -58,5 +58,5 @@ Bu xatolarning barchasi tuzatiladi — ko‘pincha reklama byudjetini oshirmasda
 ## Shu mavzuda yana
 
 - [Marketing byudjetini qanday rejalash: daromaddan foiz va maqsaddan hisob](/blog/marketing-byudjeti-rejasi/)
-- [Biznes g‘oyani reklamadan oldin qanday tekshirish mumkin](/blog/biznes-goyani-tekshirish/)
+- [Raqobatchilar tahlili: 1 kunda nimani bilib olish mumkin](/blog/raqobatchilar-tahlili/)
 - [Tarmoq marketingi (MLM): pul topish mumkinmi va piramidani qanday ajratish kerak](/blog/tarmoq-marketingi-mlm/)

@@ -50,7 +50,7 @@ NPS = tarafdorlar foizi − tanqidchilar foizi. **Misol (shartli raqamlar):** 10
 |---|---|
 | Mijozlar ishlatgan so‘zlar | Reklama matni va sarlavhalar, [USP](/blog/unikal-savdo-taklifi/) |
 | Xariddan oldingi qo‘rquvlar | FAQ va [sotuv skripti](/blog/sotuv-skripti/) |
-| Tilga olingan raqobatchilar | Raqobatchilar tahlili |
+| Tilga olingan raqobatchilar | [Raqobatchilar tahlili](/blog/raqobatchilar-tahlili/) |
 | Maqtovlar | Ochiq sharh so‘rash — [onlayn obro‘](/blog/onlayn-obro-sharhlar/) |
 | Shikoyatlar | Mahsulot va servisni tuzatish |
 | Manbalar | Byudjetni kanallar o‘rtasida taqsimlash |

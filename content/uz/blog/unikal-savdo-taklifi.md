@@ -22,7 +22,7 @@ Agar mijoz siz bilan raqobatchingiz o‘rtasidagi farqni ko‘rmasa, u faqat nar
 ## USP'ni qanday topish: 4 qadam
 
 1. **Mijozlar og‘rig‘ini yozing.** Sotuv bo‘limidan so‘rang: qanday savollar va e'tirozlar eng ko‘p? Nima tufayli xarid qilmay ketishadi?
-2. **Raqobatchilarni tahlil qiling.** Ular nimani va'da qiladi, nimani aytmaydi? Bu haqda — raqobatchilar tahlili maqolasida.
+2. **Raqobatchilarni tahlil qiling.** Ular nimani va'da qiladi, nimani aytmaydi? Bu haqda — [raqobatchilar tahlili](/blog/raqobatchilar-tahlili/) maqolasida.
 3. **Kuchli tomonlaringizni yozing:** tezlik, kafolat, ixtisoslashuv, jarayon, to‘lov modeli, servis.
 4. **Kesishmani toping** — mijoz uchun muhim, raqobatchilarda yo‘q va sizda haqiqatan bor narsa.
 

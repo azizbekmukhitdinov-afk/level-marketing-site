@@ -69,6 +69,6 @@ Combine both methods: calculate from the goal and sanity-check against a share o
 
 ## More on this topic
 
-- [How to validate a business idea before you advertise](/en/blog/validate-a-business-idea/)
-- [7 marketing mistakes new entrepreneurs make](/en/blog/marketing-mistakes-new-entrepreneurs/)
+- [Competitor analysis: what you can learn in one day](/en/blog/competitor-analysis/)
+- [Target audience and customer persona: how to define them](/en/blog/target-audience-and-customer-persona/)
 - [Network marketing (MLM): can you make money, and how to spot a pyramid](/en/blog/network-marketing-mlm/)

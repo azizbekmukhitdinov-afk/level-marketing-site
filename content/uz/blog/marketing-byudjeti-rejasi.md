@@ -69,6 +69,6 @@ Ikkala usulni birlashtiring: maqsaddan hisoblang va natijani daromad ulushi bila
 
 ## Shu mavzuda yana
 
-- [Biznes g‘oyani reklamadan oldin qanday tekshirish mumkin](/blog/biznes-goyani-tekshirish/)
-- [Yangi tadbirkorlarning marketingdagi 7 ta xatosi](/blog/yangi-tadbirkor-xatolari/)
+- [Raqobatchilar tahlili: 1 kunda nimani bilib olish mumkin](/blog/raqobatchilar-tahlili/)
+- [Maqsadli auditoriya va mijoz portreti: qanday aniqlash](/blog/maqsadli-auditoriya/)
 - [Tarmoq marketingi (MLM): pul topish mumkinmi va piramidani qanday ajratish kerak](/blog/tarmoq-marketingi-mlm/)

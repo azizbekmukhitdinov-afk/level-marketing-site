@@ -69,6 +69,6 @@ rubric: biznes
 
 ## Ещё по теме
 
-- [Как проверить бизнес-идею до запуска рекламы](/ru/blog/kak-proverit-biznes-ideyu/)
-- [7 маркетинговых ошибок начинающих предпринимателей](/ru/blog/oshibki-nachinayushchih-predprinimateley/)
+- [Анализ конкурентов: что можно узнать за один день](/ru/blog/analiz-konkurentov/)
+- [Целевая аудитория и портрет клиента: как определить](/ru/blog/tselevaya-auditoriya-i-portret-klienta/)
 - [Сетевой маркетинг (MLM): можно ли заработать и как отличить его от пирамиды](/ru/blog/setevoy-marketing-mlm/)

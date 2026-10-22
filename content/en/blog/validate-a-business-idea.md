@@ -13,7 +13,7 @@ The most expensive mistake is spending months and money on a product nobody want
 
 ## 1. Study competitors
 
-If nobody sells anything like it, there may be no demand — or you've found a gap. If there are many competitors, demand exists, but you'll need to stand out. Look at their prices, offers and reviews, and find their active ads in the Meta Ad Library. More in our competitor analysis article.
+If nobody sells anything like it, there may be no demand — or you've found a gap. If there are many competitors, demand exists, but you'll need to stand out. Look at their prices, offers and reviews, and find their active ads in the Meta Ad Library. More in our [competitor analysis](/en/blog/competitor-analysis/) article.
 
 ## 2. Check search queries
 
@@ -52,7 +52,7 @@ Write down your success criteria **before** the test: for example, "cost per lea
 
 ## Conclusion
 
-Test first, adjust, and only then scale. To know exactly who you're selling to, read about target audiences; to plan money for testing and growth, see [planning a marketing budget](/en/blog/planning-a-marketing-budget/). Level Marketing can help you launch a test campaign and analyse the results.
+Test first, adjust, and only then scale. To know exactly who you're selling to, read about [target audiences](/en/blog/target-audience-and-customer-persona/); to plan money for testing and growth, see [planning a marketing budget](/en/blog/planning-a-marketing-budget/). Level Marketing can help you launch a test campaign and analyse the results.
 
 ## More on this topic
 
