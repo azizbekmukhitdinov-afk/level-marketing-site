@@ -5,7 +5,7 @@ date: 2026-10-22
 slug: google-ads-ili-meta-ads
 type: article
 tags: google ads, meta ads, стратегия
-translation: google-ads-yoki-meta-ads
+key: google-ads-yoki-meta-ads
 ---
 
 Когда рекламный бюджет ограничен, первый вопрос: вкладывать в Google или в Instagram и Facebook? Обе площадки приносят заявки, но работают совершенно по-разному. В статье разберём разницу между Google Ads и Meta Ads, какому бизнесу что подходит и как выбрать.

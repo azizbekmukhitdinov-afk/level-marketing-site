@@ -5,7 +5,7 @@ date: 2026-10-22
 slug: lid-narxi-cpl-qanday-kamaytirish
 type: article
 tags: target reklama, meta ads, analitika
-translation: tsena-lida-cpl-kak-snizit
+key: lid-narxi-cpl-qanday-kamaytirish
 ---
 
 Reklamaga pul sarflayotgan har bir tadbirkor oxir-oqibat bitta savolga javob izlaydi: **bitta mijoz menga qanchaga tushyapti?** Bu savolning birinchi qadami — lid narxi, ya'ni CPL (cost per lead). Ushbu maqolada CPL qanday hisoblanishi, uni qaysi raqam bilan solishtirish kerakligi va ariza narxini ko‘tarib yuboradigan eng ko‘p uchraydigan xatolarni ko‘rib chiqamiz.

@@ -5,7 +5,7 @@ date: 2026-10-22
 slug: instagramda-target-reklama-sozlash
 type: article
 tags: target reklama, meta ads, instagram
-translation: kak-nastroit-target-v-instagram
+key: instagramda-target-reklama-sozlash
 ---
 
 O‘zbekistonda ko‘plab bizneslar uchun Instagram asosiy sotuv kanali: mijozlar mahsulotni shu yerda ko‘radi, Direct'ga yozadi va xarid qiladi. Lekin "Reklama qilish" (Продвигать) tugmasini bosib, post'ni ko‘tarish — bu target reklama emas. Ushbu qo‘llanmada Instagram reklamasini Meta Ads Manager orqali qanday to‘g‘ri sozlashni bosqichma-bosqich ko‘rib chiqamiz.

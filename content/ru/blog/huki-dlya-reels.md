@@ -5,7 +5,7 @@ date: 2026-10-22
 slug: huki-dlya-reels
 type: article
 tags: reels, видео, креатив
-translation: reels-uchun-hooklar
+key: reels-uchun-hooklar
 ---
 
 В Instagram Reels и TikTok человек решает, смотреть видео дальше или листать, за пару секунд. Что удерживает его в этот момент? **Хук** — фраза, кадр или действие в самом начале видео. В статье разберём 10 типов хуков, которые работают для бизнеса, с примерами.

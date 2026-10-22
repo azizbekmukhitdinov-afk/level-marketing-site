@@ -5,7 +5,7 @@ date: 2026-10-22
 slug: reels-uchun-hooklar
 type: article
 tags: reels, video, kreativ
-translation: huki-dlya-reels
+key: reels-uchun-hooklar
 ---
 
 Instagram Reels va TikTok'da odam videoni davom ettirish yoki o‘tkazib yuborishni bir necha soniyada hal qiladi. Shu qisqa vaqtda uni nima ushlab qoladi? Javob — **hook** (ilmoq): videoning boshidagi gap, kadr yoki harakat. Bu maqolada biznes uchun ishlaydigan 10 ta hook turini misollar bilan ko‘rib chiqamiz.

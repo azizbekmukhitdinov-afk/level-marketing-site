@@ -5,7 +5,7 @@ date: 2026-10-22
 slug: tsena-lida-cpl-kak-snizit
 type: article
 tags: таргет, meta ads, аналитика
-translation: lid-narxi-cpl-qanday-kamaytirish
+key: lid-narxi-cpl-qanday-kamaytirish
 ---
 
 Каждый предприниматель, который вкладывает деньги в рекламу, в итоге ищет ответ на один вопрос: **во сколько мне обходится один клиент?** Первый шаг к ответу — цена лида, или CPL (cost per lead). В статье разберём, как считать CPL, с чем его сравнивать и какие ошибки чаще всего раздувают цену заявки.

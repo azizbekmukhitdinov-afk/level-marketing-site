@@ -5,7 +5,7 @@ date: 2026-10-22
 slug: skolko-stoit-target-v-uzbekistane
 type: article
 tags: таргет, бюджет, meta ads
-translation: target-reklama-narxi-ozbekistonda
+key: target-reklama-narxi-ozbekistonda
 ---
 
 «Сколько стоит таргет?» — самый частый вопрос предпринимателей. Честный ответ: универсальной цены нет. Но если понимать, из чего складывается бюджет и как его посчитать под свой бизнес, можно точно определить, сколько вкладывать в рекламу.

@@ -5,7 +5,7 @@ date: 2026-10-22
 slug: target-reklama-narxi-ozbekistonda
 type: article
 tags: target reklama, byudjet, meta ads
-translation: skolko-stoit-target-v-uzbekistane
+key: target-reklama-narxi-ozbekistonda
 ---
 
 "Target reklama qancha turadi?" — tadbirkorlardan eng ko‘p eshitiladigan savol. Halol javob: bitta universal narx yo‘q. Lekin byudjet qaysi qismlardan iboratligini va uni o‘z biznesingiz uchun qanday hisoblashni bilsangiz, reklamaga qancha pul ajratish kerakligini aniq aytishingiz mumkin bo‘ladi.
