@@ -63,6 +63,6 @@ UTM-belgilar — har bir mijoz qayerdan kelganini bilishning eng oddiy usuli. Ul
 
 ## Shu mavzuda yana
 
-- [Sotuv voronkasi nima: oddiy so‘zlar bilan](/blog/sotuv-voronkasi/)
-- [Arizaga javob berish tezligi sotuvga qanday ta'sir qiladi](/blog/arizaga-javob-tezligi/)
+- [Takroriy sotuv va LTV: mavjud mijozlardan ko‘proq daromad](/blog/takroriy-sotuv-ltv/)
+- [Mijozlardan fikr-mulohaza qanday yig‘iladi va undan qanday foydalaniladi](/blog/mijoz-fikrini-yigish/)
 - [Lid narxi (CPL) nima va uni qanday kamaytirish mumkin: tadbirkor uchun qo‘llanma](/blog/lid-narxi-cpl-qanday-kamaytirish/)

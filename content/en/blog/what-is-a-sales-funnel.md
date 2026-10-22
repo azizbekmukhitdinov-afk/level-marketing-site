@@ -39,7 +39,7 @@ Now improving any stage changes the result: if lead-to-sale conversion rises fro
 | Reach to interest | A weak creative or the wrong audience | New hooks, [A/B tests](/en/blog/ab-testing-ad-creatives/) |
 | Interest to lead | The profile doesn't build trust, a vague offer | [A profile that sells](/en/blog/instagram-profile-that-sells/), a clear offer |
 | Lead to sale | Slow replies, no script | [Response time](/en/blog/lead-response-time/), [sales script](/en/blog/sales-script/) |
-| Sale to repeat | No contact with the customer | Repeat sales and LTV |
+| Sale to repeat | No contact with the customer | [Repeat sales and LTV](/en/blog/repeat-sales-and-ltv/) |
 
 ## How to track the funnel
 

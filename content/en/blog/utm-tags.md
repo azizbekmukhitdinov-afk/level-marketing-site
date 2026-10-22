@@ -63,6 +63,6 @@ UTM tags are the simplest way to know where each customer came from. Without the
 
 ## More on this topic
 
-- [What a sales funnel is, in plain words](/en/blog/what-is-a-sales-funnel/)
-- [Lead response time: how it affects sales](/en/blog/lead-response-time/)
+- [Repeat sales and LTV: more revenue from existing customers](/en/blog/repeat-sales-and-ltv/)
+- [How to collect customer feedback and what to do with it](/en/blog/collecting-customer-feedback/)
 - [Cost per lead (CPL): what it is and how to lower it](/en/blog/cost-per-lead-cpl-how-to-lower/)

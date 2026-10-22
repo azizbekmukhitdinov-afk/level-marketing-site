@@ -45,7 +45,7 @@ In the example, ROAS = 6,000 ÷ 700 ≈ 8.6. ROAS looks high but ignores margin 
 ## What makes it tricky
 
 - **Long sales cycles** — the lead comes this month, payment next month. Match periods correctly.
-- **Repeat purchases** — customers buy several times; account for them with LTV.
+- **Repeat purchases** — customers buy several times; account for them with [LTV](/en/blog/repeat-sales-and-ltv/).
 - **Attribution** — which sale came from which ad; you need a CRM and [UTM tags](/en/blog/utm-tags/).
 
 ## What a good ROMI looks like
@@ -59,5 +59,5 @@ ROMI lets you manage marketing as an investment rather than a cost. Calculate it
 ## More on this topic
 
 - [UTM tags: how to know where every customer came from](/en/blog/utm-tags/)
-- [What a sales funnel is, in plain words](/en/blog/what-is-a-sales-funnel/)
+- [Repeat sales and LTV: more revenue from existing customers](/en/blog/repeat-sales-and-ltv/)
 - [Cost per lead (CPL): what it is and how to lower it](/en/blog/cost-per-lead-cpl-how-to-lower/)

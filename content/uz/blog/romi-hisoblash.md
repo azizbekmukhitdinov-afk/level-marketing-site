@@ -45,7 +45,7 @@ Yuqoridagi misolda ROAS = 6 000 ÷ 700 ≈ 8,6. ROAS yuqori ko‘rinadi, lekin u
 ## Hisoblashdagi qiyinchiliklar
 
 - **Uzoq sotuv sikli** — ariza bu oy, to‘lov keyingi oy. Davrlarni to‘g‘ri bog‘lang.
-- **Takroriy xaridlar** — mijoz bir necha marta sotib oladi; ularni hisobga olish uchun LTV bilan ishlang.
+- **Takroriy xaridlar** — mijoz bir necha marta sotib oladi; ularni hisobga olish uchun [LTV](/blog/takroriy-sotuv-ltv/) bilan ishlang.
 - **Manbani aniqlash** — qaysi sotuv qaysi reklamadan; buning uchun CRM va [UTM-belgilar](/blog/utm-belgilar/) kerak.
 
 ## Qanday ROMI yaxshi
@@ -59,5 +59,5 @@ ROMI — marketingni «xarajat» emas, investitsiya sifatida boshqarish vositasi
 ## Shu mavzuda yana
 
 - [UTM-belgilar: har bir mijoz qayerdan kelganini qanday bilish](/blog/utm-belgilar/)
-- [Sotuv voronkasi nima: oddiy so‘zlar bilan](/blog/sotuv-voronkasi/)
+- [Takroriy sotuv va LTV: mavjud mijozlardan ko‘proq daromad](/blog/takroriy-sotuv-ltv/)
 - [Lid narxi (CPL) nima va uni qanday kamaytirish mumkin: tadbirkor uchun qo‘llanma](/blog/lid-narxi-cpl-qanday-kamaytirish/)

@@ -39,7 +39,7 @@ Endi har bir bosqichni yaxshilash natijani o‘zgartiradi: agar arizadan sotuvga
 | Qamrovdan qiziqishga | Kuchsiz kreativ yoki noto‘g‘ri auditoriya | Yangi hooklar, [A/B test](/blog/kreativlar-ab-test/) |
 | Qiziqishdan arizaga | Profil ishonch uyg‘otmaydi, taklif aniq emas | [Sotadigan profil](/blog/instagram-profil-sotadigan/), aniq taklif |
 | Arizadan sotuvga | Kech javob, skript yo‘q | [Javob tezligi](/blog/arizaga-javob-tezligi/), [sotuv skripti](/blog/sotuv-skripti/) |
-| Sotuvdan takroriy xaridga | Mijoz bilan aloqa yo‘q | Takroriy sotuv va LTV |
+| Sotuvdan takroriy xaridga | Mijoz bilan aloqa yo‘q | [Takroriy sotuv va LTV](/blog/takroriy-sotuv-ltv/) |
 
 ## Voronkani qanday kuzatish
 
