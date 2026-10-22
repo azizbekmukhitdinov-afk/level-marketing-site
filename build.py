@@ -316,15 +316,23 @@ def contact_block(lang):
 <p class="lead">{t['contact_p']}</p><div class="contacts-grid">{"".join(rows)}</div></section>"""
 
 
+def yandex_map_url():
+    g = SITE.get("geo")
+    if g:
+        return f"https://yandex.uz/maps/?pt={g['lon']},{g['lat']}&z=17&l=map"
+    return "https://yandex.uz/maps/?text=" + SITE["name"]
+
+
 def location_block(lang):
     t = T[lang]
     from urllib.parse import quote
-    q = quote(SITE.get("map_query") or f"{SITE['name']}, Toshkent")
+    g = SITE.get("geo")
+    q = f"{g['lat']},{g['lon']}" if g else quote(f"{SITE['name']}, Toshkent")
     return f"""<section class="band"><div class="wrap block" id="location"><h2>{t['location_h']}</h2>
 <div class="location"><div><p class="addr">{html.escape(t['address'])}</p><p>{t['location_p']}</p>
 <p class="maplinks"><a class="btn small" href="https://www.google.com/maps/search/?api=1&query={q}" target="_blank" rel="noopener">{t['open_google']}</a>
-<a class="btn small ghost-light" href="https://yandex.uz/maps/?text={q}" target="_blank" rel="noopener">{t['open_yandex']}</a></p></div>
-<iframe class="map" title="{t['location_h']}" loading="lazy" referrerpolicy="no-referrer-when-downgrade" src="https://maps.google.com/maps?q={q}&z=15&output=embed"></iframe></div>
+<a class="btn small ghost-light" href="{yandex_map_url()}" target="_blank" rel="noopener">{t['open_yandex']}</a></p></div>
+<iframe class="map" title="{t['location_h']}" loading="lazy" referrerpolicy="no-referrer-when-downgrade" src="https://maps.google.com/maps?q={q}&z=17&output=embed"></iframe></div>
 </div></section>"""
 
 
@@ -350,12 +358,16 @@ def org_schema(lang):
         "url": BASE + PREFIX[lang] + "/",
         "description": T[lang]["home_desc"],
         "areaServed": "UZ",
-        "address": {"@type": "PostalAddress", "addressLocality": "Tashkent", "addressCountry": "UZ"},
+        "address": {"@type": "PostalAddress", "streetAddress": SITE.get("street", ""), "addressLocality": "Tashkent", "addressCountry": "UZ"},
+        "legalName": SITE.get("legal_name", SITE["name"]),
         "logo": BASE + "/favicon.svg",
     }
     c = SITE["contacts"]
     if c.get("phone"):
         s["telephone"] = c["phone"]
+    if SITE.get("geo"):
+        s["geo"] = {"@type": "GeoCoordinates", "latitude": SITE["geo"]["lat"], "longitude": SITE["geo"]["lon"]}
+        s["hasMap"] = yandex_map_url()
     same = [u for u in (tg_url(), "https://instagram.com/" + c["instagram"].lstrip("@") if c.get("instagram") else "") if u]
     if same:
         s["sameAs"] = same

@@ -121,7 +121,7 @@ T = {
         "months": ["yanvar", "fevral", "mart", "aprel", "may", "iyun", "iyul", "avgust", "sentabr", "oktabr", "noyabr", "dekabr"],
         "notfound": "Sahifa topilmadi",
         "home": "Bosh sahifa",
-        "address": "Toshkent shahri",
+        "address": "Toshkent sh., 5-kvartal, 29-uy",
         "cases_path": "/keyslar/",
     },
     "ru": {
@@ -218,7 +218,7 @@ T = {
         "months": ["января", "февраля", "марта", "апреля", "мая", "июня", "июля", "августа", "сентября", "октября", "ноября", "декабря"],
         "notfound": "Страница не найдена",
         "home": "На главную",
-        "address": "г. Ташкент",
+        "address": "г. Ташкент, 5-й квартал, 29",
         "cases_path": "/keysy/",
     },
     "en": {
@@ -315,7 +315,7 @@ T = {
         "months": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
         "notfound": "Page not found",
         "home": "Home",
-        "address": "Tashkent, Uzbekistan",
+        "address": "29, 5th Kvartal, Tashkent, Uzbekistan",
         "cases_path": "/cases/",
     },
 }
