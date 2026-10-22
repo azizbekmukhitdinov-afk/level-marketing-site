@@ -59,5 +59,6 @@ rubric: video
 
 ## Ещё по теме
 
-- [Как снимать Reels на телефон: свет, звук и кадр](/ru/blog/kak-snimat-reels-na-telefon/)
+- [Программы для монтажа видео: для телефона и компьютера](/ru/blog/programmy-dlya-montazha-video/)
+- [Как использовать тренды в Reels и TikTok для бизнеса](/ru/blog/kak-ispolzovat-trendy/)
 - [10 хуков для Reels: как удержать внимание в первые 3 секунды](/ru/blog/huki-dlya-reels/)

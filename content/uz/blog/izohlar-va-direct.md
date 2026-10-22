@@ -43,7 +43,7 @@ Shablon — boshlanish nuqtasi: har doim mijozning ismi va savoliga moslang. Har
 3. Tafsilotlarni Direct'da yoki telefonda hal qiling.
 4. Hal bo‘lgach, izohda qisqa natija yozing.
 
-Yaxshi javob berilgan shikoyat yangi mijozlarga ko‘pincha maqtovdan kuchliroq ta'sir qiladi. Sharhlar bilan ishlash haqida — onlayn obro‘ maqolasida.
+Yaxshi javob berilgan shikoyat yangi mijozlarga ko‘pincha maqtovdan kuchliroq ta'sir qiladi. Sharhlar bilan ishlash haqida — [onlayn obro‘](/blog/onlayn-obro-sharhlar/) maqolasida.
 
 ## Spam va avtomatlashtirish
 

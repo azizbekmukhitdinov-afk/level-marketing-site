@@ -57,7 +57,7 @@ A tripod is the cheapest and most essential piece of gear. For moving shots, use
 
 ## Quick editing
 
-Cut the pauses, add captions, keep music quieter than your voice and aim for 15–45 seconds. For apps, see video editing apps. For the first seconds, see [Reels hooks](/en/blog/reels-hooks/).
+Cut the pauses, add captions, keep music quieter than your voice and aim for 15–45 seconds. For apps, see [video editing apps](/en/blog/video-editing-apps/). For the first seconds, see [Reels hooks](/en/blog/reels-hooks/).
 
 ## Conclusion
 
@@ -66,4 +66,5 @@ Good light, clean sound, a stable shot and a script turn a phone into a studio. 
 ## More on this topic
 
 - [Reels scripts: 5 ready-made templates](/en/blog/reels-script-templates/)
+- [Video editing apps: for phone and computer](/en/blog/video-editing-apps/)
 - [10 Reels hooks: how to hold attention in the first 3 seconds](/en/blog/reels-hooks/)

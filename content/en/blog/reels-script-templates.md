@@ -59,5 +59,6 @@ A script is the skeleton of a Reel: hook, value, proof and a call to action. Rot
 
 ## More on this topic
 
-- [Shooting Reels on a phone: light, sound and framing](/en/blog/shooting-reels-on-a-phone/)
+- [Video editing apps: for phone and computer](/en/blog/video-editing-apps/)
+- [How to use Reels and TikTok trends for business](/en/blog/using-trends-for-business/)
 - [10 Reels hooks: how to hold attention in the first 3 seconds](/en/blog/reels-hooks/)

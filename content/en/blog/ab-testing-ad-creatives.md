@@ -59,7 +59,7 @@ After a few months this table becomes a valuable knowledge base about what works
 
 ## Conclusion
 
-A/B testing moves your advertising from guesswork to numbers. At least one test a week is the simplest way to keep improving. For creative ideas, see 7 types of video ads.
+A/B testing moves your advertising from guesswork to numbers. At least one test a week is the simplest way to keep improving. For creative ideas, see [7 types of video ads](/en/blog/types-of-video-ads/).
 
 ## More on this topic
 

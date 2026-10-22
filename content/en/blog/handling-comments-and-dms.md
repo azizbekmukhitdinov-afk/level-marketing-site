@@ -43,7 +43,7 @@ A template is only a starting point: always adapt it to the customer's name and 
 3. Sort out the details in DM or by phone.
 4. Once resolved, post a short update in the comments.
 
-A well-handled complaint often impresses new customers more than praise. For working with reviews, see our online reputation article.
+A well-handled complaint often impresses new customers more than praise. For working with reviews, see our [online reputation](/en/blog/online-reputation-and-reviews/) article.
 
 ## Spam and automation
 

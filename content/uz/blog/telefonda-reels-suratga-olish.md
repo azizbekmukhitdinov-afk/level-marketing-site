@@ -57,7 +57,7 @@ Shtativ — eng arzon va zarur jihoz. Harakatli kadrlar uchun — gimbal yoki te
 
 ## Tez montaj
 
-Pauzalarni kesing, subtitr qo‘shing, musiqa ovozingizdan baland bo‘lmasin, davomiylik — 15–45 soniya. Dasturlar haqida — video montaj dasturlari maqolasida. Birinchi soniyalar uchun esa — [hooklar](/blog/reels-uchun-hooklar/).
+Pauzalarni kesing, subtitr qo‘shing, musiqa ovozingizdan baland bo‘lmasin, davomiylik — 15–45 soniya. Dasturlar haqida — [video montaj dasturlari](/blog/video-montaj-dasturlari/) maqolasida. Birinchi soniyalar uchun esa — [hooklar](/blog/reels-uchun-hooklar/).
 
 ## Xulosa
 
@@ -66,4 +66,5 @@ Yaxshi yorug‘lik, toza ovoz, barqaror kadr va ssenariy — telefonni prodakshn
 ## Shu mavzuda yana
 
 - [Reels uchun ssenariy: 5 ta tayyor shablon](/blog/reels-ssenariy-shablon/)
+- [Video montaj uchun dasturlar: telefon va kompyuter uchun](/blog/video-montaj-dasturlari/)
 - [Reels uchun 10 ta hook: birinchi 3 soniyada e'tiborni ushlash](/blog/reels-uchun-hooklar/)

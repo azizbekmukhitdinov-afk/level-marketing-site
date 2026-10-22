@@ -51,7 +51,7 @@ Halollik muhim: kreator mahsulotdan haqiqatan foydalangan bo‘lsin va natijalar
 
 ## Xulosa
 
-UGC — ishonchni sotuvga aylantiradigan kontent. Mijozlardan muntazam so‘rang, kreatorlarga aniq brif bering va har bir videoni reklamada sinab ko‘ring. Video formatlar haqida batafsil — video reklama turlari maqolasida.
+UGC — ishonchni sotuvga aylantiradigan kontent. Mijozlardan muntazam so‘rang, kreatorlarga aniq brif bering va har bir videoni reklamada sinab ko‘ring. Video formatlar haqida batafsil — [video reklama turlari](/blog/video-reklama-turlari/) maqolasida.
 
 ## Shu mavzuda yana
 

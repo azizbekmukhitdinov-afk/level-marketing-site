@@ -47,7 +47,7 @@ The best strategy uses both: Shorts bring new people, long videos turn them into
 1. Set up the channel: name, avatar, banner, links.
 2. List 10 topics from customers' questions.
 3. One long video every 2 weeks and 3 Shorts a week.
-4. Film one expert interview and cut several Shorts from it.
+4. Film one [expert interview](/en/blog/expert-interview-videos/) and cut several Shorts from it.
 5. Review the stats every month.
 
 ## What to measure
@@ -56,7 +56,7 @@ Not views, but: watch time, thumbnail click-through rate (CTR), subscribers, cli
 
 ## Conclusion
 
-YouTube is a slow but long-term channel: a video posted today can bring customers for years. Start with short videos, give detailed answers to customers' questions and measure results in leads. For editing tools, see our video editing apps article.
+YouTube is a slow but long-term channel: a video posted today can bring customers for years. Start with short videos, give detailed answers to customers' questions and measure results in leads. For editing tools, see our [video editing apps](/en/blog/video-editing-apps/) article.
 
 ## More on this topic
 

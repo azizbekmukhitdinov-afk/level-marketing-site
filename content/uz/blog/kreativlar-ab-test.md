@@ -59,7 +59,7 @@ Bir necha oydan keyin bu jadval sizning auditoriyangiz uchun nima ishlashini ko�
 
 ## Xulosa
 
-A/B test reklamani taxmindan raqamlarga o‘tkazadi. Har hafta kamida bitta test — reklamani doimiy yaxshilab borishning eng oddiy usuli. Kreativlar uchun g‘oyalar — video reklama turlari maqolasida.
+A/B test reklamani taxmindan raqamlarga o‘tkazadi. Har hafta kamida bitta test — reklamani doimiy yaxshilab borishning eng oddiy usuli. Kreativlar uchun g‘oyalar — [video reklama turlari](/blog/video-reklama-turlari/) maqolasida.
 
 ## Shu mavzuda yana
 

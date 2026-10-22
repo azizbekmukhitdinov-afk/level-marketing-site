@@ -47,7 +47,7 @@ Eng yaxshi strategiya — ikkalasini birga: Shorts yangi odamlarni olib keladi, 
 1. Kanalni rasmiylashtiring: nom, avatar, banner, havolalar.
 2. Mijozlar savollaridan 10 ta mavzu ro‘yxatini tuzing.
 3. Har 2 haftada 1 ta uzun video va haftasiga 3 ta Shorts.
-4. Bitta ekspert intervyu suratga olib, undan bir nechta Shorts kesing.
+4. Bitta [ekspert intervyu](/blog/ekspert-intervyu-video/) suratga olib, undan bir nechta Shorts kesing.
 5. Har oy statistikani tahlil qiling.
 
 ## Nimani o‘lchash kerak
@@ -56,7 +56,7 @@ Ko‘rishlar soni emas, balki: ko‘rish vaqti, muqovaga bosish ulushi (CTR), ob
 
 ## Xulosa
 
-YouTube — sekin, lekin uzoq muddatli kanal: bugun joylangan video bir necha yil davomida mijoz olib kelishi mumkin. Qisqa videolar bilan boshlang, mijozlar savollariga uzun javoblar bering va natijani arizalar bo‘yicha o‘lchang. Montaj uchun dasturlar — video montaj dasturlari maqolasida.
+YouTube — sekin, lekin uzoq muddatli kanal: bugun joylangan video bir necha yil davomida mijoz olib kelishi mumkin. Qisqa videolar bilan boshlang, mijozlar savollariga uzun javoblar bering va natijani arizalar bo‘yicha o‘lchang. Montaj uchun dasturlar — [video montaj dasturlari](/blog/video-montaj-dasturlari/) maqolasida.
 
 ## Shu mavzuda yana
 

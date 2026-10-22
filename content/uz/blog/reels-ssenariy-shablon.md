@@ -59,5 +59,6 @@ Ssenariy — Reels'ning skeleti: hook, foyda, isbot va harakatga chaqiruv. Besht
 
 ## Shu mavzuda yana
 
-- [Telefonda Reels suratga olish: yorug‘lik, ovoz va kadr](/blog/telefonda-reels-suratga-olish/)
+- [Video montaj uchun dasturlar: telefon va kompyuter uchun](/blog/video-montaj-dasturlari/)
+- [Trendlardan biznes uchun qanday foydalanish kerak](/blog/trendlardan-foydalanish/)
 - [Reels uchun 10 ta hook: birinchi 3 soniyada e'tiborni ushlash](/blog/reels-uchun-hooklar/)

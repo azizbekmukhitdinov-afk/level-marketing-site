@@ -51,7 +51,7 @@ Honesty matters: the creator should genuinely use the product and not exaggerate
 
 ## Conclusion
 
-UGC is content that turns trust into sales. Ask customers regularly, give creators a clear brief and test every video in your ads. For more on video formats, see 7 types of video ads.
+UGC is content that turns trust into sales. Ask customers regularly, give creators a clear brief and test every video in your ads. For more on video formats, see [7 types of video ads](/en/blog/types-of-video-ads/).
 
 ## More on this topic
 
