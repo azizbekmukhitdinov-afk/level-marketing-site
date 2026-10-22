@@ -35,3 +35,9 @@ Before launching the first cohort, she needed a targeted audience on Telegram.
 ## Takeaway
 
 The best sales channel for an online course is an audience that already trusts the expert. The Telegram channel gathers interested people, and the course is sold to them.
+
+## More on this topic
+
+- [How to grow a Telegram channel from zero](/en/blog/grow-a-telegram-channel/)
+- [Marketing an education centre: how to attract students](/en/blog/marketing-an-education-centre/)
+- [Advertising on Telegram: Telegram Ads or channel placements](/en/blog/telegram-advertising/)

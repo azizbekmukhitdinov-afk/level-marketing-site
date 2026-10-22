@@ -32,3 +32,9 @@ Stand out from competitors and attract buyers with an engaging themed presentati
 ## Takeaway
 
 In real estate, where listings all look alike, a memorable brand and a clear financial offer are the strongest levers.
+
+## More on this topic
+
+- [Unique selling proposition (USP): how to stand out from competitors](/en/blog/unique-selling-proposition/)
+- [Competitor analysis: what you can learn in one day](/en/blog/competitor-analysis/)
+- [What a brand is and how it differs from a logo](/en/blog/what-is-a-brand/)

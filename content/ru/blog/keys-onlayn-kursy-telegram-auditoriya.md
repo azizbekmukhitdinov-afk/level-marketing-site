@@ -35,3 +35,9 @@ image: /img/cases/dilrabo.jpg
 ## Вывод
 
 Лучший канал продаж онлайн-курса — аудитория, которая уже доверяет эксперту. Telegram-канал собирает заинтересованных, а курс продаётся им.
+
+## Ещё по теме
+
+- [Как раскрутить Telegram-канал с нуля](/ru/blog/kak-raskrutit-telegram-kanal/)
+- [Маркетинг учебного центра: как привлекать учеников](/ru/blog/marketing-uchebnogo-tsentra/)
+- [Реклама в Telegram: Telegram Ads или посевы в каналах](/ru/blog/reklama-v-telegram/)

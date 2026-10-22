@@ -66,3 +66,9 @@ Bu holatda har bir platformani alohida emas, umumiy natija — jami arizalar va 
 ## Xulosa
 
 Google Ads mavjud talabni ushlaydi, Meta Ads esa yangi talab yaratadi. Kichik byudjet bilan mijozlaringiz qanday xarid qilishiga mos bitta platformadan boshlang, natija barqaror bo‘lgach ikkinchisini qo‘shing. Level Marketing'da strategiya bosqichida biznesingiz uchun qaysi platforma va qanday byudjet to‘g‘ri kelishini birga aniqlaymiz.
+
+## Shu mavzuda yana
+
+- [Yandex Direkt O‘zbekistonda: qachon foydali va qanday boshlash](/blog/yandex-direkt-ozbekistonda/)
+- [TikTok Ads O‘zbekistonda: kimga mos va qanday boshlash kerak](/blog/tiktok-ads-ozbekistonda/)
+- [Telegram Ads va kanallarda reklama: qaysi biri sizga mos](/blog/telegram-ads-reklama/)

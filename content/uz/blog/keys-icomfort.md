@@ -35,3 +35,9 @@ image: /img/cases/icomfort.jpg
 ## Xulosa
 
 Telefon savdosida mijoz avval sotuvchiga ishonishi kerak. Yuzi bor, savollarga javob beradigan va narxni ochiq aytadigan sahifa reklamaning har bir dollarini ko‘proq sotuvga aylantiradi.
+
+## Shu mavzuda yana
+
+- [Sotadigan Instagram profil: bio, highlights va birinchi 9 post](/blog/instagram-profil-sotadigan/)
+- [Video reklamaning 7 turi: qaysi biri sizning mahsulotingizni sotadi](/blog/video-reklama-turlari/)
+- [Mebel do‘konini qanday reklama qilish: Instagram, Xaritalar va target](/blog/mebel-dokoni-marketing/)

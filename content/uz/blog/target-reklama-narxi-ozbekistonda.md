@@ -74,3 +74,9 @@ Qaysi model bo‘lishidan qat'i nazar, nimaga pul to‘layotganingizni aniqlang:
 ## Xulosa
 
 Target reklama narxi — bu reklama byudjeti, mutaxassis xizmati va kontentning yig‘indisi. Byudjetni kerakli mijozlar soni, konversiya va ariza narxidan kelib chiqib hisoblasangiz, reklama "xarajat" emas, oldindan bashorat qilinadigan investitsiyaga aylanadi. Level Marketing'da brifdan keyin aynan shu hisobni birga qilamiz va kutilayotgan ariza narxini oldindan aytamiz.
+
+## Shu mavzuda yana
+
+- [Marketing byudjetini qanday rejalash: daromaddan foiz va maqsaddan hisob](/blog/marketing-byudjeti-rejasi/)
+- [Instant forma yoki Direct'ga xabar: qaysi biri ko‘proq sotuv olib keladi](/blog/instant-forma-yoki-xabarlar/)
+- [Reklama hisobotida qanday raqamlar bo‘lishi shart](/blog/reklama-hisoboti/)

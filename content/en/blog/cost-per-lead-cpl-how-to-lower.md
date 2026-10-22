@@ -73,3 +73,9 @@ Even a great ad will not convert if the place people land — your Instagram pro
 ## Conclusion
 
 CPL is the first metric of ad performance, but not the only one. Track it alongside sales conversion and customer value, and it becomes clear which campaigns deserve more budget and which should stop. At Level Marketing we review exactly these numbers — reach, number of leads and cost per lead — with every client in person each month.
+
+## More on this topic
+
+- [ROMI: is your marketing paying off, and how to calculate it](/en/blog/how-to-calculate-romi/)
+- [What an advertising report should include](/en/blog/what-an-ad-report-should-include/)
+- [What a sales funnel is, in plain words](/en/blog/what-is-a-sales-funnel/)

@@ -78,3 +78,9 @@ Switch off the worst creatives, move budget to the best and add new creatives ev
 ## Conclusion
 
 Instagram advertising is not a single button but a system: objective, audience, creative and lead handling. When all four parts work, ads bring a steady flow of leads. At Level Marketing we build that system for every project and review results with the client in person every month.
+
+## More on this topic
+
+- [Meta Pixel and Conversions API: why you need them and how to set them up](/en/blog/meta-pixel-and-conversions-api/)
+- [Lookalike audiences: how to find people like your customers](/en/blog/lookalike-audiences/)
+- [A/B testing ad creatives: how to run it](/en/blog/ab-testing-ad-creatives/)

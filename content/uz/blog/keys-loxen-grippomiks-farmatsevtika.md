@@ -37,3 +37,9 @@ Farmatsevtikada reklama cheklangan, xaridor esa shifokor va farmatsevtga ishonad
 ## Xulosa
 
 Farma brendi ikki auditoriyada g‘alaba qozonishi kerak: iste'molchi va dorixona. Ekspert videolar ikkalasiga ham ishonch beradi.
+
+## Shu mavzuda yana
+
+- [Ekspert intervyu video: ishonch qozonadigan format](/blog/ekspert-intervyu-video/)
+- [Vizual uslub va aydentika: kichik biznes uchun minimum](/blog/vizual-uslub-aydentika/)
+- [Klinika va stomatologiya uchun marketing: ishonchni qanday qozonish](/blog/klinika-marketing/)

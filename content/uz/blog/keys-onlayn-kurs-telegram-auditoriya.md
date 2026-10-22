@@ -35,3 +35,9 @@ Kursning birinchi oqimini boshlashdan oldin Telegram'da maqsadli auditoriya yig�
 ## Xulosa
 
 Onlayn kurs uchun eng yaxshi sotuv kanali — ekspertga allaqachon ishonadigan auditoriya. Telegram kanal qiziqqan odamlarni yig‘adi, kurs esa ularga sotiladi.
+
+## Shu mavzuda yana
+
+- [Telegram kanalni noldan qanday o‘stirish mumkin](/blog/telegram-kanal-osish/)
+- [O‘quv markazi uchun marketing: o‘quvchilarni qanday jalb qilish](/blog/oquv-markazi-marketing/)
+- [Telegram Ads va kanallarda reklama: qaysi biri sizga mos](/blog/telegram-ads-reklama/)

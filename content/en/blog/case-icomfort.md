@@ -35,3 +35,9 @@ image: /img/cases/icomfort.jpg
 ## Takeaway
 
 When selling phones, customers first need to trust the seller. A page with real faces, answers to questions and open prices turns every ad dollar into more sales.
+
+## More on this topic
+
+- [An Instagram profile that sells: bio, highlights and the first 9 posts](/en/blog/instagram-profile-that-sells/)
+- [7 types of video ads: which one will sell your product](/en/blog/types-of-video-ads/)
+- [How to market a furniture store: Instagram, Maps and paid ads](/en/blog/marketing-a-furniture-store/)

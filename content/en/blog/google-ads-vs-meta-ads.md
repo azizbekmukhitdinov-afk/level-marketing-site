@@ -66,3 +66,9 @@ In this setup, judge the overall result — total leads and sales — rather tha
 ## Conclusion
 
 Google Ads captures existing demand; Meta Ads creates new demand. With a small budget, start with the one platform that matches how your customers buy, then add the second once results are stable. At Level Marketing we decide together during strategy which platform and budget fit your business.
+
+## More on this topic
+
+- [Yandex Direct in Uzbekistan: when it helps and how to start](/en/blog/yandex-direct-in-uzbekistan/)
+- [TikTok Ads in Uzbekistan: who it suits and how to start](/en/blog/tiktok-ads-in-uzbekistan/)
+- [Advertising on Telegram: Telegram Ads or channel placements](/en/blog/telegram-advertising/)

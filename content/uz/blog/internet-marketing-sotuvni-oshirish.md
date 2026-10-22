@@ -86,3 +86,9 @@ Obunachilar va layklar soni o‘z-o‘zidan sotuv emas. Qaror qabul qilishda sot
 ## Xulosa
 
 Internet-marketing sotuvni oshiradi, agar kanallar tizim sifatida ishlasa: ishonchli "uy", Xaritalardagi kartochka, bitta yaxshi sozlangan reklama kanali va arizalarga tez ishlov berish. Level Marketing'da biz aynan shu tizimni quramiz va har oy natijani sotuv raqamlarida ko‘rsatamiz — [keyslarimizni ko‘ring](/keyslar/).
+
+## Shu mavzuda yana
+
+- [Sotuv voronkasi nima: oddiy so‘zlar bilan](/blog/sotuv-voronkasi/)
+- [Instagram uchun kontent-reja: oyiga 30 ta post g‘oyasi](/blog/instagram-kontent-reja/)
+- [Marketing byudjetini qanday rejalash: daromaddan foiz va maqsaddan hisob](/blog/marketing-byudjeti-rejasi/)

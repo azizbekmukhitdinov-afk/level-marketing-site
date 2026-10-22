@@ -29,3 +29,9 @@ image: /img/cases/itops.jpg
 ## Xulosa
 
 To‘g‘ri formatdagi Reels reklama byudjetisiz ham millionlab odamga yetadi. Bu brend taniqliligini oshirish va keyingi target reklamani arzonlashtirish uchun kuchli poydevor.
+
+## Shu mavzuda yana
+
+- [Instagram algoritmi qanday ishlaydi: qamrovni oshirish uchun nima muhim](/blog/instagram-algoritmi/)
+- [Instagram uchun kontent-reja: oyiga 30 ta post g‘oyasi](/blog/instagram-kontent-reja/)
+- [SMM menejer nima qiladi va uni qanday tanlash kerak](/blog/smm-menejer-vazifalari/)

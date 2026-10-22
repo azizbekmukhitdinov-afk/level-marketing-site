@@ -31,3 +31,9 @@ image: /img/cases/autorobot-logo.jpg
 ## Xulosa
 
 Sifatni ko‘rsatish mumkin bo‘lgan xizmatlarda tizimli kontent reklamaning o‘zi bo‘lib qoladi. Kontent-matritsa sahifani tasodifiy postlardan barqaror o‘sishga o‘tkazadi.
+
+## Shu mavzuda yana
+
+- [Instagram uchun kontent-reja: oyiga 30 ta post g‘oyasi](/blog/instagram-kontent-reja/)
+- [Instagram algoritmi qanday ishlaydi: qamrovni oshirish uchun nima muhim](/blog/instagram-algoritmi/)
+- [Telefonda Reels suratga olish: yorug‘lik, ovoz va kadr](/blog/telefonda-reels-suratga-olish/)

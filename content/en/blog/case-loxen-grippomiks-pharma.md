@@ -37,3 +37,9 @@ In pharma, advertising is restricted and buyers trust doctors and pharmacists. S
 ## Takeaway
 
 A pharma brand has to win two audiences: the consumer and the pharmacy. Expert videos build trust with both.
+
+## More on this topic
+
+- [Expert interview videos: a format that builds trust](/en/blog/expert-interview-videos/)
+- [Visual identity: the minimum a small business needs](/en/blog/visual-identity-for-small-business/)
+- [Marketing a clinic or dental practice: how to earn trust](/en/blog/marketing-a-clinic/)

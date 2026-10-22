@@ -17,3 +17,5 @@ for endpoint in ("https://yandex.com/indexnow", "https://api.indexnow.org/indexn
             print(endpoint, r.status, len(urls), "urls")
     except urllib.error.HTTPError as e:
         print(endpoint, e.code, e.read()[:200])
+    except OSError as e:  # dropped connection or timeout: report and try the next endpoint
+        print(endpoint, "error:", e)

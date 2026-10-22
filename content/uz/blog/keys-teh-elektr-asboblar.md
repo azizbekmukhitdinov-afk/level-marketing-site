@@ -30,3 +30,9 @@ image: /img/cases/teh.jpg
 ## Xulosa
 
 Texnik mahsulotlarda xaridor xususiyatlarni solishtiradi. Ularni aniq va chiroyli ko‘rsatgan kontent onlayn sotuvni ishonchli kanalga aylantiradi.
+
+## Shu mavzuda yana
+
+- [ROMI: marketing foyda keltiryaptimi, qanday hisoblash](/blog/romi-hisoblash/)
+- [Reklama hisobotida qanday raqamlar bo‘lishi shart](/blog/reklama-hisoboti/)
+- [Instagram'da target reklama qanday sozlanadi: bosqichma-bosqich qo‘llanma](/blog/instagramda-target-reklama-sozlash/)

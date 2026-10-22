@@ -34,3 +34,9 @@ image: /img/cases/express-school.jpg
 ## Xulosa
 
 Ta'lim xizmatlarida eng yaxshi reklama — bitiruvchining o‘zi. Haqiqiy natijani ko‘rsatgan video har qanday va'dadan kuchliroq ishlaydi.
+
+## Shu mavzuda yana
+
+- [O‘quv markazi uchun marketing: o‘quvchilarni qanday jalb qilish](/blog/oquv-markazi-marketing/)
+- [Reels uchun ssenariy: 5 ta tayyor shablon](/blog/reels-ssenariy-shablon/)
+- [Video reklamaning 7 turi: qaysi biri sizning mahsulotingizni sotadi](/blog/video-reklama-turlari/)

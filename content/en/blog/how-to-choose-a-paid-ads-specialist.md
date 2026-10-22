@@ -68,3 +68,9 @@ Ads bring the lead; your team makes the sale. A good specialist will also advise
 ## Conclusion
 
 When choosing a specialist, what matters is concrete numbers, a transparent process and an ad account that belongs to you — not a pretty portfolio. With these 9 questions you can assess a specialist in one meeting. At Level Marketing we present the report in the client's office on the project date every month, and our specialists' bonuses depend on the client renewing.
+
+## More on this topic
+
+- [What an advertising report should include](/en/blog/what-an-ad-report-should-include/)
+- [What an SMM manager does and how to choose one](/en/blog/what-an-smm-manager-does/)
+- [Ad account blocked: what to do and how to prevent it](/en/blog/ad-account-blocked/)

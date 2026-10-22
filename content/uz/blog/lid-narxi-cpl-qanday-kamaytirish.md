@@ -73,3 +73,9 @@ Reklama yaxshi ishlasa ham, mijoz tushgan joy — Instagram profili, sayt yoki T
 ## Xulosa
 
 CPL — reklama samaradorligining birinchi, ammo yagona bo‘lmagan ko‘rsatkichi. Uni sotuv konversiyasi va mijoz qiymati bilan birga kuzatsangiz, qaysi kampaniyaga byudjet qo‘shish, qaysi birini to‘xtatish kerakligi aniq ko‘rinadi. Level Marketing'da biz har oy hisobotda aynan shu raqamlarni — qamrov, arizalar soni va ariza narxini — mijoz bilan yuz-yuz ko‘rib chiqamiz.
+
+## Shu mavzuda yana
+
+- [ROMI: marketing foyda keltiryaptimi, qanday hisoblash](/blog/romi-hisoblash/)
+- [Reklama hisobotida qanday raqamlar bo‘lishi shart](/blog/reklama-hisoboti/)
+- [Sotuv voronkasi nima: oddiy so‘zlar bilan](/blog/sotuv-voronkasi/)

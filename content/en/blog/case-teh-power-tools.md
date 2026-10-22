@@ -30,3 +30,9 @@ image: /img/cases/teh.jpg
 ## Takeaway
 
 With technical products, buyers compare specs. Content that shows them clearly and attractively turns online into a reliable sales channel.
+
+## More on this topic
+
+- [ROMI: is your marketing paying off, and how to calculate it](/en/blog/how-to-calculate-romi/)
+- [What an advertising report should include](/en/blog/what-an-ad-report-should-include/)
+- [How to set up Instagram ads: a step-by-step guide](/en/blog/how-to-set-up-instagram-ads/)

@@ -82,3 +82,9 @@ We cover creative testing and cost per lead in our [Instagram ads setup guide](/
 ## Conclusion
 
 A hook is not a trick but a way to show the viewer immediately why the video is useful. Plan every video starting from the hook, test several versions and decide by the numbers. At Level Marketing our videographers shoot several openings for each Reel, and our ads team checks which one performs best.
+
+## More on this topic
+
+- [Reels scripts: 5 ready-made templates](/en/blog/reels-script-templates/)
+- [Shooting Reels on a phone: light, sound and framing](/en/blog/shooting-reels-on-a-phone/)
+- [How to use Reels and TikTok trends for business](/en/blog/using-trends-for-business/)

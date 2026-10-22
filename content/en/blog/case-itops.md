@@ -29,3 +29,9 @@ image: /img/cases/itops.jpg
 ## Takeaway
 
 Reels in the right format reach millions of people even without an ad budget. That is a strong foundation for brand awareness and cheaper paid ads later.
+
+## More on this topic
+
+- [How the Instagram algorithm works: what matters for reach](/en/blog/how-the-instagram-algorithm-works/)
+- [Instagram content plan: 30 post ideas for a month](/en/blog/instagram-content-plan/)
+- [What an SMM manager does and how to choose one](/en/blog/what-an-smm-manager-does/)

@@ -74,3 +74,9 @@ Whatever the model, clarify what you pay for: how many campaigns, who makes the 
 ## Conclusion
 
 The cost of paid ads is the sum of the ad budget, the specialist's fee and content. When you calculate the budget from the customers you need, conversion and CPL, advertising stops being an expense and becomes a predictable investment. At Level Marketing we run this calculation with every client after the brief and state the expected cost per lead up front.
+
+## More on this topic
+
+- [How to plan a marketing budget: share of revenue vs goal-based](/en/blog/planning-a-marketing-budget/)
+- [Lead form or Direct messages: which brings more sales](/en/blog/lead-form-or-messages/)
+- [What an advertising report should include](/en/blog/what-an-ad-report-should-include/)

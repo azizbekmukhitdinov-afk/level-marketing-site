@@ -34,3 +34,9 @@ image: /img/cases/express-school.jpg
 ## Takeaway
 
 In education, the best ad is the graduate. A video showing a real result works better than any promise.
+
+## More on this topic
+
+- [Marketing an education centre: how to attract students](/en/blog/marketing-an-education-centre/)
+- [Reels scripts: 5 ready-made templates](/en/blog/reels-script-templates/)
+- [7 types of video ads: which one will sell your product](/en/blog/types-of-video-ads/)

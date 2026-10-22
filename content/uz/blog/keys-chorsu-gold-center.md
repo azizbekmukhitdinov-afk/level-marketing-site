@@ -32,3 +32,9 @@ Loyihaning o‘ziga xosligini aks ettiradigan aydentika yaratish, do‘kon afzal
 ## Xulosa
 
 Zargarlik kabi qimmat mahsulotlarda reklamadan ko‘ra taklif muhimroq bo‘ladi. Xaridorning asosiy to‘sig‘i — narx, uni olib tashlaydigan taklif esa kreativni ham, ariza narxini ham kuchaytiradi.
+
+## Shu mavzuda yana
+
+- [Unikal savdo taklifi (USP): raqobatchilardan qanday ajralish](/blog/unikal-savdo-taklifi/)
+- [Vizual uslub va aydentika: kichik biznes uchun minimum](/blog/vizual-uslub-aydentika/)
+- [Brend nima va u logotipdan nimasi bilan farq qiladi](/blog/brend-nima/)

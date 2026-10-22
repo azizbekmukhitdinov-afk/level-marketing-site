@@ -75,3 +75,9 @@ The best results come from using both: ads bring a fast flow of leads, while cro
 ## Conclusion
 
 Crowd marketing isn't advertising — it's useful participation. Answer as an expert where your audience talks, be honest, work with reviews and measure results, and mentions gradually turn into customers and search rankings. Level Marketing builds a combined content, advertising and reputation strategy for your brand.
+
+## More on this topic
+
+- [Online reputation: how to collect reviews and respond to criticism](/en/blog/online-reputation-and-reviews/)
+- [UGC content: when customer videos sell better than ads](/en/blog/ugc-content/)
+- [How to add your business to Google and Yandex Maps](/en/blog/add-your-business-to-maps/)

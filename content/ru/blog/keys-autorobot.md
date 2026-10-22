@@ -31,3 +31,9 @@ image: /img/cases/autorobot-logo.jpg
 ## Вывод
 
 В услугах, где качество можно показать, системный контент сам становится рекламой. Контент-матрица переводит страницу от случайных постов к стабильному росту.
+
+## Ещё по теме
+
+- [Контент-план для Instagram: 30 идей на месяц](/ru/blog/kontent-plan-dlya-instagram/)
+- [Как работает алгоритм Instagram: что важно для охвата](/ru/blog/kak-rabotaet-algoritm-instagram/)
+- [Как снимать Reels на телефон: свет, звук и кадр](/ru/blog/kak-snimat-reels-na-telefon/)

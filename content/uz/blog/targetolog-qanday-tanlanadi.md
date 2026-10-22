@@ -68,3 +68,9 @@ Reklama arizani olib keladi, sotuvni esa sizning jamoangiz qiladi. Yaxshi mutaxa
 ## Xulosa
 
 Targetolog tanlashda chiroyli portfolio emas, balki aniq raqamlar, shaffof jarayon va kabinetning sizga tegishliligi muhim. Bu 9 ta savol bilan mutaxassisni bir suhbatda baholash mumkin. Level Marketing'da hisobotni har oy loyihaning o‘z sanasida mijoz ofisida yuz-yuz ko‘rsatamiz, targetologlarimiz bonusi esa mijozning hamkorlikni davom ettirishiga bog‘liq.
+
+## Shu mavzuda yana
+
+- [Reklama hisobotida qanday raqamlar bo‘lishi shart](/blog/reklama-hisoboti/)
+- [SMM menejer nima qiladi va uni qanday tanlash kerak](/blog/smm-menejer-vazifalari/)
+- [Reklama kabineti bloklandi: nima qilish va qanday oldini olish](/blog/reklama-kabineti-bloklandi/)

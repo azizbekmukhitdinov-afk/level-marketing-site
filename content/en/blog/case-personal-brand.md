@@ -34,3 +34,9 @@ A personal brand is an expert's cheapest client acquisition channel: people trus
 ## Takeaway
 
 Consistency and authenticity matter most in a personal brand. Once the system is in place, the expert just talks to the camera — the team does the rest.
+
+## More on this topic
+
+- [Personal brand: where an expert should start](/en/blog/personal-brand-where-to-start/)
+- [Expert interview videos: a format that builds trust](/en/blog/expert-interview-videos/)
+- [Marketing a clinic or dental practice: how to earn trust](/en/blog/marketing-a-clinic/)

@@ -34,3 +34,9 @@ Shaxsiy brend — ekspert uchun eng arzon mijoz jalb qilish kanali: odamlar komp
 ## Xulosa
 
 Shaxsiy brendda eng muhimi — muntazamlik va haqiqiylik. Tizim qurilganda ekspert faqat kameraga gapiradi, qolganini jamoa bajaradi.
+
+## Shu mavzuda yana
+
+- [Shaxsiy brend: ekspert qayerdan boshlashi kerak](/blog/shaxsiy-brend-qayerdan-boshlash/)
+- [Ekspert intervyu video: ishonch qozonadigan format](/blog/ekspert-intervyu-video/)
+- [Klinika va stomatologiya uchun marketing: ishonchni qanday qozonish](/blog/klinika-marketing/)

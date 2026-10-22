@@ -78,3 +78,9 @@ Eng yomon ishlayotgan kreativlarni o‘chirib, byudjetni yaxshilariga o‘tkazin
 ## Xulosa
 
 Instagram'da target reklama — bu bitta tugma emas, balki maqsad, auditoriya, kreativ va arizaga ishlov berishdan iborat tizim. Shu to‘rt qism to‘g‘ri ishlasa, reklama barqaror ariza olib keladi. Level Marketing'da biz har bir loyihada aynan shu tizimni quramiz va har oy natijalarni mijoz bilan yuz-yuz ko‘rib chiqamiz.
+
+## Shu mavzuda yana
+
+- [Meta Pixel va Conversions API: nima uchun kerak va qanday o‘rnatiladi](/blog/meta-pixel-conversions-api/)
+- [Lookalike auditoriya: mijozlaringizga o‘xshash odamlarni qanday topish](/blog/lookalike-auditoriya/)
+- [Reklama kreativlari uchun A/B test: qanday o‘tkaziladi](/blog/kreativlar-ab-test/)

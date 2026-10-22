@@ -86,3 +86,9 @@ Followers and likes are not sales on their own. Base decisions on numbers connec
 ## Conclusion
 
 Internet marketing grows sales when the channels work as a system: a trustworthy "home", a Maps listing, one well-tuned ad channel and fast lead handling. At Level Marketing we build exactly that system and show the results in sales figures every month — [see our cases](/en/cases/).
+
+## More on this topic
+
+- [What a sales funnel is, in plain words](/en/blog/what-is-a-sales-funnel/)
+- [Instagram content plan: 30 post ideas for a month](/en/blog/instagram-content-plan/)
+- [How to plan a marketing budget: share of revenue vs goal-based](/en/blog/planning-a-marketing-budget/)

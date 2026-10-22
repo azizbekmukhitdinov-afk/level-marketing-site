@@ -32,3 +32,9 @@ Create a visual identity that reflects what makes the store unique, communicate 
 ## Takeaway
 
 For expensive products like jewellery, the offer matters more than the ad itself. Price is the buyer's main barrier, and an offer that removes it strengthens both the creative and the cost per lead.
+
+## More on this topic
+
+- [Unique selling proposition (USP): how to stand out from competitors](/en/blog/unique-selling-proposition/)
+- [Visual identity: the minimum a small business needs](/en/blog/visual-identity-for-small-business/)
+- [What a brand is and how it differs from a logo](/en/blog/what-is-a-brand/)

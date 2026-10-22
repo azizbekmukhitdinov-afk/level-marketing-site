@@ -29,3 +29,9 @@ image: /img/cases/itops.jpg
 ## Вывод
 
 Reels в правильном формате доходят до миллионов людей даже без рекламного бюджета. Это сильный фундамент для узнаваемости бренда и более дешёвого таргета.
+
+## Ещё по теме
+
+- [Как работает алгоритм Instagram: что важно для охвата](/ru/blog/kak-rabotaet-algoritm-instagram/)
+- [Контент-план для Instagram: 30 идей на месяц](/ru/blog/kontent-plan-dlya-instagram/)
+- [Чем занимается SMM-менеджер и как его выбрать](/ru/blog/chem-zanimaetsya-smm-menedzher/)
