@@ -155,6 +155,7 @@ nav .lang { color: var(--muted); }
 .founder span { display: block; color: var(--accent); font-weight: 700; font-size: 14px; margin-bottom: 8px; }
 .founder ul { margin: 0; padding-left: 18px; color: var(--muted); font-size: 14px; line-height: 1.5; }
 .team-h { margin-top: 56px; }
+.about-p { max-width: 860px; }
 .team { display: grid; grid-template-columns: repeat(5, 1fr); gap: 16px; }
 .member { margin: 0; background: var(--soft); border-radius: var(--radius); overflow: hidden; }
 .member img { width: 100%; aspect-ratio: 6 / 7; object-fit: cover; display: block; }

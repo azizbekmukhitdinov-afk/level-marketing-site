@@ -7,7 +7,6 @@ LANG_SHORT = {"uz": "UZ", "ru": "RU", "en": "EN"}
 
 # Team photos come from the agency deck (static/img/team/tN.jpg).
 TEAM = [
-    ("t2.jpg", "Azizbek Muhiddinov", "founder"),
     ("t1.jpg", "Ismoil Anvarov", "pm"),
     ("t9.jpg", "Abduvoris", "pm"),
     ("t3.jpg", "Abdulloh Azimov", "marketer"),
@@ -78,8 +77,6 @@ T = {
         ],
         "about_h": "Biz haqimizda",
         "about_p": "Level Marketing — brending, kommunikatsiya va performance marketingga ixtisoslashgan agentlik. Har qanday hajmdagi kompaniyalar bilan ishlaymiz: taniqli brend yaratish va samarali o‘sish strategiyasini ishlab chiqishga yordam beramiz. Maqsadimiz — mahsulotingizni tushunarli va talabgir qilish, sodda va jasur yechimlar taklif etish.",
-        "founder_role": "Asoschi va CEO",
-        "founder_bio": ["MDIST universiteti — bakalavr, magistr", "Profi Pharm Service — loyiha menejeri", "Nominis — marketolog", "Instamedia — traffic menejer", "Level Marketing asoschisi"],
         "team_h": "Jamoamiz",
         "team_more": "+15 mutaxassis",
         "roles": {"founder": "Asoschi, marketolog", "pm": "Loyiha menejeri", "marketer": "Marketolog", "digital": "Digital marketolog",
@@ -177,8 +174,6 @@ T = {
         ],
         "about_h": "О нас",
         "about_p": "Level Marketing — агентство, специализирующееся на брендинге, коммуникациях и performance-маркетинге. Мы работаем с компаниями любого масштаба: помогаем создавать узнаваемые бренды и разрабатывать эффективные стратегии продвижения. Наша цель — сделать продукт понятным и востребованным, предлагая простые и смелые решения.",
-        "founder_role": "Основатель и CEO",
-        "founder_bio": ["Университет MDIST — бакалавр, магистр", "Profi Pharm Service — проект-менеджер", "Nominis — маркетолог", "Instamedia — трафик-менеджер", "Основатель Level Marketing"],
         "team_h": "Наша команда",
         "team_more": "+15 специалистов",
         "roles": {"founder": "Основатель, маркетолог", "pm": "Проект-менеджер", "marketer": "Маркетолог", "digital": "Цифровой маркетолог",
@@ -276,8 +271,6 @@ T = {
         ],
         "about_h": "About us",
         "about_p": "Level Marketing is an agency focused on branding, communications and performance marketing. We work with companies of every size, helping them build recognisable brands and effective growth strategies. Our goal is to make your product clear and in demand with simple, bold solutions.",
-        "founder_role": "Founder and CEO",
-        "founder_bio": ["MDIST University — bachelor's and master's degrees", "Profi Pharm Service — project manager", "Nominis — marketer", "Instamedia — traffic manager", "Founder of Level Marketing"],
         "team_h": "Our team",
         "team_more": "+15 more specialists",
         "roles": {"founder": "Founder, marketer", "pm": "Project manager", "marketer": "Marketer", "digital": "Digital marketer",

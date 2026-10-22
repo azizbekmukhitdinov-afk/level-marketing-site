@@ -351,7 +351,6 @@ def org_schema(lang):
         "description": T[lang]["home_desc"],
         "areaServed": "UZ",
         "address": {"@type": "PostalAddress", "addressLocality": "Tashkent", "addressCountry": "UZ"},
-        "founder": {"@type": "Person", "name": SITE["founder"]},
         "logo": BASE + "/favicon.svg",
     }
     c = SITE["contacts"]
@@ -365,19 +364,13 @@ def org_schema(lang):
 
 def team_block(lang):
     t = T[lang]
-    founder = TEAM[0]
     members = "".join(
         f'<figure class="member"><img src="/img/team/{img}" alt="{html.escape(name)}" loading="lazy" width="240" height="280">'
         f'<figcaption><b>{html.escape(name)}</b><span>{t["roles"][role]}</span></figcaption></figure>'
-        for img, name, role in TEAM[1:]
+        for img, name, role in TEAM
     )
-    bio = "".join(f"<li>{html.escape(x)}</li>" for x in t["founder_bio"])
     return f"""<section class="wrap block" id="team">
-<div class="about">
-  <div><h2>{t['about_h']}</h2><p class="lead">{t['about_p']}</p></div>
-  <div class="founder"><img src="/img/team/{founder[0]}" alt="{html.escape(founder[1])}" loading="lazy" width="240" height="280">
-    <div><b>{html.escape(founder[1])}</b><span>{t['founder_role']}</span><ul>{bio}</ul></div></div>
-</div>
+<h2>{t['about_h']}</h2><p class="lead about-p">{t['about_p']}</p>
 <h2 class="team-h">{t['team_h']}</h2>
 <div class="team">{members}<div class="member more"><span>{t['team_more']}</span></div></div>
 </section>"""
