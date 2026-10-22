@@ -657,6 +657,10 @@ def main():
         shutil.rmtree(DIST)
     shutil.copytree(ROOT / "static", DIST)
     (DIST / ".nojekyll").write_text("")
+    host = re.sub(r"^https?://", "", BASE).split("/")[0]
+    if not host.endswith(".github.io"):
+        # GitHub Pages reads the custom domain from this file.
+        (DIST / "CNAME").write_text(host + "\n")
     for lang in LANGS:
         p = PREFIX[lang]
         write(f"{p}/", home(lang, posts[lang]))
