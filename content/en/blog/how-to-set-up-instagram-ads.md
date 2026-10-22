@@ -6,6 +6,7 @@ slug: how-to-set-up-instagram-ads
 type: article
 tags: paid ads, meta ads, instagram
 key: instagramda-target-reklama-sozlash
+rubric: target
 ---
 
 For many businesses in Uzbekistan, Instagram is the main sales channel: customers discover products there, message in Direct and buy. But pressing "Boost" under a post is not real targeted advertising. This guide walks through setting up Instagram ads properly in Meta Ads Manager.

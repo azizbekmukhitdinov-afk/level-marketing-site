@@ -6,6 +6,7 @@ slug: cost-per-lead-cpl-how-to-lower
 type: article
 tags: paid ads, meta ads, analytics
 key: lid-narxi-cpl-qanday-kamaytirish
+rubric: sotuv
 ---
 
 Every business owner who spends money on ads eventually asks one question: **how much does one customer cost me?** The first step to the answer is the cost per lead, or CPL. This guide covers how to calculate CPL, what to compare it with and which mistakes most often inflate it.

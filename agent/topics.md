@@ -3,6 +3,16 @@
 Агент берёт верхнюю тему, удаляет её отсюда после публикации и добавляет новые идеи.
 Можете сами вписывать темы в начало списка — агент возьмёт их первыми.
 
+- [smm] Instagram uchun kontent-reja: oyiga 30 ta post g‘oyasi | Контент-план для Instagram: 30 идей на месяц
+- [brend] Qayta sotuvchidan brendga: Uzum Market sotuvchisi o‘z brendini qanday quradi | Из перекупа в бренд: как селлеру Uzum Market построить свой бренд
+- [biznes] Biznes g‘oyani reklamadan oldin qanday tekshirish mumkin | Как проверить бизнес-идею до запуска рекламы
+- [sotuv] Mijozlardan fikr-mulohaza qanday yig‘iladi va undan qanday foydalaniladi | Как собирать обратную связь от клиентов и что с ней делать
+- [brend] Google va Yandex Xaritalardagi sharhlar: biznes obro‘sini qanday boshqarish kerak | Отзывы на картах: как управлять репутацией бизнеса
+- [brend] Rebrending qachon kerak va qanday o‘tkaziladi | Когда нужен ребрендинг и как его провести
+- [biznes] Yangi tadbirkorlarning marketingdagi 7 ta xatosi | 7 маркетинговых ошибок начинающих предпринимателей
+- [smm] Telegram kanalni noldan qanday o‘stirish mumkin | Как раскрутить Telegram-канал с нуля
+- [brend] Shaxsiy brend: ekspert qayerdan boshlashi kerak | Личный бренд: с чего начать эксперту
+- [sotuv] Sotuv voronkasi nima: oddiy so‘zlar bilan | Что такое воронка продаж простыми словами
 - Telegram bot orqali arizalarni yig‘ish | Сбор заявок через Telegram-бота
 - Google Kartalar va Yandex Kartalarda biznesni ro‘yxatdan o‘tkazish | Как добавить бизнес в Google и Яндекс Карты
 - Arizaga javob berish tezligi sotuvga qanday ta'sir qiladi | Скорость ответа на заявку и продажи

@@ -6,6 +6,7 @@ slug: google-ads-vs-meta-ads
 type: article
 tags: google ads, meta ads, strategy
 key: google-ads-yoki-meta-ads
+rubric: target
 ---
 
 With a limited ad budget, the first question is: spend it on Google, or on Instagram and Facebook? Both bring leads, but they work completely differently. Here is how Google Ads and Meta Ads differ, which businesses each suits and how to choose.

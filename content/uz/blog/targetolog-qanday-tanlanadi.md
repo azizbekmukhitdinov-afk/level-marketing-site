@@ -6,6 +6,7 @@ slug: targetolog-qanday-tanlanadi
 type: article
 tags: targetolog, agentlik, target reklama
 key: targetolog-qanday-tanlanadi
+rubric: biznes
 ---
 
 Noto‘g‘ri tanlangan targetolog faqat xizmat narxini emas, balki reklama byudjeti va vaqtingizni ham yo‘qotadi. Telegram va Instagram'da "targetolog" yozilgan profillar ko‘p, lekin ularning tajribasini qanday tekshirish kerak? Quyida mutaxassis yoki agentlik bilan birinchi suhbatda beriladigan 9 ta savol va javoblarda nimaga e'tibor berish kerakligi.

@@ -6,6 +6,7 @@ slug: reels-hooks
 type: article
 tags: reels, video, creative
 key: reels-uchun-hooklar
+rubric: video
 ---
 
 On Instagram Reels and TikTok, people decide in a couple of seconds whether to keep watching or scroll. What holds them in that moment? The **hook**: the line, shot or action at the very start of the video. Here are 10 hook types that work for businesses, with examples.

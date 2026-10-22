@@ -13,7 +13,9 @@ import sys
 from datetime import date, datetime
 from pathlib import Path
 
-from i18n import CLIENTS, LANG_NAMES, LANG_SHORT, LANGS, PREFIX, T, TEAM
+from i18n import CLIENTS, LANG_NAMES, LANG_SHORT, LANGS, PREFIX, RUBRICS, T, TEAM
+
+RUBRIC_NAMES = dict(RUBRICS)
 
 ROOT = Path(__file__).resolve().parent
 # GitHub Pages serves the folder docs/ from the main branch, so the built site is committed.
@@ -137,6 +139,9 @@ class Post:
         self.kind = meta.get("type", "article")
         # Among posts of the same date, higher weight is listed first.
         self.weight = int(meta.get("weight", "0") or 0)
+        self.rubric = meta.get("rubric", "")
+        if self.kind != "case" and self.rubric not in RUBRIC_NAMES:
+            raise ValueError(f"{path}: rubric must be one of {', '.join(RUBRIC_NAMES)}")
         self.tags = [t.strip() for t in meta.get("tags", "").split(",") if t.strip()]
         self.image = meta.get("image", "")
         if self.image and not (ROOT / "static" / self.image.lstrip("/")).exists():
@@ -338,7 +343,7 @@ def location_block(lang):
 
 def card(post):
     t = T[post.lang]
-    label = t["case_label"] if post.kind == "case" else t["article_label"]
+    label = t["case_label"] if post.kind == "case" else RUBRIC_NAMES[post.rubric][post.lang]
     return f"""<a class="card" href="{post.path}">
   <span class="thumb"><img src="{post.cover}" alt="{html.escape(post.title)}" loading="lazy" width="600" height="315"></span>
   <span class="card-body">
@@ -444,21 +449,43 @@ def home(lang, posts):
                 og_image="/img/clients-wall.jpg")
 
 
-def listing(lang, posts, kind):
+def rubric_path(lang, slug):
+    return f"{PREFIX[lang]}/rubric/{slug}/"
+
+
+def rubric_nav(lang, posts, current=""):
+    t = T[lang]
+    used = {x.rubric for x in posts if x.kind != "case"}
+    links = [f'<a class="chip{" on" if not current else ""}" href="{PREFIX[lang]}/blog/">{t["rubric_all"]}</a>']
+    links += [f'<a class="chip{" on" if r == current else ""}" href="{rubric_path(lang, r)}">{names[lang]}</a>'
+              for r, names in RUBRICS if r in used]
+    return f'<nav class="chips" aria-label="{t["rubrics_h"]}">{"".join(links)}</nav>'
+
+
+def listing(lang, posts, kind, rubric=""):
     t = T[lang]
     p = PREFIX[lang]
+    chips = ""
     if kind == "case":
         items = [x for x in posts if x.kind == "case"]
         title, desc, h = t["cases_title"], t["cases_desc"], t["cases_h"]
         path = p + t["cases_path"]
         alts = {l: PREFIX[l] + T[l]["cases_path"] for l in LANGS}
+    elif rubric:
+        items = [x for x in posts if x.kind != "case" and x.rubric == rubric]
+        h = RUBRIC_NAMES[rubric][lang]
+        title, desc = f"{h} — {SITE['name']}", f"{h}: {t['blog_desc']}"
+        path = rubric_path(lang, rubric)
+        alts = {l: rubric_path(l, rubric) for l in LANGS}
+        chips = rubric_nav(lang, posts, rubric)
     else:
         items = [x for x in posts if x.kind != "case"]
         title, desc, h = t["blog_title"], t["blog_desc"], t["nav_blog"]
         path = f"{p}/blog/"
         alts = {l: f"{PREFIX[l]}/blog/" for l in LANGS}
+        chips = rubric_nav(lang, posts)
     inner = f'<div class="cards">{"".join(card(x) for x in items)}</div>' if items else f'<p class="muted">{t["cases_empty"]}</p>'
-    body = f'<section class="wrap block page-head"><h1>{h}</h1><p class="lead">{desc}</p>{inner}</section>'
+    body = f'<section class="wrap block page-head"><h1>{h}</h1><p class="lead">{desc}</p>{chips}{inner}</section>'
     return page(lang, title, desc, path, body, alts)
 
 
@@ -478,7 +505,7 @@ def article(post, by_key, posts):
         toc = '<nav class="toc"><ol>' + "".join(f'<li><a href="#{i}">{html.escape(x)}</a></li>' for i, x in post.toc) + "</ol></nav>"
     updated = f" · ✎ {fmt_date(post.updated, post.lang)}" if post.updated else ""
     section = (f'<a href="{PREFIX[post.lang]}{t["cases_path"]}">{t["nav_cases"]}</a>' if post.kind == "case"
-               else f'<a href="{PREFIX[post.lang]}/blog/">{t["nav_blog"]}</a>')
+               else f'<a href="{PREFIX[post.lang]}/blog/">{t["nav_blog"]}</a> / <a href="{rubric_path(post.lang, post.rubric)}">{RUBRIC_NAMES[post.rubric][post.lang]}</a>')
     body = f"""
 <article class="wrap post">
   <p class="crumbs"><a href="{PREFIX[post.lang]}/">{SITE['name']}</a> / {section}</p>
@@ -559,6 +586,8 @@ def sitemap(posts, by_key):
         ({l: f"{PREFIX[l]}/blog/" for l in LANGS}, None),
         ({l: PREFIX[l] + T[l]["cases_path"] for l in LANGS}, None),
     ]
+    used = set.intersection(*({x.rubric for x in posts[l] if x.kind != "case"} for l in LANGS))
+    groups += [({l: rubric_path(l, r) for l in LANGS}, None) for r, _ in RUBRICS if r in used]
     for lang in LANGS:
         for x in posts[lang]:
             groups.append(({**post_alts(x, by_key), "_self": x.path}, x.updated or x.date))
@@ -606,6 +635,8 @@ def main():
         p = PREFIX[lang]
         write(f"{p}/", home(lang, posts[lang]))
         write(f"{p}/blog/", listing(lang, posts[lang], "article"))
+        for r in sorted({x.rubric for x in posts[lang] if x.kind != "case"}):
+            write(rubric_path(lang, r), listing(lang, posts[lang], "article", r))
         write(f"{p}{T[lang]['cases_path']}", listing(lang, posts[lang], "case"))
         write(f"{p}/rss.xml", rss(lang, posts[lang]))
         for x in posts[lang]:

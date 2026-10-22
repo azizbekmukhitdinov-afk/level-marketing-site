@@ -75,6 +75,10 @@ nav .lang { color: var(--muted); }
 .final p { max-width: 620px; margin: 0 auto 28px; opacity: .92; }
 .final .btn { background: #fff; color: var(--ink); }
 
+.chips { display: flex; flex-wrap: wrap; gap: 8px; margin: -8px 0 28px; }
+.chip { padding: 8px 14px; border-radius: 999px; background: var(--soft); color: var(--ink); text-decoration: none; font-weight: 600; font-size: 14px; }
+.chip:hover { color: var(--accent); }
+.chip.on { background: var(--ink); color: #fff; }
 .page-head h1 { font-size: clamp(32px, 5vw, 48px); margin: 0 0 12px; }
 
 .post { max-width: 760px; padding-top: 48px; padding-bottom: 24px; }

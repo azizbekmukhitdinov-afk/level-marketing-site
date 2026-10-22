@@ -18,6 +18,16 @@ TEAM = [
     ("t6.jpg", "Mirziyod Inoyatov", "operator"),
 ]
 
+# Article rubrics: slug -> name per language. Each article sets `rubric: <slug>` in its front matter.
+RUBRICS = [
+    ("target", {"uz": "Target reklama", "ru": "Таргет и реклама", "en": "Paid ads"}),
+    ("smm", {"uz": "SMM", "ru": "SMM", "en": "SMM"}),
+    ("video", {"uz": "Reels va video", "ru": "Reels и видео", "en": "Reels and video"}),
+    ("brend", {"uz": "Brend va shaxsiy brend", "ru": "Бренд и личный бренд", "en": "Brand and personal brand"}),
+    ("sotuv", {"uz": "Sotuv va analitika", "ru": "Продажи и аналитика", "en": "Sales and analytics"}),
+    ("biznes", {"uz": "O‘z biznesingiz", "ru": "Своё дело", "en": "Running a business"}),
+]
+
 CLIENTS = [
     "Chorsu Gold Center", "iComfort", "iTOPS", "TEH", "Global Avenue", "AutoRobot", "Express School",
     "TowerUp", "UZBIC", "O‘zbegim", "Dekos", "Gazelle", "Amorini", "Profi Pharm Service", "Ziyo Ta'lim",
@@ -123,6 +133,8 @@ T = {
         "home": "Bosh sahifa",
         "address": "Toshkent sh., 5-kvartal, 29-uy",
         "cases_path": "/keyslar/",
+        "rubrics_h": "Rubrikalar",
+        "rubric_all": "Hammasi",
     },
     "ru": {
         "html_lang": "ru",
@@ -220,6 +232,8 @@ T = {
         "home": "На главную",
         "address": "г. Ташкент, 5-й квартал, 29",
         "cases_path": "/keysy/",
+        "rubrics_h": "Рубрики",
+        "rubric_all": "Все",
     },
     "en": {
         "html_lang": "en",
@@ -317,5 +331,7 @@ T = {
         "home": "Home",
         "address": "29, 5th Kvartal, Tashkent, Uzbekistan",
         "cases_path": "/cases/",
+        "rubrics_h": "Topics",
+        "rubric_all": "All",
     },
 }

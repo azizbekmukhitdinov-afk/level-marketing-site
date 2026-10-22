@@ -6,6 +6,7 @@ slug: kak-nastroit-target-v-instagram
 type: article
 tags: таргет, meta ads, instagram
 key: instagramda-target-reklama-sozlash
+rubric: target
 ---
 
 Для многих бизнесов в Узбекистане Instagram — главный канал продаж: клиенты видят товар здесь, пишут в Direct и покупают. Но нажать кнопку «Продвигать» под постом — это ещё не таргетированная реклама. В этом руководстве пошагово разберём, как правильно настроить рекламу в Instagram через Meta Ads Manager.

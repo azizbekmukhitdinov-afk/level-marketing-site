@@ -6,6 +6,7 @@ slug: paid-ads-cost-in-uzbekistan
 type: article
 tags: paid ads, budget, meta ads
 key: target-reklama-narxi-ozbekistonda
+rubric: target
 ---
 
 "How much do paid ads cost?" is the question business owners ask most. The honest answer: there is no single price. But once you know what the budget consists of and how to calculate it for your business, you can say exactly how much to invest.

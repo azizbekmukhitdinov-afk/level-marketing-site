@@ -6,6 +6,7 @@ slug: how-to-choose-a-paid-ads-specialist
 type: article
 tags: agency, specialist, paid ads
 key: targetolog-qanday-tanlanadi
+rubric: biznes
 ---
 
 A poorly chosen ads specialist costs you not just their fee but your ad budget and your time. There are plenty of profiles calling themselves "targetologists" on Telegram and Instagram, so how do you check their experience? Here are 9 questions for the first meeting and what to listen for.
