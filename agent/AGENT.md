@@ -53,6 +53,10 @@
    git commit -m "Maqola: <заголовок uz>"
    git push
    ```
+   Через 3 минуты после успешного push сообщи поисковикам о новых страницах (Яндекс и Bing через IndexNow):
+   ```
+   python3 agent/indexnow.py https://levelm.uz/blog/<uz-slug>/ https://levelm.uz/ru/blog/<ru-slug>/ https://levelm.uz/en/blog/<en-slug>/
+   ```
    Если `git push` не работает (нет remote или доступа) — коммит остаётся локально, запиши это в лог; публикация пойдёт, когда настроят GitHub.
 
 9. **Обнови память:**
@@ -81,6 +85,7 @@
 - Меняй только `content/`, `agent/` и `static/img/cases/` (фото кейсов). Не трогай `build.py`, `i18n.py`, остальной `static/`, `site.json`, git-настройки и ничего за пределами репозитория.
 - Одна смена = одна статья (uz + ru + en). Не публикуй пачки статей — Google не любит резкие всплески однотипного контента.
 - Не используй `git push --force` и не переписывай историю.
+- Не удаляй файлы подтверждения в `static/` (`google*.html`, `yandex_*.html`, ключ IndexNow `*.txt`) — без них сайт пропадёт из Search Console и Вебмастера.
 
 ## Ориентиры по темам
 
