@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://azizbekmukhitdinov-afk.github.io/level-marketing-site/sitemap.xml
+Sitemap: https://levelm.uz/sitemap.xml
