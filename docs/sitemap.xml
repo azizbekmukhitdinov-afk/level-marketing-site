@@ -60,6 +60,21 @@
 <xhtml:link rel="alternate" hreflang="ru" href="https://levelm.uz/ru/rubric/target/"/>
 <xhtml:link rel="alternate" hreflang="en" href="https://levelm.uz/en/rubric/target/"/>
 </url>
+<url><loc>https://levelm.uz/rubric/smm/</loc>
+<xhtml:link rel="alternate" hreflang="uz" href="https://levelm.uz/rubric/smm/"/>
+<xhtml:link rel="alternate" hreflang="ru" href="https://levelm.uz/ru/rubric/smm/"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://levelm.uz/en/rubric/smm/"/>
+</url>
+<url><loc>https://levelm.uz/ru/rubric/smm/</loc>
+<xhtml:link rel="alternate" hreflang="uz" href="https://levelm.uz/rubric/smm/"/>
+<xhtml:link rel="alternate" hreflang="ru" href="https://levelm.uz/ru/rubric/smm/"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://levelm.uz/en/rubric/smm/"/>
+</url>
+<url><loc>https://levelm.uz/en/rubric/smm/</loc>
+<xhtml:link rel="alternate" hreflang="uz" href="https://levelm.uz/rubric/smm/"/>
+<xhtml:link rel="alternate" hreflang="ru" href="https://levelm.uz/ru/rubric/smm/"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://levelm.uz/en/rubric/smm/"/>
+</url>
 <url><loc>https://levelm.uz/rubric/video/</loc>
 <xhtml:link rel="alternate" hreflang="uz" href="https://levelm.uz/rubric/video/"/>
 <xhtml:link rel="alternate" hreflang="ru" href="https://levelm.uz/ru/rubric/video/"/>
@@ -74,6 +89,21 @@
 <xhtml:link rel="alternate" hreflang="uz" href="https://levelm.uz/rubric/video/"/>
 <xhtml:link rel="alternate" hreflang="ru" href="https://levelm.uz/ru/rubric/video/"/>
 <xhtml:link rel="alternate" hreflang="en" href="https://levelm.uz/en/rubric/video/"/>
+</url>
+<url><loc>https://levelm.uz/rubric/brend/</loc>
+<xhtml:link rel="alternate" hreflang="uz" href="https://levelm.uz/rubric/brend/"/>
+<xhtml:link rel="alternate" hreflang="ru" href="https://levelm.uz/ru/rubric/brend/"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://levelm.uz/en/rubric/brend/"/>
+</url>
+<url><loc>https://levelm.uz/ru/rubric/brend/</loc>
+<xhtml:link rel="alternate" hreflang="uz" href="https://levelm.uz/rubric/brend/"/>
+<xhtml:link rel="alternate" hreflang="ru" href="https://levelm.uz/ru/rubric/brend/"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://levelm.uz/en/rubric/brend/"/>
+</url>
+<url><loc>https://levelm.uz/en/rubric/brend/</loc>
+<xhtml:link rel="alternate" hreflang="uz" href="https://levelm.uz/rubric/brend/"/>
+<xhtml:link rel="alternate" hreflang="ru" href="https://levelm.uz/ru/rubric/brend/"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://levelm.uz/en/rubric/brend/"/>
 </url>
 <url><loc>https://levelm.uz/rubric/sotuv/</loc>
 <xhtml:link rel="alternate" hreflang="uz" href="https://levelm.uz/rubric/sotuv/"/>
@@ -165,6 +195,12 @@
 <xhtml:link rel="alternate" hreflang="ru" href="https://levelm.uz/ru/blog/keys-lichnyy-brend/"/>
 <xhtml:link rel="alternate" hreflang="en" href="https://levelm.uz/en/blog/case-personal-brand/"/>
 </url>
+<url><loc>https://levelm.uz/blog/tarmoq-marketingi-mlm/</loc>
+<lastmod>2026-10-22</lastmod>
+<xhtml:link rel="alternate" hreflang="uz" href="https://levelm.uz/blog/tarmoq-marketingi-mlm/"/>
+<xhtml:link rel="alternate" hreflang="ru" href="https://levelm.uz/ru/blog/setevoy-marketing-mlm/"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://levelm.uz/en/blog/network-marketing-mlm/"/>
+</url>
 <url><loc>https://levelm.uz/blog/targetolog-qanday-tanlanadi/</loc>
 <lastmod>2026-10-22</lastmod>
 <xhtml:link rel="alternate" hreflang="uz" href="https://levelm.uz/blog/targetolog-qanday-tanlanadi/"/>
@@ -188,6 +224,18 @@
 <xhtml:link rel="alternate" hreflang="uz" href="https://levelm.uz/blog/lid-narxi-cpl-qanday-kamaytirish/"/>
 <xhtml:link rel="alternate" hreflang="ru" href="https://levelm.uz/ru/blog/tsena-lida-cpl-kak-snizit/"/>
 <xhtml:link rel="alternate" hreflang="en" href="https://levelm.uz/en/blog/cost-per-lead-cpl-how-to-lower/"/>
+</url>
+<url><loc>https://levelm.uz/blog/kraud-marketing/</loc>
+<lastmod>2026-10-22</lastmod>
+<xhtml:link rel="alternate" hreflang="uz" href="https://levelm.uz/blog/kraud-marketing/"/>
+<xhtml:link rel="alternate" hreflang="ru" href="https://levelm.uz/ru/blog/kraud-marketing/"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://levelm.uz/en/blog/crowd-marketing/"/>
+</url>
+<url><loc>https://levelm.uz/blog/internet-marketing-sotuvni-oshirish/</loc>
+<lastmod>2026-10-22</lastmod>
+<xhtml:link rel="alternate" hreflang="uz" href="https://levelm.uz/blog/internet-marketing-sotuvni-oshirish/"/>
+<xhtml:link rel="alternate" hreflang="ru" href="https://levelm.uz/ru/blog/internet-marketing-uvelichit-prodazhi/"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://levelm.uz/en/blog/internet-marketing-increase-sales/"/>
 </url>
 <url><loc>https://levelm.uz/blog/instagramda-target-reklama-sozlash/</loc>
 <lastmod>2026-10-22</lastmod>
@@ -273,6 +321,18 @@
 <xhtml:link rel="alternate" hreflang="ru" href="https://levelm.uz/ru/blog/skolko-stoit-target-v-uzbekistane/"/>
 <xhtml:link rel="alternate" hreflang="en" href="https://levelm.uz/en/blog/paid-ads-cost-in-uzbekistan/"/>
 </url>
+<url><loc>https://levelm.uz/ru/blog/setevoy-marketing-mlm/</loc>
+<lastmod>2026-10-22</lastmod>
+<xhtml:link rel="alternate" hreflang="uz" href="https://levelm.uz/blog/tarmoq-marketingi-mlm/"/>
+<xhtml:link rel="alternate" hreflang="ru" href="https://levelm.uz/ru/blog/setevoy-marketing-mlm/"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://levelm.uz/en/blog/network-marketing-mlm/"/>
+</url>
+<url><loc>https://levelm.uz/ru/blog/kraud-marketing/</loc>
+<lastmod>2026-10-22</lastmod>
+<xhtml:link rel="alternate" hreflang="uz" href="https://levelm.uz/blog/kraud-marketing/"/>
+<xhtml:link rel="alternate" hreflang="ru" href="https://levelm.uz/ru/blog/kraud-marketing/"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://levelm.uz/en/blog/crowd-marketing/"/>
+</url>
 <url><loc>https://levelm.uz/ru/blog/kak-vybrat-targetologa/</loc>
 <lastmod>2026-10-22</lastmod>
 <xhtml:link rel="alternate" hreflang="uz" href="https://levelm.uz/blog/targetolog-qanday-tanlanadi/"/>
@@ -284,6 +344,12 @@
 <xhtml:link rel="alternate" hreflang="uz" href="https://levelm.uz/blog/instagramda-target-reklama-sozlash/"/>
 <xhtml:link rel="alternate" hreflang="ru" href="https://levelm.uz/ru/blog/kak-nastroit-target-v-instagram/"/>
 <xhtml:link rel="alternate" hreflang="en" href="https://levelm.uz/en/blog/how-to-set-up-instagram-ads/"/>
+</url>
+<url><loc>https://levelm.uz/ru/blog/internet-marketing-uvelichit-prodazhi/</loc>
+<lastmod>2026-10-22</lastmod>
+<xhtml:link rel="alternate" hreflang="uz" href="https://levelm.uz/blog/internet-marketing-sotuvni-oshirish/"/>
+<xhtml:link rel="alternate" hreflang="ru" href="https://levelm.uz/ru/blog/internet-marketing-uvelichit-prodazhi/"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://levelm.uz/en/blog/internet-marketing-increase-sales/"/>
 </url>
 <url><loc>https://levelm.uz/ru/blog/huki-dlya-reels/</loc>
 <lastmod>2026-10-22</lastmod>
@@ -369,6 +435,18 @@
 <xhtml:link rel="alternate" hreflang="ru" href="https://levelm.uz/ru/blog/skolko-stoit-target-v-uzbekistane/"/>
 <xhtml:link rel="alternate" hreflang="en" href="https://levelm.uz/en/blog/paid-ads-cost-in-uzbekistan/"/>
 </url>
+<url><loc>https://levelm.uz/en/blog/network-marketing-mlm/</loc>
+<lastmod>2026-10-22</lastmod>
+<xhtml:link rel="alternate" hreflang="uz" href="https://levelm.uz/blog/tarmoq-marketingi-mlm/"/>
+<xhtml:link rel="alternate" hreflang="ru" href="https://levelm.uz/ru/blog/setevoy-marketing-mlm/"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://levelm.uz/en/blog/network-marketing-mlm/"/>
+</url>
+<url><loc>https://levelm.uz/en/blog/internet-marketing-increase-sales/</loc>
+<lastmod>2026-10-22</lastmod>
+<xhtml:link rel="alternate" hreflang="uz" href="https://levelm.uz/blog/internet-marketing-sotuvni-oshirish/"/>
+<xhtml:link rel="alternate" hreflang="ru" href="https://levelm.uz/ru/blog/internet-marketing-uvelichit-prodazhi/"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://levelm.uz/en/blog/internet-marketing-increase-sales/"/>
+</url>
 <url><loc>https://levelm.uz/en/blog/how-to-set-up-instagram-ads/</loc>
 <lastmod>2026-10-22</lastmod>
 <xhtml:link rel="alternate" hreflang="uz" href="https://levelm.uz/blog/instagramda-target-reklama-sozlash/"/>
@@ -386,6 +464,12 @@
 <xhtml:link rel="alternate" hreflang="uz" href="https://levelm.uz/blog/google-ads-yoki-meta-ads/"/>
 <xhtml:link rel="alternate" hreflang="ru" href="https://levelm.uz/ru/blog/google-ads-ili-meta-ads/"/>
 <xhtml:link rel="alternate" hreflang="en" href="https://levelm.uz/en/blog/google-ads-vs-meta-ads/"/>
+</url>
+<url><loc>https://levelm.uz/en/blog/crowd-marketing/</loc>
+<lastmod>2026-10-22</lastmod>
+<xhtml:link rel="alternate" hreflang="uz" href="https://levelm.uz/blog/kraud-marketing/"/>
+<xhtml:link rel="alternate" hreflang="ru" href="https://levelm.uz/ru/blog/kraud-marketing/"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://levelm.uz/en/blog/crowd-marketing/"/>
 </url>
 <url><loc>https://levelm.uz/en/blog/cost-per-lead-cpl-how-to-lower/</loc>
 <lastmod>2026-10-22</lastmod>
