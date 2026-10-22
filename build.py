@@ -27,7 +27,19 @@ T = {
         "nav_services": "Xizmatlar",
         "nav_process": "Qanday ishlaymiz",
         "nav_cases": "Keyslar",
-        "nav_blog": "Blog",
+        "nav_blog": "Maqolalar",
+        "nav_location": "Lokatsiya",
+        "nav_contact": "Bog‘lanish",
+        "menu": "Menyu",
+        "contact_h": "Bog‘lanish",
+        "contact_p": "Reklamangiz haqida yozing yoki qo‘ng‘iroq qiling — 30 daqiqa ichida javob beramiz va bepul audit vaqtini kelishib olamiz.",
+        "contact_tg": "Telegram'da yozish",
+        "contact_call": "Qo‘ng‘iroq qilish",
+        "contact_ig": "Instagram",
+        "location_h": "Lokatsiya",
+        "location_p": "Ofisimizga keling yoki hisobotni o‘zimiz ofisingizga olib boramiz.",
+        "open_google": "Google Xaritada ochish",
+        "open_yandex": "Yandex Xaritada ochish",
         "cta": "Bepul audit olish",
         "other_lang": "Русский",
         "home_title": "Level Marketing — Toshkentdagi target reklama va performance-marketing agentligi",
@@ -97,7 +109,19 @@ T = {
         "nav_services": "Услуги",
         "nav_process": "Как работаем",
         "nav_cases": "Кейсы",
-        "nav_blog": "Блог",
+        "nav_blog": "Статьи",
+        "nav_location": "Локация",
+        "nav_contact": "Связаться",
+        "menu": "Меню",
+        "contact_h": "Связаться с нами",
+        "contact_p": "Напишите или позвоните — ответим в течение 30 минут и договоримся о бесплатном аудите вашей рекламы.",
+        "contact_tg": "Написать в Telegram",
+        "contact_call": "Позвонить",
+        "contact_ig": "Instagram",
+        "location_h": "Локация",
+        "location_p": "Приезжайте к нам в офис — или мы сами привезём отчёт к вам.",
+        "open_google": "Открыть в Google Картах",
+        "open_yandex": "Открыть в Яндекс Картах",
         "cta": "Получить бесплатный аудит",
         "other_lang": "O‘zbekcha",
         "home_title": "Level Marketing — агентство таргетированной рекламы и performance-маркетинга в Ташкенте",
@@ -360,18 +384,30 @@ def page(lang, title, desc, path, body, alt_path=None, schema=None, og_type="web
 <body>
 <header class="top"><div class="wrap nav">
   <a class="logo" href="{p}/">LEVEL <b>MARKETING</b></a>
-  <nav>
+  <button class="burger" type="button" aria-label="{t['menu']}" aria-expanded="false" aria-controls="menu"><span></span><span></span><span></span></button>
+  <nav id="menu">
     <a href="{p}/#services">{t['nav_services']}</a>
     <a href="{p}{t['cases_path']}">{t['nav_cases']}</a>
     <a href="{p}/blog/">{t['nav_blog']}</a>
+    <a href="{p}/#location">{t['nav_location']}</a>
+    <a href="{p}/#contact">{t['nav_contact']}</a>
     <a class="lang" href="{alt_path or PREFIX[other] + '/'}">{t['other_lang']}</a>
     <a class="btn small" href="{cta}"{ext}>{t['cta']}</a>
   </nav>
 </div></header>
+<script>
+document.querySelector('.burger').addEventListener('click', function () {{
+  var open = document.body.classList.toggle('menu-open');
+  this.setAttribute('aria-expanded', open);
+}});
+document.querySelectorAll('#menu a').forEach(function (a) {{
+  a.addEventListener('click', function () {{ document.body.classList.remove('menu-open'); }});
+}});
+</script>
 <main>
 {body}
 </main>
-<footer class="foot" id="contact"><div class="wrap">
+<footer class="foot"><div class="wrap">
   <div>
     <a class="logo" href="{p}/">LEVEL <b>MARKETING</b></a>
     <p>{t['footer']}</p>
@@ -396,6 +432,33 @@ def footer_contacts(lang):
         tel = re.sub(r"[^\d+]", "", c["phone"])
         links.append(f'<a href="tel:{tel}">{html.escape(c["phone"])}</a>')
     return "".join(links) or f"<span>{T[lang]['contact_soon']}</span>"
+
+
+def contact_block(lang):
+    t = T[lang]
+    c = SITE["contacts"]
+    rows = []
+    if c.get("telegram"):
+        rows.append(f'<a class="contact" href="https://t.me/{c["telegram"].lstrip("@")}" target="_blank" rel="noopener"><small>{t["contact_tg"]}</small><b>@{c["telegram"].lstrip("@")}</b></a>')
+    if c.get("phone"):
+        tel = re.sub(r"[^\d+]", "", c["phone"])
+        rows.append(f'<a class="contact" href="tel:{tel}"><small>{t["contact_call"]}</small><b>{html.escape(c["phone"])}</b></a>')
+    if c.get("instagram"):
+        rows.append(f'<a class="contact" href="https://instagram.com/{c["instagram"].lstrip("@")}" target="_blank" rel="noopener"><small>{t["contact_ig"]}</small><b>@{c["instagram"].lstrip("@")}</b></a>')
+    return f"""<section class="wrap block" id="contact"><h2>{t['contact_h']}</h2>
+<p class="lead">{t['contact_p']}</p><div class="contacts-grid">{"".join(rows)}</div></section>"""
+
+
+def location_block(lang):
+    t = T[lang]
+    from urllib.parse import quote
+    q = quote(SITE.get("map_query") or f"{SITE['name']}, {t['address']}")
+    return f"""<section class="band"><div class="wrap block" id="location"><h2>{t['location_h']}</h2>
+<div class="location"><div><p class="addr">{html.escape(t['address'])}</p><p>{t['location_p']}</p>
+<p class="maplinks"><a class="btn small" href="https://www.google.com/maps/search/?api=1&query={q}" target="_blank" rel="noopener">{t['open_google']}</a>
+<a class="btn small ghost-light" href="https://yandex.uz/maps/?text={q}" target="_blank" rel="noopener">{t['open_yandex']}</a></p></div>
+<iframe class="map" title="{t['location_h']}" loading="lazy" referrerpolicy="no-referrer-when-downgrade" src="https://maps.google.com/maps?q={q}&z=15&output=embed"></iframe></div>
+</div></section>"""
 
 
 def card(post):
@@ -461,6 +524,8 @@ def home(lang, posts):
 <section class="wrap block"><h2>{t['why_h']}</h2><div class="grid3">{why}</div></section>
 <section class="wrap block" id="cases"><div class="head"><h2>{t['cases_h']}</h2>{f'<a href="{p}{t["cases_path"]}">{t["nav_cases"]} →</a>' if cases else ''}</div>{cases_html}</section>
 {blog_html}
+{contact_block(lang)}
+{location_block(lang)}
 <section class="wrap block faq"><h2>{t['faq_h']}</h2>{faq}</section>
 <section class="final"><div class="wrap"><h2>{t['final_h']}</h2><p>{t['final_p']}</p><a class="btn" href="{cta}"{ext}>{t['cta']}</a></div></section>
 """
