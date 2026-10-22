@@ -46,7 +46,7 @@ Chiroyli logotip yomon xizmatni qutqarmaydi, lekin kuchli brend oddiy logotip bi
 | Nega ishonish kerak? | O‘z ishlab chiqarishimiz, kafolat, muddatli to‘lov |
 | Qanday gapiramiz? | Samimiy, aniq, ortiqcha bezaksiz |
 
-Shu jadvalni to‘ldiring — u barcha reklama, kontent va xizmat uchun asos bo‘ladi. Farqni topish uchun — [unikal savdo taklifi (USP)](/blog/unikal-savdo-taklifi/), vizual qism uchun esa — vizual uslub maqolalari.
+Shu jadvalni to‘ldiring — u barcha reklama, kontent va xizmat uchun asos bo‘ladi. Farqni topish uchun — [unikal savdo taklifi (USP)](/blog/unikal-savdo-taklifi/), vizual qism uchun esa — [vizual uslub](/blog/vizual-uslub-aydentika/) maqolalari.
 
 ## Ko‘p uchraydigan xatolar
 

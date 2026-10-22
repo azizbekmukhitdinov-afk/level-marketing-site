@@ -1,0 +1,61 @@
+---
+title: Qayta sotuvchidan brendga: Uzum Market'da o‘z brendingizni qurish
+description: Nega marketplace'da brend narx raqobatidan himoya qiladi, kartochka, sharhlar va tashqi trafik bilan ishlash.
+date: 2026-10-22
+slug: uzum-market-brend
+type: article
+tags: brend, obro‘
+key: uzum-market-brend
+rubric: brend
+---
+
+Marketpleysda bir xil tovarni o‘nlab sotuvchi sotsa, raqobat faqat narxga aylanadi va foyda yo‘qoladi. Bu holatdan chiqishning yo‘li — o‘z brendingizni qurish. Bu maqolada Uzum Market kabi marketpleyslarda qayta sotuvchidan brendga qanday o‘tishni ko‘rib chiqamiz.
+
+## Nega brend narx urushidan himoya qiladi
+
+- **O‘z kartochkangiz.** Brendli tovarni boshqa sotuvchi bir xil nom bilan sotolmaydi.
+- **Sharhlar sizda to‘planadi.** Har bir baho sizning mahsulotingizga ishlaydi.
+- **Takroriy xaridlar.** Mijoz brend nomini eslab, qayta qidiradi.
+- **Narxni o‘zingiz belgilaysiz.** Taniqli brendga ko‘proq to‘lashga tayyor bo‘lishadi.
+
+## Qadamlar
+
+1. **O‘z mahsulotingiz.** O‘z ishlab chiqarishingiz yoki ishlab chiqaruvchidan o‘z nomingiz ostida buyurtma (private label).
+2. **Nom va qadoq.** Esda qoladigan nom va taniqli qadoq — qoidalar [nom tanlash](/blog/biznes-uchun-nom-tanlash/) maqolasida.
+3. **Tovar belgisini ro‘yxatdan o‘tkazing.** O‘zbekistonda bu Intellektual mulk agentligi orqali amalga oshiriladi — bu nomingizni nusxa ko‘chirishdan himoya qiladi.
+4. **Kuchli kartochka.** Sarlavha kalit so‘zlar bilan, sifatli rasmlar va infografika, video, aniq tavsif va xususiyatlar.
+5. **Sharhlar bilan ishlash.** Har bir savol va sharhga javob — bu haqda [onlayn obro‘](/blog/onlayn-obro-sharhlar/) maqolasida.
+6. **Tashqi trafik.** Instagram, Telegram va reklama orqali odamlarni to‘g‘ridan-to‘g‘ri kartochkangizga olib keling.
+7. **Analitika.** Ko‘rishlar, savatga qo‘shishlar, sotuvlar va qaytarishlarni kuzatib boring.
+
+## Kartochka tekshiruv ro‘yxati
+
+| Element | Talab |
+|---|---|
+| Asosiy rasm | Oq yoki toza fon, mahsulot aniq ko‘rinadi |
+| Qo‘shimcha rasmlar | O‘lcham, material, foydalanish, qadoq |
+| Infografika | 3–5 ta asosiy afzallik |
+| Video | Mahsulot amalda |
+| Sarlavha | Turi + brend + asosiy xususiyat |
+| Tavsif | Kimga, nima uchun, qanday parvarish qilish |
+
+## Tashqi trafik nima uchun muhim
+
+Marketpleys ichidagi raqobatda faqat ichki qidiruvga tayanish qiyin. Instagram va Telegram'dan kelgan xaridorlar ko‘pincha savdo tarixini yaxshilaydi, bu esa kartochkaning ichki ko‘rinishiga ham yordam berishi mumkin. Instagram reklamasini sozlash — [alohida qo‘llanmada](/blog/instagramda-target-reklama-sozlash/).
+
+## Ko‘p uchraydigan xatolar
+
+- Raqobatchilar rasmlarini ishlatish.
+- Salbiy sharhlarga javob bermaslik.
+- Qoldiqlarni nazorat qilmaslik — tovar tugasa, kartochka pozitsiyasini yo‘qotadi.
+- Faqat chegirma orqali sotish.
+
+## Xulosa
+
+Marketpleysda brend — narx urushidan chiqish va barqaror foyda yo‘li. O‘z mahsulot, ro‘yxatdan o‘tgan nom, kuchli kartochka va tashqi trafik — asosiy to‘rt qadam. Farqni topish uchun — [unikal savdo taklifi](/blog/unikal-savdo-taklifi/) maqolasini o‘qing.
+
+## Shu mavzuda yana
+
+- [Biznes uchun nom qanday tanlanadi: 8 ta qoida](/blog/biznes-uchun-nom-tanlash/)
+- [Brend nima va u logotipdan nimasi bilan farq qiladi](/blog/brend-nima/)
+- [Kraud-marketing nima va u saytingizga mijozlarni qanday olib keladi](/blog/kraud-marketing/)

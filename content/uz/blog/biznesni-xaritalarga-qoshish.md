@@ -62,5 +62,5 @@ Xaritalardagi kartochka — bir marta ochiladigan, lekin har oy parvarish qilina
 ## Shu mavzuda yana
 
 - [Shaxsiy brend: ekspert qayerdan boshlashi kerak](/blog/shaxsiy-brend-qayerdan-boshlash/)
-- [Brend nima va u logotipdan nimasi bilan farq qiladi](/blog/brend-nima/)
+- [Vizual uslub va aydentika: kichik biznes uchun minimum](/blog/vizual-uslub-aydentika/)
 - [Kraud-marketing nima va u saytingizga mijozlarni qanday olib keladi](/blog/kraud-marketing/)

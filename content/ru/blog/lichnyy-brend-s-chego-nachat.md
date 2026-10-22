@@ -69,6 +69,6 @@ rubric: brend
 
 ## Ещё по теме
 
-- [Что такое бренд и чем он отличается от логотипа](/ru/blog/chto-takoe-brend/)
-- [Уникальное торговое предложение (УТП): как выделиться среди конкурентов](/ru/blog/unikalnoe-torgovoe-predlozhenie/)
+- [Фирменный стиль: минимум для малого бизнеса](/ru/blog/firmennyy-stil-dlya-malogo-biznesa/)
+- [Из перекупа в бренд: как построить свой бренд на Uzum Market](/ru/blog/brend-na-uzum-market/)
 - [Что такое крауд-маркетинг и как он приводит клиентов на сайт](/ru/blog/kraud-marketing/)

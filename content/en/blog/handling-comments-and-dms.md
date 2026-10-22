@@ -14,7 +14,7 @@ Ads and content bring people into your comments and DMs — that's where the sal
 ## Why it matters
 
 - **Everyone sees comments.** One reply informs dozens of readers.
-- **Speed decides the sale.** Customers message several pages at once. More in our article on lead response time.
+- **Speed decides the sale.** Customers message several pages at once. More in our article on [lead response time](/en/blog/lead-response-time/).
 - **Engagement affects reach.** A post with a lively discussion gets shown to more people.
 
 ## Response standards
@@ -53,7 +53,7 @@ A well-handled complaint often impresses new customers more than praise. For wor
 
 ## What to measure
 
-Weekly: number of messages, leads from them, sales from leads and average response time. For turning a chat into a sale, see our sales script article.
+Weekly: number of messages, leads from them, sales from leads and average response time. For turning a chat into a sale, see our [sales script](/en/blog/sales-script/) article.
 
 ## Conclusion
 

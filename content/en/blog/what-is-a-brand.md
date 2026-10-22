@@ -46,7 +46,7 @@ A beautiful logo won't save bad service, while a strong brand works even with a 
 | Why believe us? | Our own workshop, a warranty, instalments |
 | How do we talk? | Warm, specific, no pomp |
 
-Fill in this table — it becomes the basis for all your advertising, content and service. To find what sets you apart, see our [USP](/en/blog/unique-selling-proposition/) article; for the visual side, visual identity.
+Fill in this table — it becomes the basis for all your advertising, content and service. To find what sets you apart, see our [USP](/en/blog/unique-selling-proposition/) article; for the visual side, [visual identity](/en/blog/visual-identity-for-small-business/).
 
 ## Common mistakes
 

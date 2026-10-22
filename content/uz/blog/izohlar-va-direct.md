@@ -14,7 +14,7 @@ Reklama va kontent odamlarni izohlar va Direct'ga olib keladi — sotuv aynan sh
 ## Nega bu muhim
 
 - **Izohlarni hamma ko‘radi.** Bitta savolga javob — o‘nlab o‘quvchilar uchun ma'lumot.
-- **Tezlik sotuvni hal qiladi.** Mijoz bir vaqtda bir nechta sahifaga yozadi. Bu haqda — arizaga javob berish tezligi maqolasida.
+- **Tezlik sotuvni hal qiladi.** Mijoz bir vaqtda bir nechta sahifaga yozadi. Bu haqda — [arizaga javob berish tezligi](/blog/arizaga-javob-tezligi/) maqolasida.
 - **Faollik qamrovga ta'sir qiladi.** Izohlarda suhbat bo‘lsa, post ko‘proq odamga ko‘rsatiladi.
 
 ## Javob standartlari
@@ -53,7 +53,7 @@ Yaxshi javob berilgan shikoyat yangi mijozlarga ko‘pincha maqtovdan kuchliroq 
 
 ## Nimani o‘lchash kerak
 
-Har hafta: xabarlar soni, ulardan arizalar, arizalardan sotuvlar va o‘rtacha javob vaqti. Yozishmani qanday sotuvga olib borish — sotuv skripti maqolasida.
+Har hafta: xabarlar soni, ulardan arizalar, arizalardan sotuvlar va o‘rtacha javob vaqti. Yozishmani qanday sotuvga olib borish — [sotuv skripti](/blog/sotuv-skripti/) maqolasida.
 
 ## Xulosa
 

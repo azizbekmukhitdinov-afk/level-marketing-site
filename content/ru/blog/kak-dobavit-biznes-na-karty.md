@@ -62,5 +62,5 @@ rubric: brend
 ## Ещё по теме
 
 - [Личный бренд: с чего начать эксперту](/ru/blog/lichnyy-brend-s-chego-nachat/)
-- [Что такое бренд и чем он отличается от логотипа](/ru/blog/chto-takoe-brend/)
+- [Фирменный стиль: минимум для малого бизнеса](/ru/blog/firmennyy-stil-dlya-malogo-biznesa/)
 - [Что такое крауд-маркетинг и как он приводит клиентов на сайт](/ru/blog/kraud-marketing/)

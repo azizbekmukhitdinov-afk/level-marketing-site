@@ -34,8 +34,8 @@ Agar muammo faqat «zerikarli logotip» bo‘lsa, ko‘pincha to‘liq rebrendin
 
 1. **Audit.** Mijozlardan so‘rang: sizni qanday bilishadi, nimani qadrlashadi, nima yoqmaydi.
 2. **Strategiya.** Yangi pozitsiya va va'da — [brend nima](/blog/brend-nima/) maqolasidagi bir sahifali platforma bo‘yicha.
-3. **Nom** (kerak bo‘lsa) — qoidalar biznes uchun nom tanlash maqolasida.
-4. **Vizual uslub** — logotip, ranglar, shablonlar; bu haqda vizual uslub maqolasida.
+3. **Nom** (kerak bo‘lsa) — qoidalar [biznes uchun nom tanlash](/blog/biznes-uchun-nom-tanlash/) maqolasida.
+4. **Vizual uslub** — logotip, ranglar, shablonlar; bu haqda [vizual uslub](/blog/vizual-uslub-aydentika/) maqolasida.
 5. **Ishga tushirish rejasi** — barcha aloqa nuqtalari ro‘yxati va sana.
 6. **Kommunikatsiya** — mijozlarga nima o‘zgargani va nega o‘zgarganini tushuntirish.
 

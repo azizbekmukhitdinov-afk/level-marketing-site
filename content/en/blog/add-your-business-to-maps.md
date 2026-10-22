@@ -62,5 +62,5 @@ A maps listing is free advertising you set up once and maintain every month. Com
 ## More on this topic
 
 - [Personal brand: where an expert should start](/en/blog/personal-brand-where-to-start/)
-- [What a brand is and how it differs from a logo](/en/blog/what-is-a-brand/)
+- [Visual identity: the minimum a small business needs](/en/blog/visual-identity-for-small-business/)
 - [What crowd marketing is and how it brings customers to your website](/en/blog/crowd-marketing/)

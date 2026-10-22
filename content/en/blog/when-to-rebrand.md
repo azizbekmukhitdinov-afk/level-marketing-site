@@ -34,8 +34,8 @@ If the only problem is a "boring logo", a restyle is often enough rather than a 
 
 1. **Audit.** Ask customers how they know you, what they value and what they dislike.
 2. **Strategy.** A new positioning and promise, using the one-page platform from [what a brand is](/en/blog/what-is-a-brand/).
-3. **Name** (if needed) — rules in how to name a business.
-4. **Visual identity** — logo, colours, templates; more in visual identity for small business.
+3. **Name** (if needed) — rules in [how to name a business](/en/blog/how-to-name-a-business/).
+4. **Visual identity** — logo, colours, templates; more in [visual identity for small business](/en/blog/visual-identity-for-small-business/).
 5. **A launch plan** — a list of every touchpoint and a date.
 6. **Communication** — explain to customers what changed and why.
 
