@@ -68,12 +68,14 @@ Bu qat'iy qoida emas, lekin faqat takliflardan iborat sahifa e'lonlar taxtasiga 
 
 ## Rejani qanday rasmiylashtirish
 
-Oddiy jadval yetarli (Google Sheets yoki Notion): sana, rubrika, format (post, Reels, karusel), mavzu, harakatga chaqiruv, holat. Suratga olishni bir kunga jamlang — bir kunda 8–10 ta video tayyorlash har kuni bittadan olishdan ancha oson. Reels uchun ssenariy yozish haqida — Reels ssenariy shablonlari maqolasida, birinchi soniyalar haqida esa [hooklar maqolasida](/blog/reels-uchun-hooklar/).
+Oddiy jadval yetarli (Google Sheets yoki Notion): sana, rubrika, format (post, Reels, karusel), mavzu, harakatga chaqiruv, holat. Suratga olishni bir kunga jamlang — bir kunda 8–10 ta video tayyorlash har kuni bittadan olishdan ancha oson. Reels uchun ssenariy yozish haqida — [Reels ssenariy shablonlari](/blog/reels-ssenariy-shablon/) maqolasida, birinchi soniyalar haqida esa [hooklar maqolasida](/blog/reels-uchun-hooklar/).
 
 ## Xulosa
 
-Kontent-reja — sahifani tasodifiy postlardan tizimli sotuv kanaliga aylantiradi. Rubrikalarni almashtiring, muntazam joylang va har oy qaysi postlar ariza olib kelganini tahlil qiling. Profilni ham unutmang — u qanday bo‘lishi kerakligi sotadigan profil maqolasida.
+Kontent-reja — sahifani tasodifiy postlardan tizimli sotuv kanaliga aylantiradi. Rubrikalarni almashtiring, muntazam joylang va har oy qaysi postlar ariza olib kelganini tahlil qiling. Profilni ham unutmang — u qanday bo‘lishi kerakligi [sotadigan profil](/blog/instagram-profil-sotadigan/) maqolasida.
 
 ## Shu mavzuda yana
 
+- [Telegram kanalni noldan qanday o‘stirish mumkin](/blog/telegram-kanal-osish/)
+- [Sotadigan Instagram profil: bio, highlights va birinchi 9 post](/blog/instagram-profil-sotadigan/)
 - [Internet-marketing orqali sotuvni qanday oshirish mumkin: O‘zbekistondagi biznes uchun xarita](/blog/internet-marketing-sotuvni-oshirish/)

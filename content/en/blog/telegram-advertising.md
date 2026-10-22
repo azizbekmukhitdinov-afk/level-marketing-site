@@ -55,7 +55,7 @@ The most common approach is agreeing an ad post with the admins of topic-specifi
 
 ## Conclusion
 
-Telegram advertising is a strong way to reach Uzbekistan's audience, but its effectiveness depends on channel selection and tracking. To keep the people you attract, read how to grow a Telegram channel, and for the overall channel map, see our [internet marketing article](/en/blog/internet-marketing-increase-sales/).
+Telegram advertising is a strong way to reach Uzbekistan's audience, but its effectiveness depends on channel selection and tracking. To keep the people you attract, read [how to grow a Telegram channel](/en/blog/grow-a-telegram-channel/), and for the overall channel map, see our [internet marketing article](/en/blog/internet-marketing-increase-sales/).
 
 ## More on this topic
 

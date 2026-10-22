@@ -55,7 +55,7 @@ Eng ko‘p ishlatiladigan usul — mavzuli kanallar adminlari bilan kelishib, re
 
 ## Xulosa
 
-Telegram'da reklama — O‘zbekiston auditoriyasiga chiqishning kuchli yo‘li, lekin uning samarasi kanal tanlash va kuzatuvga bog‘liq. Reklamadan kelganlarni ushlab qolish uchun Telegram kanalni qanday o‘stirish maqolasini o‘qing, umumiy kanallar xaritasi esa [internet-marketing maqolasida](/blog/internet-marketing-sotuvni-oshirish/).
+Telegram'da reklama — O‘zbekiston auditoriyasiga chiqishning kuchli yo‘li, lekin uning samarasi kanal tanlash va kuzatuvga bog‘liq. Reklamadan kelganlarni ushlab qolish uchun [Telegram kanalni qanday o‘stirish](/blog/telegram-kanal-osish/) maqolasini o‘qing, umumiy kanallar xaritasi esa [internet-marketing maqolasida](/blog/internet-marketing-sotuvni-oshirish/).
 
 ## Shu mavzuda yana
 

@@ -68,12 +68,14 @@ It isn't a strict rule, but a page made only of offers turns into a notice board
 
 ## How to lay out the plan
 
-A simple table is enough (Google Sheets or Notion): date, content type, format (post, Reel, carousel), topic, call to action, status. Batch your shooting into one day — filming 8–10 videos in a day is far easier than one a day. For writing Reels scripts, see Reels script templates; for the first seconds, our [hooks article](/en/blog/reels-hooks/).
+A simple table is enough (Google Sheets or Notion): date, content type, format (post, Reel, carousel), topic, call to action, status. Batch your shooting into one day — filming 8–10 videos in a day is far easier than one a day. For writing Reels scripts, see [Reels script templates](/en/blog/reels-script-templates/); for the first seconds, our [hooks article](/en/blog/reels-hooks/).
 
 ## Conclusion
 
-A content plan turns a page of random posts into a systematic sales channel. Rotate content types, post consistently and review each month which posts brought leads. And don't forget your profile — see an Instagram profile that sells.
+A content plan turns a page of random posts into a systematic sales channel. Rotate content types, post consistently and review each month which posts brought leads. And don't forget your profile — see [an Instagram profile that sells](/en/blog/instagram-profile-that-sells/).
 
 ## More on this topic
 
+- [How to grow a Telegram channel from zero](/en/blog/grow-a-telegram-channel/)
+- [An Instagram profile that sells: bio, highlights and the first 9 posts](/en/blog/instagram-profile-that-sells/)
 - [How to grow sales with internet marketing: a map for businesses in Uzbekistan](/en/blog/internet-marketing-increase-sales/)
