@@ -2,31 +2,25 @@
 
 - `site.json` — название, адрес сайта, контакты (Telegram, телефон, Instagram).
 - `content/uz/blog/`, `content/ru/blog/` — статьи и кейсы (Markdown).
-- `build.py` — собирает сайт в `dist/` (только стандартный Python, без установки пакетов).
+- `build.py` — собирает сайт в `docs/` (только стандартный Python, без установки пакетов).
 - `agent/AGENT.md` — инструкция агента; `agent/topics.md` — темы; `agent/cases-inbox/` — сюда кладёте кейсы; `agent/log.md` — что агент сделал.
 
 Проверить локально:
 
 ```bash
-python3 build.py && cd dist && python3 -m http.server 8765
+python3 build.py && cd docs && python3 -m http.server 8765
 ```
 
-## Запуск в интернет (один раз)
+## Хостинг: GitHub Pages
 
-1. **Контакты.** Впишите в `site.json` Telegram (без @), телефон и Instagram — на них ведут все кнопки «Bepul audit olish».
-2. **GitHub.** Создайте приватный репозиторий `level-marketing-site` на github.com (пустой, без README). Затем в папке сайта:
-   ```bash
-   git remote add origin https://github.com/<ваш-логин>/level-marketing-site.git
-   git push -u origin main
-   ```
-   При первом push macOS спросит логин и токен GitHub (Settings → Developer settings → Personal access tokens → *Fine-grained*, доступ Contents: Read and write к этому репозиторию). После этого агент сможет пушить сам.
-3. **Cloudflare Pages.** dash.cloudflare.com → Workers & Pages → Create → Pages → Connect to Git → выбрать репозиторий.
-   - Project name: `level-marketing` (тогда адрес будет `level-marketing.pages.dev`, как в `site.json`)
-   - Build command: `python3 build.py`
-   - Build output directory: `dist`
-   Каждый push агента → сайт обновляется сам за 1–2 минуты.
-4. **Домен.** Купите домен (например, `.uz` у uz-регистратора или `.com`), подключите его в Cloudflare Pages → Custom domains и поменяйте `url` в `site.json` на новый адрес.
-5. **Поисковики.** Добавьте сайт в Google Search Console и Яндекс Вебмастер, отправьте `https://<домен>/sitemap.xml`. Создайте профиль компании в Google Картах и Яндекс Картах со ссылкой на сайт.
+- `build.py` собирает сайт в папку `docs/`, она коммитится вместе со статьями.
+- GitHub Pages раздаёт `docs/` из ветки `main`: Settings → Pages → Deploy from a branch → `main` / `/docs`.
+- Адрес: https://azizbekmukhitdinov-afk.github.io/level-marketing-site/ (он же `url` в `site.json`).
+- Каждый `git push` агента → сайт обновляется сам за 1–2 минуты.
+
+**Свой домен.** Купите домен, в Settings → Pages → Custom domain впишите его, у регистратора добавьте DNS-записи, которые покажет GitHub, и поменяйте `url` в `site.json` на `https://<домен>` (без пути).
+
+**Поисковики.** Добавьте сайт в Google Search Console и Яндекс Вебмастер, отправьте `sitemap.xml`. Заполните профиль компании в Google и Яндекс Картах со ссылкой на сайт.
 
 ## Ежедневная работа агента
 

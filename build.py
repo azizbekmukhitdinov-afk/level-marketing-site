@@ -14,9 +14,12 @@ from datetime import date, datetime
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
-DIST = ROOT / "dist"
+# GitHub Pages serves the folder docs/ from the main branch, so the built site is committed.
+DIST = ROOT / "docs"
 SITE = json.loads((ROOT / "site.json").read_text(encoding="utf-8"))
 BASE = SITE["url"].rstrip("/")
+# Sub-path the site lives under (e.g. /level-marketing-site on github.io); empty on a custom domain.
+ROOT_PATH = re.sub(r"^https?://[^/]+", "", BASE)
 LANGS = ["uz", "ru"]
 PREFIX = {"uz": "", "ru": "/ru"}
 
@@ -639,6 +642,8 @@ def write(rel, text):
     if rel.endswith("/"):
         f = f / "index.html"
     f.parent.mkdir(parents=True, exist_ok=True)
+    if ROOT_PATH and f.suffix == ".html":
+        text = re.sub(r'(href|src)="/(?!/)', rf'\1="{ROOT_PATH}/', text)
     f.write_text(text, encoding="utf-8")
 
 
@@ -651,6 +656,7 @@ def main():
     if DIST.exists():
         shutil.rmtree(DIST)
     shutil.copytree(ROOT / "static", DIST)
+    (DIST / ".nojekyll").write_text("")
     for lang in LANGS:
         p = PREFIX[lang]
         write(f"{p}/", home(lang, posts[lang]))

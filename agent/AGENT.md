@@ -48,7 +48,7 @@
 
 8. **Опубликуй:**
    ```
-   git add content agent
+   git add content agent docs
    git commit -m "Maqola: <заголовок uz>"
    git push
    ```
