@@ -2,6 +2,7 @@
 title: Internet-marketing orqali sotuvni qanday oshirish mumkin: O‘zbekistondagi biznes uchun xarita
 description: Internet-marketing kanallari — Instagram, Telegram, target, SEO, Xaritalar va Uzum Market — qaysi biri sizga mos, qayerdan boshlash va natijani qanday o‘lchash kerak.
 date: 2026-10-22
+updated: 2026-10-23
 slug: internet-marketing-sotuvni-oshirish
 type: article
 tags: internet-marketing, smm, strategiya
@@ -82,6 +83,86 @@ Obunachilar va layklar soni o‘z-o‘zidan sotuv emas. Qaror qabul qilishda sot
 - Bir xil kreativni oylab aylantirish.
 - Natijani faqat qamrov bilan baholash.
 - Raqobatchilarni ko‘r-ko‘rona nusxalash o‘rniga o‘z taklifingizni topmaslik.
+
+## Biznes turi bo‘yicha kanallar to‘plami
+
+| Biznes | Boshlash uchun kanallar |
+|---|---|
+| Klinika yoki stomatologiya | Xaritalar, Instagram, target reklama, Telegram kanal |
+| O‘quv markazi | Reels, target reklama, Telegram kanal, sinov darsi |
+| Mebel yoki interyer | Instagram, target reklama, ko‘rgazma zali, Xaritalar |
+| Onlayn do‘kon | Instagram, marketpleys, retargeting, Telegram |
+| B2B xizmatlar | Google qidiruv, LinkedIn, ekspert kontent, to‘g‘ridan-to‘g‘ri sotuv |
+| Kafe yoki restoran | Xaritalar, Instagram, bloger va mahalliy chatlar |
+
+Har bir soha uchun batafsil qo‘llanmalar bor: [klinika](/blog/klinika-marketing/), [o‘quv markazi](/blog/oquv-markazi-marketing/), [mebel do‘koni](/blog/mebel-dokoni-marketing/) va [Uzum Market'da brend](/blog/uzum-market-brend/).
+
+## Kichik byudjetli oylik reja namunasi (shartli raqamlar)
+
+| Modda | Summa | Nima uchun |
+|---|---|---|
+| Instagram va Facebook reklamasi | $300 | Asosiy arizalar oqimi |
+| Kontent: video va dizayn | $100 | Har oy yangi kreativlar |
+| Xaritalar va qidiruv | $50 | «Issiq» talabni ushlash |
+| Test zaxirasi | $50 | Yangi auditoriya yoki kanal |
+| **Jami** | **$500** | |
+
+Raqamlar sohaga qarab farq qiladi — muhimi tuzilma: asosiy kanal, yangi kreativlar va kichik test zaxirasi.
+
+## Marketing va sotuv qanday bog‘lanadi
+
+Marketing ariza olib keladi, sotuvni esa jarayon hal qiladi: ariza CRM'ga tushadi, menejer bir necha daqiqada javob beradi, suhbat skript bo‘yicha boradi, qaror bo‘lmasa — kelishilgan kuni qayta aloqa. Haftasiga bir marta marketing va sotuv birga natijani ko‘rib chiqsin: qaysi arizalar yaxshi, qaysilari sotuvga aylanmayapti va nega.
+
+## Qachon mutaxassis yoki agentlik kerak
+
+- Marketingga vaqtingiz qolmagan bo‘lsa.
+- Bir vaqtda bir nechta kanal yuritilayotgan bo‘lsa.
+- O‘zingiz 2–3 oy ishlab, barqaror natija bo‘lmasa.
+- Video va dizayn sifati reklama natijasini cheklayotgan bo‘lsa.
+
+Avval texnik ishlarni topshiring — reklama sozlash, montaj, dizayn. Taklif, narx va sotuv ustidan nazorat esa sizda qolsin. Mutaxassisni tanlash — [targetolog tanlash](/blog/targetolog-qanday-tanlanadi/) maqolasida.
+
+## Boshlang‘ich vositalar to‘plami
+
+- **CRM yoki jadval** — arizalar va sotuvlar uchun.
+- **Meta Business Suite** — postlar, reklama va xabarlar.
+- **Montaj va dizayn ilovalari** — telefonda video va shablonlar.
+- **Google Analytics yoki Yandex Metrika** — sayt bo‘lsa.
+- **Telegram bot** — arizalarni avtomatik yig‘ish uchun.
+
+## Savol-javob
+
+### Internet-marketingdan natija qancha vaqtda keladi?
+
+Reklamadan birinchi arizalar bir necha kunda keladi. Kontent, SEO va Telegram kanal kabi organik kanallar esa oylar davomida to‘planib, keyinroq barqaror natija beradi.
+
+### Saytsiz internet-marketing mumkinmi?
+
+Ha. Instagram, Telegram va Xaritalar orqali ko‘plab bizneslar saytsiz sotadi. Sayt keyinroq Google reklamasi, qidiruv va ishonch uchun kerak bo‘ladi.
+
+### Qaysi kanal eng arzon?
+
+Pul jihatidan — organik kontent va Xaritalar, lekin ular vaqt talab qiladi. To‘g‘ri solishtirish — bitta sotuv narxi bo‘yicha, unga vaqt xarajatini ham qo‘shgan holda.
+
+### Internet-marketingni oflayn reklama bilan qanday birlashtirish mumkin?
+
+Banner, flayer va qadoqqa QR-kod va promokod qo‘ying, mijozlardan esa «Bizni qayerdan bildingiz?» deb so‘rang. Shunda oflayn reklama ham raqamlarda ko‘rinadi.
+
+### Biznes egasi marketingga qancha vaqt ajratishi kerak?
+
+Haftasiga bir necha soat: qarorlar, taklif, kontent uchun g‘oyalar va natijalarni ko‘rib chiqish. Texnik ishni topshirish mumkin, lekin yo‘nalishni egasi belgilaydi.
+
+### Natijani qanday hisobotda ko‘rish kerak?
+
+Sarf, arizalar, ariza narxi, sotuvlar va bitta sotuv narxi — kanallar bo‘yicha. Hisobot tuzilmasi — [reklama hisoboti](/blog/reklama-hisoboti/) maqolasida.
+
+### Qaysi raqamlarni har kuni kuzatish kerak?
+
+Har kuni — sarf, arizalar soni va arizalarga javob berilganmi. Har hafta — ariza narxi va sotuvlar. Har oy — ROMI va qaytgan mijozlar ulushi. Bunday ritm muammoni kech qolmasdan ko‘rsatadi.
+
+### Bitta odam barcha kanallarni yurita oladimi?
+
+Boshida bitta-ikkita kanalni — ha. Kanallar ko‘paygan sari kontent, reklama va arizalar bilan ishlash uchun jamoa yoki agentlik kerak bo‘ladi: bitta odam hammasini sifatli qila olmaydi.
 
 ## Xulosa
 

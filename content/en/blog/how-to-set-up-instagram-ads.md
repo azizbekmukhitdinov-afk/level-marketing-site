@@ -2,6 +2,7 @@
 title: How to set up Instagram ads: a step-by-step guide
 description: Setting up Instagram ads from scratch in Meta Ads Manager: choosing the objective, audience, budget, creatives and avoiding first-week mistakes.
 date: 2026-10-22
+updated: 2026-10-23
 slug: how-to-set-up-instagram-ads
 type: article
 tags: paid ads, meta ads, instagram
@@ -74,6 +75,97 @@ Above all, reply fast. People message several companies at once and choose the f
 4. **Lead quality** — ask your sales team whether leads turn into purchases.
 
 Switch off the worst creatives, move budget to the best and add new creatives every week.
+
+## Campaign structure: three levels
+
+In Ads Manager, every ad has three levels:
+
+1. **Campaign** — the objective: messages, leads or sales.
+2. **Ad set** — audience, placements, schedule and budget.
+3. **Ad** — creative, copy and button.
+
+A simple structure is enough for a first test: one campaign, two ad sets by language (Uzbek and Russian) and 3 different creatives in each. Within a month you'll see which language and which creative work best.
+
+## Sample ad copy (illustrative)
+
+- **Primary text:** "A sofa made to your measurements — in 10 days. Instalments and free delivery across Tashkent. Message us for the price."
+- **Headline:** "Made-to-order sofas".
+- **Button:** "Send message".
+
+The first line of the text matters most — it's visible without tapping "More". Keep the offer and promises true.
+
+## A pre-launch checklist
+
+- Business account and payment method set up.
+- Instagram account connected to Meta Business Suite.
+- If you have a website, the Pixel is installed and events are checked.
+- The form is tested: a test lead was submitted and received.
+- An automatic greeting and quick replies are ready for DMs.
+- It's decided who answers leads and how quickly.
+- Links carry UTM tags.
+- Budget and dates are checked.
+
+## Weeks 2–4: optimisation
+
+- Once there's enough data, switch off ads with a high cost per lead.
+- Add new creatives to the winning ad set.
+- Test one new audience or offer.
+- Don't change settings every day — let the algorithm learn.
+- Raise the budget in stages.
+
+## Common mistakes
+
+- Boosting a post with the "Boost" button instead of using Ads Manager.
+- A very narrow audience and a single creative.
+- Restricting placements manually far too much.
+- Replying to leads late.
+- Running without tracking — not knowing which ad brought the sale.
+
+## Add a retargeting campaign
+
+After 2–3 weeks, once the main campaign has built up an audience, add a second campaign for people who engaged with your profile, watched a video or visited your site but didn't leave a request. It needs different creatives — reviews, answers to objections and a time-limited offer. Exclude people who already submitted a lead, and give this campaign a small share of the budget. More in [How retargeting works](/en/blog/how-retargeting-works/).
+
+## The key columns in your report
+
+Customise the columns in Ads Manager and save them as a preset: spend, results, cost per result, link click-through rate (CTR), frequency and cost per thousand impressions (CPM). Those six columns show the state of your ads at a glance.
+
+## Questions and answers
+
+### How long does ad review take?
+
+Usually a few hours, sometimes up to a day. If an ad is rejected, read the reason, bring the ad in line with the policies and request a review — more in [Ad account blocked](/en/blog/ad-account-blocked/).
+
+### Is a Facebook Page required?
+
+Working through Ads Manager usually requires a Facebook Page with an Instagram account connected to it. Link the two in Meta Business Suite — it makes management easier too.
+
+### Should ads be in Uzbek or Russian?
+
+It depends on your audience. If it's bilingual, create separate ad sets in both languages. Make each language's creative feel natural — machine translation shows immediately.
+
+### Daily or lifetime budget?
+
+A daily budget suits ongoing campaigns. For promotions tied to a specific date, a lifetime budget with an end date works better.
+
+### Ads aren't showing — what could be wrong?
+
+The ad is still in review or was rejected, there's a payment problem, the audience is too small, the budget is too low or the account is restricted. Check the status and warnings in Ads Manager.
+
+### When should you stop an ad?
+
+If, despite changes, the cost per lead stays above your maximum affordable level for a week or two, or the product is out of stock. One bad weekend day is no reason to stop.
+
+### Where should you look at results?
+
+In Ads Manager: spend, leads and cost per lead. But your CRM gives the final answer — how many leads turned into sales. Look at both together; the [cost per lead guide](/en/blog/cost-per-lead-cpl-how-to-lower/) helps with this.
+
+### Should you use Advantage+ campaigns?
+
+They choose the combination of audience, placements and creatives automatically and work well once there are enough conversions. In a new ad account, start with a standard campaign, then test Advantage+ separately and compare the results.
+
+### Can you advertise several products in one campaign?
+
+A separate ad set for each product or offer is better — then you can see what's working. For stores with a large range, catalogue ads are more convenient.
 
 ## Conclusion
 

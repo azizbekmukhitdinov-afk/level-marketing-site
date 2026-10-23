@@ -2,6 +2,7 @@
 title: Target reklama narxi O‘zbekistonda: byudjet qanday hisoblanadi
 description: Target reklama qancha turadi: reklama byudjeti, targetolog xizmati va kontent xarajatlari. Oylik byudjetni ariza narxidan kelib chiqib hisoblash usuli.
 date: 2026-10-22
+updated: 2026-10-23
 slug: target-reklama-narxi-ozbekistonda
 type: article
 tags: target reklama, byudjet, meta ads
@@ -70,6 +71,95 @@ Qaysi model bo‘lishidan qat'i nazar, nimaga pul to‘layotganingizni aniqlang:
 - Har oy **sarf, arizalar soni va ariza narxi** ko‘rsatilgan hisobot oling.
 - Arizalarni **CRM yoki jadvalda** belgilab boring: qaysi biri sotuvga aylangan.
 - Natijani reklama kabinetidagi raqamlar bilan emas, **sotuvlar** bilan solishtiring.
+
+## Oylik xarajatlar tuzilmasi (shartli raqamlar)
+
+| Modda | Summa | Ulushi |
+|---|---|---|
+| Reklama byudjeti | $400 | 57% |
+| Targetolog xizmati | $200 | 29% |
+| Kontent: video, montaj, dizayn | $100 | 14% |
+| **Jami** | **$700** | 100% |
+
+Ko‘p tadbirkorlar faqat reklama byudjetini hisoblaydi va qolgan xarajatlarni unutadi. Bitta mijoz narxini hisoblaganda barcha moddalarni qo‘shing — bu haqda [ROMI](/blog/romi-hisoblash/) maqolasida.
+
+## Kontent narxi: nimaga pul ketadi
+
+- **Suratga olish kuni** — bir kunda bir nechta video va rasm.
+- **Montaj** — har bir video uchun alohida.
+- **Dizayn shablonlari** — post va Stories uchun bir marta tayyorlanadi.
+- **Mijoz videolari (UGC)** — ko‘pincha studiya roligidan arzon va ishonchliroq.
+
+Oyiga kamida 3–6 ta yangi kreativni rejalashtiring: reklama eski videolar bilan tez «charchaydi».
+
+## Byudjetni platformalar o‘rtasida taqsimlash
+
+Mijozlaringiz qayerda bo‘lsa, byudjetning asosiy qismi o‘sha yerga. Boshlash uchun oddiy sxema: asosiy platformaga taxminan 70%, ikkinchisiga 30% — test sifatida. Bir oydan keyin bitta sotuv narxiga qarab nisbatni o‘zgartiring. Telegram'da reklama haqida — [Telegram reklama](/blog/telegram-ads-reklama/) maqolasida.
+
+## To‘lov va valyuta masalalari
+
+Meta'da reklama kabineti valyutasi tanlanadi va to‘lov odatda karta orqali amalga oshiriladi. Bank komissiyasi, valyuta konvertatsiyasi va soliqlar umumiy xarajatga qo‘shilishi mumkin — kabinetdagi to‘lov hujjatlarini tekshiring. Ba'zi bizneslar uchun agentlik orqali to‘lash qulayroq bo‘ladi.
+
+## Qachon byudjetni oshirish kerak
+
+Ariza narxi bir necha hafta davomida maqsaddan barqaror past bo‘lsa, sotuv bo‘limi qo‘shimcha arizalarni qabul qila olsa va ROMI musbat bo‘lsa. Byudjetni bosqichma-bosqich oshiring — keskin oshirish natijani beqaror qilishi mumkin.
+
+## Ko‘p uchraydigan xatolar
+
+- Faqat reklama byudjetini hisoblab, kontent va xizmat narxini unutish.
+- Eng arzon ijrochini tanlash.
+- Kreativlar uchun byudjet ajratmaslik.
+- Natijani 2–3 kundan keyin baholash.
+- Kichik byudjetni juda ko‘p kampaniyaga bo‘lib yuborish.
+
+## Turli bizneslarda xarajatlar qanday farq qiladi
+
+| Mahsulot turi | Ariza narxi | Qaror muddati | Nimaga e'tibor berish |
+|---|---|---|---|
+| Arzon kundalik mahsulot | Odatda past | Tez | Ko‘p kreativ va tez yetkazib berish |
+| Qimmat mahsulot: mebel, texnika | O‘rtacha yoki yuqori | Bir necha kun yoki hafta | Isbot, muddatli to‘lov, qayta aloqa |
+| Ta'lim va tibbiyot | Ko‘pincha yuqori | Bir necha hafta | Ishonch, mutaxassis kontenti |
+| Ko‘chmas mulk, B2B | Yuqori | Oylar | Saralash, uzun voronka |
+
+Bu raqamlar emas, yo‘nalish: aniq ariza narxini faqat o‘z testingiz ko‘rsatadi.
+
+## Reklamadan oldin nima tayyor bo‘lishi kerak
+
+Profil yoki sayt, aniq taklif, arizalar uchun CRM yoki jadval, arizalarga javob beradigan odam va kamida 3 ta kreativ. Ulardan biri yo‘q bo‘lsa, reklama byudjeti ariza olib kelishi mumkin, lekin sotuvga aylanmaydi.
+
+## Savol-javob
+
+### Instagram reklamasi uchun minimal summa qancha?
+
+Meta'da minimal kunlik byudjet juda kichik, lekin ma'noli test uchun shunday summa kerakki, har bir variant bir necha o‘nlab natija to‘plasin. Aks holda xulosa tasodifiy bo‘ladi.
+
+### Telegram reklamasi arzonroqmi?
+
+Bu soha va kanallarga bog‘liq. Platformalarni bosish yoki ko‘rish narxi bo‘yicha emas, bitta ariza va sotuv narxi bo‘yicha solishtiring.
+
+### Reklama qancha vaqt ishlashi kerak?
+
+Test — 1–2 hafta, asosiy kampaniyalar esa uzluksiz, yangi kreativlar bilan yangilanib turadi. Reklamani tez-tez to‘xtatib-yoqish natijani yomonlashtiradi.
+
+### Raqobatchilarning ariza narxi bilan solishtirsa bo‘ladimi?
+
+Ehtiyotkorlik bilan. Ariza narxi taklif, kreativ, hudud va sotuv jarayoniga bog‘liq. Eng ishonchli mo‘ljal — o‘zingizning oldingi oylardagi natijalaringiz.
+
+### Byudjet tugasa nima bo‘ladi?
+
+Reklama to‘xtaydi va kampaniya o‘rganishni qaytadan boshlashi mumkin. Balans va kunlik limitni oldindan nazorat qiling.
+
+### Bitta mijozni jalb qilish narxi qanday hisoblanadi?
+
+Barcha marketing xarajatlarini — reklama, xizmat, kontent — yangi mijozlar soniga bo‘ling. Bu ko‘rsatkich bitta mijozdan keladigan foydadan past bo‘lishi kerak.
+
+### Reklamaga sarflangan pul qachon qaytadi?
+
+Bu sotuv sikliga bog‘liq. Tez qaror qilinadigan mahsulotlarda — bir necha hafta ichida, uzoq o‘ylanadigan xizmatlarda esa oylar o‘tib. Shuning uchun ROMI'ni har oy alohida, mijozlar qachon kelganiga qarab hisoblang.
+
+### Byudjetni qisqartirsam nima bo‘ladi?
+
+Arizalar ham kamayadi. Barcha kampaniyalarni teng qisqartirmang — eng kuchsizlarini o‘chiring va eng yaxshilarini saqlab qoling.
 
 ## Xulosa
 

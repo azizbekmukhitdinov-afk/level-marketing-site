@@ -2,6 +2,7 @@
 title: Lid narxi (CPL) nima va uni qanday kamaytirish mumkin: tadbirkor uchun qo‘llanma
 description: Target reklamada bitta ariza qancha turishi kerak, CPL qanday hisoblanadi va ariza narxini oshirib yuboradigan 7 ta keng tarqalgan xato.
 date: 2026-10-22
+updated: 2026-10-23
 slug: lid-narxi-cpl-qanday-kamaytirish
 type: article
 tags: target reklama, meta ads, analitika
@@ -69,6 +70,98 @@ Reklama yaxshi ishlasa ham, mijoz tushgan joy — Instagram profili, sayt yoki T
 3. Eng yomon 20% kreativ va auditoriyani o‘chirib, byudjetni eng yaxshilariga o‘tkazing.
 4. Har hafta kamida 2 ta yangi kreativ test qiling.
 5. Arizaga javob berish standartini joriy qiling.
+
+## CPL hisoblash misoli (shartli raqamlar)
+
+Ikkita kampaniya, har biriga $300:
+
+| | A kampaniya | B kampaniya |
+|---|---|---|
+| Arizalar | 150 | 60 |
+| CPL | $2 | $5 |
+| Sotuvga konversiya | 5% | 20% |
+| Sotuvlar | 7–8 | 12 |
+| Bitta sotuv narxi | ~$40 | $25 |
+
+Birinchi qarashda A arzonroq, lekin B har bir sotuvni ancha arzon olib keladi. Shuning uchun CPL'ni doim sotuv narxi bilan birga ko‘ring.
+
+## Maksimal ruxsat etilgan CPL
+
+Qancha ariza narxi sizga foydali ekanini oldindan hisoblang:
+
+> Maksimal CPL = bitta sotuvdan yalpi foyda × arizadan sotuvga konversiya
+
+**Misol (shartli raqamlar):** bitta sotuvdan foyda $50, konversiya 10% → maksimal CPL $5. Ariza bundan qimmat bo‘lsa, reklama zarar keltiradi; arzon bo‘lsa — byudjetni oshirish mumkin.
+
+## CPL'ni kamaytirish uchun 10 ta tekshiruv
+
+1. Taklif bir jumlada tushunarlimi?
+2. Videoning birinchi 3 soniyasi e'tiborni tortadimi?
+3. Kamida 3 ta turli kreativ ishlayaptimi?
+4. Auditoriya haddan tashqari tor emasmi?
+5. Joylashuvlar avtomatik tanlanganmi?
+6. Formada ortiqcha savollar yo‘qmi?
+7. Sayt yoki profil telefonda tez ochiladimi?
+8. Konversiyalar to‘g‘ri kuzatilyaptimi?
+9. Arizalarga bir necha daqiqada javob berilyaptimi?
+10. Reklama chastotasi juda yuqori emasmi?
+
+## Ariza sifatini qanday o‘lchash
+
+CRM'da har bir arizani belgilang: saralangan yoki saralanmagan. Saralanmaganlar uchun sababni yozing: boshqa shahar, byudjet yo‘q, shunchaki qiziqdi. Bir-ikki haftada naqsh ko‘rinadi — va uni tuzatish oson: hududni toraytirish, formaga saralovchi savol qo‘shish yoki reklamada narxni ko‘rsatish.
+
+## Kanallar bo‘yicha CPL'ni qanday solishtirish
+
+Turli kanallardagi arizalar sifati turlicha, shuning uchun faqat CPL'ga qarash yetarli emas. **Misol (shartli raqamlar):**
+
+| Kanal | CPL | Sotuvga konversiya | Bitta sotuv narxi |
+|---|---|---|---|
+| Instagram forma | $2 | 5% | $40 |
+| Instagram xabarlar | $4 | 15% | ~$27 |
+| Google qidiruv | $6 | 25% | $24 |
+
+Eng qimmat ariza eng arzon sotuvni bergan. Solishtirish uchun barcha kanallarda «ariza» bir xil ma'noda hisoblanishi kerak.
+
+## CPL'ni kamaytirishning 4 haftalik rejasi
+
+1. **1-hafta — audit.** Kuzatuv, javob tezligi va forma savollarini tekshiring.
+2. **2-hafta — kreativlar.** 3 ta yangi kreativ va bitta yangi taklifni ishga tushiring.
+3. **3-hafta — auditoriya.** G‘oliblarni qoldiring va auditoriyani kengaytirib ko‘ring.
+4. **4-hafta — profil yoki sayt.** Odamlar reklamadan keyin ko‘radigan joyni yaxshilang va natijani birinchi hafta bilan solishtiring.
+
+## Savol-javob
+
+### Yaxshi CPL qancha?
+
+Universal raqam yo‘q — u mahsulot narxi, marja va konversiyaga bog‘liq. To‘g‘ri savol: CPL yuqoridagi maksimal ruxsat etilgan qiymatdan pastmi?
+
+### CPL keskin oshib ketsa nima qilish kerak?
+
+Sababini tartib bilan tekshiring: kreativ charchadimi (chastota o‘sganmi), sozlamalar o‘zgartirildimi, mavsum yoki raqobat o‘zgardimi, kuzatuv buzilmadimi. Ko‘pincha yechim — yangi kreativlar.
+
+### Kampaniyani qayta ishga tushirish CPL'ni pasaytiradimi?
+
+Kamdan-kam. Qayta ishga tushirish o‘rganish bosqichini boshidan boshlaydi. Yangi kreativ yoki taklif qo‘shish odatda samaraliroq.
+
+### Byudjetni oshirsam, CPL ham oshadimi?
+
+Ko‘pincha biroz oshadi — algoritm qimmatroq auditoriyaga chiqadi. Shuning uchun byudjetni bosqichma-bosqich oshiring va har qadamdan keyin CPL'ni tekshiring.
+
+### Forma yoki xabarlar — qaysi biri arzonroq ariza beradi?
+
+Forma ko‘pincha arzonroq, xabarlar esa ko‘pincha sifatliroq. Ularni sotuv narxi bo‘yicha solishtiring — batafsil [instant forma yoki xabarlar](/blog/instant-forma-yoki-xabarlar/) maqolasida.
+
+### Organik kontent CPL'ga ta'sir qiladimi?
+
+Bilvosita — ha. Reklamadan kelgan odam profilingizga kiradi: kuchli profil va foydali postlar ko‘proq odamni ariza qoldirishga undaydi.
+
+### CPL'ni kim nazorat qilishi kerak?
+
+Targetolog yoki marketolog — har kuni yoki har hafta, biznes egasi — har oy. Sotuv bo‘limi esa arizalar sifati haqida muntazam fikr beradi: usiz CPL'ni to‘g‘ri baholab bo‘lmaydi.
+
+### CPL past, lekin menejerlar arizalardan norozi bo‘lsa-chi?
+
+Marketing va sotuv «yaxshi ariza» nima ekanini birga aniqlab olsin: shahar, byudjet, muddat. Keyin forma savollari va target sozlamalarini shunga moslang — ariza narxi biroz oshishi mumkin, lekin sotuv ko‘payadi.
 
 ## Xulosa
 

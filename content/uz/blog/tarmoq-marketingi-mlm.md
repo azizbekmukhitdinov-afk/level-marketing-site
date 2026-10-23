@@ -2,6 +2,7 @@
 title: Tarmoq marketingi (MLM): pul topish mumkinmi va piramidani qanday ajratish kerak
 description: Tarmoq marketingi qanday ishlaydi, kim haqiqatan daromad oladi, moliyaviy piramidaning belgilari va O‘zbekistonda MLM taklifini qabul qilishdan oldin beriladigan 7 ta savol.
 date: 2026-10-22
+updated: 2026-10-23
 slug: tarmoq-marketingi-mlm
 type: article
 tags: mlm, biznes, sotuv
@@ -78,6 +79,97 @@ Ikki-uchta savolga aniq javob olmasangiz — bu jiddiy signal.
 ## Marketolog nigohi: o‘z biznesingizni qursangiz-chi?
 
 MLM'ga qiziqqan ko‘pchilikni aslida mahsulot emas, o‘z biznesiga ega bo‘lish g‘oyasi jalb qiladi. Bugun O‘zbekistonda kichik biznes uchun to‘g‘ridan-to‘g‘ri sotuv kanallari ochiq: Instagram, Telegram, Uzum Market. O‘z mahsulotingiz yoki xizmatingizni sotsangiz, butun daromad sizda qoladi, mijozlar bazasi va brend esa sizniki bo‘ladi. Qanday boshlash haqida [Instagram'da target sozlash qo‘llanmasida](/blog/instagramda-target-reklama-sozlash/) va [target reklama narxi haqidagi maqolada](/blog/target-reklama-narxi-ozbekistonda/) yozganmiz.
+
+## MLM daromadini qanday hisoblash
+
+Va'da qilingan bonusdan emas, sof daromaddan kelib chiqing:
+
+> Sof daromad = bonus va ustamalar − (majburiy xaridlar + tadbir va treninglar + yo‘l va aloqa xarajatlari + reklama)
+
+**Misol (shartli raqamlar):** oyiga 1 500 000 so‘m bonus, lekin majburiy oylik xarid 800 000, tadbirlar 300 000, yo‘l va aloqa 200 000 so‘m. Sof daromad — 200 000 so‘m. Bunga sarflangan soatlarni ham qo‘shing: ko‘pincha soatbay daromad oddiy ishdan ancha past chiqadi.
+
+## Ijtimoiy tarmoqlarda MLM taklifini qanday tanish mumkin
+
+- «Passiv daromad», «moliyaviy erkinlik» kabi umumiy va'dalar.
+- Qimmat mashina va sayohat rasmlari, lekin mahsulot haqida kam ma'lumot.
+- «Batafsil bilish uchun "+" deb yozing» — kompaniya nomi oxirigacha aytilmaydi.
+- Kontekstsiz daromad skrinshotlari.
+- Asosiy e'tibor mahsulotga emas, «jamoaga qo‘shilish»ga qaratilgan.
+
+## Agar allaqachon qo‘shilgan bo‘lsangiz
+
+1. Oxirgi uch oydagi sof daromadingizni yuqoridagi formula bilan hisoblang.
+2. Sota olmaydigan zaxirani sotib olishni to‘xtating.
+3. Shartnomada sotilmagan mahsulotni qaytarish shartlarini tekshiring.
+4. Do‘st va qarindoshlarga bosim o‘tkazmang — munosabatlar daromaddan qimmatroq.
+5. Piramida belgilari ko‘rinsa, chiqish haqida qaror qiling.
+
+## Qonun va himoya
+
+Moliyaviy piramidalar ko‘plab mamlakatlarda qonun bilan taqiqlangan. Shubhali taklifga duch kelsangiz yoki pulingizni qaytarib ololmasangiz, mustaqil yurist yoki iste'molchilar huquqlarini himoya qiluvchi tashkilotlarga murojaat qiling. Hech qanday hujjatsiz pul o‘tkazmang.
+
+## Halol tavsiya dasturi qanday bo‘ladi
+
+Agar o‘z biznesingiz uchun mijozlar orqali sotuvni o‘stirmoqchi bo‘lsangiz, MLM shart emas. Halol tavsiya dasturida kirish to‘lovi yo‘q, mukofot faqat haqiqiy xarid uchun beriladi, shartlar ochiq va tushunarli, mahsulot esa o‘z narxiga arziydi. Bunday dastur mamnun mijozlarni sizning eng yaxshi reklamangizga aylantiradi — bu haqda [takroriy sotuv va LTV](/blog/takroriy-sotuv-ltv/) maqolasida.
+
+## MLM, franshiza, agentlik va tavsiya dasturi: farqi
+
+| Model | Kirish to‘lovi | Daromad manbai | Asosiy xavf |
+|---|---|---|---|
+| MLM | Ko‘pincha bor | O‘z sotuvlari va jalb qilinganlar sotuvidan bonus | Majburiy xaridlar, tuzilmaga bog‘liqlik |
+| Franshiza | Bor — brend va tizim uchun | Mijozlarga sotuv | Katta sarmoya, shartnoma shartlari |
+| Sotuv agenti | Yo‘q | Har bir sotuvdan komissiya | Barqaror bo‘lmagan daromad |
+| Tavsiya dasturi | Yo‘q | Tavsiya qilingan mijoz xaridi uchun mukofot | Kichik daromad, qo‘shimcha sifatida |
+
+Jadvaldan ko‘rinadiki, daromad mijozlarga sotuvdan kelsa — bu biznes; asosan yangi ishtirokchilardan kelsa — xavfli belgi.
+
+## Yaqinlaringizni qanday himoya qilish mumkin
+
+Agar yaqiningiz MLM'ga qiziqib qolgan bo‘lsa, ayblamang va kulmang — bu uni yanada uzoqlashtiradi. Birga sof daromadni hisoblashni taklif qiling, kompaniya hujjatlarini so‘rang va «start paket» uchun qarz bermang. Qaror qilish uchun vaqt bering: bosim ostida qabul qilingan qaror ko‘pincha xato bo‘ladi.
+
+## Qaror uchun oddiy test
+
+1. Ishtirokchi bo‘lmasam ham, mahsulotni shu narxda sotib olardimmi?
+2. Faqat mijozlarga sotuvdan pul topa olamanmi?
+3. Kirish to‘lovi yoki majburiy oylik xarid bormi?
+4. Sotilmagan mahsulotni qaytarish mumkinmi?
+5. Uch oydan keyin sof daromadim musbat bo‘ladimi?
+
+Bir nechta javob sizga yoqmasa, qo‘shilishdan oldin yana bir bor o‘ylab ko‘ring.
+
+## Savol-javob
+
+### Barcha MLM kompaniyalari piramidami?
+
+Yo‘q. Asosiy farq — daromad qayerdan keladi: tashqi mijozlarga haqiqiy mahsulot sotuvidanmi yoki yangi ishtirokchilarning to‘lovlaridanmi. Ikkinchisi — piramida belgisi.
+
+### Do‘stim taklif qilyapti — qanday rad etish mumkin?
+
+Xushmuomalalik bilan va qisqa: «Rahmat, hozir bu menga mos emas». Bahslashish yoki uni ishontirishga urinish shart emas — munosabatni saqlang.
+
+### Mahsulot yoqsa, qo‘shilish shartmi?
+
+Yo‘q. Ko‘p hollarda mahsulotni oddiy xaridor sifatida sotib olish mumkin. Qo‘shilishdan oldin esa yuqoridagi formula bilan iqtisodini hisoblang.
+
+### MLM'ga to‘langan pulni qaytarish mumkinmi?
+
+Bu shartnoma va kompaniya qoidalariga bog‘liq. Qaytarish shartlarini yozma ravishda oling, hujjatlarni saqlang va kerak bo‘lsa yurist bilan maslahatlashing.
+
+### MLM'ni ijtimoiy tarmoqda reklama qilsa bo‘ladimi?
+
+Meta'ning reklama qoidalari kam sarmoya bilan tez daromad va'da qiladigan biznes modellarini, jumladan, ko‘p bosqichli marketing imkoniyatlari reklamasini cheklaydi. Bunday reklamalar rad etilishi va kabinet cheklanishi mumkin.
+
+### MLM tajribasi keyin foydali bo‘ladimi?
+
+Sotuv va muloqot ko‘nikmalari foydali bo‘lishi mumkin. Lekin ularni oddiy sotuv ishida yoki o‘z biznesingizda, moliyaviy xavfsiz o‘rganish ham mumkin.
+
+### Onlayn kurs yoki «mentorlik» ham piramida bo‘lishi mumkinmi?
+
+Ha, agar daromad asosan yangi o‘quvchilarni jalb qilishdan kelsa, ular esa kursni keyingilarga qayta sotsa. Belgilari: kursning o‘zi haqida kam ma'lumot, asosiy va'da — «boshqalarni olib kelib pul topasiz», muddatli bosim.
+
+### Kompaniya haqida ma'lumotni qayerdan olish mumkin?
+
+Rasmiy ro‘yxatdan o‘tganini, yuridik manzili va sayti borligini tekshiring, sobiq ishtirokchilar fikrlari va yangiliklarni o‘qing. Barcha shartlarni yozma ravishda so‘rang — og‘zaki va'dalar hech narsani kafolatlamaydi.
 
 ## Xulosa
 

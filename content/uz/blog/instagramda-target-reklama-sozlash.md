@@ -2,6 +2,7 @@
 title: Instagram'da target reklama qanday sozlanadi: bosqichma-bosqich qo‘llanma
 description: Meta Ads Manager orqali Instagram'da target reklamani noldan sozlash: maqsad tanlash, auditoriya, byudjet, kreativlar va birinchi haftadagi xatolar.
 date: 2026-10-22
+updated: 2026-10-23
 slug: instagramda-target-reklama-sozlash
 type: article
 tags: target reklama, meta ads, instagram
@@ -74,6 +75,97 @@ Eng muhimi — arizaga tez javob berish. Mijoz bir vaqtda bir nechta kompaniyaga
 4. **Arizalar sifati** — sotuv bo‘limidan so‘rang: arizalar xaridga aylanyaptimi?
 
 Eng yomon ishlayotgan kreativlarni o‘chirib, byudjetni yaxshilariga o‘tkazing va har hafta yangi kreativlar qo‘shing.
+
+## Kampaniya tuzilmasi: uch daraja
+
+Ads Manager'da har bir reklama uch darajadan iborat:
+
+1. **Kampaniya** — maqsad: xabarlar, arizalar yoki sotuvlar.
+2. **Reklama guruhi (ad set)** — auditoriya, joylashuvlar, jadval va byudjet.
+3. **Reklama** — kreativ, matn va tugma.
+
+Birinchi test uchun oddiy tuzilma yetarli: bitta kampaniya, tilga qarab ikkita guruh (o‘zbek va rus) va har birida 3 ta turli kreativ. Shunda qaysi til va qaysi kreativ yaxshi ishlashini bir oyda ko‘rasiz.
+
+## Reklama matni namunasi (shartli)
+
+- **Asosiy matn:** «O‘lchamingiz bo‘yicha divan — 10 kunda. Muddatli to‘lov va Toshkent bo‘ylab bepul yetkazib berish. Narxni bilish uchun yozing.»
+- **Sarlavha:** «Buyurtma asosida divanlar».
+- **Tugma:** «Xabar yuborish».
+
+Matnning birinchi qatori eng muhim — u «Batafsil» tugmasisiz ko‘rinadi. Taklif va va'dalar haqiqiy bo‘lsin.
+
+## Ishga tushirishdan oldin chek-list
+
+- Biznes akkaunti va to‘lov usuli sozlangan.
+- Instagram akkaunti Meta Business Suite'ga ulangan.
+- Saytingiz bo‘lsa — Pixel o‘rnatilgan va hodisalar tekshirilgan.
+- Forma sinab ko‘rilgan: test ariza yuborilgan va qabul qilingan.
+- Direct uchun avtomatik salomlashuv va tez javoblar tayyor.
+- Arizalarga kim va qancha vaqtda javob berishi belgilangan.
+- Havolalarda UTM-belgilar bor.
+- Byudjet va muddatlar tekshirilgan.
+
+## 2–4-haftalar: optimallashtirish
+
+- Yetarli ma'lumot to‘plangach, ariza narxi yuqori reklamalarni o‘chiring.
+- G‘olib guruhga yangi kreativlar qo‘shing.
+- Bitta yangi auditoriya yoki taklifni sinang.
+- Sozlamalarni har kuni o‘zgartirmang — algoritm o‘rganishga ulgursin.
+- Byudjetni bosqichma-bosqich oshiring.
+
+## Ko‘p uchraydigan xatolar
+
+- Postni «Reklama qilish» tugmasi bilan ko‘tarib, Ads Manager'dan foydalanmaslik.
+- Juda tor auditoriya va bitta kreativ.
+- Joylashuvlarni qo‘lda haddan tashqari cheklash.
+- Arizalarga kech javob berish.
+- Kuzatuvsiz ishlash — qaysi reklama sotuv olib kelganini bilmaslik.
+
+## Retargeting kampaniyasini qo‘shish
+
+2–3 haftadan keyin, asosiy kampaniya auditoriya to‘plagach, ikkinchi kampaniyani qo‘shing: profil bilan faol bo‘lgan, videoni ko‘rgan yoki saytga kirgan, lekin ariza qoldirmaganlar uchun. Bu yerda boshqa kreativlar kerak — sharhlar, e'tirozlarga javob va muddatli taklif. Ariza qoldirganlarni istisno qiling va bu kampaniyaga byudjetning kichik qismini bering. Batafsil — [retargeting](/blog/retargeting-qanday-ishlaydi/) maqolasida.
+
+## Hisobotdagi asosiy ustunlar
+
+Ads Manager'da ustunlarni o‘zingizga moslang va shablon sifatida saqlang: sarf, natijalar, bitta natija narxi, havolaga bosish ulushi (CTR), chastota va ming ko‘rish narxi (CPM). Shu oltita ustun reklamaning holatini bir qarashda ko‘rsatadi.
+
+## Savol-javob
+
+### Reklama moderatsiyadan qancha vaqtda o‘tadi?
+
+Ko‘pincha bir necha soatda, ba'zan bir kungacha. Rad etilsa, sababini o‘qing, reklamani qoidalarga moslang va qayta ko‘rib chiqishni so‘rang — bu haqda [kabinet bloklandi](/blog/reklama-kabineti-bloklandi/) maqolasida.
+
+### Facebook sahifasi shartmi?
+
+Ads Manager orqali ishlash uchun odatda Facebook sahifasi va unga ulangan Instagram akkaunti kerak. Ikkalasini Meta Business Suite'da bog‘lang — bu boshqaruvni ham osonlashtiradi.
+
+### Reklamani o‘zbek yoki rus tilida qilish kerakmi?
+
+Auditoriyangizga qarab. Ikki tilli auditoriya bo‘lsa, ikkala tilda alohida reklama guruhlari qiling. Kreativni har bir tilda «tabiiy» qiling — mashina tarjimasi darhol seziladi.
+
+### Kunlik yoki umumiy byudjet tanlash kerakmi?
+
+Doimiy kampaniyalar uchun kunlik byudjet qulay. Aniq sanaga bog‘liq aksiyalar uchun esa umumiy byudjet va tugash sanasi yaxshiroq.
+
+### Reklama ko‘rsatilmayapti — nima sabab bo‘lishi mumkin?
+
+Reklama hali tekshiruvda yoki rad etilgan, to‘lovda muammo bor, auditoriya juda kichik, byudjet juda past yoki kabinet cheklangan. Ads Manager'dagi holat va ogohlantirishlarni tekshiring.
+
+### Reklamani qachon to‘xtatish kerak?
+
+Bir-ikki hafta davomida o‘zgarishlarga qaramay ariza narxi maksimal ruxsat etilganidan yuqori bo‘lsa yoki mahsulot tugagan bo‘lsa. Dam olish kunidagi bitta yomon kun to‘xtatishga sabab emas.
+
+### Reklama natijasini qayerda ko‘rish kerak?
+
+Ads Manager'da — sarf, arizalar va ariza narxi. Lekin yakuniy javobni CRM beradi: qancha ariza sotuvga aylandi. Ikkalasini birga ko‘ring — [CPL qo‘llanmasi](/blog/lid-narxi-cpl-qanday-kamaytirish/) bunga yordam beradi.
+
+### Advantage+ kampaniyalaridan foydalanish kerakmi?
+
+Ular auditoriya, joylashuv va kreativ kombinatsiyasini avtomatik tanlaydi va konversiyalar yetarli bo‘lganda yaxshi ishlaydi. Yangi kabinetda oddiy kampaniya bilan boshlang, keyin Advantage+ ni alohida test qiling va natijalarni solishtiring.
+
+### Bir nechta mahsulotni bitta kampaniyada reklama qilsa bo‘ladimi?
+
+Har bir mahsulot yoki taklif uchun alohida reklama guruhi yaxshiroq — shunda qaysi biri ishlayotgani ko‘rinadi. Ko‘p mahsulotli do‘konlar uchun katalog reklamasi qulayroq.
 
 ## Xulosa
 

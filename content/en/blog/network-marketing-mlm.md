@@ -2,6 +2,7 @@
 title: Network marketing (MLM): can you make money, and how to spot a pyramid
 description: How network marketing works, who actually earns, the warning signs of a financial pyramid and 7 questions to ask before joining an MLM in Uzbekistan.
 date: 2026-10-22
+updated: 2026-10-23
 slug: network-marketing-mlm
 type: article
 tags: mlm, business, sales
@@ -78,6 +79,97 @@ If two or three questions don't get a clear answer, that is a serious warning.
 ## A marketer's view: what about building your own business?
 
 What draws many people to MLM is not the product but the idea of owning a business. Today small businesses in Uzbekistan have direct sales channels: Instagram, Telegram, Uzum Market. When you sell your own product or service, you keep all the income, and the customer base and brand are yours. To get started, see our [Instagram ads setup guide](/en/blog/how-to-set-up-instagram-ads/) and our [guide to ad costs](/en/blog/paid-ads-cost-in-uzbekistan/).
+
+## How to calculate MLM income
+
+Start from net income, not the promised bonus:
+
+> Net income = bonuses and markup − (mandatory purchases + events and training + travel and phone costs + advertising)
+
+**An example (illustrative numbers):** a monthly bonus of 1,500,000 sum, but a mandatory monthly order of 800,000, events at 300,000 and travel and phone costs of 200,000 sum. Net income: 200,000 sum. Add the hours spent, too: the hourly income often turns out far lower than in an ordinary job.
+
+## How to spot an MLM pitch on social media
+
+- Vague promises like "passive income" and "financial freedom".
+- Photos of expensive cars and travel, but little about the product.
+- "Comment '+' for details" — the company name stays hidden until the very end.
+- Screenshots of earnings without context.
+- The focus is on "joining the team", not on the product.
+
+## If you've already joined
+
+1. Calculate your net income for the last three months using the formula above.
+2. Stop buying stock you can't sell.
+3. Check the contract's terms for returning unsold products.
+4. Don't pressure friends and relatives — relationships are worth more than income.
+5. If you see signs of a pyramid, decide on leaving.
+
+## The law and protecting yourself
+
+Financial pyramid schemes are banned by law in many countries. If you come across a suspicious offer or can't get your money back, contact an independent lawyer or a consumer protection organisation. Never transfer money without documents.
+
+## What an honest referral programme looks like
+
+If you want to grow your own business's sales through customers, you don't need MLM. An honest referral programme has no entry fee, pays rewards only for real purchases, has open and clear terms, and sells a product worth its price. A programme like that turns happy customers into your best advertising — see [Repeat sales and LTV](/en/blog/repeat-sales-and-ltv/).
+
+## MLM, franchise, sales agent and referral programme: the difference
+
+| Model | Entry fee | Source of income | Main risk |
+|---|---|---|---|
+| MLM | Often | Bonuses from your own sales and your recruits' sales | Mandatory purchases, dependence on the structure |
+| Franchise | Yes — for the brand and system | Sales to customers | Large investment, contract terms |
+| Sales agent | No | Commission on each sale | Unstable income |
+| Referral programme | No | A reward when a referred customer buys | Small income, more of a side benefit |
+
+The table makes it clear: if income comes from selling to customers, it's a business; if it comes mostly from new participants, that's a warning sign.
+
+## How to protect people close to you
+
+If someone close to you gets drawn into MLM, don't blame or mock them — it only pushes them further away. Offer to calculate the net income together, ask for the company's documents and don't lend money for a "starter pack". Give them time to decide: decisions made under pressure are often wrong.
+
+## A simple test before deciding
+
+1. Would I buy this product at this price if I weren't a participant?
+2. Can I earn money from sales to customers alone?
+3. Is there an entry fee or a mandatory monthly purchase?
+4. Can unsold products be returned?
+5. Will my net income be positive after three months?
+
+If you don't like several of your answers, think again before joining.
+
+## Questions and answers
+
+### Are all MLM companies pyramid schemes?
+
+No. The key difference is where the income comes from: sales of a real product to outside customers, or payments from new participants. The latter is a sign of a pyramid.
+
+### A friend is inviting you to join — how do you say no?
+
+Politely and briefly: "Thanks, but this isn't right for me now." There's no need to argue or try to convince them — keep the friendship.
+
+### If you like the product, do you have to join?
+
+No. In many cases you can buy the product as an ordinary customer. Before joining, calculate the economics with the formula above.
+
+### Can you get back money paid into an MLM?
+
+It depends on the contract and the company's rules. Get the refund terms in writing, keep your documents and consult a lawyer if needed.
+
+### Can you advertise MLM on social media?
+
+Meta's advertising policies restrict ads for business models that promise quick income for little investment, including multi-level marketing opportunities. Such ads may be rejected, and the ad account restricted.
+
+### Will MLM experience be useful later?
+
+The sales and communication skills can be. But you can also learn them in an ordinary sales job or in your own business — without the financial risk.
+
+### Can an online course or "mentorship" be a pyramid too?
+
+Yes, if the income comes mainly from recruiting new students who then resell the course to others. The signs: little information about the course itself, a main promise of "you'll earn by bringing in others", and pressure to decide quickly.
+
+### Where can you find information about a company?
+
+Check its official registration, legal address and website, and read former participants' reviews and the news. Ask for all terms in writing — verbal promises guarantee nothing.
 
 ## Conclusion
 

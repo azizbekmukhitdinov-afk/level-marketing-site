@@ -2,6 +2,7 @@
 title: How to grow sales with internet marketing: a map for businesses in Uzbekistan
 description: Internet marketing channels — Instagram, Telegram, paid ads, SEO, Maps and Uzum Market: which one fits you, where to start and how to measure results.
 date: 2026-10-22
+updated: 2026-10-23
 slug: internet-marketing-increase-sales
 type: article
 tags: internet marketing, smm, strategy
@@ -82,6 +83,86 @@ Followers and likes are not sales on their own. Base decisions on numbers connec
 - Running the same creative for months.
 - Judging results by reach alone.
 - Blindly copying competitors instead of finding your own offer.
+
+## A channel mix by type of business
+
+| Business | Channels to start with |
+|---|---|
+| Clinic or dental practice | Maps, Instagram, paid ads, a Telegram channel |
+| Education centre | Reels, paid ads, a Telegram channel, a trial lesson |
+| Furniture or interiors | Instagram, paid ads, a showroom, maps |
+| Online store | Instagram, a marketplace, retargeting, Telegram |
+| B2B services | Google search, LinkedIn, expert content, direct sales |
+| Café or restaurant | Maps, Instagram, bloggers and local chats |
+
+There are detailed guides for each niche: [clinics](/en/blog/marketing-a-clinic/), [education centres](/en/blog/marketing-an-education-centre/), [furniture stores](/en/blog/marketing-a-furniture-store/) and [building a brand on Uzum Market](/en/blog/building-a-brand-on-uzum-market/).
+
+## A sample small-budget monthly plan (illustrative numbers)
+
+| Item | Amount | Purpose |
+|---|---|---|
+| Instagram and Facebook ads | $300 | The main flow of leads |
+| Content: video and design | $100 | New creatives every month |
+| Maps and search | $50 | Capturing "hot" demand |
+| Test reserve | $50 | A new audience or channel |
+| **Total** | **$500** | |
+
+The numbers vary by niche — what matters is the structure: a main channel, fresh creatives and a small test reserve.
+
+## How marketing and sales connect
+
+Marketing brings the lead; the process decides the sale. The lead goes into the CRM, a manager replies within minutes, the conversation follows a script, and if there's no decision, there's a follow-up on an agreed day. Once a week, marketing and sales review the results together: which leads were good, which aren't turning into sales and why.
+
+## When you need a specialist or an agency
+
+- When you no longer have time for marketing.
+- When several channels are running at once.
+- When you've worked on it yourself for 2–3 months without stable results.
+- When the quality of video and design is holding back your ads.
+
+Hand over the technical work first — ad setup, editing, design. Keep control of the offer, pricing and sales yourself. How to choose a specialist is covered in [How to choose a paid ads specialist](/en/blog/how-to-choose-a-paid-ads-specialist/).
+
+## A starter toolkit
+
+- **A CRM or spreadsheet** — for leads and sales.
+- **Meta Business Suite** — posts, ads and messages.
+- **Editing and design apps** — video and templates on your phone.
+- **Google Analytics or Yandex Metrica** — if you have a website.
+- **A Telegram bot** — to collect leads automatically.
+
+## Questions and answers
+
+### How soon does internet marketing produce results?
+
+The first leads from ads arrive within days. Organic channels — content, SEO, a Telegram channel — build up over months and deliver stable results later.
+
+### Is internet marketing possible without a website?
+
+Yes. Many businesses sell without one, through Instagram, Telegram and maps. A website becomes useful later for Google ads, search and trust.
+
+### Which channel is cheapest?
+
+In money terms, organic content and maps — but they take time. The right comparison is cost per sale, with your time included.
+
+### How do you combine internet marketing with offline advertising?
+
+Put QR codes and promo codes on banners, flyers and packaging, and ask customers "Where did you hear about us?". That way offline advertising shows up in the numbers too.
+
+### How much time should an owner spend on marketing?
+
+A few hours a week: decisions, the offer, content ideas and reviewing results. The technical work can be delegated, but the owner sets the direction.
+
+### Which report should show the results?
+
+Spend, leads, cost per lead, sales and cost per sale — by channel. The report structure is covered in [What an ad report should include](/en/blog/what-an-ad-report-should-include/).
+
+### Which numbers should you check every day?
+
+Daily: spend, number of leads and whether the leads were answered. Weekly: cost per lead and sales. Monthly: ROMI and the share of returning customers. That rhythm reveals problems before it's too late.
+
+### Can one person run all the channels?
+
+One or two channels at the start, yes. As channels multiply, you'll need a team or an agency for content, ads and lead handling: one person can't do everything well.
 
 ## Conclusion
 
