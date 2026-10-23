@@ -54,4 +54,4 @@ Javob tezligi — reklama byudjetini oshirmasdan sotuvni ko‘paytirishning eng 
 
 - [Sotuv skripti: telefon va Telegram uchun tuzilma](/blog/sotuv-skripti/)
 - [CRM nima va kichik biznesga qaysi biri mos](/blog/crm-tanlash/)
-- [Lid narxi (CPL) nima va uni qanday kamaytirish mumkin: tadbirkor uchun qo‘llanma](/blog/lid-narxi-cpl-qanday-kamaytirish/)
+- [Telegram bot orqali arizalarni yig‘ish: biznes uchun qo‘llanma](/blog/telegram-bot-orqali-arizalar/)

@@ -59,4 +59,4 @@ A CRM is the tool for not losing leads and managing sales by the numbers. Start 
 
 - [What an advertising report should include](/en/blog/what-an-ad-report-should-include/)
 - [ROMI: is your marketing paying off, and how to calculate it](/en/blog/how-to-calculate-romi/)
-- [Cost per lead (CPL): what it is and how to lower it](/en/blog/cost-per-lead-cpl-how-to-lower/)
+- [Collecting leads with a Telegram bot: a guide for business](/en/blog/telegram-bot-for-leads/)

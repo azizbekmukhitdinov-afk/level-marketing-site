@@ -59,4 +59,4 @@ CRM — инструмент, чтобы не терять заявки и уп�
 
 - [Что должно быть в отчёте по рекламе](/ru/blog/chto-dolzhno-byt-v-otchete-po-reklame/)
 - [ROMI: окупается ли маркетинг и как это посчитать](/ru/blog/kak-poschitat-romi/)
-- [Цена лида (CPL): что это и как её снизить — гид для предпринимателя](/ru/blog/tsena-lida-cpl-kak-snizit/)
+- [Сбор заявок через Telegram-бота: инструкция для бизнеса](/ru/blog/telegram-bot-dlya-zayavok/)

@@ -59,4 +59,4 @@ CRM — arizalarni yo‘qotmaslik va sotuvni raqamlar bilan boshqarish vositasi.
 
 - [Reklama hisobotida qanday raqamlar bo‘lishi shart](/blog/reklama-hisoboti/)
 - [ROMI: marketing foyda keltiryaptimi, qanday hisoblash](/blog/romi-hisoblash/)
-- [Lid narxi (CPL) nima va uni qanday kamaytirish mumkin: tadbirkor uchun qo‘llanma](/blog/lid-narxi-cpl-qanday-kamaytirish/)
+- [Telegram bot orqali arizalarni yig‘ish: biznes uchun qo‘llanma](/blog/telegram-bot-orqali-arizalar/)

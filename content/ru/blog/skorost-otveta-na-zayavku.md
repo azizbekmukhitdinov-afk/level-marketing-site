@@ -54,4 +54,4 @@ rubric: sotuv
 
 - [Скрипт продаж: структура для звонков и Telegram](/ru/blog/skript-prodazh/)
 - [Что такое CRM и какая подойдёт малому бизнесу](/ru/blog/kakaya-crm-dlya-malogo-biznesa/)
-- [Цена лида (CPL): что это и как её снизить — гид для предпринимателя](/ru/blog/tsena-lida-cpl-kak-snizit/)
+- [Сбор заявок через Telegram-бота: инструкция для бизнеса](/ru/blog/telegram-bot-dlya-zayavok/)
