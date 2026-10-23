@@ -2,6 +2,7 @@
 title: iComfort keysi: oylik sotuv 100 tadan 700+ taga
 description: Telefon do‘koni iComfort uchun marketing strategiyasi, ishonchli Instagram sahifa va target reklama: oyiga 700+ sotuv.
 date: 2026-10-22
+updated: 2026-10-23
 slug: keys-icomfort
 type: case
 tags: keys, smm, target reklama
@@ -31,6 +32,23 @@ image: /img/cases/icomfort.jpg
 | Oylik sotuv | 100 ta | **700+ ta** |
 | Oylik qamrov | — | **2 million+** |
 | Marketing byudjeti | — | $3 000 / oy |
+
+## Bu yondashuvni qanday qo‘llash
+
+1. Profilingizni xaridor ko‘zi bilan tekshiring: yuz, sharhlar va ochiq narx bormi?
+2. Narx va muddatli to‘lov shartlarini aniq ko‘rsating — mijoz savolga javob kutib o‘tirmasin.
+3. Mahsulot obzorlari va ekspert videolar orqali sotuvchining bilimini ko‘rsating.
+4. Reklama byudjetini profil tayyor bo‘lgandan keyin oshiring.
+
+## Kimga mos
+
+Texnika do‘konlari, muddatli to‘lov bilan sotadigan bizneslar va raqobat ko‘p bo‘lgan chakana savdo. Batafsil — [sotadigan Instagram profil](/blog/instagram-profil-sotadigan/) va [ekspert intervyu](/blog/ekspert-intervyu-video/) maqolalarida.
+
+## Savol-javob
+
+### Nega avval profil, keyin reklama?
+
+Reklama odamni profilga olib keladi, qaror esa profilda qabul qilinadi. Ishonch uyg‘otmaydigan sahifaga reklama qilish pulning katta qismini behuda sarflaydi.
 
 ## Xulosa
 

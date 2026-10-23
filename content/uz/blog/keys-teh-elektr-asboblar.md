@@ -2,6 +2,7 @@
 title: TEH elektr asboblari do‘koni keysi: $7 000 reklama, $40 000+ onlayn sotuv
 description: TEH elektr asboblari do‘koni bilan 1 yildan ortiq hamkorlik: $7 000 reklama byudjeti va $40 000 dan ortiq onlayn sotuv.
 date: 2026-10-22
+updated: 2026-10-23
 slug: keys-teh-elektr-asboblar
 type: case
 tags: keys, target reklama, e-commerce
@@ -26,6 +27,23 @@ image: /img/cases/teh.jpg
 |---|---|
 | Reklama xarajati | $7 000 |
 | Onlayn sotuvlar | **$40 000 dan ortiq** |
+
+## Bu yondashuvni qanday qo‘llash
+
+1. Har bir mahsulot uchun xususiyatlar kartochkasining yagona shablonini yarating.
+2. Xaridor solishtiradigan parametrlarni birinchi o‘ringa qo‘ying: quvvat, kafolat, narx.
+3. Yagona firma uslubi bilan lentani qulay katalogga aylantiring.
+4. Lid va xabarlar kampaniyalarini ariza soni bilan emas, sotuv bilan solishtiring.
+
+## Kimga mos
+
+Texnik mahsulotlarga: asboblar, maishiy texnika, ehtiyot qismlar, qurilish mollari. Batafsil — [vizual uslub](/blog/vizual-uslub-aydentika/) va [instant forma yoki xabarlar](/blog/instant-forma-yoki-xabarlar/) maqolalarida.
+
+## Savol-javob
+
+### Texnik mahsulotlar uchun video kerakmi yoki rasm yetarlimi?
+
+Ikkalasi ham. Kartochka xususiyatlarni tez solishtirishga yordam beradi, video esa asbobni amalda ko‘rsatadi va savollarni kamaytiradi.
 
 ## Xulosa
 

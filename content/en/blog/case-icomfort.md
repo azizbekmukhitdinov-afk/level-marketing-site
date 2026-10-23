@@ -2,6 +2,7 @@
 title: iComfort case: monthly sales from 100 to 700+
 description: Marketing strategy, a trustworthy Instagram page and paid ads for the iComfort phone store: 700+ sales a month.
 date: 2026-10-22
+updated: 2026-10-23
 slug: case-icomfort
 type: case
 tags: case, smm, paid ads
@@ -31,6 +32,23 @@ image: /img/cases/icomfort.jpg
 | Monthly sales | 100 | **700+** |
 | Monthly reach | — | **2 million+** |
 | Marketing budget | — | $3,000 / month |
+
+## How to apply this approach
+
+1. Check your profile through a buyer's eyes: is there a face, are there reviews and an open price?
+2. Show the price and instalment terms clearly — customers shouldn't have to wait for an answer.
+3. Show the seller's knowledge through product reviews and expert videos.
+4. Raise the ad budget once the profile is ready.
+
+## Who this suits
+
+Electronics stores, businesses that sell on instalments and highly competitive retail. More in [Instagram profile that sells](/en/blog/instagram-profile-that-sells/) and [Expert interview videos](/en/blog/expert-interview-videos/).
+
+## Questions and answers
+
+### Why the profile first and ads second?
+
+Ads bring people to the profile, but the decision is made there. Advertising a page that doesn't inspire trust wastes much of the money.
 
 ## Takeaway
 

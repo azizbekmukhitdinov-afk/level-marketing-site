@@ -2,6 +2,7 @@
 title: Global Avenue case: 100 apartments sold in 6 months
 description: Moroccan-style branding, a 3-year interest-free instalment offer and advertising for the Global Avenue residential complex: 100 apartments in 6 months.
 date: 2026-10-22
+updated: 2026-10-23
 slug: case-global-avenue
 type: case
 tags: case, branding, real estate
@@ -28,6 +29,23 @@ Stand out from competitors and attract buyers with an engaging themed presentati
 |---|---|
 | Ad campaign | 6 months |
 | Apartments sold | **100** |
+
+## How to apply this approach
+
+1. Study competitors' ads: if most of them look the same, a memorable style becomes your advantage.
+2. Apply the brand idea consistently across the whole project: name, visuals, presentation and sales office.
+3. State the financial offer clearly — with the term and conditions.
+4. Plan follow-ups and retargeting in advance for a long sales cycle.
+
+## Who this suits
+
+Real estate, expensive services and markets with dense competition. More in [Competitor analysis](/en/blog/competitor-analysis/) and [How retargeting works](/en/blog/how-retargeting-works/).
+
+## Questions and answers
+
+### How does branding help sell real estate?
+
+Buyers see lots of similar listings. A memorable style sets the project apart, and a clear offer gives people a reason to decide — the two work together.
 
 ## Takeaway
 

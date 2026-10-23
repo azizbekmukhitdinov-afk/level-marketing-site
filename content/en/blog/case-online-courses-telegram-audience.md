@@ -2,6 +2,7 @@
 title: Online course cases: 35,000 and 25,000 Telegram subscribers from zero
 description: Paid ads for courses by psychologist Dilrabo Isroilova and dietitian Barno Suleymanova: $6,000 each and large Telegram audiences from zero.
 date: 2026-10-22
+updated: 2026-10-23
 slug: case-online-courses-telegram-audience
 type: case
 tags: case, personal brand, paid ads
@@ -31,6 +32,23 @@ Before launching the first cohort, she needed a targeted audience on Telegram.
 | Partnership | 4 months |
 | Ad spend | $6,000 |
 | Result | **25,000 subscribers from zero via paid ads** |
+
+## How to apply this approach
+
+1. Start building the audience early — months before selling the course.
+2. Make the Telegram channel useful: the expert's free materials, answers and everyday tips.
+3. Use ads to bring targeted subscribers into the channel.
+4. When the course opens, offer it to exactly this warm audience.
+
+## Who this suits
+
+Online courses, signature programmes and experts building their own audience. More in [Grow a Telegram channel](/en/blog/grow-a-telegram-channel/) and [Telegram advertising](/en/blog/telegram-advertising/).
+
+## Questions and answers
+
+### Why build an audience first instead of selling the course straight away?
+
+A course is a pricier product that requires trust. A subscriber who has followed the expert for a few weeks trusts them and decides faster when the offer comes out.
 
 ## Takeaway
 

@@ -2,6 +2,7 @@
 title: Express School avtomaktabi keysi: oyiga 40 tadan 300+ o‘quvchiga
 description: Express School avtomaktabi uchun Reels va target reklama: oyiga 300+ sotuv, 5 million+ qamrov va Nest One'da ofis.
 date: 2026-10-22
+updated: 2026-10-23
 slug: keys-express-school-avtomaktab
 type: case
 tags: keys, reels, target reklama
@@ -30,6 +31,23 @@ image: /img/cases/express-school.jpg
 | Oylik sotuv | 40 ta | **300+ ta** |
 | Qamrov | — | **5 million+** |
 | Biznes | — | Nest One'da yangi ofis |
+
+## Bu yondashuvni qanday qo‘llash
+
+1. Bitiruvchilar bilan muntazam qisqa videolar oling — natija qo‘lida bo‘lgan payt.
+2. Mijozlar eng ko‘p beradigan savollar ro‘yxatini tuzing va har biriga alohida video qiling.
+3. Eng yaxshi organik Reels'larni target reklama bilan kerakli auditoriyaga yetkazing.
+4. Arizalarga tez javob bering va aniq keyingi qadamni taklif qiling.
+
+## Kimga mos
+
+Ta'lim xizmatlariga: avtomaktablar, til markazlari, kurslar — va natijasi ko‘rinadigan har qanday xizmatga. Batafsil — [o‘quv markazi marketingi](/blog/oquv-markazi-marketing/) va [video reklama turlari](/blog/video-reklama-turlari/) maqolalarida.
+
+## Savol-javob
+
+### Bitiruvchilarni videoga qanday jalb qilish mumkin?
+
+Natija olgan kunida, quvonchli lahzada taklif qiling va video qisqa bo‘lishini ayting. Albatta roziligini oling — videoda ishtirok etish ixtiyoriy bo‘lsin.
 
 ## Xulosa
 

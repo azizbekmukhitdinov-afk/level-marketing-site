@@ -2,6 +2,7 @@
 title: TEH power tools store case: $7,000 in ads, $40,000+ in online sales
 description: Over a year of work with the TEH power tools store: a $7,000 ad budget and more than $40,000 in online sales.
 date: 2026-10-22
+updated: 2026-10-23
 slug: case-teh-power-tools
 type: case
 tags: case, paid ads, e-commerce
@@ -26,6 +27,23 @@ image: /img/cases/teh.jpg
 |---|---|
 | Ad spend | $7,000 |
 | Online sales | **over $40,000** |
+
+## How to apply this approach
+
+1. Create one template for a specifications card for every product.
+2. Put the parameters buyers compare up front: power, warranty, price.
+3. Use a single brand style to turn your feed into a convenient catalogue.
+4. Compare lead and message campaigns by sales, not by number of leads.
+
+## Who this suits
+
+Technical products: tools, household appliances, spare parts, building materials. More in [Visual identity for small business](/en/blog/visual-identity-for-small-business/) and [Lead form or messages](/en/blog/lead-form-or-messages/).
+
+## Questions and answers
+
+### Do technical products need video, or are photos enough?
+
+Both. A card helps people compare specifications quickly, while a video shows the tool in action and answers questions before they're asked.
 
 ## Takeaway
 
