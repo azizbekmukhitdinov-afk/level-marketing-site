@@ -2,6 +2,7 @@
 title: Yandex Direkt O‘zbekistonda: qachon foydali va qanday boshlash
 description: Yandex Direkt qidiruv va tarmoq reklamasi, qaysi bizneslarga mos, Google Ads'dan farqi va birinchi kampaniya.
 date: 2026-10-22
+updated: 2026-10-23
 slug: yandex-direkt-ozbekistonda
 type: article
 tags: target reklama, meta ads
@@ -51,6 +52,51 @@ Ko‘p hollarda eng yaxshi natija ikkala tizimni test qilib, ariza narxini solis
 - Metrika va maqsadlarsiz ishlash — qaysi so‘z sotuv olib kelganini bilmaysiz.
 - Tarmoq va qidiruvni bitta kampaniyada aralashtirish.
 - Natijani faqat bosish narxi bo‘yicha baholash.
+
+## Kalit so‘zlar namunasi
+
+Masalan, Toshkentdagi mebel do‘koni uchun (rusiyzabon so‘rovlar):
+
+| Guruh | Kalit so‘zlar | Minus-so‘zlar |
+|---|---|---|
+| Burchakli divanlar | «угловой диван купить ташкент», «угловой диван цена» | бесплатно, своими руками, бу |
+| Divan-krovatlar | «диван кровать купить», «раскладной диван ташкент» | чертеж, ремонт, вакансия |
+
+Har bir guruh uchun alohida e'lon va alohida sahifa bo‘lsin — shunda e'lon so‘rovga aniq javob beradi.
+
+## E'lon namunasi
+
+- **Sarlavha:** «Угловые диваны в Ташкенте — от производителя»
+- **Matn:** «Изготовим по вашим размерам. Доставка по городу. Рассрочка.»
+- **Qo‘shimcha havolalar:** «Каталог», «Цены», «Рассрочка», «Контакты».
+
+Bu — shartli namuna: matnda faqat siz haqiqatan bajara oladigan va'dalar bo‘lsin.
+
+## Birinchi ikki hafta: nimani kuzatish
+
+1. **Qidiruv so‘rovlari hisobotini** har 2–3 kunda ko‘ring va keraksiz so‘rovlarni minus-so‘zlarga qo‘shing.
+2. **Sarf bor, lekin maqsad yo‘q** bo‘lgan kalit so‘zlarni to‘xtating yoki stavkasini pasaytiring.
+3. **Metrika'da** sahifadan tez chiqib ketish va qurilmalar bo‘yicha farqni tekshiring.
+4. **Bir vaqtda bitta narsani o‘zgartiring** — aks holda nima ta'sir qilganini bilmaysiz.
+5. **Saytdagi arizalarni CRM bilan solishtiring** — Metrika'dagi maqsad har doim ham haqiqiy mijoz emas.
+
+## Savol-javob
+
+### Test uchun qancha byudjet kerak?
+
+Aniq summa sohaga bog‘liq. Oddiy hisob: kutilayotgan bitta ariza narxini 10–20 ga ko‘paytiring — shuncha arizadan keyin xulosa qilish mumkin. Undan kam byudjet bilan natija tasodifiy bo‘ladi. Byudjetni rejalashtirish — [marketing byudjeti](/blog/marketing-byudjeti-rejasi/) maqolasida.
+
+### O‘zbek tilidagi so‘rovlarga ham reklama qilsa bo‘ladimi?
+
+Agar mijozlaringiz o‘zbek tilida ham qidirsa, bu so‘rovlarni alohida guruhda sinab ko‘ring va e'lon tilini so‘rov tiliga moslang. Kabinetda qaysi tillar va hududlar qo‘llab-quvvatlanishini oldindan tekshiring.
+
+### Agentlik orqali ishlash nima beradi?
+
+To‘lov qulayligi, sozlash tajribasi va muntazam hisobotlar. Lekin akkaunt va Metrika sizning nomingizda bo‘lsin — hamkorlik tugasa ham ma'lumotlar sizda qoladi. Mutaxassisni qanday tanlash — [targetolog tanlash](/blog/targetolog-qanday-tanlanadi/) maqolasida.
+
+### Yandex Xaritalarda ko‘rinish uchun nima qilish kerak?
+
+Avval Yandex Biznes'da tashkilot kartochkasini to‘liq to‘ldiring: toifa, ish vaqti, rasmlar va narxlar, sharhlarga esa muntazam javob bering. Pullik ko‘rsatish imkoniyatlari ham bor, lekin ular to‘liq kartochka bilan yaxshiroq ishlaydi. Batafsil — [biznesni xaritalarga qo‘shish](/blog/biznesni-xaritalarga-qoshish/) maqolasida.
 
 ## Xulosa
 

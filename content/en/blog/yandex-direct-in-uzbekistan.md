@@ -2,6 +2,7 @@
 title: Yandex Direct in Uzbekistan: when it helps and how to start
 description: Yandex Direct search and network ads, which businesses it suits, how it differs from Google Ads and how to launch a first campaign.
 date: 2026-10-22
+updated: 2026-10-23
 slug: yandex-direct-in-uzbekistan
 type: article
 tags: paid ads, meta ads
@@ -51,6 +52,51 @@ The best results usually come from testing both systems and comparing cost per l
 - Running without Metrica and goals — you can't tell which keywords bring sales.
 - Mixing search and network placements in one campaign.
 - Judging results by cost per click alone.
+
+## Sample keywords
+
+For example, for a furniture store in Tashkent (Russian-language queries):
+
+| Group | Keywords | Negative keywords |
+|---|---|---|
+| Corner sofas | "угловой диван купить ташкент" (buy a corner sofa Tashkent), "угловой диван цена" (corner sofa price) | бесплатно (free), своими руками (DIY), бу (used) |
+| Sofa beds | "диван кровать купить" (buy a sofa bed), "раскладной диван ташкент" (folding sofa Tashkent) | чертеж (drawing), ремонт (repair), вакансия (vacancy) |
+
+Give each group its own ad and its own landing page, so the ad answers the query precisely.
+
+## A sample ad
+
+- **Headline:** "Corner sofas in Tashkent — direct from the manufacturer"
+- **Text:** "Made to your measurements. Delivery across the city. Instalments available."
+- **Sitelinks:** "Catalogue", "Prices", "Instalments", "Contacts".
+
+This is an illustrative example: your text should only make promises you actually keep.
+
+## The first two weeks: what to watch
+
+1. **Check the search query report** every 2–3 days and add irrelevant queries as negative keywords.
+2. **Pause keywords that spend without reaching goals**, or lower their bids.
+3. **In Metrica**, check bounce rates and differences between devices.
+4. **Change one thing at a time** — otherwise you won't know what made the difference.
+5. **Reconcile website leads with your CRM** — a goal in Metrica isn't always a real customer.
+
+## Questions and answers
+
+### How much budget do you need for a test?
+
+The exact amount depends on your niche. A simple calculation: multiply your expected cost per lead by 10–20 — after that many leads you can draw conclusions. With less, the result will be random. Budget planning is covered in [Planning a marketing budget](/en/blog/planning-a-marketing-budget/).
+
+### Can you advertise on Uzbek-language queries?
+
+If your customers also search in Uzbek, test those queries in a separate group and write the ad in the language of the query. Check in advance which languages and regions the account supports.
+
+### What does working through an agency give you?
+
+Convenient payment, setup experience and regular reports. But the account and Metrica should be registered to you — then the data stays with you even after the partnership ends. How to choose a specialist is covered in [How to choose a paid ads specialist](/en/blog/how-to-choose-a-paid-ads-specialist/).
+
+### What does it take to be visible on Yandex Maps?
+
+First, complete your organisation's listing in Yandex Business: category, opening hours, photos and prices — and reply to reviews regularly. There are paid placement options too, but they work better with a complete listing. More in [Add your business to maps](/en/blog/add-your-business-to-maps/).
 
 ## Conclusion
 

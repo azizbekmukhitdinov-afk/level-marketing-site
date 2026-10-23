@@ -2,6 +2,7 @@
 title: Reklama kabineti bloklandi: nima qilish va qanday oldini olish
 description: Meta reklama kabineti nega bloklanadi, apellyatsiyani qanday yuborish va bloklanish xavfini kamaytiradigan qoidalar.
 date: 2026-10-22
+updated: 2026-10-23
 slug: reklama-kabineti-bloklandi
 type: article
 tags: target reklama, meta ads
@@ -43,6 +44,57 @@ Reklama kabinetining bloklanishi — tadbirkor va targetolog uchun eng yoqimsiz 
 ## Agentlik bilan ishlaganda
 
 Kabinet va sahifa sizning biznesingizga tegishli bo‘lishi kerak, agentlik esa unga ruxsat bilan ishlaydi. Shunda hamkorlik tugasa ham, tarix, auditoriyalar va Pixel ma'lumotlari sizda qoladi. Bu haqda — [targetolog tanlash haqidagi maqolada](/blog/targetolog-qanday-tanlanadi/).
+
+## Qayta ko‘rib chiqish so‘rovi namunasi
+
+Qisqa, xushmuomala va faktlarga asoslangan bo‘lsin:
+
+> «Assalomu alaykum. Kabinetimizda [mahsulot yoki xizmat] reklamasi ishlaydi. Cheklov haqidagi xabarni ko‘rdik va reklama qoidalarini qayta o‘rganib chiqdik. [Reklama nomi]dagi matnni o‘zgartirdik: [nima o‘zgardi]. Kabinetni qayta ko‘rib chiqishingizni so‘raymiz.»
+
+Hissiyotli, uzun yoki ayblovchi matn yozmang va bir xil so‘rovni qayta-qayta yubormang.
+
+## Reklamani ishga tushirishdan oldin tekshirish
+
+- Matnda odamning shaxsiy xususiyatlariga to‘g‘ridan-to‘g‘ri murojaat yo‘q.
+- Natija kafolatlanmagan, sezgir mavzularda «oldin/keyin» ishlatilmagan.
+- Reklama va sahifa mazmuni bir xil: va'da qilingan narsa sahifada bor.
+- Soxta tugmalar va «yangi xabar» kabi aldamchi elementlar yo‘q.
+- Musiqa va rasmlardan foydalanish huquqi bor.
+- Kredit, ish o‘rinlari, uy-joy yoki ijtimoiy mavzudagi reklamalar uchun maxsus kategoriya ko‘rsatilgan.
+
+## Ko‘p uchraydigan xatolar
+
+- Bloklanish sababini o‘qimasdan apellyatsiya yuborish.
+- Barcha kampaniya va byudjetni bitta kabinetda saqlash.
+- Biznes tasdiqlanmagan, kabinetda esa bitta admin.
+- To‘lov kartasini tez-tez almashtirish.
+- Targetologga shaxsiy profil parolini berish.
+
+## Zaxira reja
+
+Bitta kabinetga bog‘lanib qolmang. Arizalar oqimi to‘xtamasligi uchun boshqa kanallarni ham ishlatib turing: Telegram reklamasi, Google va Yandex, organik kontent va mijozlar bazasiga xabarlar. Telegram'da reklama haqida — [Telegram reklama](/blog/telegram-ads-reklama/) maqolasida.
+
+## Savol-javob
+
+### Ko‘rib chiqish qancha davom etadi?
+
+Odatda bir necha kun, ba'zan uzoqroq — muddatni oldindan bilib bo‘lmaydi. Shu vaqt ichida boshqa kanallar orqali ishlashni davom ettiring.
+
+### Yangi kabinet ochib, ishlashda davom etsa bo‘ladimi?
+
+Cheklovni chetlab o‘tish uchun yangi kabinetlar ochish Meta qoidalariga zid va yanada qattiqroq cheklovlarga olib kelishi mumkin. Avval masalani rasmiy yo‘l bilan hal qiling.
+
+### Shaxsiy profil bloklansa-chi?
+
+Profil orqali kabinetga kirish yo‘qoladi — shuning uchun zaxira admin muhim. Profilni tiklash uchun Meta ko‘rsatgan tasdiqlash qadamlarini bajaring: hujjat yoki selfi-video so‘ralishi mumkin.
+
+### Qoidalarni qayerdan o‘qish mumkin?
+
+Meta'ning reklama standartlari (Advertising Standards) sahifasida. Sohangiz uchun cheklangan kategoriyalar bo‘limini alohida o‘qing — ayniqsa tibbiyot va moliya bo‘yicha talablar qattiqroq.
+
+### Agentlik kabineti xavfsizroqmi?
+
+Agentlik kabineti to‘lov va limitlarda qulaylik berishi mumkin, lekin qoidalar bir xil: qoidabuzar reklama u yerda ham bloklanadi. Bundan tashqari, sahifa va Pixel ma'lumotlari sizning biznes akkauntingizda qolishiga ishonch hosil qiling.
 
 ## Xulosa
 

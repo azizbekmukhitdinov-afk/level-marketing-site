@@ -2,6 +2,7 @@
 title: Sotuv skripti: telefon va Telegram uchun tuzilma
 description: Skript bosqichlari — salomlashish, ehtiyojni aniqlash, taqdimot, e'tirozlar va yopish — va tayyor misol.
 date: 2026-10-22
+updated: 2026-10-23
 slug: sotuv-skripti
 type: article
 tags: sotuv, analitika
@@ -45,6 +46,63 @@ Skript so‘zma-so‘z o‘qiladigan matn emas, balki yo‘l xaritasi: qaysi bos
 - Qo‘ng‘iroqlarni yozib, har hafta 3–5 tasini birga tahlil qiling.
 - Qaysi bosqichda mijozlar «yo‘qolishini» CRM'da kuzating.
 - Yangi e'tirozlar paydo bo‘lsa, javobini skriptga qo‘shing.
+
+## Ehtiyojni aniqlash uchun savollar banki
+
+| Maqsad | Savol namunasi |
+|---|---|
+| Hozirgi holat | «Hozir nimadan foydalanyapsiz?» |
+| Muammo | «Unda nima yoqmayapti?» |
+| Mezonlar | «Tanlashda siz uchun eng muhimi nima?» |
+| Muddat | «Qachongacha kerak?» |
+| Byudjet | «Qaysi narx oralig‘ini ko‘rib chiqyapsiz?» |
+| Qaror | «Tanlovda yana kim ishtirok etadi?» |
+
+Barcha savollarni ketma-ket bermang — suhbatga mos 3–4 tasini tanlang. Mijoz javoblarini CRM'ga yozing: ular taqdimot va keyingi aloqa uchun kerak bo‘ladi.
+
+## Skriptni joriy qilish: 4 qadam
+
+1. **Eng yaxshi menejer suhbatlarini yozib oling** — birinchi variant ulardan yig‘iladi.
+2. **Rolli o‘yin** — menejerlar bir-biri bilan mijoz va sotuvchi bo‘lib mashq qiladi.
+3. **Birinchi ikki hafta har kuni** 2–3 ta qo‘ng‘iroqni tinglab, qisqa izoh bering.
+4. **Har oy yangilang** — yangi e'tirozlar va ishlagan iboralarni qo‘shing.
+
+## Ko‘p uchraydigan xatolar
+
+- Mijozdan ko‘ra ko‘proq gapirish.
+- Ehtiyojni so‘ramay turib, katalogni yuborish.
+- E'tiroz bilan bahslashish.
+- Keyingi qadam kelishilmasdan suhbatni tugatish.
+- Skriptni bir xil ohangda, o‘qiyotgandek aytish.
+
+## Qayta aloqa skripti
+
+Mijoz «o‘ylab ko‘raman» desa, keyingi aloqa ham rejalashtirilgan bo‘lsin:
+
+1. **Kelishilgan kuni** qo‘ng‘iroq qiling yoki yozing — kechiktirmang.
+2. **Yangi qiymat bilan keling:** savolga javob, yangi rasm, mijoz sharhi yoki boshqa variant.
+3. **Aniq savol bering:** «Qaysi variantga to‘xtadingiz?»
+4. **Javob «yo‘q» bo‘lsa** — sababini so‘rang va CRM'ga yozing: bu keyingi sotuvlar uchun ma'lumot.
+
+«Shunchaki eslatib qo‘ymoqchi edim» degan xabar kamdan-kam ishlaydi — har bir aloqa mijozga biror foyda bersin.
+
+## Savol-javob
+
+### Tajribali menejerlarga ham skript kerakmi?
+
+Ha. Ular so‘zlarni o‘zgartirishi mumkin, lekin bosqichlar hamma uchun bir xil bo‘lishi kerak. Shunda suhbatlarni solishtirish, yangi xodimni o‘qitish va yo‘qotilgan sotuv sababini topish osonlashadi.
+
+### Skript qancha uzun bo‘lishi kerak?
+
+Bir-ikki sahifa: bosqichlar, asosiy savollar va eng ko‘p uchraydigan 5–7 ta e'tirozga javob. Uzun hujjatni hech kim o‘qimaydi va suhbat paytida undan foydalanib bo‘lmaydi.
+
+### Telefon va yozishma uchun alohida skript kerakmi?
+
+Bosqichlar bir xil, shakli boshqacha. Yozishmada xabarlar qisqaroq, rasm va video ko‘proq; telefonda esa savollar va ohang muhimroq.
+
+### Skript samarasini qanday o‘lchash mumkin?
+
+CRM'da bosqichlar bo‘yicha konversiyani skriptdan oldin va keyin solishtiring. Menejerlar o‘rtasidagi farq ham ko‘p narsani ko‘rsatadi: skriptga amal qilganlarning natijasi qanday. Takroriy sotuvlar uchun ham alohida ssenariy tuzing — bu haqda [takroriy sotuv va LTV](/blog/takroriy-sotuv-ltv/) maqolasida.
 
 ## Xulosa
 

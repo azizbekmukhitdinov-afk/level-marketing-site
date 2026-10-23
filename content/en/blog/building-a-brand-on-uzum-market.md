@@ -2,6 +2,7 @@
 title: From reseller to brand: building your own brand on Uzum Market
 description: Why a brand protects you from price wars on a marketplace, and how to work with listings, reviews and external traffic.
 date: 2026-10-22
+updated: 2026-10-23
 slug: building-a-brand-on-uzum-market
 type: article
 tags: brand, reputation
@@ -49,6 +50,59 @@ Relying only on internal search is hard when competition inside the marketplace 
 - Ignoring negative reviews.
 - Not tracking stock — when a product runs out, the listing loses its position.
 - Selling only through discounts.
+
+## A sample product title and description
+
+- **Title:** "Electric kettle [Brand] 1.7 l, stainless steel, auto shut-off"
+- **Description structure:** who it's for → 3–5 key advantages → specifications (capacity, power, material) → care → warranty and what's in the box.
+
+Put the words buyers search for in the title, and answers to their questions in the description.
+
+## Profit per sale: a simple calculation
+
+Turnover on a marketplace can look big, but profit is another matter. Calculate it for every product.
+
+**An example (illustrative numbers):** price 200,000 sum, cost of goods 90,000, marketplace commission and logistics 50,000, advertising 20,000. The profit from one sale is 40,000 sum. Add returns and discounts, and the figure shrinks further.
+
+Commission and logistics rates vary by category — take them from the current terms in your seller account. How to measure ad efficiency is covered in [How to calculate ROMI](/en/blog/how-to-calculate-romi/).
+
+## Improving the product from reviews
+
+Once a month, group negative reviews and questions:
+
+| Complaint | What to do |
+|---|---|
+| "Smaller than I expected" | Add a size chart and a comparison photo to the listing |
+| "The colour differs from the photo" | Reshoot the photos in daylight |
+| "The packaging arrived crushed" | Make the packaging sturdier |
+| "I didn't understand how to use it" | Add short instructions and a video |
+
+Fixing a recurring complaint helps your rating more than asking for new reviews.
+
+## Launch: the first 30 days
+
+| Period | What to do |
+|---|---|
+| Week 1 | A complete listing: all photos, a video, a description; a small stock |
+| Week 2 | Ask the first buyers for reviews; bring outside traffic from Instagram and Telegram |
+| Weeks 3–4 | Analyse view → cart → order conversion; fix photos, title or price |
+| Ongoing | Track stock and restock before the product runs out |
+
+The first month is a test: the goal isn't big sales but understanding how the listing and the price perform.
+
+## Questions and answers
+
+### Can you sell without registering a trademark?
+
+You can, but it's risky: another seller may use your name or register it before you. Some marketplaces may also ask for documents before showing a brand name — check the terms in advance.
+
+### Do you need your own website as well as the marketplace?
+
+Not at the start: Instagram and Telegram are enough to build brand awareness. Once you have more repeat customers, your own website or Telegram shop can become a commission-free sales channel.
+
+### How many products should you start with?
+
+One to three. Test demand with a small batch first, then expand the range — starting with a large batch can freeze your money in the warehouse.
 
 ## Conclusion
 

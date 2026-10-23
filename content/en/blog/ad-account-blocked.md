@@ -2,6 +2,7 @@
 title: Ad account blocked: what to do and how to prevent it
 description: Why Meta blocks ad accounts, how to file an appeal and which habits reduce the risk of a ban.
 date: 2026-10-22
+updated: 2026-10-23
 slug: ad-account-blocked
 type: article
 tags: paid ads, meta ads
@@ -43,6 +44,57 @@ A blocked ad account is one of the most unpleasant things that can happen to a b
 ## If you work with an agency
 
 The ad account and Page should belong to your business, with the agency working through granted access. That way, even when the partnership ends, the history, audiences and Pixel data stay with you. More in our article on [choosing an ads specialist](/en/blog/how-to-choose-a-paid-ads-specialist/).
+
+## A sample review request
+
+Keep it short, polite and factual:
+
+> "Hello. Our account runs ads for [product or service]. We saw the restriction notice and reviewed the advertising policies again. We changed the text in [ad name]: [what changed]. We kindly ask you to review the account again."
+
+Don't write an emotional, long or accusatory message, and don't send the same request over and over.
+
+## Checking an ad before launch
+
+- The text doesn't refer directly to a person's personal attributes.
+- No results are guaranteed, and "before/after" isn't used on sensitive topics.
+- The ad and the landing page match: what's promised is on the page.
+- There are no fake buttons or misleading elements like "new message".
+- You have the rights to the music and images.
+- Ads about credit, employment, housing or social issues have the special category declared.
+
+## Common mistakes
+
+- Sending an appeal without reading the reason for the block.
+- Keeping all campaigns and the whole budget in one ad account.
+- An unverified business with a single admin on the account.
+- Changing the payment card frequently.
+- Giving your paid ads specialist the password to your personal profile.
+
+## A backup plan
+
+Don't depend on one ad account. To keep leads flowing, keep other channels running too: Telegram ads, Google and Yandex, organic content and messages to your customer base. More on Telegram ads in [Telegram advertising](/en/blog/telegram-advertising/).
+
+## Questions and answers
+
+### How long does a review take?
+
+Usually a few days, sometimes longer — you can't know the timing in advance. Keep working through other channels in the meantime.
+
+### Can you open a new ad account and carry on?
+
+Creating new accounts to get around restrictions breaks Meta's rules and can lead to even stricter restrictions. Resolve the issue through the official route first.
+
+### What if your personal profile gets blocked?
+
+You lose access to the ad account through that profile — which is why a backup admin matters. To recover it, follow the verification steps Meta shows: you may be asked for an ID document or a video selfie.
+
+### Where can you read the rules?
+
+On Meta's Advertising Standards page. Read the section on restricted categories for your industry separately — the requirements are especially strict in healthcare and finance.
+
+### Is an agency ad account safer?
+
+An agency account can be more convenient for payments and limits, but the rules are the same: ads that break them get blocked there too. Also make sure your page and Pixel data stay in your own business account.
 
 ## Conclusion
 

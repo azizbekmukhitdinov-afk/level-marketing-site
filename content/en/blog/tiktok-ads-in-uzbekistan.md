@@ -2,6 +2,7 @@
 title: TikTok Ads in Uzbekistan: who it suits and how to start
 description: Which businesses TikTok ads suit, how to open an account, which creatives work and how to launch your first campaign.
 date: 2026-10-22
+updated: 2026-10-23
 slug: tiktok-ads-in-uzbekistan
 type: article
 tags: paid ads, meta ads
@@ -46,6 +47,53 @@ If the answer is no, the same vertical videos can run on Instagram Reels and You
 ## How to judge results
 
 Clicks on TikTok can be cheap, but what matters is cost per lead and per sale. Compare them the same way as your Meta ads: spend, leads, CPL and conversion to sale. For comparing creatives, see our [A/B testing](/en/blog/ab-testing-ad-creatives/) guide.
+
+## Creative ideas: 6 formats
+
+1. **POV** — "When you come to [service] for the first time…" — viewers see themselves in the hero's place.
+2. **"3 reasons"** — why this product, with fast, rhythmic editing.
+3. **A video reply to a comment** — answering a customer's question with a separate video.
+4. **Behind the scenes** — how an order is prepared or a service is done.
+5. **Before / after** — the result in a few seconds.
+6. **An employee's or founder's story** — straight to camera, in plain language.
+
+## A test plan (example)
+
+| Week | What to do |
+|---|---|
+| Week 1 | 3–5 different videos, one audience, a small budget |
+| Week 2 | Keep the best 1–2 and make 3 variations of them with new hooks |
+| Week 3 | Gradually raise the winner's budget; run strong organic videos as Spark Ads |
+
+## Common mistakes
+
+- Running a polished Instagram ad unchanged.
+- A video without a hook that opens with a logo.
+- A reposted video carrying another platform's watermark.
+- Judging results by cost per click alone.
+- Changing the audience, creative and budget all at once.
+
+## Questions and answers
+
+### Do you need separate videos for TikTok?
+
+Often one vertical video can run on Reels, Shorts and TikTok — without watermarks and with text adapted to each platform. But a faster pace and a more casual style may work better on TikTok, so test several versions.
+
+### What's the minimum budget?
+
+TikTok Ads has a minimum daily budget at the campaign and ad group level — check the current amount in your account. For a test, plan a budget that gives each video enough impressions to draw conclusions.
+
+### Should you combine organic TikTok and ads?
+
+Yes. Organic videos let you test ideas cheaply, and the best ones can be promoted as Spark Ads. How to use trends is covered in [Using trends for business](/en/blog/using-trends-for-business/).
+
+### What if leads from TikTok are low quality?
+
+Add one or two qualifying questions to the form (such as city or timing), show the price or a "from" price in the ad, and judge results by sales rather than lead count. Choosing between a form and messages is covered in [Lead form or messages](/en/blog/lead-form-or-messages/).
+
+### Which audience settings should you start with?
+
+Avoid very narrow settings: region, age and language are enough to begin with. TikTok finds the people who watch the video to the end on its own — on this platform the creative matters more than targeting.
 
 ## Conclusion
 

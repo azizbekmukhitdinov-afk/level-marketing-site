@@ -2,6 +2,7 @@
 title: Sales script: a structure for calls and Telegram
 description: Script stages — greeting, discovery, presentation, objections and closing — with a ready example.
 date: 2026-10-22
+updated: 2026-10-23
 slug: sales-script
 type: article
 tags: sales, analytics
@@ -45,6 +46,63 @@ A script isn't text to read word for word — it's a map: what to ask at each st
 - Record calls and review 3–5 of them together every week.
 - Track in your CRM at which stage customers drop off.
 - When new objections appear, add the answers to the script.
+
+## A question bank for uncovering needs
+
+| Goal | Sample question |
+|---|---|
+| Current situation | "What are you using now?" |
+| Problem | "What don't you like about it?" |
+| Criteria | "What matters most to you when choosing?" |
+| Timing | "When do you need it by?" |
+| Budget | "What price range are you considering?" |
+| Decision | "Who else is involved in the choice?" |
+
+Don't ask them all in a row — pick the 3–4 that fit the conversation. Record the customer's answers in the CRM: you'll need them for the presentation and the next contact.
+
+## Rolling out a script: 4 steps
+
+1. **Record your best manager's conversations** — the first version is built from them.
+2. **Role-play** — managers practise on each other as customer and seller.
+3. **For the first two weeks, every day,** listen to 2–3 calls and give short feedback.
+4. **Update it monthly** — add new objections and phrases that worked.
+
+## Common mistakes
+
+- Talking more than the customer.
+- Sending the catalogue before finding out what they need.
+- Arguing with an objection.
+- Ending the conversation without agreeing on a next step.
+- Delivering the script in a monotone, as if reading it.
+
+## A follow-up script
+
+If a customer says "I'll think about it", plan the next contact too:
+
+1. **On the agreed day**, call or message — don't put it off.
+2. **Bring something new:** an answer to a question, a new photo, a customer review or another option.
+3. **Ask a specific question:** "Which option have you settled on?"
+4. **If the answer is "no"**, ask why and record it in the CRM: it's data for future sales.
+
+A message like "just wanted to remind you" rarely works — every contact should give the customer something useful.
+
+## Questions and answers
+
+### Do experienced managers need a script too?
+
+Yes. They can change the words, but the stages should be the same for everyone. That makes it easier to compare conversations, train new hires and find the reasons for lost sales.
+
+### How long should a script be?
+
+One or two pages: the stages, key questions and answers to the 5–7 most common objections. Nobody reads a long document, and you can't use one during a call.
+
+### Do you need separate scripts for calls and messaging?
+
+Same stages, different form. In messaging, messages are shorter, with more photos and videos; on the phone, questions and tone matter more.
+
+### How do you measure a script's effectiveness?
+
+Compare stage-by-stage conversion in the CRM before and after the rollout. Differences between managers are telling too: what results do those who follow the script get? Build a separate scenario for repeat sales as well — more in [Repeat sales and LTV](/en/blog/repeat-sales-and-ltv/).
 
 ## Conclusion
 

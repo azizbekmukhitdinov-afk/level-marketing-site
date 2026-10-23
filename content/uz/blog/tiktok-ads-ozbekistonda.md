@@ -2,6 +2,7 @@
 title: TikTok Ads O‘zbekistonda: kimga mos va qanday boshlash kerak
 description: TikTok reklamasi qaysi bizneslarga mos, kabinet qanday ochiladi, qanday kreativ ishlaydi va birinchi kampaniyani qanday ishga tushirish.
 date: 2026-10-22
+updated: 2026-10-23
 slug: tiktok-ads-ozbekistonda
 type: article
 tags: target reklama, meta ads
@@ -46,6 +47,53 @@ Agar javob «yo‘q» bo‘lsa, xuddi shu vertikal videolarni Instagram Reels va
 ## Natijani qanday baholash
 
 TikTok'da bosishlar arzon bo‘lishi mumkin, lekin asosiy ko‘rsatkich — ariza va sotuv narxi. Ularni Meta reklamasi bilan bir xil usulda solishtiring: sarf, arizalar, CPL va sotuvga konversiya. Kreativlarni qanday solishtirish haqida — [A/B test](/blog/kreativlar-ab-test/) maqolasida.
+
+## Kreativ g‘oyalari: 6 ta format
+
+1. **POV** — «Siz birinchi marta [xizmat]ga kelganingizda…» — tomoshabin o‘zini qahramon o‘rnida ko‘radi.
+2. **«3 ta sabab»** — nega aynan shu mahsulot, tez va ritmik montaj bilan.
+3. **Izohga video javob** — mijoz savoliga alohida video bilan javob berish.
+4. **Jarayon ortida** — buyurtma qanday tayyorlanadi yoki xizmat qanday bajariladi.
+5. **Oldin / keyin** — natijani bir necha soniyada ko‘rsatish.
+6. **Xodim yoki asoschi hikoyasi** — kameraga qarab, sodda tilda.
+
+## Test rejasi (namuna)
+
+| Hafta | Nima qilish |
+|---|---|
+| 1-hafta | 3–5 ta turli video, bitta auditoriya, kichik byudjet |
+| 2-hafta | Eng yaxshi 1–2 tasini qoldirish va ularga yangi hook bilan 3 ta variant qilish |
+| 3-hafta | G‘olibning byudjetini asta-sekin oshirish, yaxshi organik videolarni Spark Ads qilish |
+
+## Ko‘p uchraydigan xatolar
+
+- Instagram'dagi «yaltiroq» reklama roligini o‘zgartirmasdan joylash.
+- Hook'siz, logotip bilan boshlanadigan video.
+- Boshqa platforma suv belgisi bilan qayta joylangan video.
+- Natijani faqat bosish narxi bo‘yicha baholash.
+- Bir vaqtda auditoriya, kreativ va byudjetni o‘zgartirish.
+
+## Savol-javob
+
+### TikTok uchun alohida video kerakmi?
+
+Ko‘pincha bitta vertikal videoni Reels, Shorts va TikTok'da ishlatish mumkin — faqat suv belgisiz va har bir platformaga mos matn bilan. Lekin TikTok'da tezroq ritm va jonliroq uslub yaxshiroq ishlashi mumkin, shuning uchun bir nechta variantni sinab ko‘ring.
+
+### Minimal byudjet qancha?
+
+TikTok Ads'da kampaniya va reklama guruhi darajasida minimal kunlik byudjet bor — amaldagi summani kabinetda tekshiring. Test uchun har bir video bo‘yicha xulosa qilishga yetadigan ko‘rishlar soni bo‘ladigan byudjet rejalashtiring.
+
+### Organik TikTok va reklamani birga yuritish kerakmi?
+
+Ha. Organik videolar g‘oyalarni arzon sinash imkonini beradi, eng yaxshilarini esa Spark Ads orqali reklamaga chiqarish mumkin. Trendlardan foydalanish — [trendlar](/blog/trendlardan-foydalanish/) maqolasida.
+
+### TikTok'dan kelgan arizalar sifatsiz bo‘lsa-chi?
+
+Formaga bitta-ikkita saralovchi savol qo‘shing (masalan, shahar yoki muddat), reklamada narxni yoki «...dan boshlab» narxni ko‘rsating va natijani ariza soni emas, sotuv bo‘yicha baholang. Forma yoki xabar tanlash — [instant forma yoki xabarlar](/blog/instant-forma-yoki-xabarlar/) maqolasida.
+
+### Qanday auditoriya sozlamalaridan boshlash kerak?
+
+Juda tor sozlamalardan qoching: boshlash uchun hudud, yosh va til yetarli. TikTok videoni kim oxirigacha ko‘rishini o‘zi topadi — bu platformada kreativ targetingdan ko‘ra muhimroq.
 
 ## Xulosa
 

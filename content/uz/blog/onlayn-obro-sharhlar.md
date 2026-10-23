@@ -2,6 +2,7 @@
 title: Onlayn obro‘: sharhlarni qanday yig‘ish va salbiy sharhga javob berish
 description: Sharhlar sotuvga qanday ta'sir qiladi, mamnun mijozlardan sharhni qanday so‘rash va salbiy sharhga javob shabloni.
 date: 2026-10-22
+updated: 2026-10-23
 slug: onlayn-obro-sharhlar
 type: article
 tags: brend, obro‘
@@ -50,6 +51,62 @@ Agar sharh qoidalarni buzsa (haqorat, reklama, siz bilan aloqasi yo‘q) — pla
 - Eng yaxshi sharhlarni (ruxsat bilan) Instagram «Sharhlar» highlight'iga joylang.
 - Reklamada sharh-videolardan foydalaning — bu haqda [UGC kontent](/blog/ugc-kontent/) maqolasida.
 - Sharhlardagi takrorlanuvchi so‘zlar — reklama matnlari uchun tayyor g‘oyalar.
+
+## Ijobiy sharhga qanday javob berish
+
+Faqat «Rahmat!» deb yozmang — javob ham kontent, uni boshqa mijozlar ham o‘qiydi:
+
+> «Nodira, iliq so‘zlaringiz uchun rahmat! Ustamiz Jasurga albatta yetkazamiz. Divan sizga uzoq yillar xizmat qilsin — parvarish bo‘yicha savol bo‘lsa, bemalol yozing.»
+
+Yaxshi javobda mijozning ismi, sharhdagi aniq detal va keyingi qadam bo‘ladi: qayta tashrif, parvarish maslahati yoki yangi xizmat haqida eslatma.
+
+## Obro‘ni kuzatish: haftalik tartib
+
+| Qayerda | Nimani tekshirish |
+|---|---|
+| Google va Yandex Xaritalar | Yangi sharhlar, savollar, reyting |
+| Marketpleyslar | Baholar va tovar haqidagi savollar |
+| Instagram | Izohlar, belgilashlar va Direct |
+| Telegram | Brend nomi bo‘yicha qidiruv: chat va kanallardagi eslatmalar |
+
+Mas'ul xodimni belgilang va haftalik qisqa hisobot so‘rang: nechta yangi sharh, o‘rtacha baho va qanday shikoyatlar takrorlanyapti.
+
+## Ko‘p uchraydigan xatolar
+
+- Barcha sharhlarga bir xil, nusxalangan javob.
+- Mijoz bilan ochiq bahslashish yoki uni ayblash.
+- Javobda mijozning shaxsiy ma'lumotlarini oshkor qilish — ayniqsa klinikalarda.
+- Faqat yangi sharhlarga javob berib, eskilarini e'tiborsiz qoldirish.
+
+## Birdaniga ko‘p salbiy sharh kelsa
+
+Masalan, yetkazib berishda nosozlik bo‘lib, bir kunda o‘nlab shikoyat yozildi. Bunday holatda:
+
+1. **Sharhlarni o‘chirishga urinmang** va har biriga shoshib, bir xil javob yozmang.
+2. **Umumiy sababni aniqlang** — nima bo‘ldi, qancha mijozga ta'sir qildi.
+3. **Ochiq bayonot bering** — Instagram yoki Telegram'da: nima bo‘lgani, nima qilinayotgani va qachon hal bo‘lishi.
+4. **Har bir sharhga alohida javob bering** va kompensatsiya yoki yechim taklif qiling.
+5. **Sababni tuzating** va bir-ikki haftadan keyin natija haqida yozing.
+
+Ochiq tan olingan va tez tuzatilgan xato obro‘ni ko‘pincha jimlikdan ko‘ra kamroq zarar bilan o‘tkazadi.
+
+## Savol-javob
+
+### Sharhlarga qancha vaqtda javob berish kerak?
+
+Bir-ikki ish kuni ichida, salbiylariga esa imkon qadar o‘sha kuni. Tez javob mijozga uni eshitganingizni ko‘rsatadi va muammo kattalashishining oldini oladi.
+
+### Xodimlar sharh yozsa bo‘ladimi?
+
+Yo‘q. Xodimlar, ularning qarindoshlari yoki kompaniya nomidan yozilgan sharhlar manfaatlar to‘qnashuvi hisoblanadi va platforma qoidalariga zid. Bunday sharhlar o‘chirilishi va kartochkaga zarar yetkazishi mumkin.
+
+### Muammo hal bo‘lgach, sharhni o‘zgartirishni so‘rasa bo‘ladimi?
+
+Xushmuomalalik bilan, bosimsiz va hech qanday mukofotsiz so‘rash mumkin: «Agar xohlasangiz, sharhingizni yangilashingiz mumkin». Qaror mijozniki.
+
+### Mukammal 5,0 reyting kerakmi?
+
+Shart emas. Bir nechta tanqidiy sharh va ularga berilgan yaxshi javoblar ko‘pincha mukammal reytingdan ko‘ra ishonchliroq ko‘rinadi. Mijozlar fikrini tizimli yig‘ish — [mijoz fikrini yig‘ish](/blog/mijoz-fikrini-yigish/) maqolasida.
 
 ## Xulosa
 

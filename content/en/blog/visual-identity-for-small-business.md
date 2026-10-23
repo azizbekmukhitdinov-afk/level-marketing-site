@@ -2,6 +2,7 @@
 title: Visual identity: the minimum a small business needs
 description: Logo, colours, fonts and content templates — a minimal brand book for a small business.
 date: 2026-10-22
+updated: 2026-10-23
 slug: visual-identity-for-small-business
 type: article
 tags: brand, reputation
@@ -57,6 +58,52 @@ Collect everything into one PDF or page: the logo and its versions, colour codes
 - A low-quality, blurry logo file.
 - Every designer working in their own style.
 - A visual style that doesn't match the brand's voice.
+
+## Where your style should show up
+
+Your avatar and highlight covers, post and Stories templates, website, signage, business cards, packaging, staff uniforms, price list, presentations and Telegram channel should all share one style. Put the list in a table and tick off each place where the new logo, colours and fonts are already in use.
+
+## A brief for your designer
+
+A clear brief means fewer rounds of revisions. Give the designer:
+
+- a short description of the business, product and [target audience](/en/blog/target-audience-and-customer-persona/);
+- three words describing the brand's character: for example, "reliable, modern, simple";
+- examples you like and dislike — and why;
+- where the style will be used: Instagram, signage, packaging, website;
+- which files you need: logo versions, templates, a brand book;
+- the deadline, budget and number of revisions.
+
+## How to keep the style consistent
+
+The most common problem once an identity exists is that it gradually drifts. To prevent that:
+
+1. **One owner** approves new materials.
+2. **A shared folder** keeps logo files, fonts, templates and the brand book in one place.
+3. **A quarterly check** — do the feed, signage and printed materials look the same?
+4. **New employees and partners** get the brand book on day one.
+
+## Questions and answers
+
+### Can you make your own logo?
+
+To start, a simple text logo set in a good font is enough. Avoid ready-made icons and clip art from the internet — other businesses use them too. Once the business grows, invest in a designer.
+
+### How much does a visual identity cost?
+
+It depends on the scope: just a logo, a minimal kit or a full brand book. Ask the designer to price a specific list, and agree in advance which files you'll receive at the end.
+
+### How do you choose colours?
+
+Check readability and contrast first, then look at your competitors' colours — it's better to stand apart from them. Test the colours on a phone screen and in print: they can look different.
+
+### When should you update your visual style?
+
+When it looks dated or the business itself has changed. But don't change it too often — recognition comes from consistency. A small refresh (restyling) is often cheaper and safer than a full rebrand.
+
+### Can you use free fonts?
+
+Many fonts are free, such as those on Google Fonts, but check each font's licence: some are free for personal use only. For commercial use — a logo, ads, packaging — choose a font that allows it. Keep the licence file in your brand book folder.
 
 ## Conclusion
 
