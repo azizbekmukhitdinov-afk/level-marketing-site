@@ -4,4 +4,4 @@
 Пост дня для Instagram, Telegram и LinkedIn дневная смена готовит при любом значении;
 публиковать его сам или спрашивать — решает `daily_mode` в `~/level-bot/config.json`.
 
-articles_per_day: 1
+articles_per_day: 2
