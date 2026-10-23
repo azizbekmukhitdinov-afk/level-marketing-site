@@ -2,6 +2,7 @@
 title: Expert interview videos: a format that builds trust
 description: Why the interview format works, how to prepare questions, how to shoot and how to turn one interview into 10 Reels.
 date: 2026-10-22
+updated: 2026-10-23
 slug: expert-interview-videos
 type: article
 tags: reels, video
@@ -51,6 +52,49 @@ An interview is the most natural way to show expertise: you talk, someone asks q
 | Website article | 1–2 |
 
 For Reels, pick the best moments and add a hook to each — [Reels script templates](/en/blog/reels-script-templates/) help. Post the long version on your [YouTube](/en/blog/youtube-for-business/) channel.
+
+## Editing the interview: 5 steps
+
+1. **Turn the recording into text.** Auto-caption tools transcribe the whole conversation — mark the strongest answers in the transcript.
+2. **Cut each answer into its own file.** Each clip should start where the question is repeated, so it makes sense without context.
+3. **Put a hook in the first 3 seconds.** Move the most interesting line of the answer to the start, or write the question in large text on screen.
+4. **Add captions.** Many people watch without sound — the text should be large and readable.
+5. **End with a next step.** "Full interview — link in bio" or "Ask your question in the comments".
+
+For choosing an editor, see [video editing apps](/en/blog/video-editing-apps/).
+
+## A month of content from one interview
+
+Don't release everything in one day — spread it over four weeks:
+
+- **Week 1:** the three strongest answers as Reels.
+- **Week 2:** quote posts and short texts for Telegram.
+- **Week 3:** the remaining Reels and a Q&A in Stories.
+- **Week 4:** the full video on YouTube and an article on your website.
+
+That way one day of shooting covers your whole [content plan](/en/blog/instagram-content-plan/).
+
+## Common mistakes
+
+- **The expert reads a script.** A teleprompter kills the energy — write only the key points on paper.
+- **Generic questions.** Instead of "Tell us about yourself", use customers' real questions.
+- **Bad sound.** Viewers forgive a soft image but not poor audio.
+- **Answers that run too long.** If you don't split them, there's nothing left for Reels.
+- **No measurement.** Note which questions brought the most views and messages — and use those topics in the next interview.
+
+## Questions and answers
+
+### Do you need expensive equipment for an interview?
+
+No. Two lavalier mics, window light and a recent phone are enough. Spend on sound first — you can improve the picture later.
+
+### Who should ask the questions?
+
+Someone who understands the topic but isn't the expert — a marketer or SMM manager, for example. They ask simple questions the way a customer would and keep the expert speaking plainly.
+
+### How long should one interview be?
+
+Usually 40–60 minutes. In a longer session the expert gets tired and the answers get worse. If you have many questions, split the shoot over two days.
 
 ## Conclusion
 

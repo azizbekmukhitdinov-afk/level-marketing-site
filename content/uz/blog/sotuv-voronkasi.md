@@ -2,6 +2,7 @@
 title: Sotuv voronkasi nima: oddiy so‘zlar bilan
 description: Voronka bosqichlari, har bosqichda nimani o‘lchash, «teshiklarni» qanday topish va kichik biznes uchun misol.
 date: 2026-10-22
+updated: 2026-10-23
 slug: sotuv-voronkasi
 type: article
 tags: sotuv, analitika
@@ -44,6 +45,45 @@ Endi har bir bosqichni yaxshilash natijani o‘zgartiradi: agar arizadan sotuvga
 ## Voronkani qanday kuzatish
 
 Kichik biznes uchun oddiy jadval yetarli: har hafta qamrov, o‘tishlar, arizalar, sotuvlar. Arizalar soni ko‘payganda — [CRM](/blog/crm-tanlash/) ga o‘ting. Ariza narxini qanday hisoblash — [CPL qo‘llanmasida](/blog/lid-narxi-cpl-qanday-kamaytirish/).
+
+## Voronkani haftalik tekshirish: 15 daqiqalik tartib
+
+Har dushanba bitta jadvalni to‘ldiring: o‘tgan haftadagi qamrov, o‘tishlar, arizalar, sifatli arizalar va sotuvlar. Keyin har bir bosqich uchun konversiyani hisoblang (keyingi bosqich ÷ oldingisi) va o‘tgan hafta bilan solishtiring.
+
+Qaysi bosqichda foiz eng ko‘p tushgan bo‘lsa — o‘sha haftaning asosiy vazifasi. Masalan, arizalar soni o‘zgarmagan, lekin sotuvga konversiya tushgan bo‘lsa, muammo reklamada emas, balki javob berishda yoki taklifda.
+
+## Har bir bosqich uchun bitta tez qadam
+
+| Bosqich | Bitta tez qadam |
+|---|---|
+| Qamrov | Auditoriyani kengaytiring yoki [lookalike](/blog/lookalike-auditoriya/) auditoriya qo‘shing |
+| Qiziqish | Kreativning birinchi 3 soniyasini o‘zgartiring |
+| Ariza | Taklifni aniqroq yozing: narx, muddat, mijoz nima oladi |
+| Sotuv | Barcha arizalarga 15 daqiqa ichida javob bering |
+| Takroriy xarid | Xariddan bir hafta keyin mijoz bilan qayta bog‘laning |
+
+Bir vaqtda faqat bitta bosqichni o‘zgartiring — shunda natija nimadan o‘zgarganini aniq bilasiz.
+
+## Ko‘p uchraydigan xatolar
+
+- **Faqat yuqori bosqichni o‘lchash.** Qamrov va layklar ko‘p, lekin sotuvlar haqida ma'lumot yo‘q.
+- **Hamma muammoni reklamaga yuklash.** Byudjet oshiriladi, lekin teshik sotuv bosqichida qoladi.
+- **Bir vaqtda hamma narsani o‘zgartirish.** Keyin nima ishlaganini bilib bo‘lmaydi.
+- **Sifatsiz arizalarni sanamaslik.** 100 ta ariza va ulardan 5 tasi haqiqiy — bu butunlay boshqa voronka.
+
+## Savol-javob
+
+### Voronka faqat katta kompaniyalar uchunmi?
+
+Yo‘q. Kichik biznesda u hatto muhimroq: byudjet kichik va har bir yo‘qotilgan ariza seziladi. Boshlash uchun oddiy jadval va haftasiga 15 daqiqa yetarli.
+
+### Qaysi bosqichdan boshlab tuzatish kerak?
+
+Eng past konversiyali bosqichdan. Ko‘pincha bu reklama emas, balki arizadan sotuvga o‘tish: javob kech beriladi yoki menejerda skript yo‘q.
+
+### Voronka har bir soha uchun bir xilmi?
+
+Bosqichlar o‘xshash, lekin raqamlar har xil. Qimmat xaridda (mebel, ko‘chmas mulk) qaror uzoqroq qabul qilinadi va arizadan sotuvgacha bir necha hafta o‘tishi mumkin. Shuning uchun o‘z raqamlaringizni boshqa biznes bilan emas, o‘zingizning o‘tgan oylaringiz bilan solishtiring.
 
 ## Xulosa
 

@@ -2,6 +2,7 @@
 title: UGC kontent: mijozlar videosi reklamadan yaxshiroq sotganda
 description: UGC nima, mijozlardan kontentni qanday olish, UGC-kreatorlar bilan ishlash va reklamada foydalanish.
 date: 2026-10-22
+updated: 2026-10-23
 slug: ugc-kontent
 type: article
 tags: smm, instagram
@@ -48,6 +49,58 @@ Halollik muhim: kreator mahsulotdan haqiqatan foydalangan bo‘lsin va natijalar
 - Har bir videoni alohida kreativ sifatida ishga tushiring va [A/B test](/blog/kreativlar-ab-test/) qiling.
 - Muallif bilan hamkorlik reklamasi (partnership ads) formati — reklama kreator akkaunti nomidan ko‘rinadi.
 - Eng yaxshi UGC'ni profilning «Sharhlar» bo‘limiga saqlang.
+
+## UGC so‘rash uchun tayyor matnlar
+
+**Xariddan keyin (Telegram yoki Direct):**
+«Assalomu alaykum! Xaridingiz uchun rahmat. Mahsulot yoqqan bo‘lsa, 20–30 soniyalik qisqa video yuborsangiz, bizga katta yordam bo‘ladi: nima uchun tanladingiz va nima yoqdi? Minnatdorchilik sifatida keyingi xaridga chegirma beramiz.»
+
+**Mijoz sizni belgilagan post uchun:**
+«Postingiz uchun rahmat! Uni sahifamizda va reklamada ishlatishimizga ruxsat berasizmi?»
+
+Javob va ruxsatni yozishmada saqlab qo‘ying — keyin savol tug‘ilsa, kerak bo‘ladi.
+
+## UGC natijasini qanday o‘lchash
+
+| Ko‘rsatkich | Nimani bildiradi |
+|---|---|
+| Birinchi 3 soniyadan keyingi ko‘rishlar | Hook ishlayaptimi |
+| CTR va CPL | UGC studiya videosidan arzonroq ariza beryaptimi |
+| Izohlar va saqlashlar | Ishonch va qiziqish darajasi |
+| Yangi sharhlar soni | Mijozlar UGC'ni ko‘rib, o‘zlari ham yozyaptimi |
+
+Har bir UGC-videoni studiya kreativi bilan bir xil auditoriyada solishtiring — shunda qaysi format aynan sizning biznesingizda ishlashi aniq bo‘ladi.
+
+## Ko‘p uchraydigan xatolar
+
+- Mijoz videosini ruxsatsiz reklamada ishlatish.
+- Videoni haddan tashqari «chiroyli» montaj qilib, tabiiyligini yo‘qotish.
+- Bitta UGC bilan test qilib, butun formatga baho berish.
+- Kreatorga mahsulotni bermasdan, o‘ylab topilgan sharh yozdirish — bu aldash va obro‘ga zarar.
+
+Sharhlarni muntazam yig‘ish haqida — [onlayn obro‘](/blog/onlayn-obro-sharhlar/) maqolasida.
+
+## Savol-javob
+
+### Mijozlar video yuborishni xohlamasa nima qilish kerak?
+
+Talabni kamaytiring: video o‘rniga mahsulot rasmi va ikki jumlali fikr so‘rang — ba'zi mijozlar uchun bu osonroq. Video uchun esa UGC-kreatorlar bilan ishlang.
+
+### UGC-kreatorni qayerdan topish mumkin?
+
+Instagram va TikTok'da sohangiz bo‘yicha kichik bloglarni kuzating, o‘z mijozlaringiz orasidan faollarini toping yoki tanishlar orqali so‘rang. Muhimi — kamera oldida tabiiy gapira olish, obunachilar soni esa ikkinchi darajali.
+
+### UGC'ni qancha muddat ishlatish mumkin?
+
+Muallif bilan qanday kelishgan bo‘lsangiz, shuncha. Muddat va qayerda ishlatilishini (sahifa, reklama) yozma ravishda kelishib oling — yozishma ham yetarli. Muddat tugagach, videoni reklamadan olib tashlang yoki kelishuvni yangilang.
+
+## UGC uchun 5 ta g‘oya
+
+- **Qutini ochish** — mahsulotni birinchi marta ko‘rish.
+- **Bir kun mahsulot bilan** — kundalik hayotda qanday ishlatiladi.
+- **Oldin va keyin** — muammo va natija.
+- **Savol-javob** — mijoz eng ko‘p beriladigan savolga javob beradi.
+- **Taqqoslash** — avval nima ishlatgan va nega almashtirgan.
 
 ## Xulosa
 

@@ -2,6 +2,7 @@
 title: Reklama hisobotida qanday raqamlar bo‘lishi shart
 description: Yaxshi oylik hisobot tuzilmasi: sarf, arizalar, CPL, sotuvlar, xulosalar va keyingi oy rejasi.
 date: 2026-10-22
+updated: 2026-10-23
 slug: reklama-hisoboti
 type: article
 tags: sotuv, analitika
@@ -46,6 +47,47 @@ Oxirgi uchta qator uchun mijoz va agentlik ma'lumot almashishi kerak: arizalar q
 ## Hisobot qanday topshiriladi
 
 Raqamlarni yuborishning o‘zi kam — ularni tushuntirish kerak. Level Marketing'da har oy loyihaning o‘z sanasida mutaxassisimiz mijoz ofisiga borib, qamrov, arizalar va ariza narxini ko‘rsatadi va keyingi oy rejasini muhokama qiladi.
+
+## Bir sahifalik hisobot namunasi (shartli raqamlar)
+
+- **Davr:** oktyabr. Reja: oyiga 300 ta ariza.
+- **Sarf:** $800.
+- **Arizalar:** 320, CPL $2,5 (sentyabrda $3,1).
+- **Sifatli arizalar:** 190 — 59%.
+- **Sotuvlar:** 38, reklama bo‘yicha bitta sotuv narxi taxminan $21.
+- **Nima ishladi:** mijoz sharhi bilan video — CPL $1,9.
+- **Nima ishlamadi:** karusel — CPL $4,2, to‘xtatildi.
+- **Noyabr rejasi:** sharh formatida 3 ta yangi video, byudjetning katta qismini eng yaxshi auditoriyaga o‘tkazish, arizalarga javob vaqtini 30 daqiqagacha qisqartirish.
+
+Bunday hisobotni o‘qish 2 daqiqa oladi va undan darhol qaror chiqadi.
+
+## Hisobotni qanday o‘qish: 5 ta savol
+
+1. CPL o‘tgan oyga nisbatan qanday o‘zgardi va nima uchun?
+2. Arizalarning qancha qismi sifatli — bu sotuv bo‘limi bilan solishtirildimi?
+3. Qaysi kreativ va auditoriya eng arzon sotuv berdi?
+4. Byudjet ishlayotgan kampaniyalarga qayta taqsimlanganmi?
+5. Keyingi oy rejasida aniq raqamli maqsad bormi?
+
+Bu savollarga hisobotdan javob topa olmasangiz — mutaxassisdan qo‘shimcha ma'lumot so‘rang.
+
+## Hisobotni boshidan kelishib oling
+
+Mutaxassis bilan ish boshlashdan oldin hisobot shablonini kelishib oling: qaysi ko‘rsatkichlar, qaysi davr va qaysi kuni topshiriladi. O‘z tomoningizdan har hafta CRM'dagi sotuvlar sonini bering — aks holda reklama faqat arizalar bo‘yicha baholanadi va xulosalar noto‘g‘ri chiqadi. CRM tanlash haqida — [CRM](/blog/crm-tanlash/) maqolasida.
+
+## Savol-javob
+
+### Hisobotni qanchalik tez-tez olish kerak?
+
+Asosiy hisobot — oyiga bir marta. Lekin byudjet katta bo‘lsa yoki yangi kampaniya ishga tushgan bo‘lsa, haftalik qisqa holat hisoboti ham foydali: sarf, arizalar va CPL.
+
+### Agar CPL oshib ketsa, reklamani darhol to‘xtatish kerakmi?
+
+Shoshilmang. Avval sababini toping: kreativ «charchadi»mi, auditoriya torayganmi yoki mavsum o‘zgardimi. Ko‘pincha yangi kreativ yoki auditoriyani kengaytirish yetarli bo‘ladi.
+
+### Hisobotda sotuvlar bo‘lmasa nima qilish kerak?
+
+Demak, reklama va sotuv o‘rtasida ma'lumot almashinuvi yo‘q. Arizalarni CRM'da belgilashni va har hafta sotuvlar sonini mutaxassisga yuborishni yo‘lga qo‘ying — shundan keyingina reklama samarasini to‘g‘ri baholash mumkin.
 
 ## Xulosa
 

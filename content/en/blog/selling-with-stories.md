@@ -2,6 +2,7 @@
 title: Selling with Stories: formats that work every day
 description: Why Stories sell, which sequences work, interactive stickers and a daily Stories plan.
 date: 2026-10-22
+updated: 2026-10-23
 slug: selling-with-stories
 type: article
 tags: smm, instagram
@@ -57,6 +58,58 @@ You can message people who answered a sticker in Direct — that's a ready-made 
 ## How to measure results
 
 Track reach, exits after the first frame, the number of replies and link clicks. Note which sequences bring more messages.
+
+## A weekly Stories plan (example)
+
+| Day | Topic | Sticker |
+|---|---|---|
+| Monday | The week's plan and process | Poll |
+| Tuesday | Product or service review | Question |
+| Wednesday | Customer review or result | Link |
+| Thursday | Answer to a common question | Quiz |
+| Friday | The team and behind the scenes | Reaction |
+| Saturday | Offer or promotion | Countdown, link |
+| Sunday | Light content, week recap | Poll |
+
+Adapt the plan to your business but keep the rhythm: one main topic and one interactive sticker every day.
+
+## From Stories to DMs: turning a conversation into a sale
+
+Message anyone who replied to a sticker straight away — they're already interested. First answer their question, then ask one clarifying question, and only then make an offer. For ready-made message templates, see [Handling comments and DMs](/en/blog/handling-comments-and-dms/); for the stages of a sale, see [Sales script](/en/blog/sales-script/).
+
+## Common mistakes
+
+- **Only advertising.** If followers see nothing useful or interesting, they skip your Stories.
+- **Too many Stories a day.** Few people watch 30 of them to the end.
+- **Small text.** Nobody reads captions hidden under the phone's interface.
+- **Not messaging people who replied.** That's where the warmest conversations get lost.
+
+## Questions and answers
+
+### How many Stories should you post a day?
+
+For most businesses 5–10 is enough. What matters is posting every day: consistency counts for more than quantity.
+
+### Do you have to show your face?
+
+No, but a face and a voice noticeably increase trust. If talking to camera is hard, start with short videos a few times a week and build up.
+
+### Should you promote Stories with ads?
+
+Yes, your best-performing Stories can run as ads — they're usually cheap and look natural. But ads don't replace daily Stories for your followers. For setting up ads, see [How to set up Instagram ads](/en/blog/how-to-set-up-instagram-ads/).
+
+## 10 Stories ideas
+
+1. The process of preparing today's order.
+2. A customer question and a short answer.
+3. A before-and-after result.
+4. A first look at a new product.
+5. Meet one person from the team.
+6. Common mistakes when using the product.
+7. A screenshot of a customer review.
+8. A "pick one of two" poll.
+9. What the price is made of.
+10. The best-selling product of the week.
 
 ## Conclusion
 

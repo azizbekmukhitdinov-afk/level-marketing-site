@@ -2,6 +2,7 @@
 title: UGC content: when customer videos sell better than ads
 description: What UGC is, how to get content from customers, how to work with UGC creators and use it in ads.
 date: 2026-10-22
+updated: 2026-10-23
 slug: ugc-content
 type: article
 tags: smm, instagram
@@ -48,6 +49,58 @@ Honesty matters: the creator should genuinely use the product and not exaggerate
 - Run each video as a separate creative and [A/B test](/en/blog/ab-testing-ad-creatives/) them.
 - Partnership ads show the ad under the creator's account name.
 - Save your best UGC to a "Reviews" highlight on your profile.
+
+## Ready-made messages to ask for UGC
+
+**After a purchase (Telegram or DMs):**
+"Hello! Thank you for your purchase. If you like the product, could you send us a short 20–30 second video? It would really help us: why did you choose us and what did you like? As a thank-you, we'll give you a discount on your next order."
+
+**On a post where a customer tagged you:**
+"Thanks for the post! May we use it on our page and in our ads?"
+
+Keep the reply and the permission in the chat — you'll want them if questions come up later.
+
+## How to measure UGC results
+
+| Metric | What it tells you |
+|---|---|
+| Views past the first 3 seconds | Whether the hook works |
+| CTR and CPL | Whether UGC brings leads cheaper than studio video |
+| Comments and saves | The level of trust and interest |
+| Number of new reviews | Whether customers start posting after seeing UGC |
+
+Compare each UGC video with a studio creative on the same audience — that shows which format works for your business specifically.
+
+## Common mistakes
+
+- Using a customer's video in ads without permission.
+- Over-polishing the edit until it loses its natural feel.
+- Testing a single UGC video and judging the whole format by it.
+- Asking a creator for a made-up review without giving them the product — that's deception and damages your reputation.
+
+For collecting reviews regularly, see [Online reputation: how to collect reviews and respond to criticism](/en/blog/online-reputation-and-reviews/).
+
+## Questions and answers
+
+### What if customers don't want to send videos?
+
+Lower the bar: instead of a video, ask for a product photo and a couple of sentences — some people find that easier. For video, work with UGC creators.
+
+### Where do you find UGC creators?
+
+Watch small accounts in your niche on Instagram and TikTok, look for active people among your own customers, or ask around. What matters is being natural on camera; follower count is secondary.
+
+### How long can you use UGC?
+
+As long as you agreed with the creator. Agree the term and the places of use (your page, ads) in writing — a chat message will do. When the term ends, remove the video from ads or renew the agreement.
+
+## 5 UGC ideas
+
+- **Unboxing** — the first look at the product.
+- **A day with the product** — how it fits into everyday life.
+- **Before and after** — the problem and the result.
+- **Q&A** — a customer answers the most common question.
+- **Comparison** — what they used before and why they switched.
 
 ## Conclusion
 

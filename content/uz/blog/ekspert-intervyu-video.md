@@ -2,6 +2,7 @@
 title: Ekspert intervyu video: ishonch qozonadigan format
 description: Intervyu formati nega ishlaydi, savollarni qanday tayyorlash, suratga olish va bitta intervyudan 10 ta Reels qilish.
 date: 2026-10-22
+updated: 2026-10-23
 slug: ekspert-intervyu-video
 type: article
 tags: reels, video
@@ -51,6 +52,49 @@ Intervyu — ekspertlikni ko‘rsatishning eng tabiiy formati: siz gapirasiz, ki
 | Saytdagi maqola | 1–2 |
 
 Reels uchun eng yaxshi parchalarni tanlang va har biriga hook qo‘shing — [Reels ssenariy shablonlari](/blog/reels-ssenariy-shablon/) yordam beradi. Uzun versiyani esa [YouTube](/blog/youtube-biznes-uchun/) kanalingizga joylang.
+
+## Intervyuni montaj qilish: 5 qadam
+
+1. **Yozuvni matnga aylantiring.** Avtomatik subtitr vositalari butun suhbatni matn qilib beradi — undan eng kuchli javoblarni belgilab chiqing.
+2. **Har bir javobni alohida faylga ajrating.** Video savol takrorlangan joydan boshlansin — shunda u kontekstsiz ham tushunarli bo‘ladi.
+3. **Birinchi 3 soniyaga hook qo‘ying.** Javobdagi eng qiziq jumlani boshiga chiqaring yoki ekranga savolni katta qilib yozing.
+4. **Subtitr qo‘shing.** Ko‘pchilik videoni ovozsiz ko‘radi — matn katta va o‘qiladigan bo‘lsin.
+5. **Oxirida keyingi qadamni ayting.** «To‘liq intervyu — profildagi havolada» yoki «Savolingizni izohda yozing».
+
+Montaj uchun dastur tanlash — [video montaj dasturlari](/blog/video-montaj-dasturlari/) maqolasida.
+
+## Bitta intervyudan bir oylik reja
+
+Materialni bir kunda chiqarib yubormang — uni 4 haftaga taqsimlang:
+
+- **1-hafta:** eng kuchli 3 ta javob Reels sifatida.
+- **2-hafta:** iqtibosli postlar va Telegram uchun qisqa matnlar.
+- **3-hafta:** qolgan Reels va Stories'da savol-javob.
+- **4-hafta:** to‘liq video YouTube'da va saytda maqola.
+
+Shunda bir kunlik suratga olish butun [kontent-reja](/blog/instagram-kontent-reja/)ni yopadi.
+
+## Ko‘p uchraydigan xatolar
+
+- **Ekspert matnni o‘qiydi.** Teleprompter jonlilikni yo‘qotadi — qog‘ozga faqat asosiy fikrlarni yozing.
+- **Savollar umumiy.** «O‘zingiz haqingizda gapiring» o‘rniga mijozlarning aniq savollarini bering.
+- **Ovoz yomon.** Tomoshabin xira tasvirni kechiradi, lekin yomon ovozni kechirmaydi.
+- **Javoblar juda uzun.** Ularni bo‘lmasangiz, Reels uchun material qolmaydi.
+- **Natija o‘lchanmaydi.** Qaysi savollar ko‘proq ko‘rish va xabar olib kelganini yozib boring — keyingi intervyuga o‘sha mavzularni oling.
+
+## Savol-javob
+
+### Intervyu uchun qimmat jihoz kerakmi?
+
+Yo‘q. Ikkita petlichka mikrofon, deraza yorug‘ligi va zamonaviy telefon yetarli. Pulni avval ovozga sarflang — tasvir sifatini keyin ham oshirish mumkin.
+
+### Savollarni kim berishi kerak?
+
+Mavzuni tushunadigan, lekin ekspert bo‘lmagan odam: masalan, marketolog yoki SMM menejer. U mijoz kabi oddiy savollar beradi va ekspertni tushunarli tilda gapirishga undaydi.
+
+### Bitta intervyu qancha davom etishi kerak?
+
+Odatda 40–60 daqiqa. Bundan uzoq suhbatda ekspert charchaydi va javoblar sifati pasayadi. Savollar ko‘p bo‘lsa, suratga olishni ikki kunga bo‘ling.
 
 ## Xulosa
 

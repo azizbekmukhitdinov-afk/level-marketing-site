@@ -2,6 +2,7 @@
 title: Stories orqali sotuv: har kuni ishlaydigan formatlar
 description: Stories nega sotadi, qanday ketma-ketlik ishlaydi, interaktiv stikerlar va har kunlik Stories rejasi.
 date: 2026-10-22
+updated: 2026-10-23
 slug: stories-orqali-sotuv
 type: article
 tags: smm, instagram
@@ -57,6 +58,58 @@ Stikerga javob bergan odamlarga Direct'da yozish mumkin — bu tayyor suhbat.
 ## Natijani qanday o‘lchash
 
 Kuzating: qamrov, birinchi kadrdan keyin chiqib ketishlar, javoblar soni va havolaga bosishlar. Qaysi seriyadan keyin ko‘proq xabar kelganini yozib boring.
+
+## Bir haftalik Stories rejasi (namuna)
+
+| Kun | Mavzu | Stiker |
+|---|---|---|
+| Dushanba | Hafta rejasi va jarayon | So‘rovnoma |
+| Seshanba | Mahsulot yoki xizmat obzori | Savol |
+| Chorshanba | Mijoz sharhi yoki natija | Havola |
+| Payshanba | Ko‘p beriladigan savolga javob | Viktorina |
+| Juma | Jamoa va «kulis ortidan» kadrlar | Reaksiya |
+| Shanba | Taklif yoki aksiya | Taymer, havola |
+| Yakshanba | Yengil kontent, hafta yakuni | So‘rovnoma |
+
+Rejani o‘z biznesingizga moslang, lekin ritmni saqlang: har kuni bitta asosiy mavzu va bitta interaktiv stiker.
+
+## Stories'dan Direct'ga: suhbatni sotuvga aylantirish
+
+Stikerga javob bergan odamga darhol yozing — u allaqachon qiziqqan. Avval uning savoliga javob bering, keyin bitta aniqlashtiruvchi savol bering va shundan keyingina taklif qiling. Yozishmalar uchun tayyor shablonlar — [izohlar va Direct](/blog/izohlar-va-direct/) maqolasida, sotuv bosqichlari — [sotuv skripti](/blog/sotuv-skripti/) maqolasida.
+
+## Ko‘p uchraydigan xatolar
+
+- **Faqat reklama joylash.** Obunachilar foydali yoki qiziq narsa ko‘rmasa, Stories'ni o‘tkazib yuboradi.
+- **Bir kunda juda ko‘p Stories.** 30 tasini ko‘pchilik oxirigacha ko‘rmaydi.
+- **Kichik matn.** Telefon interfeysi ostida qolgan yozuvlarni hech kim o‘qimaydi.
+- **Javob berganlarga yozmaslik.** Eng iliq suhbatlar shu yerda yo‘qoladi.
+
+## Savol-javob
+
+### Kuniga nechta Stories joylash kerak?
+
+Ko‘pchilik bizneslar uchun 5–10 ta yetarli. Muhimi — har kuni joylash: muntazamlik soniga qaraganda ko‘proq ta'sir qiladi.
+
+### Stories'da yuzni ko‘rsatish shartmi?
+
+Shart emas, lekin yuz va ovoz ishonchni ancha oshiradi. Kamera oldida gapirish qiyin bo‘lsa, haftasiga bir necha marta qisqa video bilan boshlang va asta-sekin ko‘paytiring.
+
+### Stories'ni reklama qilish kerakmi?
+
+Ha, eng yaxshi ishlagan Stories'ni reklamaga qo‘yish mumkin — ular odatda arzon va tabiiy ko‘rinadi. Lekin reklama obunachilar uchun har kuni joylanadigan Stories'ning o‘rnini bosmaydi. Reklama sozlash haqida — [Instagram'da target reklama](/blog/instagramda-target-reklama-sozlash/) qo‘llanmasida.
+
+## Stories uchun 10 ta g‘oya
+
+1. Bugungi buyurtmani tayyorlash jarayoni.
+2. Mijoz savoli va unga qisqa javob.
+3. «Oldin va keyin» natija.
+4. Yangi mahsulotni birinchi bo‘lib ko‘rsatish.
+5. Jamoadan bir kishi bilan tanishtiruv.
+6. Mahsulotdan noto‘g‘ri foydalanishdagi xatolar.
+7. Mijoz sharhining skrinshoti.
+8. «Ikkitadan birini tanlang» so‘rovnomasi.
+9. Narx nimalardan iborat ekanini tushuntirish.
+10. Haftaning eng ko‘p sotilgan mahsuloti.
 
 ## Xulosa
 

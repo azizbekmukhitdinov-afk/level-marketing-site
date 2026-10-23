@@ -2,6 +2,7 @@
 title: How to name a business: 8 rules
 description: What makes a name memorable, language and pronunciation, checking domains and social handles, registration.
 date: 2026-10-22
+updated: 2026-10-23
 slug: how-to-name-a-business
 type: article
 tags: brand, reputation
@@ -45,6 +46,42 @@ A name is the first word customers hear about you. A good name is memorable, eas
 - Making it similar to a competitor's name.
 - Not registering a trademark — and risking losing the name.
 - Foreign words that are hard to pronounce.
+
+## A name-checking checklist
+
+- It's clear when spoken and easy to spell out over the phone.
+- It has no negative or funny meaning in Uzbek, Russian or English.
+- The .uz domain and the Instagram, Telegram and YouTube handles are free.
+- There's no similar mark in the trademark register.
+- It works in a logo: not too long, no confusable letters.
+- Searching it on Google and Yandex doesn't bring up other companies.
+- Most customers can spell it correctly after hearing it once.
+
+If the name fails even one point, reconsider it: changing it now is far cheaper than changing it later.
+
+## Secure the name straight away
+
+As soon as you've chosen the name, lock it in: buy the domain, create the social accounts and file a trademark application. Check the filing procedure and fees with the official sources of Uzbekistan's Intellectual Property Agency or with a lawyer — a mistake here gets expensive later.
+
+Then write the name the same way everywhere: signage, website, map listings and social networks. For adding your business to maps, see [How to add your business to Google and Yandex Maps](/en/blog/add-your-business-to-maps/).
+
+## If you need to change the name
+
+If the business is already running and the name causes problems, change it in stages: for a while, show the new name alongside the old one ("New name — formerly Old name"), explain the reason to customers and update your map listings. More in [When you need a rebrand and how to do it](/en/blog/when-to-rebrand/).
+
+## Questions and answers
+
+### Should the name be in Latin or Cyrillic script?
+
+Pick one main spelling and use it everywhere. Many customers in Uzbekistan search in both scripts, so check that the name reads the same and is easy to type in either.
+
+### Is an English name a good idea?
+
+Yes, if it's short, easy to pronounce and clear to your audience. Long or hard-to-pronounce English words confuse customers and get spelled differently in search.
+
+### Who should choose the name — the owner or the team?
+
+The owner makes the final call, but test the options on the team and on customers. Rely on the rules and checklist above, not on personal taste.
 
 ## Conclusion
 
