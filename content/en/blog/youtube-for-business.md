@@ -2,6 +2,7 @@
 title: YouTube for business: channel, Shorts and long videos
 description: Which businesses YouTube suits, the role of Shorts and long videos, titles for search and a starting plan.
 date: 2026-10-22
+updated: 2026-10-23
 slug: youtube-for-business
 type: article
 tags: smm, instagram
@@ -53,6 +54,51 @@ The best strategy uses both: Shorts bring new people, long videos turn them into
 ## What to measure
 
 Not views, but: watch time, thumbnail click-through rate (CTR), subscribers, clicks on description links and leads from YouTube.
+
+## The structure of a long video
+
+1. **The first 30 seconds** — say what the viewer will get: "By the end of this video you'll know…".
+2. **A short introduction** — who you are and why they should listen, in one or two sentences.
+3. **The main part in chapters** — each chapter answers one question; add timestamps to the description.
+4. **An example or demonstration** — the product, the process or a calculation on screen.
+5. **A summary** — the key points once more.
+6. **A call to action** — a link in the description, a question in the comments or a consultation.
+
+## A month of content from one shoot
+
+A long video is raw material for other channels too. One 15-minute video can become:
+
+- 4–6 Shorts and Reels from the strongest points;
+- an article for your website based on the video's script;
+- a Telegram channel post and quotes for Stories.
+
+That way one day of shooting gives you content for a whole month. How to develop a Telegram channel is covered in [Grow a Telegram channel](/en/blog/grow-a-telegram-channel/).
+
+## Common mistakes
+
+- Opening with a logo animation and a long intro.
+- A title nobody searches for: "Our new video".
+- A video with no description or links.
+- Giving up after three or four videos.
+- Bad sound — it drives viewers away faster than a bad picture.
+
+## Questions and answers
+
+### When will YouTube show results?
+
+It's a slow channel. Judge it after 3–6 months of regular publishing: videos people find through search keep gathering views over time, while first-month numbers mean little.
+
+### Do you need expensive equipment?
+
+No. A phone, a microphone and good light are enough to start; sound matters most. Tips in [Shooting Reels on a phone](/en/blog/shooting-reels-on-a-phone/).
+
+### Which language should you speak?
+
+The one your audience searches in. If customers search in both Uzbek and Russian, make separate videos for each language, or at least add subtitles in the second one.
+
+### Do Shorts bring viewers to long videos?
+
+Sometimes, but not automatically. You can attach a related long video to a Short, and it appears as a link under it. It works best when the Short is a clip from the long video and says openly that the full answer is in the video on the channel.
 
 ## Conclusion
 

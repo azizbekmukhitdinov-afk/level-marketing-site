@@ -2,6 +2,7 @@
 title: How the Instagram algorithm works: what matters for reach
 description: How posts are ranked in Feed, Reels and Stories, which signals matter and which habits increase reach.
 date: 2026-10-22
+updated: 2026-10-23
 slug: how-the-instagram-algorithm-works
 type: article
 tags: smm, instagram
@@ -49,6 +50,56 @@ Here relationships decide: followers who regularly interact with you see your po
 - **"30 hashtags will boost reach."** Hashtags help define the topic, but they're not a magic button.
 - **"There's one perfect minute to post."** Your audience's active hours matter, but not more than content quality.
 - **"Any drop in reach is a shadowban."** More often the content just isn't interesting to the audience.
+
+## If reach drops: a checking routine
+
+1. **Widen the period** — compare the last 1–3 months, not one week.
+2. **Find out which format dropped** — Reels, the feed or Stories.
+3. **Recall what changed** — topics, hooks, video length, posting rhythm.
+4. **Check your account status** — the Account Status section in settings shows whether there are limits on your content being recommended.
+5. **Remove reposted videos and videos with watermarks.**
+6. **Test 2–3 new formats** over two weeks.
+
+## What to look at in your insights
+
+These tell you more than likes:
+
+| Metric | What it means |
+|---|---|
+| Reach among non-followers | Whether content is reaching recommendations |
+| Average watch time | How well the video holds attention |
+| Shares and saves | How useful or interesting the content is |
+| Profile visits | Whether the content sparks interest in the author |
+
+## Common mistakes
+
+- Deleting and reposting a post when reach is low.
+- Buying followers and likes.
+- "Engagement pods" — trading artificial likes and comments.
+- Going quiet for a month, then posting ten times in one day.
+- Changing topics every week — the audience doesn't know what to expect.
+
+## Questions and answers
+
+### Does deleting and reposting a post help?
+
+Usually not. Put the effort into the next post instead: improve the hook, the first seconds and the topic.
+
+### Do bought followers hurt?
+
+Yes. They don't watch your content or engage, so your statistics get distorted and it's harder to understand your real audience. It also breaks the platform's rules.
+
+### How often should you post?
+
+At a rhythm you can keep up. For example, 3–4 posts or Reels a week for months on end beat one busy month followed by silence. How to use trends well is covered in [Using trends for business](/en/blog/using-trends-for-business/).
+
+### Does Reel length affect reach?
+
+Length itself matters less than watch time and completion. If the idea fits into 15–30 seconds, don't stretch the video; if the topic needs a longer video, tell viewers in the first seconds why it's worth watching to the end.
+
+### Is there an honest way to boost reach quickly?
+
+Yes — ads and collaborations. Promote an organic post that has already performed well, or publish a Collab post with relevant creators. Both show your content to new people, while services that promise to "trick" the algorithm only spoil your statistics and put the account at risk.
 
 ## Conclusion
 

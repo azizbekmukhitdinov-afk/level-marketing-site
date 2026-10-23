@@ -2,6 +2,7 @@
 title: Instagram algoritmi qanday ishlaydi: qamrovni oshirish uchun nima muhim
 description: Lenta, Reels va Stories'da postlar qanday tartiblanadi, qaysi signallar muhim va qamrovni oshiradigan odatlar.
 date: 2026-10-22
+updated: 2026-10-23
 slug: instagram-algoritmi
 type: article
 tags: smm, instagram
@@ -49,6 +50,56 @@ Bu yerda munosabat hal qiladi: siz bilan muntazam aloqada bo‘lgan obunachilar 
 - **«30 ta xeshteg qo‘ysangiz, qamrov oshadi».** Xeshteglar mavzuni aniqlashga yordam beradi, lekin sehrli vosita emas.
 - **«Joylashning yagona ideal daqiqasi bor».** Auditoriyangiz faol bo‘lgan vaqt muhim, lekin kontent sifatidan muhimroq emas.
 - **«Har qanday qamrov tushishi — bu shadowban».** Ko‘pincha sabab — kontent auditoriyaga qiziq emasligi.
+
+## Qamrov tushsa: tekshirish tartibi
+
+1. **Davrni kengaytiring** — bir haftani emas, oxirgi 1–3 oyni solishtiring.
+2. **Qaysi format tushganini aniqlang** — Reels, lenta yoki Stories.
+3. **O‘zgarishlarni eslang** — mavzu, hook, video uzunligi, joylash ritmi.
+4. **Akkaunt holatini tekshiring** — sozlamalardagi Account Status («Akkaunt holati») bo‘limida kontentingiz tavsiyalarga chiqishiga cheklov bor-yo‘qligi ko‘rinadi.
+5. **Qayta joylangan va suv belgili videolarni olib tashlang.**
+6. **2–3 ta yangi formatni** ikki hafta davomida sinab ko‘ring.
+
+## Statistikada nimaga qarash kerak
+
+Layklar sonidan ko‘ra quyidagilar ko‘proq ma'lumot beradi:
+
+| Ko‘rsatkich | Nimani bildiradi |
+|---|---|
+| Obunachi bo‘lmaganlarga qamrov | Kontent tavsiyalarga chiqyaptimi |
+| O‘rtacha ko‘rish vaqti | Video qanchalik ushlab turadi |
+| Ulashish va saqlashlar | Kontent qanchalik foydali yoki qiziqarli |
+| Profilga o‘tishlar | Kontent muallifga qiziqish uyg‘otyaptimi |
+
+## Ko‘p uchraydigan xatolar
+
+- Qamrov past bo‘lsa, postni o‘chirib, qayta joylash.
+- Obunachi va layk sotib olish.
+- «Faollik guruhlari» — bir-biriga sun'iy layk va izoh qoldirish.
+- Bir oy jim turib, keyin bir kunda o‘nta post joylash.
+- Har hafta mavzuni o‘zgartirish — auditoriya nima kutishini bilmaydi.
+
+## Savol-javob
+
+### Postni o‘chirib qayta joylash yordam beradimi?
+
+Odatda yo‘q. Kuchingizni keyingi postga sarflang: hook, birinchi soniyalar va mavzuni yaxshilang.
+
+### Sotib olingan obunachilar zarar qiladimi?
+
+Ha. Ular kontentni ko‘rmaydi va faollik ko‘rsatmaydi, shuning uchun statistikangiz buziladi va haqiqiy auditoriyani tushunish qiyinlashadi. Bundan tashqari, bu platforma qoidalariga zid.
+
+### Qancha tez-tez joylash kerak?
+
+O‘zingiz barqaror saqlay oladigan ritmda. Masalan, oylab muntazam chiqadigan haftasiga 3–4 ta post yoki Reels bir oy faollik va keyingi jimlikdan yaxshiroq. Trendlardan to‘g‘ri foydalanish — [trendlar](/blog/trendlardan-foydalanish/) maqolasida.
+
+### Reels uzunligi qamrovga ta'sir qiladimi?
+
+Uzunlikning o‘zi emas, ko‘rish vaqti va oxirigacha ko‘rish muhim. Fikrni 15–30 soniyada aytsa bo‘lsa, videoni cho‘zmang; mavzu uzunroq video talab qilsa, birinchi soniyalardayoq nega oxirigacha ko‘rish kerakligini ayting.
+
+### Qamrovni tez oshirishning halol usuli bormi?
+
+Ha — reklama va hamkorliklar. Yaxshi natija bergan organik postni reklamaga chiqaring yoki mos blogerlar bilan Collab post joylang. Ikkalasi ham kontentingizni yangi odamlarga ko‘rsatadi. Algoritmni «aldashni» va'da qiladigan xizmatlar esa faqat statistikani buzadi va akkauntga xavf tug‘diradi.
 
 ## Xulosa
 

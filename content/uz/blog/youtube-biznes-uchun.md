@@ -2,6 +2,7 @@
 title: YouTube biznes uchun: kanal, Shorts va uzun videolar
 description: YouTube qaysi bizneslarga mos, Shorts va uzun videolarning roli, qidiruv uchun nomlar va boshlash rejasi.
 date: 2026-10-22
+updated: 2026-10-23
 slug: youtube-biznes-uchun
 type: article
 tags: smm, instagram
@@ -53,6 +54,51 @@ Eng yaxshi strategiya — ikkalasini birga: Shorts yangi odamlarni olib keladi, 
 ## Nimani o‘lchash kerak
 
 Ko‘rishlar soni emas, balki: ko‘rish vaqti, muqovaga bosish ulushi (CTR), obunachilar, tavsifdagi havolalarga o‘tishlar va YouTube'dan kelgan arizalar.
+
+## Uzun video tuzilishi
+
+1. **Birinchi 30 soniya** — tomoshabin nima olishini ayting: «Shu videodan keyin siz … bilasiz».
+2. **Qisqa kirish** — siz kimsiz va nega sizni tinglash kerak, bir-ikki jumlada.
+3. **Asosiy qism boblar bo‘yicha** — har bir bob bitta savolga javob beradi; tavsifga vaqt belgilarini qo‘ying.
+4. **Misol yoki namoyish** — mahsulot, jarayon yoki hisob-kitob ekranda.
+5. **Xulosa** — asosiy fikrlar yana bir marta.
+6. **Harakatga chaqiruv** — tavsifdagi havola, izohdagi savol yoki konsultatsiya.
+
+## Bitta suratga olishdan bir oylik kontent
+
+Uzun video — boshqa kanallar uchun ham xomashyo. Bitta 15 daqiqalik videodan quyidagilarni tayyorlash mumkin:
+
+- eng kuchli fikrlardan 4–6 ta Shorts va Reels;
+- video matni asosida saytdagi maqola;
+- Telegram kanal uchun post va Stories uchun iqtiboslar.
+
+Shunda bir kunlik suratga olish butun oy uchun kontent beradi. Telegram kanalni rivojlantirish haqida — [Telegram kanalni o‘stirish](/blog/telegram-kanal-osish/) maqolasida.
+
+## Ko‘p uchraydigan xatolar
+
+- Logotip animatsiyasi va uzun kirish bilan boshlash.
+- Hech kim qidirmaydigan nom: «Bizning yangi video».
+- Tavsifsiz va havolasiz video.
+- Uch-to‘rtta videodan keyin to‘xtab qolish.
+- Yomon ovoz — u tomoshabinni yomon tasvirdan ham tezroq haydaydi.
+
+## Savol-javob
+
+### YouTube'da natija qachon ko‘rinadi?
+
+Bu sekin kanal. Muntazam joylashning 3–6 oyidan keyin baholang: qidiruvdan topiladigan videolar vaqt o‘tgan sari ko‘rishlar to‘playveradi, birinchi oy ko‘rsatkichlari esa ko‘p narsani anglatmaydi.
+
+### Qimmat jihoz kerakmi?
+
+Yo‘q. Boshlash uchun telefon, mikrofon va yaxshi yorug‘lik yetarli; eng muhimi — ovoz. Qoidalar — [telefonda suratga olish](/blog/telefonda-reels-suratga-olish/) maqolasida.
+
+### Qaysi tilda gapirish kerak?
+
+Auditoriyangiz qaysi tilda qidirsa, o‘sha tilda. Agar mijozlar ham o‘zbek, ham rus tilida qidirsa, har bir til uchun alohida video qiling yoki hech bo‘lmaganda ikkinchi tilda subtitr qo‘shing.
+
+### Shorts uzun videolarga tomoshabin olib keladimi?
+
+Ba'zan, lekin avtomatik emas. Shorts'ga tegishli uzun videoni biriktirish mumkin — u Shorts ostida havola sifatida ko‘rinadi. Eng yaxshi natija Shorts uzun videoning qisqa bo‘lagi bo‘lganda va unda «to‘liq javob — kanaldagi videoda» deb ochiq aytilganda bo‘ladi.
 
 ## Xulosa
 

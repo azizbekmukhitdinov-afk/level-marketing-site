@@ -2,6 +2,7 @@
 title: Telefonda Reels suratga olish: yorug‘lik, ovoz va kadr
 description: Qimmat jihozsiz professional ko‘rinadigan Reels: telefon sozlamalari, yorug‘lik, ovoz, kadr va oddiy montaj.
 date: 2026-10-22
+updated: 2026-10-23
 slug: telefonda-reels-suratga-olish
 type: article
 tags: reels, video
@@ -58,6 +59,56 @@ Shtativ — eng arzon va zarur jihoz. Harakatli kadrlar uchun — gimbal yoki te
 ## Tez montaj
 
 Pauzalarni kesing, subtitr qo‘shing, musiqa ovozingizdan baland bo‘lmasin, davomiylik — 15–45 soniya. Dasturlar haqida — [video montaj dasturlari](/blog/video-montaj-dasturlari/) maqolasida. Birinchi soniyalar uchun esa — [hooklar](/blog/reels-uchun-hooklar/).
+
+## Suratga olishdan oldin chek-list
+
+- Telefon zaryadlangan, xotirada kamida bir necha gigabayt bo‘sh joy bor.
+- «Bezovta qilmang» yoki parvoz rejimi yoqilgan — qo‘ng‘iroq dublni buzmaydi.
+- Linza tozalangan, setka yoqilgan, ekspozitsiya qulflangan.
+- Mikrofon bilan 5 soniyalik sinov yozuvi qilingan va quloqchinda tinglangan.
+- Fon tartibga keltirilgan: ortiqcha narsalar, simlar va qutilar yo‘q.
+- Ssenariy yoki asosiy fikrlar ro‘yxati qo‘l ostida.
+
+## B-roll: qo‘shimcha kadrlar ro‘yxati
+
+B-roll — gapirayotgan odam o‘rniga ko‘rsatiladigan qo‘shimcha kadrlar. Ular kesishlarni yashiradi, ritmni saqlaydi va so‘zlaringizni isbotlaydi. Har bir suratga olishda shulardan bir nechtasini oling:
+
+- mahsulot bilan ishlayotgan qo‘llar;
+- detallarning yaqin kadrlari: material, tikuv, qadoq;
+- do‘kon yoki ofis kirishi va ichki ko‘rinishi;
+- ish jarayonidagi jamoa;
+- mijoz buyurtmani qabul qilayotgan payt (uning roziligi bilan);
+- ekran yozuvi: sayt, ilova yoki hisobot.
+
+## Ko‘p uchraydigan xatolar
+
+- Deraza yoki chiroqqa orqa o‘girib suratga olish.
+- Raqamli zum — sifat keskin pasayadi; yaxshisi telefonni yaqinroq qo‘ying.
+- Mikrofonsiz, telefondan uzoqda turib gapirish.
+- Linzaga emas, ekranga qarash — ko‘z aloqasi yo‘qoladi.
+- Shtativsiz, qo‘lda olingan uzun kadrlar.
+
+## Savol-javob
+
+### Old kamerada suratga olsa bo‘ladimi?
+
+Ha, ayniqsa o‘zingizni ko‘rib turishingiz kerak bo‘lsa. Zamonaviy telefonlarda old kamera gapiruvchi video uchun yetarli, lekin asosiy kamera odatda aniqroq tasvir beradi. Ikkalasida sinov yozuvi qilib, solishtiring.
+
+### Teleprompter kerakmi?
+
+Uzun matn uchun telefondagi teleprompter ilovalari yordam beradi. Lekin o‘qiyotganingiz sezilmasligi uchun qisqa jumlalarni yod oling va videoni bir necha bo‘lakda yozing.
+
+### 4K yoki 1080p?
+
+4K montajda kadrni kesish uchun zaxira beradi, lekin fayllar og‘ir bo‘ladi. Instagram videoni baribir siqadi, shuning uchun ko‘p Reels uchun 1080p yetarli. Videoni turli formatlarda ishlatish haqida — [video reklama turlari](/blog/video-reklama-turlari/) maqolasida.
+
+### Bir kunda nechta video suratga olish mumkin?
+
+Tayyor ssenariylar bilan bir necha soatda 4–6 ta qisqa video olish mumkin. Videolar orasida kiyimni almashtiring — shunda ular turli kunlarda olingandek ko‘rinadi.
+
+### Ko‘chada suratga olsa bo‘ladimi?
+
+Ha, lekin shamol va shovqin asosiy muammo. Mikrofonga shamoldan himoya qopqog‘ini kiying, shovqinli yo‘ldan uzoqroq joy tanlang va quyosh yuzga to‘g‘ridan-to‘g‘ri tushmasligi uchun soyada yoki bulutli kunda suratga oling. Ko‘chada olingan kadrlar videoga jonlilik qo‘shadi, ayniqsa B-roll uchun.
 
 ## Xulosa
 

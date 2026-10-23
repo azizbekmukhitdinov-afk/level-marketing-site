@@ -2,6 +2,7 @@
 title: Reels scripts: 5 ready-made templates
 description: The structure of a Reels script that sells and 5 templates you can adapt to any business.
 date: 2026-10-22
+updated: 2026-10-23
 slug: reels-script-templates
 type: article
 tags: reels, video
@@ -52,6 +53,58 @@ One video, one idea. For a 30–45 second video, roughly 60–120 words is enoug
 ## Connecting templates to your plan
 
 Use each template several times a month on different topics, following the content types in our [content plan](/en/blog/instagram-content-plan/) article. For filming technique, see [shooting Reels on a phone](/en/blog/shooting-reels-on-a-phone/).
+
+## 3 more templates
+
+### 6. Behind the scenes
+
+> "How one order gets made — in 30 seconds. Receiving… preparing… checking… packing. Every single order. To place one, send us a DM."
+
+### 7. What the price is made of
+
+> "Why isn't our [service] cheap? Because the price includes [component 1], [component 2] and [component 3]. Cheaper options usually cut corners on exactly these. Message us for a detailed breakdown."
+
+### 8. Comparison
+
+> "Two [products]: one cheaper, one more expensive. The difference is [detail]. Here's how it looks after a year… Let's pick the one that suits you."
+
+## Checking a script: 5 questions
+
+1. Does the first line work without sound — is there text on screen?
+2. Is there only one idea in the video?
+3. Is there proof: a result, a number, a review or the process?
+4. Is there one clear call to action?
+5. Can the text be read calmly in 45 seconds?
+
+## Common mistakes
+
+- A long intro: "Hi, my name is…, today I'm going to…".
+- Three or four ideas in one video.
+- Jargon the customer doesn't understand.
+- Several calls to action: "follow, message, call".
+- The video stops abruptly, with no ending.
+
+## Questions and answers
+
+### Should you memorise the script?
+
+No. Memorise the key points and the first line, and say the rest in your own words. You can record a long text sentence by sentence or use a teleprompter.
+
+### How many times can you reuse a template?
+
+Keep reusing a template that works with new topics. A video that performed well can be reshot with a new hook — often that works better than a completely new idea.
+
+### Who should write the script?
+
+The expert knows the content; an SMM manager or copywriter shapes it. A convenient method: the expert sends the idea as a voice message, and an editor turns it into a script. For formats, see [Types of video ads](/en/blog/types-of-video-ads/).
+
+### Do Stories and live streams need a script too?
+
+A full text isn't necessary — 3–4 key points and an ending are enough. Reels are short, though, so even a script in the form of a simple list improves results noticeably.
+
+### Where should you keep your scripts?
+
+In one shared spreadsheet or document: topic, template number, hook, text, status (idea, written, shot, published) and result. Then you can see at a glance which templates and hooks worked best, and plan the next month faster.
 
 ## Conclusion
 

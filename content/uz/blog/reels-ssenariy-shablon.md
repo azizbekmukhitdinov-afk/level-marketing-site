@@ -2,6 +2,7 @@
 title: Reels uchun ssenariy: 5 ta tayyor shablon
 description: Sotadigan Reels ssenariysining tuzilishi va har qanday biznesga moslash mumkin bo‘lgan 5 ta shablon.
 date: 2026-10-22
+updated: 2026-10-23
 slug: reels-ssenariy-shablon
 type: article
 tags: reels, video
@@ -52,6 +53,58 @@ Bitta video — bitta g‘oya. 30–45 soniyalik video uchun taxminan 60–120 s
 ## Shablonlarni rejaga ulash
 
 Har bir shablonni oyiga bir necha marta turli mavzular bilan ishlating — [kontent-reja](/blog/instagram-kontent-reja/) maqolasidagi rubrikalar bo‘yicha. Suratga olish texnikasi — [telefonda Reels suratga olish](/blog/telefonda-reels-suratga-olish/) maqolasida.
+
+## Yana 3 ta shablon
+
+### 6. Jarayon ortida
+
+> «Bitta buyurtma qanday tayyorlanadi — 30 soniyada. Qabul qilish… tayyorlash… tekshirish… qadoqlash. Shu tartib har bir buyurtmada. Buyurtma berish uchun Direct'ga yozing.»
+
+### 7. Narx nimalardan iborat
+
+> «Nega bizda [xizmat] arzon emas? Chunki narxga [1-tarkib], [2-tarkib] va [3-tarkib] kiradi. Arzonroq variantda odatda aynan shular tejaladi. Batafsil hisob uchun yozing.»
+
+### 8. Taqqoslash
+
+> «Ikkita [mahsulot]: biri arzon, biri qimmatroq. Farqi — [detal]. Bir yildan keyin bu mana bunday ko‘rinadi… Qaysi biri sizga mosligini birga tanlaymiz.»
+
+## Ssenariyni tekshirish: 5 savol
+
+1. Birinchi jumla ovozsiz ham tushunarlimi — ekranda matn bormi?
+2. Videoda faqat bitta g‘oya bormi?
+3. Isbot bormi: natija, raqam, sharh yoki jarayon?
+4. Harakatga chaqiruv bitta va aniqmi?
+5. Matnni 45 soniyada shoshilmasdan o‘qib bo‘ladimi?
+
+## Ko‘p uchraydigan xatolar
+
+- Uzun kirish: «Salom, mening ismim…, bugun men sizga…».
+- Bitta videoda uch-to‘rtta g‘oya.
+- Mijozga tushunarsiz atamalar.
+- Bir nechta harakatga chaqiruv: «obuna bo‘ling, yozing, qo‘ng‘iroq qiling».
+- Video yakunsiz, keskin tugaydi.
+
+## Savol-javob
+
+### Ssenariyni yod olish kerakmi?
+
+Yo‘q. Asosiy fikrlarni va birinchi jumlani yod oling, qolganini o‘z so‘zlaringiz bilan ayting. Uzun matnni jumlama-jumla yozib olish yoki teleprompterdan foydalanish mumkin.
+
+### Bitta shablonni necha marta ishlatsa bo‘ladi?
+
+Ishlayotgan shablonni yangi mavzular bilan qayta-qayta ishlating. Yaxshi natija bergan videoni esa yangi hook bilan qayta suratga olish mumkin — ko‘pincha bu mutlaqo yangi g‘oyadan yaxshiroq ishlaydi.
+
+### Ssenariyni kim yozishi kerak?
+
+Mazmunni mutaxassis biladi, shaklni esa SMM menejer yoki kopirayter beradi. Qulay usul: mutaxassis fikrini ovozli xabar qilib yuboradi, muharrir undan ssenariy yasaydi. Formatlar haqida — [video reklama turlari](/blog/video-reklama-turlari/) maqolasida.
+
+### Stories va jonli efir uchun ham ssenariy kerakmi?
+
+To‘liq matn shart emas — 3–4 asosiy fikr va yakun yetarli. Reels'da esa vaqt qisqa, shuning uchun oddiy ro‘yxat ko‘rinishidagi ssenariy ham natijani sezilarli yaxshilaydi.
+
+### Ssenariylarni qayerda saqlash qulay?
+
+Bitta umumiy jadval yoki hujjatda: mavzu, shablon raqami, hook, matn, holat (g‘oya, yozildi, suratga olindi, joylandi) va natija. Shunda qaysi shablon va hook yaxshi ishlaganini bir qarashda ko‘rasiz va keyingi oy rejasini tezroq tuzasiz.
 
 ## Xulosa
 

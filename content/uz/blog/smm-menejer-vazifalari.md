@@ -2,6 +2,7 @@
 title: SMM menejer nima qiladi va uni qanday tanlash kerak
 description: SMM menejer vazifalari, targetologdan farqi, natijani qanday baholash va ishga olishda beriladigan savollar.
 date: 2026-10-22
+updated: 2026-10-23
 slug: smm-menejer-vazifalari
 type: article
 tags: smm, instagram
@@ -61,6 +62,59 @@ Faqat obunachilar soni emas:
 - Obunachilarni «nakrutka» qilishni taklif qilish.
 - «Bir oyda 100 000 obunachi» kabi va'dalar.
 - Rejasiz ishlash va hisobot bermaslik.
+
+## SMM menejer uchun brif
+
+Yaxshi natija aniq topshiriqdan boshlanadi. Brifda quyidagilar bo‘lsin:
+
+- biznes maqsadi: arizalar, tanilish yoki yangi mahsulotni chiqarish;
+- [maqsadli auditoriya](/blog/maqsadli-auditoriya/) va uning savollari;
+- mahsulotlar, narxlar va [unikal savdo taklifi](/blog/unikal-savdo-taklifi/);
+- muloqot ohangi: «siz» yoki «sen», hazil mumkinmi;
+- raqobatchilar va yoqadigan sahifalar namunalari;
+- nima mumkin emas: mavzular, so‘zlar, va'dalar;
+- kontentni kim va qancha vaqtda tasdiqlaydi.
+
+## Birinchi oyda nimani kutish kerak
+
+| Davr | Natija |
+|---|---|
+| 1-hafta | Sahifa va raqobatchilar auditi |
+| 2-hafta | Strategiya, rubrikalar va kontent-reja |
+| 3–4-hafta | Suratga olish, joylash va birinchi Stories seriyalari |
+| Oy oxiri | Birinchi hisobot va keyingi oy rejasi |
+
+Birinchi oy — tayyorgarlik oyi. Organik natijalarni 2–3 oydan keyin baholang.
+
+## Oylik hisobotda nima bo‘lishi kerak
+
+- Reja bo‘yicha nechta post, Reels va Stories chiqdi.
+- Qamrov, saqlashlar, ulashishlar va profilga o‘tishlar dinamikasi.
+- Eng yaxshi va eng yomon postlar — va nima uchun.
+- Sahifadan kelgan murojaatlar soni.
+- Keyingi oy uchun xulosalar va o‘zgarishlar.
+
+## Savol-javob
+
+### SMM menejer sotuv bilan ham shug‘ullanishi kerakmi?
+
+Odatda yo‘q. U kelishuvga ko‘ra xabarlarga birinchi javob berishi mumkin, lekin sotuvni menejer olib boradi. Mas'uliyat chegarasini oldindan yozing: murojaat qachon va qanday qilib sotuv bo‘limiga o‘tadi.
+
+### Sinov muddati qancha bo‘lishi kerak?
+
+Bir-ikki oy — aniq vazifalar bilan. Obunachilar soniga emas, rejaning bajarilishi, kontent sifati va muloqotga qarab baholang.
+
+### SMM natijasini sotuv bilan qanday bog‘lash mumkin?
+
+Sahifadagi havolalarga UTM qo‘ying, Direct'dagi murojaatlarni CRM'ga «Instagram organik» manbasi bilan kiriting va har oy shu manbadan kelgan sotuvlarni sanang. UTM haqida — [UTM-belgilar](/blog/utm-belgilar/) maqolasida.
+
+### SMM menejer bir vaqtda nechta loyiha olib bora oladi?
+
+Bu kontent hajmiga bog‘liq. Suhbatda ochiq so‘rang: loyihalar juda ko‘p bo‘lsa, javob tezligi va sifat pasayadi.
+
+### SMM menejerga kontent uchun materiallarni kim beradi?
+
+Mahsulot va jarayonni biznesning o‘zi yaxshiroq biladi, shuning uchun mas'ul xodim tayinlang. U haftasiga bir marta yangiliklar, mijozlar savollari va keyslarni beradi hamda suratga olish uchun vaqt ajratadi. Telefondagi oddiy rasm va ovozli xabarlar ham yaxshi xomashyo. Materiallar kechiksa, reja ham buziladi — buni hisobotda alohida qayd eting, shunda kechikish sababi ko‘rinadi.
 
 ## Xulosa
 
