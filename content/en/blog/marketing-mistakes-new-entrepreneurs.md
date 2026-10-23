@@ -2,6 +2,7 @@
 title: 7 marketing mistakes new entrepreneurs make
 description: A product 'for everyone', ads without strategy, decisions without numbers and other mistakes — and how to fix them.
 date: 2026-10-22
+updated: 2026-10-23
 slug: marketing-mistakes-new-entrepreneurs
 type: article
 tags: business, strategy
@@ -50,6 +51,61 @@ The money runs out in a month — or a channel that works never gets scaled. Mak
 | Expecting instant results | A test period and A/B tests |
 | Slow replies | A response standard and a script |
 | Unplanned budget | A monthly budget table |
+
+## A 90-day marketing plan
+
+| Period | What to do |
+|---|---|
+| Month 1 | Main segment, offer and USP; profile or website; a spreadsheet or CRM for leads |
+| Month 2 | Test 3 creatives × 2 audiences; a response standard and a script |
+| Month 3 | Scale the channels that worked; collect reviews; start repeat sales |
+
+At the end of each month, record the same numbers: spend, leads, sales and cost per customer. That way growth or problems show up immediately.
+
+## Bonus: 3 more small but costly mistakes
+
+- **Not building a customer list.** Every buyer's contact is the cheapest channel for the next sale.
+- **Relying on a single channel.** If the account gets blocked or the algorithm changes, the flow of leads stops.
+- **Hiding the price.** "Price in DM" makes many people leave without writing.
+
+## Check yourself: 8 questions
+
+1. Can you describe your main customer in one sentence?
+2. Can you say in one sentence why people should buy from you?
+3. Do you track leads by source?
+4. Do you know your average response time to a lead?
+5. Do your managers have a written script?
+6. Is there a planned monthly marketing budget?
+7. Do you know what one customer costs you?
+8. Do you get back in touch with past customers?
+
+Every "no" is a ready-made task for next month.
+
+## Questions and answers
+
+### Should you do marketing yourself or hire a specialist?
+
+At the start it helps to understand the basics yourself — otherwise you can't judge anyone else's work. Once the numbers and processes are clear, hand tasks to a specialist; how to choose one is covered in [How to choose a paid ads specialist](/en/blog/how-to-choose-a-paid-ads-specialist/).
+
+### How big should a starting budget be?
+
+There's no universal amount. A simple guide: for a test, budget for about 20 leads — multiply your expected cost per lead by 20.
+
+### When can you expect results?
+
+The first leads from ads arrive within days, but a stable system usually takes 2–3 months to form. Organic channels — content, SEO, a Telegram channel — take longer.
+
+### Which channel should you start with?
+
+The one where your customers are. For many B2C businesses that's Instagram and Telegram; for products people search for, it's Google and maps. Get one channel working as a system, then add a second.
+
+### What if competitors sell for less?
+
+Don't compete on price — find your difference: service, warranty, speed or specialisation. How to do it is covered in [Competitor analysis](/en/blog/competitor-analysis/).
+
+### Which numbers should you check every week?
+
+Five key ones: ad spend, number of leads, cost per lead, number of sales and cost per customer. Record them in one spreadsheet week by week — then you'll notice a channel slipping without waiting for the end of the month. The report structure is covered in [What an ad report should include](/en/blog/what-an-ad-report-should-include/).
 
 ## Conclusion
 

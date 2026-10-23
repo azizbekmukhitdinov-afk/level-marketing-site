@@ -2,6 +2,7 @@
 title: Telegram kanalni noldan qanday o‘stirish mumkin
 description: Telegram kanal uchun pozitsiya, kontent, birinchi 1 000 obunachi manbalari va obunachini mijozga aylantirish.
 date: 2026-10-22
+updated: 2026-10-23
 slug: telegram-kanal-osish
 type: article
 tags: smm, instagram
@@ -60,6 +61,62 @@ Muntazamlik muhim: masalan, kuniga 1 ta post yoki haftasiga 4–5 ta — lekin h
 - Obunachilarni sotib olish — ko‘rishlar o‘smaydi, reklama beruvchilar va algoritmlar buni ko‘radi.
 - Faqat reklama postlari.
 - Ritmsiz joylash: bir hafta har kuni, keyin ikki hafta jimlik.
+
+## Haftalik kontent-reja namunasi
+
+| Kun | Format |
+|---|---|
+| Dushanba | Foydali post: maslahat yoki qo‘llanma |
+| Seshanba | Video-doiracha: savolga javob |
+| Chorshanba | Keys yoki natija |
+| Payshanba | So‘rovnoma |
+| Juma | Taklif yoki aksiya |
+| Shanba | Jarayon ortida |
+
+Bu — namunaviy ritm: o‘zingiz barqaror saqlay oladigan hajmni tanlang. Rubrikalar haqida — [kontent-reja](/blog/instagram-kontent-reja/) maqolasida; uning tamoyillari Telegram uchun ham ishlaydi.
+
+## Post yozish formulasi
+
+1. **Birinchi qator** — foyda yoki savol: u bildirishnomada ko‘rinadi va postni ochishga undaydi.
+2. **Bitta fikr** — bir postda bitta mavzu.
+3. **Qisqa paragraflar** — telefon ekranida o‘qish oson bo‘lsin.
+4. **Formatlash** — qalin matn va ro‘yxatlar, lekin me'yorida.
+5. **Yakun** — savol yoki harakatga chaqiruv.
+
+Ideal uzunlik — telefon ekranining bir-ikki sahifasi.
+
+## Reklamadan kelganlarni ushlab qolish
+
+Yangi obunachi kanalga kirganda oxirgi postlarni ko‘radi. Shuning uchun reklama chiqishidan oldin kanalning yuqorisida kuchli foydali post bo‘lsin, mahkamlangan postda esa siz kimsiz va bu yerda nima bor — qisqa va aniq. Reklama kunida boshqa reklamalarni joylamang.
+
+## Faollikni qanday oshirish
+
+- Muhokama guruhini ulang — postlar ostida izohlar paydo bo‘ladi.
+- Reaksiyalar va so‘rovnomalar orqali auditoriya fikrini so‘rang.
+- Izohlarga javob bering — bu jonli muloqot belgisi.
+- Premium obunachilar kanalga «boost» berishi mumkin — bu kanal uchun Stories kabi qo‘shimcha imkoniyatlarni ochadi.
+
+## Savol-javob
+
+### Kanal yoki guruh — qaysi biri kerak?
+
+Kanal — e'lon va kontent uchun, guruh — muhokama uchun. Eng qulay variant: kanal va unga ulangan muhokama guruhi.
+
+### Postni qaysi vaqtda joylash kerak?
+
+Kanal statistikasida ko‘rishlar soatlar bo‘yicha qanday taqsimlanishini ko‘ring va turli vaqtlarni sinab ko‘ring. Hamma uchun «ideal vaqt» yo‘q — auditoriyangiz qachon faol bo‘lsa, o‘sha vaqt to‘g‘ri.
+
+### Obunachilar chiqib ketsa nima qilish kerak?
+
+Chiqishlar qaysi postlardan keyin ko‘payganini qarang. Ko‘pincha sabab — reklama juda ko‘p, postlar juda tez-tez yoki mavzu va'da qilinganidan boshqacha.
+
+### Kanalga kuniga qancha vaqt kerak?
+
+Rejalashtirilgan ishda kuniga 30–60 daqiqa yetarli. Bir kunda bir nechta post yozib, ularni oldindan rejalashtirib qo‘ying — Telegram kechiktirilgan joylashni qo‘llab-quvvatlaydi.
+
+### Kanal nomi va havolasini qanday tanlash kerak?
+
+Nom qidiruvda topiladigan va mavzuni aytadigan bo‘lsin: brend va mavzu, masalan «[Brend] | Uy ta'miri». Havola (username) qisqa, oson yoziladigan va boshqa tarmoqlardagi nomingiz bilan bir xil bo‘lsin. Nomni tez-tez o‘zgartirmang: obunachilar kanalni tanimay qolishi mumkin. Shaxsiy kanal uchun esa ism va mavzu yaxshi ishlaydi.
 
 ## Xulosa
 

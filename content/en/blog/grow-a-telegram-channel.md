@@ -2,6 +2,7 @@
 title: How to grow a Telegram channel from zero
 description: Positioning a Telegram channel, content, sources of the first 1,000 subscribers and how to turn subscribers into customers.
 date: 2026-10-22
+updated: 2026-10-23
 slug: grow-a-telegram-channel
 type: article
 tags: smm, instagram
@@ -60,6 +61,62 @@ Consistency matters: for example, one post a day or 4–5 a week — but always 
 - Buying subscribers — views don't grow, and both advertisers and algorithms can see it.
 - Nothing but promotional posts.
 - Posting without rhythm: every day for a week, then two weeks of silence.
+
+## A sample weekly content plan
+
+| Day | Format |
+|---|---|
+| Monday | A useful post: a tip or how-to |
+| Tuesday | A video message: answering a question |
+| Wednesday | A case or result |
+| Thursday | A poll |
+| Friday | An offer or promotion |
+| Saturday | Behind the scenes |
+
+This is a sample rhythm: choose a volume you can keep up consistently. Content series are covered in [Instagram content plan](/en/blog/instagram-content-plan/); its principles work for Telegram too.
+
+## A formula for writing posts
+
+1. **The first line** — a benefit or a question: it shows in the notification and makes people open the post.
+2. **One idea** — one topic per post.
+3. **Short paragraphs** — so it's easy to read on a phone.
+4. **Formatting** — bold text and lists, but in moderation.
+5. **The ending** — a question or a call to action.
+
+The ideal length is one or two phone screens.
+
+## Keeping the people your ads bring in
+
+When a new subscriber opens your channel, they see the latest posts. So before an ad goes out, make sure a strong, useful post sits at the top of the channel, and that the pinned post says briefly and clearly who you are and what's here. Don't publish other people's ads on the day of your campaign.
+
+## How to boost engagement
+
+- Link a discussion group — comments will appear under your posts.
+- Ask for your audience's opinion with reactions and polls.
+- Reply to comments — it signals a live conversation.
+- Premium subscribers can "boost" a channel, which unlocks extra features such as Stories.
+
+## Questions and answers
+
+### Channel or group — which do you need?
+
+A channel is for announcements and content; a group is for discussion. The most convenient setup is a channel with a linked discussion group.
+
+### When should you publish posts?
+
+Check in the channel's statistics how views are distributed by hour, and test different times. There's no universal "ideal time" — the right time is when your audience is active.
+
+### What if subscribers start leaving?
+
+See which posts trigger more unsubscribes. The usual causes are too many ads, posting too often, or a topic that isn't what was promised.
+
+### How much time a day does a channel need?
+
+With planning, 30–60 minutes a day is enough. Write several posts in one sitting and schedule them in advance — Telegram supports scheduled posts.
+
+### How do you choose a channel name and link?
+
+The name should be findable in search and state the topic: brand plus topic, for example "[Brand] | Home renovation". The link (username) should be short, easy to type and match your name on other networks. Don't change the name often: subscribers may stop recognising the channel. For a personal channel, your name plus the topic works well.
 
 ## Conclusion
 

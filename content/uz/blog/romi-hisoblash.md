@@ -2,6 +2,7 @@
 title: ROMI: marketing foyda keltiryaptimi, qanday hisoblash
 description: ROMI formulasi, ROI va ROAS'dan farqi, hisoblash misoli va qaysi xarajatlarni hisobga olish kerak.
 date: 2026-10-22
+updated: 2026-10-23
 slug: romi-hisoblash
 type: article
 tags: sotuv, analitika
@@ -51,6 +52,57 @@ Yuqoridagi misolda ROAS = 6 000 ÷ 700 ≈ 8,6. ROAS yuqori ko‘rinadi, lekin u
 ## Qanday ROMI yaxshi
 
 Musbat ROMI — marketing o‘zini oqlayapti. Lekin bitta raqamdan muhimrog‘i — kanallarni solishtirish: qaysi kanal yuqori ROMI bersa, byudjetni o‘sha tomonga o‘tkazing. ROMI oylik [reklama hisobotida](/blog/reklama-hisoboti/) bo‘lishi kerak.
+
+## Kanallar bo‘yicha ROMI: jadval namunasi
+
+**Misol (shartli raqamlar)** — bir oylik natijalar:
+
+| Kanal | Xarajat | Yalpi foyda | ROMI |
+|---|---|---|---|
+| Instagram reklama | $1 000 | $1 800 | 80% |
+| Telegram kanallardagi postlar | $500 | $600 | 20% |
+| Google qidiruv | $800 | $2 000 | 150% |
+
+Bu jadval byudjetning bir qismini Google'ga o‘tkazish kerakligini ko‘rsatadi. Lekin har bir kanalning sig‘imi cheklangan: byudjetni bosqichma-bosqich oshiring va ROMI pasaymayotganini kuzating.
+
+## ROMI'ni oshirishning 4 yo‘li
+
+1. **Ariza narxini kamaytirish** — kreativlar va auditoriyani yaxshilash; qo‘llanma — [CPL](/blog/lid-narxi-cpl-qanday-kamaytirish/) maqolasida.
+2. **Arizadan sotuvga konversiyani oshirish** — tez javob va sotuv skripti.
+3. **O‘rtacha chekni oshirish** — qo‘shimcha mahsulot, to‘plam yoki yuqoriroq tarif.
+4. **Takroriy sotuvlar** — mijozni bir martalik emas, uzoq muddatli qilish.
+
+Ko‘pincha 2- va 4-yo‘llar eng arzon: reklamaga qo‘shimcha pul sarflamasdan ROMI oshadi.
+
+## Ko‘p uchraydigan xatolar
+
+- Yalpi foyda o‘rniga tushumni olish.
+- Agentlik, kontent va vositalar xarajatini unutish.
+- Uzoq sotuv siklida ROMI'ni juda erta hisoblash.
+- Kanallarni turli davrlar bo‘yicha solishtirish.
+- Takroriy xaridlarni hisobga olmaslik.
+
+## Savol-javob
+
+### ROMI manfiy bo‘lsa, reklamani darhol to‘xtatish kerakmi?
+
+Darhol emas. Avval davr to‘g‘ri tanlanganini, takroriy xaridlar hisobga olinganini va bu hali test bosqichi emasligini tekshiring. Optimallashtirishdan keyin ham ROMI bir necha oy manfiy qolsa, byudjetni boshqa kanalga o‘tkazing.
+
+### ROMI'ni qanchalik tez-tez hisoblash kerak?
+
+Har oy. Sotuv sikli uzun bo‘lsa — masalan, ko‘chmas mulk yoki B2B'da — chorak bo‘yicha hisoblash aniqroq natija beradi.
+
+### Brendga qilingan xarajatlarni qanday baholash kerak?
+
+Imidj reklamasi tez sotuv bermaydi, shuning uchun uni faqat ROMI bilan baholash noto‘g‘ri. Bilvosita ko‘rsatkichlarga qarang: brend nomi bo‘yicha qidiruvlar, to‘g‘ridan-to‘g‘ri murojaatlar va boshqa kanallarda ariza narxining pasayishi.
+
+### CRM'siz ROMI'ni hisoblash mumkinmi?
+
+Taxminan — jadval va har bir mijozga beriladigan «Bizni qayerdan topdingiz?» savoli bilan. Lekin aniqlik pastroq bo‘ladi: CRM har bir sotuvni manbaga bog‘laydi. Tanlash — [CRM tanlash](/blog/crm-tanlash/) maqolasida.
+
+### Takroriy xaridlarni ROMI hisobiga qanday qo‘shish mumkin?
+
+Agar mijozlar qayta sotib olsa, faqat birinchi xarid foydasini emas, bir mijozdan keladigan o‘rtacha umumiy foydani oling. **Misol (shartli raqamlar):** birinchi xariddan foyda $30, lekin mijoz yil davomida o‘rtacha uch marta sotib oladi — demak, bir mijozdan $90 foyda. Bunday hisobda birinchi xaridda manfiy ko‘ringan kampaniya foydali bo‘lib chiqishi mumkin.
 
 ## Xulosa
 

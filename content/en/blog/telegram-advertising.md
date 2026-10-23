@@ -2,6 +2,7 @@
 title: Advertising on Telegram: Telegram Ads or channel placements
 description: Types of Telegram advertising — official Telegram Ads and paid posts in channels, how to judge price and measure results.
 date: 2026-10-22
+updated: 2026-10-23
 slug: telegram-advertising
 type: article
 tags: paid ads, meta ads
@@ -52,6 +53,51 @@ The most common approach is agreeing an ad post with the admins of topic-specifi
 - Choosing channels by subscriber count alone.
 - Advertising in many channels at once without tracking.
 - No useful content in your own channel afterwards — new subscribers leave quickly.
+
+## What to agree with the channel admin
+
+- **Date and time** — when the post goes out.
+- **Time in the feed** — how long it stays at the top and how long it won't be deleted.
+- **Other ads that day** — if more ads go out after yours, the views get split.
+- **Payment terms** — in advance or after the post goes live.
+- **Statistics** — a screenshot of views after 24 hours.
+
+Record the agreement in writing in the chat so there are no disputes later.
+
+## A sample ad post (illustrative)
+
+> "Writing is where most IELTS points are lost. In [channel name] we post one analysed essay and a list of mistakes every day. Subscribe — the first post has a ready-made template 👇 [invite link]"
+
+The post has one benefit, one reason or proof and one link. Agree the text with the admin in advance so it fits the channel's style.
+
+## How to split the budget
+
+1. **Test** — one post each in 3–5 channels.
+2. **Result** — calculate the cost per subscriber or lead for each.
+3. **Repeat** — post again in the best channels, but with a gap: back-to-back ads to the same audience lose effect.
+4. **Scale** — look for new channels with a similar audience.
+
+## Questions and answers
+
+### How much does a subscriber cost in Telegram advertising?
+
+It depends on the niche, the channel and the post, so work it out yourself: divide the post price by the number of new subscribers it brought. After comparing several channels, you'll have a benchmark for your niche.
+
+### Is it better to send people to a bot or a channel?
+
+If you need a quick lead, use a bot: it collects the details and passes them to a manager — more in [Telegram bot for leads](/en/blog/telegram-bot-for-leads/). If customers take time to decide, use a channel: the content there prepares them to buy.
+
+### Can you reuse an ad post?
+
+In other channels, yes — but adapt it to each one's style. In the same channel, change the text and image next time: the audience will scroll past the same post the second time.
+
+### Telegram Ads or channel posts — where should you start?
+
+For a small business, channel posts are usually easier: getting started is simple and you choose the channels yourself. The official Telegram Ads platform suits larger budgets and scale better.
+
+### When is the best time for an ad post to go out?
+
+When the channel's audience is active — ask the admin for the statistics. An ad that goes out at night, or while the channel is posting a lot, quickly sinks down the feed. If possible, agree that yours will be the only ad in the channel that day.
 
 ## Conclusion
 

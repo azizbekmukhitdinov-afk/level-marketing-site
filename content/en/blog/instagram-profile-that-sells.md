@@ -2,6 +2,7 @@
 title: An Instagram profile that sells: bio, highlights and the first 9 posts
 description: What a customer should see in your profile within 5 seconds: name, bio, highlights, buttons and grid.
 date: 2026-10-22
+updated: 2026-10-23
 slug: instagram-profile-that-sells
 type: article
 tags: smm, instagram
@@ -72,6 +73,57 @@ The rest should mix content types — useful, proof, process — in the proporti
 - A bio full of slogans and no specifics.
 - A broken or outdated link.
 - Highlights last updated a year ago.
+
+## Sample bios (illustrative)
+
+**Dental clinic:** "Family dentistry in Chilanzar 🦷 · Pain-free treatment and a separate children's room · Prices in Highlights · Book an appointment 👇"
+
+**Education centre:** "IELTS and General English — Yunusabad · Small groups, 3 lessons a week · Free trial lesson 👇"
+
+**Furniture store:** "Made-to-order sofas and wardrobes | Tashkent · Built to your measurements, instalments · Catalogue and prices 👇"
+
+Each bio says what you do, who it's for, what makes you different and what the next step is.
+
+## Preparing your profile before ads
+
+Before launching ads, check:
+
+1. Are the prices and terms in Highlights up to date?
+2. Is the offer from the ad also in a pinned post?
+3. Does the bio link work, and does it open quickly on a phone?
+4. Are quick replies ready for DMs?
+
+Once ads are running, watch the ratio of profile visits to follows: lots of visits but few follows means the problem is the profile.
+
+## Measuring how well your profile works
+
+Every month, compare these in your professional dashboard: profile visits, bio link taps, contact button taps and follows after viewing the profile. If these numbers grow, your profile is selling better.
+
+## Questions and answers
+
+### Business or creator account — which is better?
+
+Both are professional accounts: they give you insights, contact buttons and the ability to run ads. A business account suits a company; a creator account suits a blogger or expert.
+
+### Can you add several links to your bio?
+
+Yes, Instagram lets you add several links, but only the first one is visible on the profile straight away. Put the most important link first — usually an order page or Telegram.
+
+### Do you need Highlight covers?
+
+Covers in one style make the profile look tidy, but content matters more: prices, reviews and terms should be current. More on visual style in [Visual identity for small business](/en/blog/visual-identity-for-small-business/).
+
+### How often should you update your profile?
+
+Do a quick check monthly, and update pinned posts and Highlights immediately whenever there's a new offer or a price change.
+
+### Can you change the name field often?
+
+Instagram only lets you change the name field twice within 14 days. So choose the keyword carefully in advance, and don't swap it every day to test.
+
+### A face or a logo for the profile picture?
+
+For a company, a logo or mark that stays legible even at a small size. For an expert or personal brand, a photo of your face: people trust a face faster. The profile picture looks tiny in the Stories circle, so avoid small text and intricate details.
 
 ## Conclusion
 

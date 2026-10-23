@@ -2,6 +2,7 @@
 title: ROMI: is your marketing paying off, and how to calculate it
 description: The ROMI formula, how it differs from ROI and ROAS, a worked example and which costs to include.
 date: 2026-10-22
+updated: 2026-10-23
 slug: how-to-calculate-romi
 type: article
 tags: sales, analytics
@@ -51,6 +52,57 @@ In the example, ROAS = 6,000 ÷ 700 ≈ 8.6. ROAS looks high but ignores margin 
 ## What a good ROMI looks like
 
 A positive ROMI means marketing pays off. But comparing channels matters more than any single number: move budget towards the channel with the higher ROMI. ROMI belongs in your monthly [advertising report](/en/blog/what-an-ad-report-should-include/).
+
+## ROMI by channel: a sample table
+
+**An example (illustrative numbers)** — one month's results:
+
+| Channel | Spend | Gross profit | ROMI |
+|---|---|---|---|
+| Instagram ads | $1,000 | $1,800 | 80% |
+| Posts in Telegram channels | $500 | $600 | 20% |
+| Google search | $800 | $2,000 | 150% |
+
+The table suggests moving part of the budget to Google. But every channel has limited capacity: raise the budget in stages and watch that ROMI doesn't fall.
+
+## 4 ways to raise ROMI
+
+1. **Lower the cost per lead** — improve creatives and audiences; see [Cost per lead (CPL)](/en/blog/cost-per-lead-cpl-how-to-lower/).
+2. **Raise lead-to-sale conversion** — fast replies and a sales script.
+3. **Increase the average order** — add-ons, bundles or a higher tier.
+4. **Repeat sales** — turn one-off customers into long-term ones.
+
+Ways 2 and 4 are often the cheapest: ROMI rises without spending more on ads.
+
+## Common mistakes
+
+- Using revenue instead of gross profit.
+- Forgetting agency, content and tool costs.
+- Calculating ROMI too early when the sales cycle is long.
+- Comparing channels over different periods.
+- Ignoring repeat purchases.
+
+## Questions and answers
+
+### If ROMI is negative, should you stop the ads immediately?
+
+Not immediately. First check that the period is right, repeat purchases are counted and you're not still in a test phase. If ROMI stays negative for several months even after optimisation, move the budget to another channel.
+
+### How often should you calculate ROMI?
+
+Every month. If the sales cycle is long — in real estate or B2B, for example — quarterly figures are more accurate.
+
+### How should you judge brand spending?
+
+Brand advertising doesn't bring quick sales, so judging it by ROMI alone is wrong. Look at indirect signals: searches for your brand name, direct enquiries and a falling cost per lead in other channels.
+
+### Can you calculate ROMI without a CRM?
+
+Roughly — with a spreadsheet and by asking every customer "Where did you hear about us?". But accuracy will be lower: a CRM links every sale to its source. Choosing one is covered in [CRM for small business](/en/blog/crm-for-small-business/).
+
+### How do you include repeat purchases in ROMI?
+
+If customers come back, use the average total profit per customer rather than just the profit from the first purchase. **An example (illustrative numbers):** the first purchase brings $30 profit, but over a year a customer buys three times on average — $90 per customer. Counted this way, a campaign that looked unprofitable on the first purchase can turn out to be profitable.
 
 ## Conclusion
 

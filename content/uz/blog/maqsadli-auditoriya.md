@@ -2,6 +2,7 @@
 title: Maqsadli auditoriya va mijoz portreti: qanday aniqlash
 description: Segmentlash, mijoz portreti (avatar), og‘riq va istaklar, ma'lumot manbalari va portretni reklamada ishlatish.
 date: 2026-10-22
+updated: 2026-10-23
 slug: maqsadli-auditoriya
 type: article
 tags: biznes, strategiya
@@ -53,6 +54,57 @@ Har bir segment uchun bitta «tipik» mijozni tasvirlang. **Misol (shartli):** b
 - **Har bir segmentga — alohida e'lon:** yangi uyga ko‘chayotganlar va ofislar uchun bir xil reklama ishlamaydi.
 
 Aniq kreativ reklama algoritmiga ham to‘g‘ri odamlarni topishda yordam beradi: tizim reklamani unga reaksiya bildirganlarga o‘xshash odamlarga ko‘rsatadi. Sozlash asoslari — [Instagram'da target reklama](/blog/instagramda-target-reklama-sozlash/) qo‘llanmasida.
+
+## Mijoz bilan suhbat uchun 8 ta savol
+
+1. Bizni qanday topdingiz va nega aynan bizni tanladingiz?
+2. Yana qaysi variantlarni ko‘rib chiqdingiz?
+3. Xariddan sizni nima to‘xtatib turdi?
+4. Ma'lumotni qayerdan qidirdingiz?
+5. Muammoingizni o‘z so‘zlaringiz bilan qanday tasvirlaysiz?
+6. Xariddan keyin nima o‘zgardi?
+7. Qarorda yana kim ishtirok etdi?
+8. Bizni do‘stingizga qanday tavsiya qilardingiz?
+
+Javoblarni so‘zma-so‘z yozing: mijozning o‘z iboralari reklama matni uchun eng yaxshi xomashyo.
+
+## B2B'da portret qanday farq qiladi
+
+B2B'da qarorni bitta odam emas, bir nechta odam qabul qiladi: foydalanuvchi, rahbar va moliya bo‘limi. Har biri uchun alohida portret tuzing — ularning savollari turlicha. Foydalanuvchini qulaylik, rahbarni natija, moliya bo‘limini esa narx va shartlar qiziqtiradi. Sotuv sikli uzunroq, shuning uchun kontent ham har bir bosqich va har bir rol uchun kerak.
+
+## Portretni jamoada qanday ishlatish
+
+Portretni bir sahifaga sig‘diring va uni SMM menejer, dizayner, targetolog va sotuv bo‘limiga bering. Har bir brifda unga havola qiling. Har bir yangi reklama yoki post oldidan oddiy savol bering: «Bu Malika uchunmi?» Javob «yo‘q» bo‘lsa, matn yoki kreativni qayta ko‘rib chiqing.
+
+## Ko‘p uchraydigan xatolar
+
+- Portretni mijozlar bilan gaplashmasdan, ofisda «o‘ylab topish».
+- Juda keng tavsif: «18–55 yoshdagi hamma».
+- Barcha segmentlar uchun bitta reklama.
+- Faqat demografiya — vaziyat, og‘riq va e'tirozlarsiz.
+- Portretni bir marta yozib, hech qachon yangilamaslik.
+
+## Savol-javob
+
+### Nechta portret kerak?
+
+Boshlash uchun 1–3 ta. Har bir portret uchun alohida xabar va kreativ tayyorlashga kuchingiz yetishi kerak — aks holda portretlar faqat hujjatda qoladi.
+
+### Reklama sozlamalarida ko‘p qiziqish qo‘shish kerakmi?
+
+Shart emas. Bugungi reklama tizimlarida keng auditoriya ko‘pincha yaxshi ishlaydi, agar kreativ aniq odamga murojaat qilsa. Portret avvalo nima deyishni, keyin esa kimga ko‘rsatishni aniqlaydi.
+
+### Portret to‘g‘riligini qanday tekshirish mumkin?
+
+Har bir segment uchun alohida reklama ishga tushiring va ariza narxi hamda sotuvga konversiyani solishtiring. Raqamlar tasavvurni tasdiqlaydi yoki rad etadi.
+
+### Portretni qachon yangilash kerak?
+
+Har yarim yilda yoki yangi mahsulot, yangi narx yoki yangi kanal paydo bo‘lganda. Uni CRM va sotuv bo‘limidan kelgan yangi ma'lumotlar bilan to‘ldiring.
+
+### Instagram statistikasi portret uchun yetarlimi?
+
+Yo‘q, u faqat demografiyani beradi: yosh, jins va shaharlar. Mijozning vaziyati, og‘riqlari va e'tirozlarini faqat suhbatlar, sotuv bo‘limi va yozishmalardan bilasiz. Statistikadan portretni tekshirish uchun foydalaning: agar obunachilar asosan boshqa shahardan bo‘lsa, kontent yoki reklama noto‘g‘ri auditoriyani jalb qilayotgan bo‘lishi mumkin.
 
 ## Xulosa
 

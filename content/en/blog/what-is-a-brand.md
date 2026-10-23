@@ -2,6 +2,7 @@
 title: What a brand is and how it differs from a logo
 description: A brand in plain words: positioning, promise, experience and visual style; where a small business should start.
 date: 2026-10-22
+updated: 2026-10-23
 slug: what-is-a-brand
 type: article
 tags: brand, reputation
@@ -54,6 +55,61 @@ Fill in this table — it becomes the basis for all your advertising, content an
 - Copying competitors — you become their shadow.
 - A different voice and style on each channel: one on Instagram, another on Telegram.
 - Breaking your promise — the fastest way to destroy a brand.
+
+## Brand voice: one message, different tones
+
+Different brands say the same thing differently. **An example (illustrative):** the order will be delivered tomorrow.
+
+| Tone | How it sounds |
+|---|---|
+| Formal | "Your order will be delivered tomorrow between 10:00 and 14:00." |
+| Friendly | "Good news! Your sofa will be at your home before lunch tomorrow." |
+| Expert | "We'll deliver tomorrow. Air the room for 20 minutes before assembly — the smell of new materials will fade faster." |
+
+Pick one and write three rules: "we say…", "we don't say…", "we address the customer as…". Your SMM manager, salespeople and operators should all know these rules equally well.
+
+## Customer experience: where a brand is tested
+
+A brand is formed not in ads but in everyday situations:
+
+- how quickly the first reply arrives;
+- how people talk on the phone;
+- what delivery and packaging are like;
+- how problems are solved when they arise;
+- whether anyone checks in after the purchase.
+
+A brand is tested most when something goes wrong. Draw the customer journey on paper and check whether your promise is kept at every point. Working with reviews is covered in [Online reputation and reviews](/en/blog/online-reputation-and-reviews/).
+
+## How to measure a brand
+
+Even though a brand is a "feeling", its traces show up in numbers:
+
+- The number of searches for your brand name on Google and Yandex.
+- The share of customers who buy again.
+- The share of "a friend recommended you" answers to "Where did you hear about us?".
+- Which words repeat in reviews — are they the words of your promise?
+
+## Questions and answers
+
+### Does a small shop need a brand?
+
+Yes. Even a single shop has a name, a promise and a customer experience — so it already has a brand; it just isn't being managed. Building a brand takes attention more than money.
+
+### How long does it take to build a brand?
+
+A strong brand takes years. But the first results — regular customers recognising you and starting to recommend you — show up within a few months if you're consistent.
+
+### How are a personal brand and a company brand connected?
+
+A founder's or expert's personal brand brings the company trust, while the company brand provides stability that doesn't depend on one person. Where to start is covered in [Personal brand: where to start](/en/blog/personal-brand-where-to-start/).
+
+### How do you know it's time to change your brand?
+
+When the business has changed, the audience has shifted or the brand looks dated. The signs and stages are covered in [When to rebrand](/en/blog/when-to-rebrand/).
+
+### Does a brand need expensive design?
+
+No. To start, clear positioning, a promise you can keep and a clean, consistent visual style are enough. Investment in design comes as the business grows — and no design can save a broken promise.
 
 ## Conclusion
 
