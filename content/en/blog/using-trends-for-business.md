@@ -2,6 +2,7 @@
 title: How to use Reels and TikTok trends for business
 description: Where to find trends, when to join them, how to adapt them to your brand and when to skip a trend.
 date: 2026-10-22
+updated: 2026-10-23
 slug: using-trends-for-business
 type: article
 tags: reels, video
@@ -51,6 +52,54 @@ A popular track may be fine in organic Reels, but you may not have the rights to
 ## Balancing trends and evergreen content
 
 Trends bring reach, but sales usually come from consistent useful content. A practical split: about 20–30% trends, the rest from the content types in your [content plan](/en/blog/instagram-content-plan/).
+
+## Publishing a trend video within 48 hours: a workflow
+
+Trends pass quickly, so the release process needs to be ready in advance:
+
+1. **15 minutes of monitoring every day** — the Reels feed, saved audio and competitors' pages.
+2. **Filter** — does the trend fit your brand, your audience and your current offer?
+3. **A three-line script** — hook, main shot, ending or call to action.
+4. **Shoot** — a phone, daylight, several takes; tips in [Shooting Reels on a phone](/en/blog/shooting-reels-on-a-phone/).
+5. **Edit and add captions** — with a ready template this doesn't take long.
+6. **Publish** — within a day or two of spotting the trend.
+
+If every video goes through long approvals, the trend will be stale before it's out. Decide in advance who makes the call.
+
+## How to measure the result
+
+Compare a trend video with the average results of your regular posts:
+
+| Metric | What it shows |
+|---|---|
+| Reach among non-followers | Whether the video reached a new audience |
+| Saves and shares | Whether the content was useful or interesting |
+| Profile visits and new followers | Whether the trend sparked interest in the brand |
+| DMs and leads | Whether the reach moved people closer to buying |
+
+If reach is high but nobody visits the profile, the trend isn't connected to your brand. How the algorithm distributes reach is covered in [How the Instagram algorithm works](/en/blog/how-the-instagram-algorithm-works/).
+
+## Common mistakes
+
+- Joining a trend after everyone has already used it.
+- Copying a competitor's video without changing anything.
+- No sign of the brand, product or benefit in the video.
+- No hook and no call to action: reach, but no leads.
+- Chasing every trend and dropping your regular content series.
+
+## Questions and answers
+
+### Do you need to join every trend?
+
+No. Pick only the trends that fit your brand and make sense to your audience. One well-adapted trend a week is worth more than ten random videos.
+
+### Can a B2B company use trends?
+
+Yes, but carefully: borrow the format and rhythm rather than the joke, and fill it with expertise. For example, an "expectation vs reality" format can show how a project unfolds.
+
+### Can you use a trend video in ads?
+
+If it performed well, yes — but you may need to swap the music for a royalty-free track. Check the audio rights before running it as an ad.
 
 ## Conclusion
 

@@ -2,6 +2,7 @@
 title: How to add your business to Google and Yandex Maps
 description: How to create, verify and fill in a business listing and rank higher in 'near me' searches.
 date: 2026-10-22
+updated: 2026-10-23
 slug: add-your-business-to-maps
 type: article
 tags: brand, reputation
@@ -54,6 +55,52 @@ Also make sure your name, address and phone number match everywhere — website,
 - Several listings for one business (duplicates).
 - Not replying to reviews — see our [online reputation](/en/blog/online-reputation-and-reviews/) article.
 - Outdated hours and phone numbers.
+
+## What photos your listing needs
+
+- **The facade and entrance** — so customers can easily find the building and the door.
+- **The interior** — the hall, office or workspace.
+- **The team** — who will greet the customer.
+- **Products and examples of work** — what the customer will get.
+- **Logo and cover** — so the listing matches your brand.
+
+Use only real photos: stock images lower trust. Refresh them from time to time — for the season, new products or after a renovation.
+
+## How to get more reviews
+
+1. **Ask after a successful service** — while the customer is happy.
+2. **Send a direct link** — in a messenger or on the receipt, so nobody has to search.
+3. **Put a QR code at the till or reception.**
+4. **Reply to every review** — positive and negative.
+
+Don't promise a gift or discount for a positive review, and don't order fake reviews: it breaks the platforms' rules and can harm your listing. How to set up feedback collection is covered in [Collecting customer feedback](/en/blog/collecting-customer-feedback/).
+
+## A monthly upkeep checklist
+
+- Are the opening hours correct, with special hours set for holidays?
+- Have new reviews been answered?
+- Have questions on the listing been answered?
+- Have new photos and updates been added?
+- Have edits suggested by users been checked? Sometimes they change details incorrectly.
+- Do the phone number and website link work?
+
+## Questions and answers
+
+### Can you create a listing without an office?
+
+Yes. If you go to your customers (delivery, tradespeople, mobile services), Google lets you hide your address and set a service area. Other map services may have different rules — check them when you register.
+
+### How long until the listing appears?
+
+After verification and moderation. This can take from a few days to a few weeks, so start early — before an opening or a move.
+
+### Can you advertise on maps?
+
+Yes, both Google and Yandex offer paid placement on their maps. But fill in the free listing completely first — advertising an incomplete listing wastes money.
+
+### Can you delete a negative review?
+
+A business owner can't delete a review themselves. If the review breaks the platform's rules — insults, spam or a story that has nothing to do with you — you can report it for moderation. Otherwise, reply calmly and to the point: other customers read your answer too.
 
 ## Conclusion
 

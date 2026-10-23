@@ -2,6 +2,7 @@
 title: CRM nima va kichik biznesga qaysi biri mos
 description: CRM nima uchun kerak, jadvaldan CRM'ga qachon o‘tish, tanlash mezonlari va joriy qilish bosqichlari.
 date: 2026-10-22
+updated: 2026-10-23
 slug: crm-tanlash
 type: article
 tags: sotuv, analitika
@@ -50,6 +51,47 @@ O‘zbekistonda kichik va o‘rta biznes ko‘pincha amoCRM (Kommo), Bitrix24 ka
 - Haddan tashqari murakkab sozlash — menejerlar foydalanmay qo‘yadi.
 - Jarayonsiz CRM sotib olish.
 - Manbani yozmaslik — reklama samarasini baholab bo‘lmaydi; saytdagi arizalar uchun [UTM-belgilar](/blog/utm-belgilar/) yordam beradi.
+
+## Haftalik CRM hisobotlari
+
+| Hisobot | Qaysi savolga javob beradi |
+|---|---|
+| Manbalar bo‘yicha arizalar | Arizalar qayerdan keladi va qaysi kanal kuchliroq |
+| Bosqichlar bo‘yicha konversiya | Mijozlar voronkaning qayerida «tushib qoladi» |
+| Rad etish sabablari | Nega sotib olishmayapti: narx, muddat, raqobatchi |
+| Javob tezligi | Ariza kelgandan birinchi aloqagacha qancha vaqt o‘tadi |
+| Menejerlar natijasi | Kim qancha ariza oldi va qanchasini sotuvga aylantirdi |
+
+Rad etish sabablari ayniqsa foydali: agar ko‘p mijoz «qimmat» deb ketsa, muammo taklifda yoki menejer suhbatida bo‘lishi mumkin — bu haqda [sotuv skripti](/blog/sotuv-skripti/) maqolasida.
+
+## Birinchi oy rejasi
+
+1. **1-hafta:** bosqichlar, maydonlar va integratsiyalarni sozlash.
+2. **2-hafta:** joriy arizalarni ko‘chirish va menejerlarni o‘qitish.
+3. **3-hafta:** har kuni CRM'dan foydalanishni tekshirish, noqulay maydonlarni tuzatish.
+4. **4-hafta:** birinchi hisobot va nimani o‘zgartirish bo‘yicha qaror.
+
+## CRM o‘zini oqlaydimi: oddiy hisob
+
+**Misol (shartli raqamlar):** oyiga 100 ta ariza keladi va ularning 10 tasi yo‘qoladi. Agar arizalarning 20% sotuvga aylansa, bu oyiga 2 ta yo‘qotilgan sotuv. Ikki sotuvdan keladigan foydani CRM obunasi va sozlash xarajati bilan solishtiring — ko‘pincha bitta saqlab qolingan sotuv tizim narxini qoplaydi. Reklama samarasini hisoblash — [ROMI](/blog/romi-hisoblash/) maqolasida.
+
+## Savol-javob
+
+### Kichik biznesga CRM kerakmi yoki jadval yetadimi?
+
+Arizalar kam va ular bilan bitta odam ishlasa, jadval yetadi. Menejerlar va kanallar bir nechta bo‘lib, qayta aloqa ko‘paysa, CRM vaqtni tejaydi va arizalar yo‘qolishini kamaytiradi.
+
+### Eski mijozlar bazasini nima qilish kerak?
+
+Uni CRM'ga import qiling: ism, telefon, oxirgi xarid va izoh bilan. Bu baza [takroriy sotuvlar](/blog/takroriy-sotuv-ltv/) uchun eng arzon manba.
+
+### Menejerlar CRM'dan foydalanmasa-chi?
+
+Avval sababini bilib oling: ko‘pincha sozlash juda murakkab bo‘ladi. Maydonlarni soddalashtiring, keyin qat'iy qoida joriy qiling: bonus faqat CRM'da qayd etilgan sotuvlar uchun hisoblanadi.
+
+### CRM'ni o‘zimiz sozlaymizmi yoki mutaxassis kerakmi?
+
+Oddiy voronka va bir-ikki integratsiyani ko‘pincha o‘zingiz sozlay olasiz — tizimlarda yo‘riqnoma va shablonlar bor. Telefoniya, bir nechta filial yoki murakkab avtomatlashtirish kerak bo‘lsa, integrator bilan ishlash vaqtni tejaydi. Har holda sotuv jarayonini avval o‘zingiz qog‘ozga yozing — uni sizdan yaxshiroq hech kim bilmaydi.
 
 ## Xulosa
 

@@ -2,6 +2,7 @@
 title: When you need a rebrand and how to do it
 description: Signs it's time to change, restyling vs a full rebrand, the stages and how not to lose customers.
 date: 2026-10-22
+updated: 2026-10-23
 slug: when-to-rebrand
 type: article
 tags: brand, reputation
@@ -55,6 +56,50 @@ If the only problem is a "boring logo", a restyle is often enough rather than a 
 - Announce the change in advance: "We're refreshing — here's why".
 - For a while, add "formerly …" so people searching the old name can find you.
 - Update every channel at once — a mixed style confuses people.
+
+## What a rebranding budget is made of
+
+When planning a rebrand, don't look only at the price of a logo. Costs usually fall into six groups:
+
+- **Strategy and research** — customer interviews, competitor analysis, new positioning.
+- **Name and legal checks** — if the name changes, checking and registering the trademark.
+- **Design** — logo, colours, fonts, content templates.
+- **Offline production** — signage, packaging, uniforms, printed materials.
+- **Digital channels** — website, social networks, map listings.
+- **Launch** — announcement posts, ads, messages to customers.
+
+The biggest cost is often offline, so plan to replace it in stages.
+
+## A launch-day checklist
+
+- Avatar, name and bio updated on every social network.
+- New logo, colours and copy on the website.
+- Google and Yandex listings updated.
+- Announcement post and Stories ready for customers.
+- Managers give the same answer to "Why did you change?".
+- Old business cards and banners taken out of circulation.
+
+## Preparing your team for a rebrand
+
+Customers often hear about the new brand from your staff first. So before the launch, explain three things to the team: why you're changing, what's changing and what stays the same. Prepare short answers to the questions customers are likely to ask, and update sales scripts, email signatures and uniforms. A short internal session with samples of the new materials works better than an email. Set a clear date after which the old materials are no longer used — otherwise the old and new styles will live side by side for a long time.
+
+## Questions and answers
+
+### Will you lose customers after a rebrand?
+
+Usually not, if the change is explained and familiar elements are kept. The problem arises when customers stop recognising you — that's why announcing in advance and showing the "formerly" name for a while matters.
+
+### When is the best time to rebrand?
+
+Outside your seasonal peak, while sales are stable. In the busiest months, the change can confuse customers and distract the team from the core work.
+
+### How do you measure the result?
+
+Before the rebrand, record a few metrics: searches for your brand name, cost per lead and the share of repeat customers. Compare them after 3–6 months.
+
+### Can you rebrand without changing the name?
+
+Yes, and it's common: the name stays while the positioning, visual style and tone of voice change. A recognised name is an asset. Change it only if it holds you back through confusion, legal problems or bad associations.
 
 ## Conclusion
 

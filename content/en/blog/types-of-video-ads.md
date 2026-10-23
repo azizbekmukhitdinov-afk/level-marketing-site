@@ -2,6 +2,7 @@
 title: 7 types of video ads: which one will sell your product
 description: Review, before/after, testimonial, process, expert, problem-solution and offer videos — when each works.
 date: 2026-10-22
+updated: 2026-10-23
 slug: types-of-video-ads
 type: article
 tags: reels, video
@@ -44,6 +45,44 @@ Ask three questions:
 ## How to test
 
 Prepare 3–4 videos of different types at once and compare them on the same audience and budget, following the rules of [A/B testing](/en/blog/ab-testing-ad-creatives/). Next month, make several variations of the winning type.
+
+## A sample script for each format
+
+- **Review (20 seconds):** one line about the problem → the product in close-up → 3 advantages → price and call to action.
+- **Before / after (10–15 seconds):** the "before" shot → transition → the "after" shot → a short line about the result.
+- **Customer testimonial (30 seconds):** the customer introduces themselves → what the problem was → why they chose you → what result they got.
+- **Problem → solution (20 seconds):** open with a question → the cause → the solution → the offer.
+
+For detailed templates, see [Reels scripts: 5 ready-made templates](/en/blog/reels-script-templates/).
+
+## Length and format
+
+Vertical 9:16 is the main format for Reels, Stories and TikTok. Most ad videos need 15–30 seconds; testimonials and expert videos can run a little longer. Put the key idea in the first 3 seconds, and always add captions for people watching without sound.
+
+## Common mistakes
+
+- All videos in one format — nothing to compare.
+- Opening with a logo in the first second.
+- Trying to say everything in one video.
+- Showing stock footage instead of the real product.
+
+## Questions and answers
+
+### Do you need professional production?
+
+Usually not. A phone video with good light and a clear script performs no worse than a studio one. For shooting tips, see [Shooting Reels on a phone](/en/blog/shooting-reels-on-a-phone/).
+
+### How many videos do you need a month?
+
+For testing, at least 3–4 videos in different formats. Once you find a winner, make several variations of it and add new ones every month as creatives start to wear out.
+
+### Which format gives the cheapest lead?
+
+You can't know in advance — it depends on the product, audience and offer. That's why formats need to be compared under the same conditions.
+
+### Can you use one video on different platforms?
+
+Yes. A vertical 9:16 video fits Reels, Stories, TikTok and YouTube Shorts. But adapt it for each platform: check that interface buttons don't cover the text and captions, remove another app's watermark, and write the post text for that platform's audience. That way one shoot gives you content for several channels. For ads, check each platform's requirements and formats separately.
 
 ## Conclusion
 

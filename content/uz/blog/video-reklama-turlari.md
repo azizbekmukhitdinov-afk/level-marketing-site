@@ -2,6 +2,7 @@
 title: Video reklamaning 7 turi: qaysi biri sizning mahsulotingizni sotadi
 description: Obzor, oldin/keyin, sharh, jarayon, ekspert, muammo-yechim va taklif videolari — qachon qaysi biri ishlaydi.
 date: 2026-10-22
+updated: 2026-10-23
 slug: video-reklama-turlari
 type: article
 tags: reels, video
@@ -44,6 +45,44 @@ Uchta savol bering:
 ## Qanday sinash kerak
 
 Bir vaqtda 3–4 xil turdagi video tayyorlang va ularni bir xil auditoriya va byudjet bilan solishtiring — [A/B test](/blog/kreativlar-ab-test/) qoidalari bo‘yicha. G‘olib turdan keyingi oyda bir nechta variant qiling.
+
+## Har bir tur uchun ssenariy namunasi
+
+- **Obzor (20 soniya):** muammo haqida bir jumla → mahsulot yaqindan → 3 ta afzallik → narx va harakatga chaqiriq.
+- **Oldin / keyin (10–15 soniya):** «oldin» kadri → o‘tish → «keyin» kadri → natija haqida qisqa matn.
+- **Mijoz sharhi (30 soniya):** mijoz o‘zini tanishtiradi → qanday muammo bor edi → nima uchun sizni tanladi → qanday natija oldi.
+- **Muammo → yechim (20 soniya):** savol bilan boshlash → sabab → yechim → taklif.
+
+Batafsil shablonlar — [Reels ssenariy shablonlari](/blog/reels-ssenariy-shablon/) maqolasida.
+
+## Uzunlik va format
+
+Vertikal 9:16 — Reels, Stories va TikTok uchun asosiy format. Ko‘p reklama videolari uchun 15–30 soniya yetarli, sharh va ekspert videolari esa biroz uzunroq bo‘lishi mumkin. Asosiy fikr birinchi 3 soniyada bo‘lsin, subtitrlar esa ovozsiz ko‘radiganlar uchun shart.
+
+## Ko‘p uchraydigan xatolar
+
+- Barcha videolar bir xil turda — taqqoslash uchun material yo‘q.
+- Videoni birinchi soniyada logotip bilan boshlash.
+- Bitta videoda hamma narsani aytishga urinish.
+- Haqiqiy mahsulot o‘rniga stok kadrlarni ko‘rsatish.
+
+## Savol-javob
+
+### Professional prodakshen kerakmi?
+
+Ko‘p hollarda yo‘q. Telefonda olingan, yaxshi yoritilgan va aniq ssenariyli video studiya videosidan yomon ishlamaydi. Suratga olish qoidalari — [telefonda Reels suratga olish](/blog/telefonda-reels-suratga-olish/) maqolasida.
+
+### Bir oyda nechta video kerak?
+
+Test uchun kamida 3–4 xil turdagi video. G‘olib aniqlangach, uning bir nechta variantini qiling va kreativlar «charchay» boshlaganda har oy yangilarini qo‘shing.
+
+### Qaysi tur eng arzon ariza beradi?
+
+Buni oldindan aytib bo‘lmaydi — u mahsulot, auditoriya va taklifga bog‘liq. Shuning uchun turlarni bir xil sharoitda solishtirish kerak.
+
+### Bitta videoni turli platformalarda ishlatsa bo‘ladimi?
+
+Ha. Vertikal 9:16 video Reels, Stories, TikTok va YouTube Shorts'ga mos keladi. Lekin har bir platforma uchun uni biroz moslang: matn va subtitrlarni interfeys tugmalari yopmasligini tekshiring, boshqa ilovaning suv belgisini olib tashlang va post matnini platforma auditoriyasiga qarab yozing. Shunda bitta suratga olish bir nechta kanal uchun kontent beradi. Reklamada esa har bir platformaning talab va formatlarini alohida tekshiring.
 
 ## Xulosa
 

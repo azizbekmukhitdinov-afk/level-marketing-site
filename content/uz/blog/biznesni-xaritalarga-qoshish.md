@@ -2,6 +2,7 @@
 title: Biznesni Google va Yandex Xaritalarga qanday qo‘shish mumkin
 description: Kompaniya kartochkasini ochish, tasdiqlash, to‘ldirish va «yaqin atrofda» qidiruvda yuqoriga chiqish.
 date: 2026-10-22
+updated: 2026-10-23
 slug: biznesni-xaritalarga-qoshish
 type: article
 tags: brend, obro‘
@@ -54,6 +55,52 @@ Shuningdek, nom, manzil va telefon barcha joyda — sayt, Instagram, kataloglar 
 - Bir kompaniyaning bir nechta kartochkasi (dublikatlar).
 - Sharhlarga javob bermaslik — bu haqda [onlayn obro‘](/blog/onlayn-obro-sharhlar/) maqolasida.
 - Eskirgan ish vaqti va telefon.
+
+## Kartochka uchun qanday rasmlar kerak
+
+- **Fasad va kirish** — mijoz bino va eshikni oson topishi uchun.
+- **Ichki ko‘rinish** — zal, ofis yoki ish joyi.
+- **Jamoa** — mijozni kim kutib olishini ko‘rsatadi.
+- **Mahsulot va ish namunalari** — mijoz nima olishini oldindan ko‘radi.
+- **Logotip va muqova** — kartochka brendingizga mos ko‘rinsin.
+
+Faqat haqiqiy rasmlardan foydalaning: stok rasmlar ishonchni pasaytiradi. Rasmlarni vaqti-vaqti bilan yangilab turing — mavsum, yangi mahsulot yoki ta'mirdan keyin.
+
+## Sharhlarni qanday ko‘paytirish
+
+1. **Muvaffaqiyatli xizmatdan keyin so‘rang** — mijoz mamnun bo‘lgan paytda.
+2. **To‘g‘ridan-to‘g‘ri havola bering** — messenjerda yoki chekda, qidirib yurmasin.
+3. **Kassa yoki qabulxonada QR-kod qo‘ying.**
+4. **Har bir sharhga javob bering** — ijobiysiga ham, salbiysiga ham.
+
+Ijobiy sharh uchun sovg‘a yoki chegirma va'da qilmang va soxta sharh buyurtma qilmang: bu platformalar qoidalariga zid va kartochkaga zarar keltirishi mumkin. Fikr yig‘ish tizimi — [mijoz fikrini yig‘ish](/blog/mijoz-fikrini-yigish/) maqolasida.
+
+## Oylik parvarish chek-list
+
+- Ish vaqti to‘g‘rimi, bayram kunlari uchun alohida jadval kiritilganmi.
+- Yangi sharhlarga javob berildimi.
+- Kartochkadagi savollarga javob berildimi.
+- Yangi rasmlar va yangiliklar qo‘shildimi.
+- Foydalanuvchilar taklif qilgan o‘zgarishlar tekshirildimi — ba'zan ular ma'lumotni noto‘g‘ri o‘zgartiradi.
+- Telefon va sayt havolasi ishlayaptimi.
+
+## Savol-javob
+
+### Ofisim bo‘lmasa, kartochka ochsa bo‘ladimi?
+
+Ha. Mijozlar oldiga o‘zingiz borsangiz (yetkazib berish, ustalar, ko‘chma xizmatlar), Google'da manzilni yashirib, xizmat ko‘rsatish hududini belgilash mumkin. Boshqa xarita xizmatlarida shartlar farq qilishi mumkin — ro‘yxatdan o‘tishda tekshiring.
+
+### Kartochka qancha vaqtda paydo bo‘ladi?
+
+Tasdiqlash va moderatsiyadan keyin. Bu bir necha kundan bir necha haftagacha cho‘zilishi mumkin, shuning uchun ochilish yoki ko‘chishdan oldinroq boshlang.
+
+### Xaritalarda reklama qilsa bo‘ladimi?
+
+Ha, Google ham, Yandex ham xaritalarda pullik ko‘rsatish imkoniyatlarini taklif qiladi. Lekin avval bepul kartochkani to‘liq to‘ldiring — chala kartochkani reklama qilish pulni behuda sarflash bo‘ladi.
+
+### Salbiy sharhni o‘chirib yuborsa bo‘ladimi?
+
+Kompaniya egasi sharhni o‘zi o‘chira olmaydi. Agar sharh platforma qoidalarini buzsa — haqorat, spam yoki siz bilan bog‘liq bo‘lmagan voqea — ustidan shikoyat qilib, moderatsiyaga yuborish mumkin. Qolgan hollarda xotirjam va aniq javob bering: javobingizni boshqa mijozlar ham o‘qiydi.
 
 ## Xulosa
 

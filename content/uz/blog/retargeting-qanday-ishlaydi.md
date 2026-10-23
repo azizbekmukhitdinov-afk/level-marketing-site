@@ -2,6 +2,7 @@
 title: Retargeting: sotib olmaganlarni qanday qaytarish mumkin
 description: Retargeting nima, qaysi auditoriyalarga qayta ko‘rsatish kerak, qanday kreativ ishlaydi va chastotani qanday nazorat qilish.
 date: 2026-10-22
+updated: 2026-10-23
 slug: retargeting-qanday-ishlaydi
 type: article
 tags: target reklama, meta ads
@@ -46,6 +47,46 @@ Kichik auditoriyaga katta byudjet berilsa, bitta odam reklamani kuniga bir necha
 - Allaqachon sotib olganlarni (agar takroriy sotuv maqsadi bo‘lmasa).
 - Ishga qabul qilish yoki hamkorlik bo‘yicha yozganlarni.
 - Juda eski tashrifchilarni — 90 kundan oshganlar odatda «sovib» qoladi.
+
+## Retargeting kampaniyasini sozlash: 5 qadam
+
+1. **Pixel va hodisalarni tekshiring** — saytdagi tashriflar va harakatlar to‘g‘ri yozilayotganiga ishonch hosil qiling.
+2. **Maxsus auditoriyalar yarating** — Ads Manager'da: saytga kirganlar, videoni ko‘rganlar, profil bilan faol bo‘lganlar.
+3. **Sotib olganlarni istisno qiling** — ularga boshqa xabar kerak.
+4. **Har bir auditoriyaga 2–3 kreativ tayyorlang** — sharh, e'tirozga javob va taklif.
+5. **Bir haftadan keyin tekshiring** — chastota, CTR va ariza narxi.
+
+## Retargeting ketma-ketligi (namuna)
+
+| Kunlar | Nima ko‘rsatiladi |
+|---|---|
+| 1–3 | Mijoz sharhi yoki natija |
+| 4–7 | Ko‘p uchraydigan e'tirozga javob: narx, kafolat, yetkazib berish |
+| 8–14 | Muddatli taklif |
+
+Bunday ketma-ketlik bir xil reklamani qayta-qayta ko‘rsatishdan ko‘ra yumshoqroq qabul qilinadi: odam har safar yangi ma'lumot oladi.
+
+## Retargeting uchun byudjet
+
+Retargeting auditoriyasi yangi auditoriyadan ancha kichik, shuning uchun unga odatda umumiy byudjetning kichikroq qismi yetarli. Byudjetni chastota orqali boshqaring: bir kishi reklamani haftasiga juda ko‘p ko‘rsa, byudjetni kamaytiring yoki auditoriyani kengaytiring. Natijani alohida kuzating: retargeting arizasi ko‘pincha arzonroq bo‘ladi, lekin bu ikkala kampaniya birga ishlagani uchun. Shuni ham unutmang: retargeting yangi auditoriyaga reklamaning o‘rnini bosmaydi. Saytga va profilga yangi odamlar kelmasa, retargeting auditoriyasi ham asta-sekin qisqaradi.
+
+## Savol-javob
+
+### Retargeting uchun auditoriya qancha bo‘lishi kerak?
+
+Juda kichik auditoriyada reklama tez «charchaydi», reklama kabineti esa bunday auditoriya haqida ogohlantiradi. U holda muddatni uzaytiring (masalan, 30 o‘rniga 90 kun) yoki bir nechta manbani birlashtiring.
+
+### Retargeting faqat Instagram'da ishlaydimi?
+
+Yo‘q: Google Ads va Yandex Direkt'da ham saytga kirganlarga qayta reklama ko‘rsatish mumkin. Buning uchun saytda ularning teglari o‘rnatilgan bo‘lishi kerak — bu haqda [Yandex Direkt](/blog/yandex-direkt-ozbekistonda/) maqolasida.
+
+### Retargetingni qachon to‘xtatish kerak?
+
+Chastota o‘sib, ariza narxi bir necha hafta ketma-ket oshsa — avval kreativni yangilang yoki auditoriyani kengaytiring. Shunda ham natija bo‘lmasa, byudjetni yangi auditoriyaga o‘tkazing.
+
+### Retargeting va lookalike farqi nima?
+
+Retargeting siz bilan allaqachon tanish odamlarga ko‘rsatiladi, lookalike esa ularga o‘xshash yangi odamlarni topadi. Ular bir-birini to‘ldiradi: lookalike yangi odamlarni olib keladi, retargeting esa ularni ariza qoldirishga undaydi. Batafsil — [lookalike auditoriya](/blog/lookalike-auditoriya/) maqolasida.
 
 ## Xulosa
 
