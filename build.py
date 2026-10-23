@@ -26,6 +26,8 @@ BASE = SITE["url"].rstrip("/")
 ROOT_PATH = re.sub(r"^https?://[^/]+", "", BASE)
 # Stylesheet version, so browsers fetch the new CSS after every change.
 CSS_VERSION = __import__("hashlib").md5((ROOT / "static" / "style.css").read_bytes()).hexdigest()[:8]
+# The leVel wordmark traced from the original logo file (810×240 units), reused on the generated covers.
+LOGO_PATH = re.search(r' d="([^"]+)"', (ROOT / "static" / "logo.svg").read_text()).group(1)
 
 # ---------- markdown ----------
 
@@ -245,19 +247,18 @@ def page(lang, title, desc, path, body, alts=None, schema=None, og_type="website
 <meta property="og:locale" content="{t['og_locale']}">
 {og_img}
 <meta name="twitter:card" content="{'summary_large_image' if og_image else 'summary'}">
-<meta name="theme-color" content="#0e2445">
+<meta name="theme-color" content="#0c2549">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="alternate" type="application/rss+xml" title="{SITE['name']}" href="{p}/rss.xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&text=leVel&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="/style.css?v={CSS_VERSION}">
 {schema_tag}
 </head>
 <body>
 <header class="top"><div class="wrap nav">
-  <a class="logo" href="{p}/" aria-label="{SITE['name']}"><span class="mark">leVel</span><span class="tag">marketing</span></a>
+  <a class="logo" href="{p}/" aria-label="{SITE['name']}"><img class="mark" src="/logo.svg" alt="" width="95" height="28"><span class="tag">marketing</span></a>
   <div class="langs">{langs}</div>
   <button class="burger" type="button" aria-label="{t['menu']}" aria-expanded="false" aria-controls="menu"><span></span><span></span><span></span></button>
   <nav id="menu">
@@ -284,7 +285,7 @@ document.querySelectorAll('#menu a').forEach(function (a) {{
 </main>
 <footer class="foot"><div class="wrap">
   <div>
-    <a class="logo" href="{p}/" aria-label="{SITE['name']}"><span class="mark">leVel</span><span class="tag">marketing</span></a>
+    <a class="logo" href="{p}/" aria-label="{SITE['name']}"><img class="mark" src="/logo.svg" alt="" width="95" height="28"><span class="tag">marketing</span></a>
     <p>{t['footer']}</p>
     <p>{t['address']}</p>
   </div>
@@ -368,7 +369,7 @@ def org_schema(lang):
         "areaServed": "UZ",
         "address": {"@type": "PostalAddress", "streetAddress": SITE.get("street", ""), "addressLocality": "Tashkent", "addressCountry": "UZ"},
         "legalName": SITE.get("legal_name", SITE["name"]),
-        "logo": BASE + "/favicon.svg",
+        "logo": BASE + "/logo.png",
     }
     c = SITE["contacts"]
     if c.get("phone"):
@@ -560,13 +561,14 @@ def cover_svg(post):
         for i, l in enumerate(lines)
     )
     return f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
-<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0e2445"/><stop offset=".55" stop-color="#174c7f"/><stop offset="1" stop-color="#2a74c9"/></linearGradient></defs>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0c2549"/><stop offset=".55" stop-color="#174c7f"/><stop offset="1" stop-color="#2a74c9"/></linearGradient></defs>
 <rect width="1200" height="630" fill="url(#g)"/>
 <circle cx="1080" cy="120" r="260" fill="#62a7d5" opacity=".22"/>
 <rect x="80" y="80" width="90" height="8" rx="4" fill="#62a7d5"/>
 <text x="80" y="140" font-size="26" font-weight="700" letter-spacing="6" fill="#9dd1f5" font-family="Manrope, Arial, Helvetica, sans-serif">{label}</text>
 <g font-family="Manrope, Arial, Helvetica, sans-serif">{text}</g>
-<text x="80" y="566" font-size="46" letter-spacing="-2" fill="#fff" font-family="'Archivo Black', 'Arial Black', Arial, sans-serif" font-weight="900">leVel<tspan dx="16" font-size="20" letter-spacing="5" fill="#9dd1f5" font-family="Manrope, Arial, Helvetica, sans-serif" font-weight="700">MARKETING</tspan></text>
+<path transform="translate(80 521) scale(.19)" fill="#fff" fill-rule="evenodd" d="{LOGO_PATH}"/>
+<text x="252" y="566" font-size="20" font-weight="700" letter-spacing="5" fill="#9dd1f5" font-family="Manrope, Arial, Helvetica, sans-serif">MARKETING</text>
 </svg>"""
 
 

@@ -1,6 +1,6 @@
 :root {
   /* the agency's identity: navy of the leVel logo, its ice-blue circle and the blues of the Instagram posts */
-  --ink: #0e2445;
+  --ink: #0c2549;
   --muted: #52617b;
   --line: #dbe6f2;
   --soft: #edf6fd;
@@ -8,7 +8,7 @@
   --accent: #1e5fbe;
   --accent-2: #62a7d5;
   --accent-ink: #ffffff;
-  --brand-grad: linear-gradient(135deg, #0e2445 0%, #174c7f 55%, #2a74c9 100%);
+  --brand-grad: linear-gradient(135deg, #0c2549 0%, #174c7f 55%, #2a74c9 100%);
   --radius: 14px;
 }
 * { box-sizing: border-box; }
@@ -26,7 +26,7 @@ h3 { font-size: 19px; margin: 0 0 8px; }
 .top { position: sticky; top: 0; z-index: 10; background: rgba(255,255,255,.94); backdrop-filter: blur(8px); border-bottom: 1px solid var(--line); }
 .nav { display: flex; align-items: center; justify-content: space-between; height: 66px; gap: 16px; }
 .logo { display: inline-flex; align-items: baseline; gap: 9px; color: var(--ink); text-decoration: none; white-space: nowrap; }
-.logo .mark { font-family: "Archivo Black", "Arial Black", "Helvetica Neue", Arial, sans-serif; font-weight: 900; font-size: 30px; line-height: 1; letter-spacing: -0.04em; }
+.logo .mark { display: block; height: 28px; width: auto; }
 .logo .tag { font-size: 11px; font-weight: 700; letter-spacing: .24em; text-transform: uppercase; color: var(--muted); }
 #menu { display: flex; align-items: center; gap: 22px; }
 #menu a { color: var(--ink); text-decoration: none; font-weight: 600; font-size: 15px; }
@@ -204,7 +204,7 @@ h3 { font-size: 19px; margin: 0 0 8px; }
   .grid3, .cards, .steps { grid-template-columns: 1fr; }
   .hero .wrap { padding-top: 56px; padding-bottom: 56px; }
   #menu { gap: 12px; }
-  .logo .mark { font-size: 26px; }
+  .logo .mark { height: 24px; }
   .logo .tag { display: none; }
   .foot .wrap { grid-template-columns: 1fr; }
   .team { grid-template-columns: 1fr 1fr; gap: 12px; }
