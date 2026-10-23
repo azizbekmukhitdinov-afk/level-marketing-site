@@ -2,6 +2,7 @@
 title: Raqobatchilar tahlili: 1 kunda nimani bilib olish mumkin
 description: Raqobatchilarni qanday topish, ularning reklamasi, narxi, taklifi va sharhlarini tahlil qilish va xulosa jadvali.
 date: 2026-10-22
+updated: 2026-10-23
 slug: raqobatchilar-tahlili
 type: article
 tags: biznes, strategiya
@@ -53,6 +54,75 @@ Oxirgi ustun eng muhimi: raqobatchining har bir zaif tomoni — siz yaxshiroq qi
 ## Odob qoidalari
 
 Faqat ochiq ma'lumotdan foydalaning. Matn, rasm va dizaynni ko‘chirmang — tahlil bozorni tushunish uchun kerak, nusxa olish uchun emas.
+
+## Narx xaritasi
+
+Raqobatchilarni ikki o‘q bo‘yicha joylashtiring: narx va xizmat darajasi. **Misol (shartli):**
+
+| Segment | Narx | Kimlar bor |
+|---|---|---|
+| Arzon va oddiy | Past | B, D |
+| O‘rta, standart servis | O‘rta | A, C |
+| Qimmat, premium servis | Yuqori | Hech kim |
+
+Bo‘sh katak — imkoniyat bo‘lishi mumkin, lekin avval u yerda talab borligini tekshiring: ba'zan katak bo‘sh, chunki u yerda mijoz yo‘q.
+
+## Raqobatchilar kontentidan nimani o‘rganish
+
+- Qaysi formatlar eng ko‘p ko‘rish va izoh to‘playdi.
+- Qaysi mavzular takrorlanadi va qaysilari umuman yo‘q.
+- Izohlarda qanday savollar beriladi — ayniqsa javobsiz qolganlari.
+
+Javobsiz savollar — sizning kontent rejangiz uchun tayyor mavzular. Raqobatchi nimani tushuntirmayotgan bo‘lsa, siz tushuntiring.
+
+## Tahlilni doimiy kuzatuvga aylantirish
+
+Oyiga bir marta 30 daqiqa ajrating: Meta Ad Library'dagi yangi reklamalar, yangi takliflar va narx o‘zgarishlarini tekshiring hamda xulosa jadvalini yangilang. Kalendarda takroriy eslatma qo‘ying — aks holda tahlil bir marta qilinib, unutiladi.
+
+## Ko‘p uchraydigan xatolar
+
+- Faqat eng yirik raqobatchini tahlil qilish.
+- Tahlil o‘rniga nusxa ko‘chirish.
+- Tahlilni bir marta qilib, keyin yangilamaslik.
+- Bilvosita raqobatchilarni e'tiborsiz qoldirish.
+- Bitta sharh asosida katta xulosa chiqarish.
+
+## SWOT: tahlilni qarorga aylantirish
+
+Raqobatchilar haqidagi ma'lumotni o‘z biznesingiz uchun qisqa SWOT jadvaliga yig‘ing:
+
+| | Ijobiy | Salbiy |
+|---|---|---|
+| Ichki | Kuchli tomonlar: sizda raqobatchilardan yaxshiroq nima bor | Zaif tomonlar: qayerda ortda qolasiz |
+| Tashqi | Imkoniyatlar: bozordagi bo‘sh joylar va raqobatchilar xatolari | Xavflar: yangi o‘yinchilar, narx urushi |
+
+Jadvaldan uchta qaror chiqaring: reklamada nimani ta'kidlash, nimani tuzatish va nimadan qochish. Qarorsiz tahlil — shunchaki chiroyli hujjat.
+
+## Savol-javob
+
+### Raqobatchining sotuv hajmini qanday bilish mumkin?
+
+Aniq bilib bo‘lmaydi. Bilvosita belgilarga qarang: reklamalar qancha vaqtdan beri ishlayapti, marketpleysdagi sharhlar soni, ish e'lonlari. Lekin ularni ehtiyotkorlik bilan talqin qiling.
+
+### Raqobatchi nomini reklamada ishlatsa bo‘ladimi?
+
+Raqobatchi brendini reklama matnida ishlatish huquqiy muammolar va platformalar bilan nizolarga olib kelishi mumkin. Uning o‘rniga o‘z afzalliklaringiz haqida gapiring.
+
+### Raqobatchi narxni tushirsa nima qilish kerak?
+
+Shoshilmang. Avval marjangizni hisoblang va mijozlaringiz aynan narx uchun kelishini tekshiring. Ko‘pincha qiymatni — kafolat, servis, tezlikni — kuchliroq ko‘rsatish narx tushirishdan foydaliroq.
+
+### Raqobatchilar juda kam bo‘lsa-chi?
+
+Bilvosita raqobatchilarga va boshqa shaharlardagi o‘xshash bizneslarga qarang. Ular mijozlar qanday muammoni hal qilayotganini va qaysi yondashuvlar ishlashini ko‘rsatadi.
+
+### Tahlilni kim qilishi kerak?
+
+Eng yaxshisi — biznes egasi va marketolog birgalikda: egasi bozorni biladi, marketolog esa reklama va kontentni. Sotuv bo‘limini ham jalb qiling — mijozlar raqobatchilar haqida aynan ularga gapiradi.
+
+### Bir kunlik tahlil uchun qanday vositalar kerak?
+
+Brauzer, Meta Ad Library, xaritalar, jadval va «sirli xaridor» uchun telefon. Boshlash uchun pullik vositalar shart emas.
 
 ## Xulosa
 

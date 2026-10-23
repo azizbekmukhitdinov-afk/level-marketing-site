@@ -2,6 +2,7 @@
 title: Biznes g‘oyani reklamadan oldin qanday tekshirish mumkin
 description: Talabni arzon tekshirish usullari: raqobatchilar, qidiruv so‘rovlari, test-sahifa, kichik reklama testi va oldindan buyurtma.
 date: 2026-10-22
+updated: 2026-10-23
 slug: biznes-goyani-tekshirish
 type: article
 tags: biznes, strategiya
@@ -49,6 +50,67 @@ Eng kuchli signal — odamlar mahsulot hali yo‘q paytda pul to‘lashga tayyor
 ## Natijani qanday baholash
 
 Muvaffaqiyat mezonini testdan **oldin** yozing: masalan, «ariza narxi X dan past va kamida N ta oldindan buyurtma». Aks holda har qanday natijani «yaxshi» deb talqin qilish oson. Do‘stlarning layklari va «zo‘r g‘oya» degan gaplari tekshiruv emas.
+
+## Bir haftalik test rejasi
+
+| Kun | Nima qilish |
+|---|---|
+| 1-kun | Raqobatchilar va qidiruv so‘rovlarini o‘rganish |
+| 2–3-kun | 10 ta potensial mijoz bilan suhbat |
+| 4-kun | Test-sahifa yoki profil tayyorlash |
+| 5–7-kun | Kichik reklama testi va oldindan buyurtmalar |
+| Hafta oxiri | Natijalarni oldindan yozilgan mezon bilan solishtirish |
+
+Bir hafta ko‘p narsani ko‘rsatadi, lekin bu yakuniy hukm emas — birinchi signal xolos.
+
+## Suhbat uchun savollar namunasi
+
+Savollar kelajak haqida emas, o‘tmishdagi real xatti-harakat haqida bo‘lsin:
+
+1. Bu muammo oxirgi marta qachon bo‘lgan?
+2. Uni qanday hal qildingiz?
+3. Bunga qancha pul yoki vaqt sarfladingiz?
+4. Hozirgi yechimda nima yoqmaydi?
+5. Yechim izlab qayerga murojaat qildingiz?
+6. Qaror qilishda kim bilan maslahatlashdingiz?
+
+## Natija salbiy bo‘lsa
+
+Salbiy natija — muvaffaqiyatsizlik emas, tejalgan pul. Undan keyin bitta narsani o‘zgartirib, qayta sinab ko‘ring: auditoriya, taklif, narx yoki kanal. Ikki-uch urinishdan keyin ham signal yo‘q bo‘lsa, g‘oyadan voz kechish — eng to‘g‘ri biznes qarori.
+
+## Ko‘p uchraydigan xatolar
+
+- Faqat do‘st va qarindoshlardan so‘rash.
+- Layklar va «zo‘r g‘oya» degan gaplarni talab deb hisoblash.
+- Muvaffaqiyat mezonini oldindan yozmaslik.
+- Mahsulotni to‘liq tayyorlab, keyin sotishni sinash.
+- Juda kichik tanlov asosida xulosa chiqarish.
+
+## Minimal mahsulot bilan sinash
+
+To‘liq mahsulotni yaratishdan oldin uning eng sodda versiyasini soting: xizmatni qo‘lda bajaring, kichik partiya buyurtma qiling yoki tayyor mahsulotni yetkazib beruvchidan oling. **Misol (shartli):** shirinliklar do‘koni ochish g‘oyasi bo‘lsa, ijara va jihozlardan oldin Instagram orqali uyda tayyorlangan 20 ta tortni sotib ko‘ring. Sotilsa — talab bor; bunda qaysi tortlar, qaysi narxda va kimga sotilganini ham bilib olasiz.
+
+## Savol-javob
+
+### Test uchun qancha byudjet kerak?
+
+Xulosa chiqarish uchun yetarli natija olinadigan byudjet: taxminan 20–30 ta ariza yoki bir necha yuz bosish. Kutilayotgan ariza narxini kerakli arizalar soniga ko‘paytiring.
+
+### Oldindan buyurtma olishda nimaga e'tibor berish kerak?
+
+Mijozga muddat va shartlarni aniq ayting va pulni qaytarish imkonini bering. Savdo qoidalari bo‘yicha savollar bo‘lsa, yurist bilan maslahatlashing.
+
+### G‘oyani o‘g‘irlab ketishlaridan qo‘rqish kerakmi?
+
+Odatda yo‘q: g‘oyaning o‘zi arzon, uni amalga oshirish qimmat. Tez sinab ko‘rish va birinchi bo‘lib bozorga chiqish yashirib o‘tirishdan foydaliroq.
+
+### Bitta testdan keyin xulosa qilsa bo‘ladimi?
+
+Bitta salbiy test — bitta variant haqidagi ma'lumot. G‘oyadan voz kechishdan oldin kamida 2–3 xil taklif yoki auditoriyani sinab ko‘ring.
+
+### G‘oya qachon «tasdiqlandi» deb hisoblanadi?
+
+Oldindan yozilgan mezon bajarilganda va odamlar haqiqatan pul to‘laganda. Agar birinchi xaridorlar qayta sotib olsa yoki do‘stlarini olib kelsa — bu yanada kuchli signal: talab bor va mahsulot uni qondiryapti.
 
 ## Xulosa
 

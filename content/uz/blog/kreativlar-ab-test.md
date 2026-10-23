@@ -2,6 +2,7 @@
 title: Reklama kreativlari uchun A/B test: qanday o‘tkaziladi
 description: A/B test nima, bir vaqtda nimani sinash kerak, qancha byudjet va vaqt kerak va g‘olibni qanday aniqlash.
 date: 2026-10-22
+updated: 2026-10-23
 slug: kreativlar-ab-test
 type: article
 tags: target reklama, meta ads
@@ -56,6 +57,56 @@ Bir necha oydan keyin bu jadval sizning auditoriyangiz uchun nima ishlashini ko�
 - Testni 1–2 kundan keyin to‘xtatish.
 - Juda kichik byudjet — hech qaysi variant yetarli natija to‘plamaydi.
 - G‘olibni topib, yangi testni boshlamaslik — kreativlar vaqt o‘tib «charchaydi».
+
+## 10 ta test g‘oyasi
+
+1. Hook: muammo bilan yoki natija bilan boshlash.
+2. Kadrda odam yuzi yoki faqat mahsulot.
+3. Narx ko‘rsatilgan yoki ko‘rsatilmagan.
+4. Ikki xil taklif: chegirma yoki bepul qo‘shimcha xizmat.
+5. Mijoz videosi (UGC) yoki studiya roligi.
+6. 15 soniyalik yoki 30 soniyalik video.
+7. Video yoki karusel.
+8. Birinchi kadrda yirik matn bor yoki yo‘q.
+9. Qisqa yoki batafsil reklama matni.
+10. Turli harakatga chaqiruvlar: «Narxni bilish» yoki «Bepul konsultatsiya».
+
+Ro‘yxatdan bir vaqtda faqat bitta g‘oyani oling — aks holda natija nima sababdan o‘zgarganini bilmaysiz.
+
+## Test byudjetini qanday hisoblash
+
+Oddiy formula: **variantlar soni × har bir variant uchun kerakli natijalar × kutilayotgan ariza narxi**.
+
+**Misol (shartli raqamlar):** ikkita variant, har biriga taxminan 30 ta ariza, ariza narxi $2 → 2 × 30 × $2 = **$120**. Bu summani kamida bir haftaga taqsimlang — shunda ish kunlari ham, dam olish kunlari ham qamrab olinadi. Byudjet bunga yetmasa, variantlar sonini kamaytiring yoki arizadan arzonroq oraliq ko‘rsatkichni, masalan, boshlangan yozishmalar sonini solishtiring.
+
+## G‘olibni qanday masshtablash
+
+- Byudjetni birdaniga emas, bosqichma-bosqich oshiring va har safar ariza narxini kuzating.
+- G‘olib kreativning 2–3 ta yangi variantini qiling: boshqa hook, boshqa birinchi kadr, boshqa matn.
+- Eski g‘olibni «nazorat» sifatida qoldiring — yangi variantlarni u bilan solishtiring.
+- Bir necha haftadan keyin testni takrorlang: auditoriya ham, bozor ham o‘zgaradi.
+
+## Savol-javob
+
+### Nechta variantni bir vaqtda test qilish mumkin?
+
+Kichik byudjetda — 2–3 ta. Variantlar qancha ko‘p bo‘lsa, har biri yetarli natija to‘plashi uchun shuncha ko‘p byudjet va vaqt kerak bo‘ladi.
+
+### Advantage+ kreativ funksiyalari testga xalaqit beradimi?
+
+Ular kreativni avtomatik o‘zgartirishi mumkin: yorqinlik, musiqa, matn variantlari. Toza test uchun bu funksiyalarni o‘chirib qo‘ying — aks holda siz tayyorlagan versiya emas, tizim o‘zgartirgan versiya sinaladi.
+
+### Organik postlar orqali test qilsa bo‘ladimi?
+
+Ha, dastlabki saralash uchun. Bir nechta hook'ni organik Reels'da sinab ko‘ring, eng ko‘p ko‘rilgan va saqlanganini esa reklamada test qiling — bu reklama byudjetini tejaydi.
+
+### Kreativ qancha vaqtda «charchaydi»?
+
+Aniq muddat yo‘q. Belgilariga qarang: chastota o‘sadi, CTR pasayadi, ariza narxi esa bir necha kun ketma-ket oshadi. Shunda yangi variantni ishga tushirish vaqti keldi.
+
+### Natijalar orasidagi farq kichik bo‘lsa-chi?
+
+Demak, bu element sizning auditoriyangiz uchun unchalik muhim emas — ikkala variant teng. Boshqa ko‘rsatkichlar bo‘yicha yaxshirog‘ini tanlang yoki bir-biridan keskinroq farq qiladigan variantlar bilan yangi test qiling.
 
 ## Xulosa
 

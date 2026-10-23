@@ -2,6 +2,7 @@
 title: O‘quv markazi uchun marketing: o‘quvchilarni qanday jalb qilish
 description: Ta'lim xizmatlarida qaror qanday qabul qilinadi, sinov darsi, bitiruvchilar videolari, mavsumiylik va target.
 date: 2026-10-22
+updated: 2026-10-23
 slug: oquv-markazi-marketing
 type: article
 tags: biznes, strategiya
@@ -53,6 +54,66 @@ Ko‘plab o‘quv markazlarida talab o‘quv yili boshlanishidan oldin, yangi yi
 | Sinovdan to‘lovga konversiya | Dars va sotuv sifati |
 | Birinchi oydan keyin davom etganlar | O‘quvchilar mamnunligi |
 | LTV | Bitta o‘quvchidan butun davrdagi daromad — [LTV](/blog/takroriy-sotuv-ltv/) |
+
+## Sinov darsidan keyingi 48 soat
+
+Sinov darsi o‘zi sotmaydi — undan keyingi qadamlar sotadi:
+
+1. **24 soat ichida qo‘ng‘iroq.** Taassurotni so‘rang: nima yoqdi, nima qiyin bo‘ldi.
+2. **Natijani tushuntiring.** Daraja testi natijasi va o‘quvchi uchun tavsiya etilgan guruh.
+3. **Aniq taklif.** Jadval, narx va boshlanish sanasi — messenjerda yozma ravishda ham yuboring.
+4. **Qaror bo‘lmasa** — keyingi aloqa sanasini kelishib oling va CRM'ga yozing.
+
+Guruhda joylar cheklangan bo‘lsa, buni ayting — lekin faqat haqiqat bo‘lsa.
+
+## Ota-onalar uchun kontent
+
+Bolalar ta'limida qarorni ota-onalar qabul qiladi, ularning savollari esa boshqacha: farzandim nimani o‘rganadi, qanday muhitda, kim bilan, qanday natija bilan? Ularga quyidagilarni ko‘rsating: o‘qituvchining yondashuvi, dars jarayoni, xavfsizlik va o‘quvchi rivojlanishi. Ota-onalarga oylik qisqa hisobot yuborish o‘quvchilarni ushlab qolishga ham yordam beradi.
+
+## Ko‘p uchraydigan xatolar
+
+- Aniq ballni kafolatlash: «IELTS 7.0 kafolatlanadi».
+- Faqat «chegirma» bilan reklama qilish.
+- Sinov darsidan keyin qo‘ng‘iroq qilmaslik.
+- O‘quvchilar rasmini roziliksiz ishlatish.
+- Yangi o‘quvchilarga e'tibor berib, mavjudlarini ushlab qolishni unutish.
+
+## Kurs narxini qanday taqdim etish
+
+Narxni faqat raqam sifatida emas, qiymat sifatida ko‘rsating:
+
+- **Nima kiradi:** darslar soni, materiallar, sinov imtihonlari, qo‘shimcha speaking klub.
+- **To‘lov varianti:** oylik to‘lov yoki butun kurs uchun to‘lov — ikkinchisini qulayroq shartlarda taklif qilish mumkin.
+- **Bitta dars narxi:** oylik narxni darslar soniga bo‘lib ko‘rsatish ota-onalarga solishtirishni osonlashtiradi.
+- **Oilaviy chegirma** — agar u haqiqatan mavjud bo‘lsa.
+
+Shunda mijoz faqat narxni emas, nimaga pul to‘layotganini ham ko‘radi.
+
+## Savol-javob
+
+### Bepul sinov darsi qadrsizlanib qolmaydimi?
+
+Uni qimmatli qiling: daraja testi, shaxsiy o‘quv rejasi va o‘qituvchi bilan suhbat. Oldindan ro‘yxatdan o‘tish va cheklangan joylar uni «tasodifiy» tashrifdan farqlaydi.
+
+### O‘quvchi natijalarini reklamada ishlatish uchun nima kerak?
+
+Yozma rozilik — voyaga yetmaganlar uchun ota-onasining roziligi. Faqat haqiqiy natijalarni ko‘rsating va ularni hamma uchun kafolat sifatida taqdim qilmang.
+
+### Instagram yoki Telegram — qaysi biri yaxshiroq?
+
+Ikkalasi ham kerak: Instagram qamrov va ishonch uchun, Telegram esa materiallar, foydali maslahatlar va o‘quvchilar jamoasi uchun. Ular bir-birini to‘ldiradi.
+
+### O‘quvchilarni qanday ushlab qolish mumkin?
+
+Rivojlanishni ko‘rinadigan qiling: oraliq testlar, ota-onalarga hisobot, o‘quvchilar jamoasi. Muntazam fikr so‘rang — qanday qilish [mijoz fikrini yig‘ish](/blog/mijoz-fikrini-yigish/) maqolasida.
+
+### Narxni e'lon qilish kerakmi?
+
+Ha, hech bo‘lmaganda «...dan boshlab». Ota-onalar markazlarni solishtiradi, va narx ko‘rinmasa, ko‘pchilik yozmasdan boshqa markazga o‘tadi.
+
+### Onlayn kurslar oflayn markaz uchun raqobatchimi?
+
+Auditoriyaning bir qismi onlayn o‘qishni afzal ko‘radi, ayniqsa boshqa shaharlarda. Gibrid variantni ko‘rib chiqing: yozib olingan materiallar va jonli darslar, Telegram'da esa o‘quvchilar jamoasi. Shunda oflayn markaz ham onlayn auditoriyadan daromad oladi.
 
 ## Xulosa
 

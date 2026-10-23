@@ -2,6 +2,7 @@
 title: How to validate a business idea before you advertise
 description: Cheap ways to test demand: competitors, search queries, a test page, a small ad test and pre-orders.
 date: 2026-10-22
+updated: 2026-10-23
 slug: validate-a-business-idea
 type: article
 tags: business, strategy
@@ -49,6 +50,67 @@ The strongest signal is people paying before the product exists. Be honest: give
 ## How to judge the results
 
 Write down your success criteria **before** the test: for example, "cost per lead below X and at least N pre-orders". Otherwise it's easy to read any result as "good". Friends' likes and "great idea!" are not validation.
+
+## A one-week test plan
+
+| Day | What to do |
+|---|---|
+| Day 1 | Study competitors and search queries |
+| Days 2–3 | 10 interviews with potential customers |
+| Day 4 | Prepare a test page or profile |
+| Days 5–7 | A small ad test and pre-orders |
+| End of week | Compare results with the success criterion you wrote down in advance |
+
+A week shows a lot, but it's not a final verdict — just a first signal.
+
+## Sample interview questions
+
+Ask about real past behaviour, not the future:
+
+1. When did this problem last come up?
+2. How did you solve it?
+3. How much money or time did it take?
+4. What don't you like about your current solution?
+5. Where did you look for a solution?
+6. Who did you consult before deciding?
+
+## If the result is negative
+
+A negative result isn't a failure — it's money saved. Change one thing and try again: the audience, the offer, the price or the channel. If there's still no signal after two or three attempts, dropping the idea is the right business decision.
+
+## Common mistakes
+
+- Asking only friends and relatives.
+- Treating likes and "great idea!" as demand.
+- Not writing down the success criterion in advance.
+- Building the whole product first and testing sales afterwards.
+- Drawing conclusions from too small a sample.
+
+## Testing with a minimal product
+
+Before building the full product, sell its simplest version: deliver the service by hand, order a small batch or source a ready-made product from a supplier. **An example (illustrative):** if you're thinking of opening a cake shop, try selling 20 home-made cakes through Instagram before paying for rent and equipment. If they sell, there's demand — and you also learn which cakes sell, at what price and to whom.
+
+## Questions and answers
+
+### How much budget do you need for a test?
+
+Enough to get sufficient results for a conclusion: roughly 20–30 leads or a few hundred clicks. Multiply your expected cost per lead by the number of leads you need.
+
+### What should you watch out for with pre-orders?
+
+Tell customers the timing and terms clearly, and give them a way to get their money back. If you have questions about trading rules, consult a lawyer.
+
+### Should you worry about someone stealing your idea?
+
+Usually not: an idea on its own is cheap; execution is what's expensive. Testing quickly and reaching the market first is more useful than keeping it secret.
+
+### Can you draw a conclusion after one test?
+
+One negative test is information about one variant. Before dropping the idea, try at least 2–3 different offers or audiences.
+
+### When can an idea be considered validated?
+
+When the criterion you wrote down in advance is met and people have actually paid. If the first buyers come back or bring friends, that's an even stronger signal: the demand is real and the product satisfies it.
 
 ## Conclusion
 

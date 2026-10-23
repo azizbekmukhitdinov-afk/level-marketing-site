@@ -2,6 +2,7 @@
 title: Mijozlardan fikr-mulohaza qanday yig‘iladi va undan qanday foydalaniladi
 description: Qachon va qanday so‘rash, NPS, savollar ro‘yxati va javoblarni marketing va mahsulotga aylantirish.
 date: 2026-10-22
+updated: 2026-10-23
 slug: mijoz-fikrini-yigish
 type: article
 tags: sotuv, analitika
@@ -61,6 +62,67 @@ NPS = tarafdorlar foizi − tanqidchilar foizi. **Misol (shartli raqamlar):** 10
 - Har bir javob uchun rahmat ayting.
 - Nimani o‘zgartirganingizni mijozlarga ayting — keyingi safar ular bajonidil javob beradi.
 - Javoblarni bitta jadval yoki CRM'da saqlang.
+
+## Telegram'dagi so‘rovnoma namunasi
+
+> «Assalomu alaykum, [ism]! Buyurtmangiz uchun rahmat. Xizmatimizni yaxshilash uchun uchta qisqa savol:
+> 1) Bizni do‘stingizga tavsiya qilish ehtimolingizni 0 dan 10 gacha baholang.
+> 2) Nima uchun aynan shunday baho qo‘ydingiz?
+> 3) Bitta narsani yaxshilashimiz kerak bo‘lsa, u nima bo‘lardi?»
+
+Javobdan keyin albatta rahmat ayting. Past baho bo‘lsa, menejer o‘sha kuni bog‘lanib, muammoni hal qilishga harakat qilsin.
+
+## Ketgan mijoz bilan suhbat
+
+Xarid qilishni to‘xtatgan mijozga sotish uchun emas, tushunish uchun qo‘ng‘iroq qiling. To‘rtta savol yetarli: nima uchun to‘xtadingiz, hozir nimadan foydalanyapsiz, nima o‘zgarganda qaytgan bo‘lardingiz, bizda nima yoqqan edi. Sabablarni guruhlarga ajratib yozing: narx, sifat, servis, ehtiyoj o‘zgargan yoki ko‘chib ketgan. Bir necha oyda qaysi sabab eng ko‘p takrorlanishi ko‘rinadi.
+
+## Oylik tahlil tartibi
+
+1. Barcha javoblarni bitta jadvalga yig‘ing.
+2. Har biriga mavzu belgisini qo‘ying: narx, sifat, yetkazib berish, xodimlar.
+3. Mavzular bo‘yicha sanab chiqing va eng ko‘p uchragan uchtasini tanlang.
+4. Har biri uchun mas'ul va muddat belgilang.
+5. Nimani o‘zgartirganingizni mijozlarga ayting — postda yoki xabarda.
+
+## Ko‘p uchraydigan xatolar
+
+- Uzun so‘rovnoma — mijoz yarmida tashlab ketadi.
+- Noqulay vaqtda so‘rash: xizmatdan bir oy o‘tib yoki shikoyat paytida.
+- Fikr yig‘ish, lekin hech narsani o‘zgartirmaslik.
+- Faqat mamnun mijozlardan so‘rash.
+- Salbiy fikr bilan bahslashish.
+
+## Fikrni marketingga aylantirish: 3 misol (shartli)
+
+| Mijozlar nima deydi | Nima qilish mumkin |
+|---|---|
+| «Juda tez yetkazib berishdi» | Reklamada yetkazib berish muddatini asosiy afzallik qilish |
+| «Qaytarish shartlarini tushunmadim» | Shartlarni soddalashtirish va FAQ'ga qo‘shish |
+| «Qimmatroq, lekin sifati yaxshi» | Narx nimalardan iboratligini ko‘rsatadigan post |
+
+Bunday jadvalni har oy to‘ldirsangiz, fikr-mulohaza «ko‘rib chiqildi» papkasida qolib ketmaydi.
+
+## Savol-javob
+
+### So‘rovnomaga javob uchun sovg‘a berish kerakmi?
+
+Ichki so‘rovnoma uchun kichik minnatdorchilik — masalan, keyingi xaridga bonus — mumkin. Lekin ochiq platformalardagi sharhlar uchun mukofot bermang: bu ularning qoidalariga zid.
+
+### Qancha javob yetarli?
+
+Sabablarni tushunish uchun 10–20 ta chuqur suhbat ham takrorlanuvchi naqshlarni ko‘rsatadi. NPS uchun esa bitta raqamdan ko‘ra uning oyma-oy o‘zgarishi muhimroq.
+
+### Anonim so‘rovnoma yaxshiroqmi?
+
+Anonim javoblar ko‘pincha ochiqroq, lekin muammoni hal qilish uchun mijoz bilan bog‘lana olmaysiz. Ikkalasini birlashtiring: asosiy so‘rovnoma ismli, «qo‘shimcha fikrlar» qismi esa ixtiyoriy anonim.
+
+### B2B mijozlardan fikrni qanday olish mumkin?
+
+Har chorakda qaror qabul qiluvchi bilan qisqa uchrashuv yoki loyiha tugagach 15 daqiqalik qo‘ng‘iroq. B2B'da bitta suhbat ko‘pincha o‘nta anketadan ko‘proq ma'lumot beradi.
+
+### Salbiy fikrni qanday qabul qilish kerak?
+
+Shaxsiy qabul qilmang: tanqid — bepul maslahat. Rahmat ayting, tafsilotlarni aniqlang va nimani o‘zgartirishingizni ayting. Muammo hal bo‘lgach, mijozga natija haqida xabar bering.
 
 ## Xulosa
 

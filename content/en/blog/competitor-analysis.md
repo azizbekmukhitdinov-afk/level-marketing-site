@@ -2,6 +2,7 @@
 title: Competitor analysis: what you can learn in one day
 description: How to find competitors, review their ads, prices, offers and reviews, and summarise findings in a table.
 date: 2026-10-22
+updated: 2026-10-23
 slug: competitor-analysis
 type: article
 tags: business, strategy
@@ -53,6 +54,75 @@ The last column matters most: every competitor weakness is something you can do 
 ## Ground rules
 
 Use only public information. Don't copy texts, photos or designs — the analysis is for understanding the market, not for cloning it.
+
+## A price map
+
+Plot competitors on two axes: price and level of service. **An example (illustrative):**
+
+| Segment | Price | Who's there |
+|---|---|---|
+| Cheap and basic | Low | B, D |
+| Mid-range, standard service | Medium | A, C |
+| Expensive, premium service | High | Nobody |
+
+An empty cell may be an opportunity, but first check that there's demand: sometimes a cell is empty because there are no customers there.
+
+## What to learn from competitors' content
+
+- Which formats get the most views and comments.
+- Which topics repeat, and which are missing entirely.
+- What questions people ask in the comments — especially those left unanswered.
+
+Unanswered questions are ready-made topics for your content plan. Whatever a competitor doesn't explain, you can.
+
+## Turning analysis into ongoing monitoring
+
+Set aside 30 minutes once a month: check new ads in the Meta Ad Library, new offers and price changes, and update your summary table. Put a recurring reminder in your calendar — otherwise the analysis gets done once and forgotten.
+
+## Common mistakes
+
+- Analysing only the biggest competitor.
+- Copying instead of analysing.
+- Doing the analysis once and never updating it.
+- Ignoring indirect competitors.
+- Drawing big conclusions from a single review.
+
+## SWOT: turning analysis into decisions
+
+Gather what you've learned about competitors into a short SWOT table for your own business:
+
+| | Positive | Negative |
+|---|---|---|
+| Internal | Strengths: what you do better than competitors | Weaknesses: where you fall behind |
+| External | Opportunities: gaps in the market and competitors' mistakes | Threats: new players, price wars |
+
+Draw three decisions from the table: what to emphasise in your ads, what to fix and what to avoid. Analysis without decisions is just a nice-looking document.
+
+## Questions and answers
+
+### How can you find out a competitor's sales volume?
+
+You can't know it exactly. Look at indirect signs: how long their ads have been running, the number of marketplace reviews, job postings. But interpret them with care.
+
+### Can you use a competitor's name in your ads?
+
+Using another company's brand in ad copy can lead to legal problems and disputes with the platforms. Talk about your own advantages instead.
+
+### What should you do if a competitor cuts prices?
+
+Don't rush. First calculate your margin and check whether your customers actually come to you for price. Often, showing value more strongly — warranty, service, speed — pays off better than cutting prices.
+
+### What if there are very few competitors?
+
+Look at indirect competitors and similar businesses in other cities. They'll show you what problem customers are solving and which approaches work.
+
+### Who should do the analysis?
+
+Ideally the business owner together with a marketer: the owner knows the market, the marketer knows ads and content. Involve the sales team too — customers talk to them about competitors.
+
+### What tools do you need for a one-day analysis?
+
+A browser, the Meta Ad Library, maps, a spreadsheet and a phone for the "mystery shopper" role. You don't need paid tools to start.
 
 ## Conclusion
 

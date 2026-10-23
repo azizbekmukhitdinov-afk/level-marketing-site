@@ -2,6 +2,7 @@
 title: Marketing an education centre: how to attract students
 description: How people decide on courses, trial lessons, graduate videos, seasonality and paid ads.
 date: 2026-10-22
+updated: 2026-10-23
 slug: marketing-an-education-centre
 type: article
 tags: business, strategy
@@ -53,6 +54,66 @@ At many learning centres, demand rises before the academic year starts, at the b
 | Trial-to-payment conversion | The quality of the lesson and the sales process |
 | Students continuing after month one | Student satisfaction |
 | LTV | Revenue from one student over time — see [LTV](/en/blog/repeat-sales-and-ltv/) |
+
+## The 48 hours after a trial lesson
+
+A trial lesson doesn't sell on its own — the next steps do:
+
+1. **A call within 24 hours.** Ask about their impressions: what they liked, what was difficult.
+2. **Explain the result.** The level test outcome and the recommended group for the student.
+3. **A specific offer.** Schedule, price and start date — send them in writing in a messenger too.
+4. **If there's no decision**, agree on a date for the next contact and log it in the CRM.
+
+If places in the group are limited, say so — but only if it's true.
+
+## Content for parents
+
+In children's education, parents make the decision, and their questions are different: what will my child learn, in what environment, with whom, and with what result? Show them the teacher's approach, how lessons run, safety and the student's progress. A short monthly report to parents also helps keep students enrolled.
+
+## Common mistakes
+
+- Guaranteeing a specific score: "IELTS 7.0 guaranteed".
+- Advertising nothing but a "discount".
+- Not calling after a trial lesson.
+- Using students' photos without consent.
+- Focusing only on new students and forgetting to keep existing ones.
+
+## How to present the course price
+
+Show the price as value, not just a number:
+
+- **What's included:** number of lessons, materials, mock exams, an extra speaking club.
+- **Payment options:** monthly or for the whole course — the second can come on better terms.
+- **Price per lesson:** dividing the monthly fee by the number of lessons makes comparison easier for parents.
+- **A family discount** — if one really exists.
+
+That way the customer sees not only the price but also what they're paying for.
+
+## Questions and answers
+
+### Doesn't a free trial lesson lose its value?
+
+Make it valuable: a level test, a personal study plan and a conversation with the teacher. Advance registration and limited places set it apart from a "random" visit.
+
+### What do you need to use student results in ads?
+
+Written consent — for minors, a parent's consent. Show only real results, and don't present them as a guarantee for everyone.
+
+### Instagram or Telegram — which is better?
+
+You need both: Instagram for reach and trust, Telegram for materials, useful tips and a student community. They complement each other.
+
+### How do you keep students?
+
+Make progress visible: interim tests, reports to parents, a student community. Collect feedback regularly — see [Collecting customer feedback](/en/blog/collecting-customer-feedback/).
+
+### Should you publish your prices?
+
+Yes, at least a "from" price. Parents compare centres, and if the price isn't visible, many move on to another centre without writing.
+
+### Do online courses compete with an offline centre?
+
+Part of the audience prefers to study online, especially in other cities. Consider a hybrid format: recorded materials plus live lessons, with a student community on Telegram. That way an offline centre earns from the online audience too.
 
 ## Conclusion
 

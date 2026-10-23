@@ -2,6 +2,7 @@
 title: Marketing byudjetini qanday rejalash: daromaddan foiz va maqsaddan hisob
 description: Byudjetni rejalashning 2 usuli, xarajatlar tarkibi, test va masshtab davri hamda oylik jadval namunasi.
 date: 2026-10-22
+updated: 2026-10-23
 slug: marketing-byudjeti-rejasi
 type: article
 tags: biznes, strategiya
@@ -62,6 +63,72 @@ Keyin tekshiring: 30 ta sotuvdan keladigan yalpi foyda barcha marketing xarajatl
 ## Mavsumiylikni hisobga oling
 
 Talab yil davomida bir xil emas: o‘quv markazlari uchun o‘quv yili oldidan, ko‘plab do‘konlar uchun bayramlar oldidan cho‘qqi bo‘ladi. Byudjetni oylar bo‘yicha rejalang va cho‘qqidan oldin oshiring.
+
+## Byudjetni qayta taqsimlash qoidalari
+
+Har oy oxirida reja va faktni solishtiring va pulni qoidalar asosida ko‘chiring:
+
+1. Ariza yoki sotuv narxi maqsaddan yuqori bo‘lgan kanallardan byudjetni kamaytiring.
+2. Narxi maqsaddan past va hali o‘sish imkoniyati bor kanallarga qo‘shing.
+3. Yangi g‘oyalar uchun kichik test zaxirasini har doim saqlang.
+4. Bitta yomon haftadan keyin kanalni o‘chirmang — kamida bir oylik natijaga qarang.
+
+## Yashirin xarajatlar
+
+Rejaga ko‘pincha kirmay qoladigan xarajatlar:
+
+- to‘lov komissiyalari va soliqlar: karta, valyuta konvertatsiyasi, platforma qo‘shadigan soliqlar;
+- kontentni qayta suratga olish va qo‘shimcha dizayn;
+- servis va vositalar obunalari;
+- xodimlar vaqti: arizalarga javob, suratga olishda qatnashish;
+- aksiya va chegirmalar — bu ham marketing xarajati.
+
+Ularni hisobga olmasangiz, ROMI amaldagidan yaxshiroq ko‘rinadi.
+
+## Ko‘p uchraydigan xatolar
+
+- Kontent uchun byudjet ajratmaslik — reklama eski kreativlar bilan ishlaydi.
+- Butun oylik byudjetni birinchi haftada sarflash.
+- Test uchun zaxira qoldirmaslik.
+- Ishlayotgan kanalni juda tez masshtablash.
+- Mavsumdan tashqari oylarda marketingni butunlay to‘xtatish.
+
+## Byudjetni nazorat qilish: haftalik tartib
+
+Oy oxirini kutmang — byudjetni har hafta 15 daqiqa tekshiring:
+
+- **Sarf sur'ati:** haftalik sarf oylik rejaga mos keladimi yoki pul muddatidan oldin tugaydimi.
+- **Kanallar bo‘yicha ariza narxi:** qaysi kanal maqsadli narxdan chiqib ketdi.
+- **Arizalar sifati:** sotuv bo‘limi arizalarni qanday baholaydi — «sovuq» arizalar ko‘paymadimi.
+- **Ogohlantirish qoidasi:** kanalda ariza narxi ikki hafta ketma-ket maqsaddan sezilarli yuqori bo‘lsa, uni qayta ko‘rib chiqing.
+
+Bu tekshiruv uchun bitta mas'ul va bitta jadval yetarli.
+
+## Savol-javob
+
+### Kichik biznes marketingga qancha sarflashi kerak?
+
+Universal raqam yo‘q. Maqsaddan hisoblash usulidan foydalaning va kichik test bilan boshlang: real ariza narxini bilganingizdan keyin byudjet aniq bo‘ladi.
+
+### Byudjetni oy boshida to‘liq sarflash kerakmi?
+
+Yo‘q. Kunlik byudjet bilan bir tekis taqsimlang: reklama tizimlari natijani barqaror sarf bilan yaxshiroq optimallashtiradi. Oy oxiridagi kutilmagan imkoniyatlar uchun kichik zaxira qoldiring.
+
+### Agentlik yoki mutaxassis xizmati byudjetga kiradimi?
+
+Ha. Bu marketing xarajatining bir qismi va ROMI'ni hisoblashda albatta qo‘shilishi kerak.
+
+### Pul yetmasa, qaysi kanalni qoldirish kerak?
+
+Bitta sotuv narxi eng past bo‘lgan kanalni va tayyor talabni ushlaydigan kanallarni — qidiruv va xaritalarni. Eng kuchsiz kanallardan boshlab qisqartiring.
+
+### Yillik byudjetni qanday rejalashtirish kerak?
+
+Oylar bo‘yicha, mavsumiylikni hisobga olib. Har chorakda rejani faktga qarab qayta ko‘rib chiqing — yil boshida tuzilgan reja hech qachon o‘zgarmasdan qolmaydi.
+
+### Byudjetni oshirish vaqti kelganini qanday bilish mumkin?
+
+Ariza narxi 2–3 hafta davomida maqsaddan barqaror past bo‘lsa, sotuv bo‘limi qo‘shimcha arizalarni qabul qila olsa va ROMI musbat bo‘lsa. Byudjetni bosqichma-bosqich oshiring va har qadamdan keyin natijani tekshiring.
 
 ## Xulosa
 

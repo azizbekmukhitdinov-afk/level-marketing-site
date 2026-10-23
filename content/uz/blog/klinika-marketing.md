@@ -2,6 +2,7 @@
 title: Klinika va stomatologiya uchun marketing: ishonchni qanday qozonish
 description: Tibbiyotda reklama xususiyatlari, shifokor shaxsiy brendi, sharhlar, Xaritalar va reklama qoidalariga rioya qilish.
 date: 2026-10-22
+updated: 2026-10-23
 slug: klinika-marketing
 type: article
 tags: biznes, strategiya
@@ -53,6 +54,72 @@ Google va Yandex Xaritalaridagi kartochka — klinikaning ikkinchi qabulxonasi: 
 1. Administrator tez javob beradi va qabulga yozadi — [sotuv skripti](/blog/sotuv-skripti/) bu yerda ham kerak.
 2. Qabuldan bir kun oldin eslatma — kelmay qolishlar kamayadi.
 3. Davolanishdan keyin qo‘ng‘iroq va [fikr-mulohaza](/blog/mijoz-fikrini-yigish/) so‘rash.
+
+## Bir haftalik kontent rejasi namunasi
+
+| Kun | Kontent |
+|---|---|
+| Dushanba | Shifokor ko‘p beriladigan savolga javob beradi |
+| Chorshanba | Klinika ichidan: sterilizatsiya yoki yangi jihoz |
+| Juma | Bemor hikoyasi — faqat yozma rozilik bilan |
+| Har kuni Stories | Bo‘sh vaqtlar, eslatmalar, jamoa hayoti |
+
+Bitta shifokor bilan bir kunlik suratga olish bir oylik videolar uchun yetarli bo‘lishi mumkin.
+
+## Narxlarni qanday ko‘rsatish
+
+Bemorni eng ko‘p narx qo‘rqitadi. Uni yashirmang: «...dan boshlab» narxlarni va ularga nima kirishini yozing. Yakuniy narx nima uchun diagnostikadan keyin aniqlanishini tushuntiring — shunda mijoz aldovni emas, professional yondashuvni ko‘radi.
+
+## Administrator — marketingning davomi
+
+Reklama qo‘ng‘iroq olib keladi, qabulga esa administrator yozadi. Uning skriptida: salomlashish, bemorning muammosini aniqlash, ikkita aniq vaqt varianti, kerakli ma'lumotlar va eslatma. Kelmay qolganlar ulushini har hafta kuzating.
+
+## Ko‘p uchraydigan xatolar
+
+- Natijani kafolatlash.
+- «Oldin/keyin» rasmlarini roziliksiz joylash.
+- Sharhga javobda bemorning ma'lumotlarini oshkor qilish.
+- Sharhlarga umuman javob bermaslik.
+- Reklamani klinikadan uzoq hududlarga ko‘rsatish.
+
+## Bemor yo‘li: bemorlar qayerda yo‘qoladi
+
+| Bosqich | Nimani tekshirish |
+|---|---|
+| Reklama va Xaritalar | Klinika topiladimi, kartochka to‘liqmi |
+| Qo‘ng‘iroq yoki Direct | Qancha vaqtda javob beriladi |
+| Qabulga yozilish | Qulay vaqt taklif qilinadimi |
+| Eslatma | Bemor qabulga keladimi |
+| Qabul | Shifokor va xodimlar munosabati |
+| Qabuldan keyin | Sharh, qayta tashrif, tavsiya |
+
+Har bir bosqichda qancha bemor «tushib qolishini» o‘lchang: ko‘pincha muammo reklamada emas, qo‘ng‘iroq yoki eslatma bosqichida bo‘ladi.
+
+## Klinika uchun Telegram kanal
+
+Telegram kanal mavjud bemorlar bilan aloqani saqlaydi: shifokorlar maslahatlari, ish jadvali, profilaktik ko‘riklar haqida eslatmalar va savollarga javoblar. Qabulga yozilish uchun bot qo‘shsangiz, bemor administrator ish vaqtini kutmasdan yozila oladi. Kanalga havolani qabulxonada va qabuldan keyingi xabarda bering.
+
+## Savol-javob
+
+### Shifokor videoga chiqishni xohlamasa-chi?
+
+Majburlamang. Matnli postlar, ovozli javoblar yoki faqat qo‘llar va jarayon ko‘rinadigan videolar bilan boshlang. Ko‘pincha bitta shifokor tashabbus ko‘rsatadi, boshqalar esa natijani ko‘rib qo‘shiladi.
+
+### Bemorlardan sharhni qanday so‘rash kerak?
+
+Muvaffaqiyatli davolanishdan keyin xabar orqali, sharh sahifasiga to‘g‘ridan-to‘g‘ri havola bilan. Sharh uchun chegirma yoki sovg‘a bermang — bu platforma qoidalariga zid.
+
+### Qaysi xizmatlarni reklama qilgan yaxshi?
+
+Kirish xizmatlarini: konsultatsiya, diagnostika, gigiyena. Ular uchun qaror qabul qilish oson, va bemor klinikani tanib olgach, murakkabroq davolanishga ham qaytadi.
+
+### Reklama natijasini qanday o‘lchash kerak?
+
+Ariza narxi bilan emas, qabulga yozilgan va haqiqatan kelgan bemor narxi bilan. Kelmay qolganlar ulushini alohida kuzating — u administrator va eslatmalar ishini ko‘rsatadi.
+
+### Tibbiy reklamada qanday so‘zlardan qochish kerak?
+
+«Eng yaxshi», «100%», «kafolat» va «og‘riqsiz» kabi va'dalardan hamda o‘quvchining sog‘lig‘iga to‘g‘ridan-to‘g‘ri ishora qiluvchi savollardan qoching. Neytral, ma'lumot beruvchi so‘zlar ishlating: xizmat nima, kimga mos va qanday bosqichlardan iborat.
 
 ## Xulosa
 

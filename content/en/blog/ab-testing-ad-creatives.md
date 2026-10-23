@@ -2,6 +2,7 @@
 title: A/B testing ad creatives: how to run it
 description: What an A/B test is, what to test at once, how much budget and time you need and how to pick the winner.
 date: 2026-10-22
+updated: 2026-10-23
 slug: ab-testing-ad-creatives
 type: article
 tags: paid ads, meta ads
@@ -56,6 +57,56 @@ After a few months this table becomes a valuable knowledge base about what works
 - Stopping a test after 1–2 days.
 - A budget too small for any version to collect enough results.
 - Finding a winner and not starting the next test — creatives wear out over time.
+
+## 10 test ideas
+
+1. Hook: open with the problem or with the result.
+2. A person's face in the frame, or just the product.
+3. Price shown or not shown.
+4. Two different offers: a discount or a free extra service.
+5. A customer video (UGC) or a studio production.
+6. A 15-second or a 30-second video.
+7. Video or carousel.
+8. Large text in the first frame, or none.
+9. Short or detailed ad copy.
+10. Different calls to action: "Check the price" or "Free consultation".
+
+Take only one idea from the list at a time — otherwise you won't know what changed the result.
+
+## How to calculate a test budget
+
+A simple formula: **number of variants × results needed per variant × expected cost per lead**.
+
+**An example (illustrative numbers):** two variants, about 30 leads each, cost per lead $2 → 2 × 30 × $2 = **$120**. Spread this over at least a week so the test covers both weekdays and weekends. If the budget can't stretch that far, test fewer variants or compare a cheaper intermediate metric, such as conversations started.
+
+## How to scale the winner
+
+- Raise the budget in stages, not all at once, and check the cost per lead each time.
+- Make 2–3 new versions of the winning creative: a different hook, first frame or text.
+- Keep the old winner as a "control" and compare new versions against it.
+- Repeat the test after a few weeks: both the audience and the market change.
+
+## Questions and answers
+
+### How many variants can you test at once?
+
+With a small budget, 2–3. The more variants you run, the more budget and time each needs to gather enough results.
+
+### Do Advantage+ creative features interfere with a test?
+
+They can change your creative automatically: brightness, music, text variations. For a clean test, switch these features off — otherwise you're testing the system's modified version, not yours.
+
+### Can you test with organic posts?
+
+Yes, as a first filter. Try several hooks in organic Reels, then test the ones with the most views and saves in ads — it saves ad budget.
+
+### How long before a creative wears out?
+
+There's no fixed period. Watch for the signs: frequency rises, CTR falls and cost per lead climbs for several days in a row. That's when it's time to launch a new version.
+
+### What if the difference between variants is small?
+
+Then that element doesn't matter much to your audience — the variants are equal. Pick the one that does better on other metrics, or run a new test with variants that differ more sharply.
 
 ## Conclusion
 
