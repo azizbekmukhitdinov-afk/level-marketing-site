@@ -2,6 +2,7 @@
 title: 10 Reels hooks: how to hold attention in the first 3 seconds
 description: 10 types of hooks that keep viewers watching in the first seconds of Reels and TikTok videos, with business examples and common mistakes.
 date: 2026-10-22
+updated: 2026-10-23
 slug: reels-hooks
 type: article
 tags: reels, video, creative
@@ -78,6 +79,83 @@ We cover creative testing and cost per lead in our [Instagram ads setup guide](/
 - **Hook and content don't match.** If the promise isn't in the video, viewers won't trust you next time.
 - **Horizontal video.** Reels need vertical 9:16.
 - **Slow editing.** No pauses in the first seconds.
+
+## The three layers of a hook
+
+A strong hook works on three levels at once:
+
+1. **The picture** — what's in the first frame: a result, an action or an unusual detail.
+2. **On-screen text** — the main idea in 3–7 words for people watching without sound.
+3. **The spoken words** — the first sentence, with no greeting.
+
+All three layers should say the same thing. For example: a sagging sofa in frame, "Sofa sagging after 2 years?" on screen, and the voice saying, "The reason is foam density."
+
+## Sample hooks by industry (illustrative)
+
+| Industry | Hook |
+|---|---|
+| Dentistry | "Toothache started at night — what do you do until morning?" |
+| Education centre | "3 reasons people lose points in IELTS Writing" |
+| Furniture | "What will this sofa look like in 5 years?" |
+| Car service | "If your car makes this sound, don't put off the service" |
+| Real estate | "A flat on instalments: what do you really pay each month?" |
+| Café | "How one lavash gets made — in 30 seconds" |
+
+Adapt each one to your own product — a hook works as an idea, not word for word.
+
+## Keep a hook bank
+
+Record every hook in one spreadsheet: the text, the type, the video and the result — the share of viewers who watched the first 3 seconds and the average watch time. Within a few months you'll see which hook types work for your audience. Reuse the winners on new topics, and find new ones in customer questions and comments.
+
+## After the hook: keeping the viewer
+
+- Start delivering on the promise within 5–7 seconds — no long intro.
+- Change shots every 2–3 seconds.
+- Leave an open question like "the most important bit is at the end" — but be sure to close it.
+- End the video with what the hook promised.
+
+## Fill-in-the-blank hook templates
+
+Replace the words in brackets with your own product:
+
+- "[Audience], tired of [problem]?"
+- "[Result] in [time] — here's how we did it."
+- "Know this before you buy [product]."
+- "Most people make [mistake]. Don't."
+- "What sellers won't tell you about [product]."
+- "What's included in [price] — we'll show you openly."
+
+A template is just a starting point: the best hooks still come from your customers' own words.
+
+## Questions and answers
+
+### Can you use clickbait in a hook?
+
+No. A broken promise drives people out of the video and lowers trust. A hook should be intriguing, but always true.
+
+### How many hooks should you test per video?
+
+Two or three. Keep the body of the video the same and change only the first 3 seconds — it's the cheapest and fastest test.
+
+### Do hooks differ for ads and organic Reels?
+
+In ads, the link to the product should show up sooner: people should understand what's on offer within the first seconds. Organic videos can open with curiosity or a benefit.
+
+### What makes a hook work without sound?
+
+Large on-screen text and action in the first frame. Watch the video with the sound off: if the topic is clear, the hook works.
+
+### Can a trending sound be the hook?
+
+A familiar sound helps grab attention, but the first frame and text still do the main work. Using trends well is covered in [Using trends for business](/en/blog/using-trends-for-business/).
+
+### The hook is good, but there are no leads — what now?
+
+A hook grabs attention, but the rest of the video and the offer do the selling. Check the middle and end of the video: is the offer clear, are the price or next step obvious, does the link or form work? Sometimes the problem isn't the video at all but slow replies to leads.
+
+### Who should write the hooks?
+
+The expert and the SMM manager together: the expert knows what customers ask, and the SMM manager turns it into a short, punchy line.
 
 ## Conclusion
 

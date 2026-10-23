@@ -2,6 +2,7 @@
 title: Google Ads vs Meta Ads: which is better for a small business
 description: How Google Ads and Meta Ads (Instagram, Facebook) differ, which businesses each suits, when to run both and how to choose.
 date: 2026-10-22
+updated: 2026-10-23
 slug: google-ads-vs-meta-ads
 type: article
 tags: google ads, meta ads, strategy
@@ -62,6 +63,70 @@ As a business grows, the platforms complement each other. A typical flow:
 - People who visited the site without leaving a lead see ads again via **retargeting**.
 
 In this setup, judge the overall result — total leads and sales — rather than each platform on its own.
+
+## A plan for testing both platforms (example)
+
+| Period | Google Ads | Meta Ads |
+|---|---|---|
+| Weeks 1–2 | A search campaign with 2–3 ad groups | A leads or messages campaign with 3 creatives |
+| Week 3 | Add irrelevant queries as negative keywords | Keep the best creative and add new versions |
+| Week 4 | Compare results | Compare results |
+
+Give both platforms the same budget, and at the end of the month compare the cost per lead and per sale. Next month, move budget towards whichever did better.
+
+## Your first Google Ads campaign: what to watch
+
+- Start with a **search campaign** only; test broader formats later.
+- **Specific keywords**, not broad ones, and a negative keyword list from day one.
+- **Location and schedule** — only where you serve customers and during working hours.
+- **Conversion tracking** — the form, calls and the messenger button.
+- **Call and location assets** — so people can call straight from the ad.
+
+## Your first Meta Ads campaign: what to watch
+
+Choose leads or messages as the objective, don't narrow the audience too much and prepare 3–5 different creatives. If you have a website, install the Pixel. Above all, reply to leads quickly: customers from Meta are still "colder" and cool off fast. Step-by-step setup is covered in [How to set up Instagram ads](/en/blog/how-to-set-up-instagram-ads/).
+
+## Compare results with the same yardstick
+
+Compare the cost of a qualified lead and a sale, not the cost per click. Tag the source of every lead with [UTM tags](/en/blog/utm-tags/) and your CRM. Remember that the platforms help each other: someone may see your ad on Instagram and later search for your brand on Google. So ask customers "Where did you hear about us?" as well.
+
+## Common mistakes
+
+- Broad keywords on Google without negative keywords.
+- "Boosting" posts on Meta without an objective.
+- Comparing platforms by cost per click.
+- Stopping after three days because "it doesn't work".
+- Sending Google traffic to the home page instead of a specific page.
+
+## Questions and answers
+
+### With a small budget, where should you start?
+
+If demand already exists — people search for your product — start with Google. If you need to create demand yourself, or the product is visual, start with Meta.
+
+### Are Google Maps ads separate?
+
+If you add a location asset in Google Ads, your ads can also appear on Maps. But first complete your Google business listing — see [Add your business to maps](/en/blog/add-your-business-to-maps/).
+
+### Should you add Yandex too?
+
+If your customers also search on Yandex, yes — especially Russian-speaking and B2B audiences. More in [Yandex Direct in Uzbekistan](/en/blog/yandex-direct-in-uzbekistan/).
+
+### Can you run Google Ads without a website?
+
+There are call-only ads, but most of the time you need at least a simple page. One basic landing page — offer, price, reviews and a form — makes Google ads far more effective.
+
+### Which is cheaper?
+
+Compare by cost per sale, not cost per click. Sometimes pricier Google clicks produce cheaper sales, because the person is already ready to buy.
+
+### Can you start with a Performance Max campaign?
+
+Performance Max shows ads across all of Google's placements automatically and relies on conversion data. While data is scarce, results can be unstable. So start with a search campaign, and once conversions build up, test Performance Max separately.
+
+### Should ads run around the clock?
+
+If you can only answer calls during working hours, limit the ads to those hours or collect leads through a form at night. An unanswered call is a customer you paid for and lost.
 
 ## Conclusion
 

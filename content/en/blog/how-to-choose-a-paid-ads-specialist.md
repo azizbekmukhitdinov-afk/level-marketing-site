@@ -2,6 +2,7 @@
 title: How to choose a paid ads specialist: 9 questions before you hire
 description: Nine questions to ask a paid ads specialist or agency before you start, the red flags to watch for and what to check in the first month.
 date: 2026-10-22
+updated: 2026-10-23
 slug: how-to-choose-a-paid-ads-specialist
 type: article
 tags: agency, specialist, paid ads
@@ -64,6 +65,85 @@ Ads bring the lead; your team makes the sale. A good specialist will also advise
 3. How many creatives and audiences were tested?
 4. How did cost per lead change, and why?
 5. Did the report arrive on time?
+
+## Engagement models: how the price is set
+
+| Model | Advantage | What to watch |
+|---|---|---|
+| Fixed monthly fee | Costs are known in advance | Define the scope of work and reporting clearly |
+| Percentage of ad spend | Scales with large projects | Can create an incentive to inflate the budget |
+| Fixed fee + performance bonus | The specialist has a stake in results | The bonus criterion must be clear and measurable |
+| Pay per lead | You pay only for results | Lead quality can drop — define a quality criterion |
+
+For many small businesses, the clearest option is a fixed fee plus a bonus tied to a clear result.
+
+## What the contract should include
+
+- Scope: which platforms, how many campaigns, who makes the creatives.
+- Who owns the ad account, page and Pixel — you do.
+- Reporting frequency and format.
+- Key metrics and how they're measured.
+- Handover of access and data when the partnership ends.
+- Confidentiality: information about your customers and prices.
+
+## A test task or an audit
+
+Before choosing, ask for an audit of your current ad account or a short plan for your business. It shows how the specialist thinks: what they ask about and what they'd fix first. Don't demand a big strategy for free — a small paid task is fairer to both sides.
+
+## Getting started: the first week
+
+1. Grant access through Business Manager as a partner — not a password.
+2. A brief: product, prices, offers, customers and competitors.
+3. Past campaigns and sales data.
+4. Feedback on lead quality: the sales team says every week which leads were good.
+5. A time for a short weekly meeting or call.
+
+## A sample monthly report
+
+| Metric | Why it matters |
+|---|---|
+| Spend | Was the budget spent according to plan? |
+| Leads and cost per lead | The main result of the ads |
+| Share of qualified leads | Lead quality |
+| Sales and cost per sale | From CRM data |
+| Tests run and conclusions | What was learned |
+| Next month's plan | What will change and why |
+
+A report made only of reach and clicks is a warning sign: it doesn't show how the ads affected sales.
+
+## A weekly meeting: judging results together
+
+A short 30-minute meeting is enough: the numbers, the sales team's view of lead quality, the tests run and the next steps. Only you can provide information about lead quality — without it, the specialist is working blind.
+
+## Questions and answers
+
+### Freelancer or agency?
+
+A freelancer is cheaper and more flexible; an agency gives you a team: ads, video, design. If you only need ads set up, a freelancer is enough; if you also need creatives and content, an agency is more convenient.
+
+### Should the specialist make creatives too?
+
+Some do, but most work with a designer and a videographer. Clarify this upfront: without creatives, even the best setup won't work.
+
+### When should you expect results?
+
+The first leads arrive within days, but stable results and a falling cost per lead usually show after 1–2 months of testing and optimisation.
+
+### When should you replace your specialist?
+
+If reports don't arrive, access to the account isn't given, no tests are run, or metrics worsen for two months without explanation.
+
+### Can you test several specialists at once?
+
+Not on the same audience: their campaigns will compete with each other and push prices up. Test them one after another, or on different platforms.
+
+### What budget makes it worth hiring a specialist?
+
+One that covers a test: expected cost per lead × 20–30 leads, plus the specialist's fee. If the ad budget is much smaller than the fee, it's better to start on your own or with a one-off consultation.
+
+### What information shouldn't you hand to a paid ads specialist?
+
+Don't share your personal profile password, bank card details or an unprotected copy of your customer database. Grant access through Business Manager, and make payments from your own account.
 
 ## Conclusion
 

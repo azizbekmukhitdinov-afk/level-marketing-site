@@ -2,6 +2,7 @@
 title: How to market a furniture store: Instagram, Maps and paid ads
 description: What makes furniture sales different, content, creatives, instalment offers and the path from lead to sale.
 date: 2026-10-22
+updated: 2026-10-23
 slug: marketing-a-furniture-store
 type: article
 tags: business, strategy
@@ -60,6 +61,67 @@ Furniture is often bought in person, so your Google and Yandex Maps listing matt
 3. Measurements and instalment terms.
 4. A follow-up a few days later — a [sales script](/en/blog/sales-script/) helps.
 5. After delivery, ask for a review with photos.
+
+## The showroom is your strongest sales tool
+
+Most people still choose furniture after seeing it, sitting on it and touching it. In the showroom:
+
+- prices should be visible on every piece;
+- customers should be able to sit down and try things in peace;
+- the consultant should ask questions, not just show the catalogue;
+- there should be a nice corner for photos — customers share them on their own pages.
+
+Invite people who left online requests to the showroom, and record the contacts of those who visit — they're your "warmest" list for follow-up messages.
+
+## Free measuring and visualisation
+
+The main fear with made-to-order furniture is "it won't fit or won't match". A free measuring visit and a visualisation of the piece in the room remove that fear. Make the offer specific: "Our measurer visits for free; the visualisation is ready in 2 days". Only promise deadlines you can keep.
+
+## Seasonality
+
+Demand isn't even through the year: it usually rises when people move into new flats, finish renovations and before holidays. Check your own sales by month and raise the ad budget a few weeks before the peak.
+
+## Common mistakes
+
+- Only catalogue photos, no real interiors.
+- Hiding prices.
+- Answering DM questions slowly.
+- Not following up after a showroom visit.
+- Not collecting reviews with photos from customers' homes.
+
+## Partners: designers and builders
+
+Some furniture buyers come through interior designers, renovation crews and construction companies. Prepare a separate offer for them: a catalogue and prices, samples, clear lead times and partnership terms. One active designer can bring several orders a year — a partnership like that can be a steadier channel than advertising.
+
+## Questions and answers
+
+### Can you sell furniture through Instagram alone?
+
+You can, especially with a measuring service. But more often online channels bring customers to the showroom, and the final decision is made there. Build both as one system.
+
+### Which ad format works best?
+
+Often a video walk-through of a room and carousels with prices. But the answer can differ for each store — test the formats.
+
+### How should you advertise instalments?
+
+State the terms clearly: the period, the down payment and whether there are extra charges. Hidden terms destroy trust later.
+
+### How should you talk about delivery and assembly?
+
+Say upfront whether they're included in the price and how long they take. It's one of the questions furniture buyers ask most.
+
+### How do you bring a customer back?
+
+Through matching add-ons: after a sofa, a coffee table or a rug; after a wardrobe, shelves. Care reminders also keep the relationship going — more in [Repeat sales and LTV](/en/blog/repeat-sales-and-ltv/).
+
+### Can you ask for a photo from the customer's home?
+
+Yes, with permission. Furniture in a real home is the strongest social proof. Offer to take a photo after delivery, or ask the customer to send one.
+
+### How do you sell when your price is higher than competitors'?
+
+Show the difference: materials, warranty period, production and delivery terms. A comparison table and a video showing the materials up close turn a question about price into a conversation about value.
 
 ## Conclusion
 

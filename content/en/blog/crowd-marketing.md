@@ -2,6 +2,7 @@
 title: What crowd marketing is and how it brings customers to your website
 description: Crowd marketing means natural brand mentions in forums, Telegram chats and reviews. Who it suits, who it doesn't and how to do it without spamming.
 date: 2026-10-22
+updated: 2026-10-23
 slug: crowd-marketing
 type: article
 tags: crowd marketing, seo, brand
@@ -71,6 +72,88 @@ Add UTM tags to your links and track where site visitors come from. Every month:
 | SEO impact | Yes | No |
 
 The best results come from using both: ads bring a fast flow of leads, while crowd marketing builds trust and search rankings. For setting up ads, see our [Instagram ads guide](/en/blog/how-to-set-up-instagram-ads/).
+
+## A sample answer (illustrative)
+
+A question in a Telegram chat: "Is there a good dentist in Chilanzar?"
+
+**A bad answer:** "Come to us, we're the best!"
+
+**A good answer:** "I work as an administrator at [clinic], so I'm not impartial 🙂 But whichever you choose, look at three things: the doctor's experience, whether prices are given upfront and how sterilisation is handled. Our first consultation is free — if you're interested, here's our listing [link]."
+
+A good answer introduces itself, gives something useful and only makes an offer at the end.
+
+## A weekly routine
+
+- **30 minutes a day:** search topic chats and groups for your keywords.
+- **3–5 useful answers** — quality matters more than quantity.
+- **Reply to reviews** on maps and marketplaces.
+- **Log it in a spreadsheet:** where, when and on what topic you answered.
+
+## Measuring results: a sample table
+
+| Platform | Link | Date | Clicks | Leads |
+|---|---|---|---|---|
+| Telegram chat | … | … | … | … |
+| Forum | … | … | … | … |
+
+Add [UTM tags](/en/blog/utm-tags/) to your links — then you'll see which places bring visits and leads.
+
+## Common mistakes
+
+- Praising yourself from fake accounts.
+- The same copy-pasted answer everywhere.
+- Useless messages that are nothing but a link.
+- Arguing with critics.
+- Ads and spam that break a chat's rules.
+
+## Where to start: a list of platforms
+
+- **Telegram chats** — district chats, parents' chats, industry groups.
+- **Q&A sites and forums** — especially Russian-language ones.
+- **Map listings** — reviews and the questions section.
+- **YouTube** — comments under videos on your topic.
+- **Marketplaces** — product questions.
+
+Pick one or two places first and be active there regularly — one-off answers in ten places achieve little.
+
+## Replying to reviews is crowd marketing too
+
+Future customers read every reply you post to a review on maps. A calm, precise and helpful reply is the cheapest advertising in a public space. Reply templates are in [Online reputation and reviews](/en/blog/online-reputation-and-reviews/).
+
+## Linking crowd marketing to your website
+
+For questions that keep coming up in chats, write a detailed article on your website and link to it in your answers. That way the short answer is useful, and over time the article brings visitors from search too. Your list of questions becomes a ready-made content plan for the site.
+
+## Questions and answers
+
+### Can you use fake accounts?
+
+No. It deceives people, platforms block such accounts, and if you're exposed your reputation takes serious damage. Write only under your own name, openly.
+
+### Who should do crowd marketing?
+
+Ideally the company's own expert, or a marketer whose work the expert checks. Answers need to be at an expert level — otherwise they do more harm than good.
+
+### What rules apply in Telegram chats?
+
+Every chat has its own rules: some ban advertising entirely, others allow it on certain days. Read the rules and ask the admins if needed.
+
+### Are the links useful for SEO?
+
+Links on some sites pass no weight to search engines. The main benefit is traffic and trust, so only leave a link where it genuinely helps.
+
+### When will you see results?
+
+After a few months: crowd marketing builds up over time. A useful answer posted today can keep bringing people from search months later.
+
+### Is working with a blogger also crowd marketing?
+
+Partly. If a blogger mentions your product honestly, it works like a recommendation. But if the collaboration is paid, they must clearly mark it as an ad.
+
+### What if a competitor badmouths you in a chat?
+
+Reply once, calmly and with facts, and don't keep the argument going. If there are insults or false information, contact the chat admin. Readers often pay more attention to the tone of the reply than to the attack.
 
 ## Conclusion
 

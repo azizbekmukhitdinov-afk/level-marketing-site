@@ -2,6 +2,7 @@
 title: Meta Pixel va Conversions API: nima uchun kerak va qanday o‘rnatiladi
 description: Meta Pixel va Conversions API reklamaga qanday yordam beradi, qanday hodisalarni kuzatish kerak va o‘rnatishda ko‘p uchraydigan xatolar.
 date: 2026-10-22
+updated: 2026-10-23
 slug: meta-pixel-conversions-api
 type: article
 tags: target reklama, meta ads
@@ -52,6 +53,54 @@ Pixel brauzer orqali ishlaydi. Reklama blokerlari, iOS cheklovlari va cookie soz
 ## Saytingiz bo‘lmasa-chi
 
 Ko‘p bizneslar Instagram Direct yoki Telegram orqali sotadi. Bunda Pixel kerak emas, lekin sotuvni qayd qilish baribir zarur: arizalarni CRM yoki jadvalda belgilang va qaysi reklama sotuv olib kelganini solishtiring. Ariza narxini qanday hisoblash haqida — [CPL bo‘yicha qo‘llanmamizda](/blog/lid-narxi-cpl-qanday-kamaytirish/).
+
+## Hodisalarni qanday tekshirish
+
+- **Events Manager → Test Events.** Saytingizni ochib, formani yuboring va hodisa real vaqtda paydo bo‘layotganini ko‘ring.
+- **Meta Pixel Helper.** Chrome brauzeri uchun kengaytma — sahifada qaysi hodisalar ishlayotganini ko‘rsatadi.
+- **Dublikatlar.** Pixel va Conversions API birga ishlasa, bir hodisa ikki marta sanalmasligi uchun ikkalasida bir xil event_id bo‘lishi kerak.
+- **Moslik sifati.** Events Manager'da hodisalarning foydalanuvchilar bilan qanchalik yaxshi moslashganini ko‘rsatuvchi baho bor — u past bo‘lsa, Conversions API orqali qo‘shimcha ma'lumot (masalan, xeshlangan telefon) yuboring.
+
+## Hodisa parametrlari
+
+Purchase va Lead hodisalariga **qiymat** (value) va **valyuta** (currency) qo‘shing. Shunda Meta qaysi reklama ko‘proq pul olib kelayotganini ko‘radi va qimmatroq mijozlarga optimallashtira oladi. Katalog bilan ishlaydigan do‘konlar uchun mahsulot identifikatorlari (content_ids) ham kerak — ular dinamik retargetingni ishga tushiradi.
+
+## Maxfiylik va rozilik
+
+Sayt foydalanuvchilarini maxfiylik siyosatida ma'lumot yig‘ish haqida xabardor qiling. Hodisalar orqali sezgir ma'lumot yubormang: tibbiy holatlar, moliyaviy ahvol va boshqalar. Ayniqsa klinikalar ehtiyot bo‘lishi kerak — sahifa manzili yoki hodisa nomi kasallikni oshkor qilmasin. Klinikalar marketingi haqida — [klinika marketingi](/blog/klinika-marketing/) maqolasida.
+
+## Pixel ma'lumotlaridan qanday foydalanish
+
+- Kampaniyalarni bosishga emas, **Lead** yoki **Purchase** hodisasiga optimallashtiring.
+- Saytga kirganlar uchun [retargeting](/blog/retargeting-qanday-ishlaydi/) auditoriyalarini yarating.
+- Arizachi va xaridorlardan [lookalike auditoriya](/blog/lookalike-auditoriya/) quring.
+- Hisobotlarda qaysi kreativ ariza berayotganini ko‘ring.
+
+## Savol-javob
+
+### Pixel o‘rnatish uchun dasturchi kerakmi?
+
+Ko‘p sayt konstruktorlari va CMS'larda Meta bilan tayyor integratsiya bor — Pixel ID'ni kiritish yetarli. Conversions API'ni ham ko‘pincha hamkor integratsiyalari orqali ulash mumkin. Murakkab sayt yoki o‘z serveringiz bo‘lsa, dasturchi kerak bo‘ladi.
+
+### Bitta saytga bir nechta Pixel qo‘ysa bo‘ladimi?
+
+Texnik jihatdan mumkin, lekin chalkashlik keltiradi. Bitta biznesga bitta Pixel yaxshiroq; agentlikka esa Business Manager orqali kirish huquqi bering.
+
+### Pixel auditoriyalari qancha vaqt saqlanadi?
+
+Sayt tashrif buyuruvchilari auditoriyasi uchun eng uzun muddat — 180 kun. Shuning uchun Pixel'ni reklama boshlanishidan ancha oldin o‘rnating: ma'lumot yig‘ila boshlaydi.
+
+### Conversions API'siz ishlasa bo‘ladimi?
+
+Boshlash uchun — ha. Lekin brauzer cheklovlari va reklama bloklovchilar tufayli ma'lumotlarning bir qismi yo‘qoladi. Byudjet o‘sgan sari Conversions API'ni qo‘shing.
+
+### Hodisalar kabinetda ko‘rinmasa nima qilish kerak?
+
+Kod barcha sahifalarda o‘rnatilganini, to‘g‘ri Pixel ID ishlatilganini va reklama bloklovchi o‘chirilganini tekshiring. Test Events orqali hodisani qayta yuboring — hodisalar biroz kechikish bilan ko‘rinishi mumkin.
+
+### Pixel o‘rnatilgach, reklama darhol yaxshilanadimi?
+
+Darhol emas. Algoritm o‘rganishi uchun yetarlicha hodisa to‘planishi kerak — yangi kampaniya odatda bir necha kun «o‘rganish bosqichida» bo‘ladi. Bu davrda sozlamalarni tez-tez o‘zgartirmang, aks holda o‘rganish qaytadan boshlanadi. Natijani kamida bir haftadan keyin baholang.
 
 ## Xulosa
 

@@ -2,6 +2,7 @@
 title: Takroriy sotuv va LTV: mavjud mijozlardan ko‘proq daromad
 description: LTV nima, nega takroriy sotuv yangisidan arzon, sodiqlik dasturlari, eslatmalar va Telegram orqali qaytarish.
 date: 2026-10-22
+updated: 2026-10-23
 slug: takroriy-sotuv-ltv
 type: article
 tags: sotuv, analitika
@@ -54,6 +55,76 @@ LTV'ni bilsangiz, bitta mijozni jalb qilishga qancha to‘lash mumkinligini bila
 - Takroriy xaridlar ulushi — kamida ikki marta sotib olgan mijozlar foizi.
 - Xaridlar orasidagi o‘rtacha vaqt — eslatmani qachon yuborishni ko‘rsatadi.
 - Manba bo‘yicha LTV — qaysi kanal qaytib keladigan mijozlarni olib kelyapti.
+
+## Kanallar bo‘yicha LTV
+
+Mijozlar turli kanallardan keladi va ular turlicha qaytadi. **Misol (shartli raqamlar):**
+
+| Kanal | Birinchi xarid | Yil davomida xaridlar | LTV |
+|---|---|---|---|
+| Instagram reklama | $40 | 1,5 | $60 |
+| Telegram kanal | $35 | 2,5 | $87 |
+| Tavsiya | $45 | 3 | $135 |
+
+Bu jadval faqat ariza narxiga qarab xulosa qilish noto‘g‘ri ekanini ko‘rsatadi: qimmatroq kanal ko‘proq qaytadigan mijozlar olib kelishi mumkin.
+
+## Qayta aloqa kalendari (namuna)
+
+| Xariddan keyin | Nima yuborish |
+|---|---|
+| 1-kun | Rahmat va foydalanish bo‘yicha qisqa yo‘riqnoma |
+| 7-kun | Hammasi yaxshimi degan savol va sharh so‘rash |
+| 30-kun | Foydali maslahat yoki parvarish qoidalari |
+| 60–90-kun | Mahsulot tugashi haqida eslatma yoki mos qo‘shimcha mahsulot |
+| Tug‘ilgan kun | Shaxsiy tabrik va kichik sovg‘a |
+
+Kalendarni mahsulotingiz hayot sikliga moslang: kofe uchun bir oy, mebel uchun bir yil.
+
+## «Uxlab yotgan» mijozlarni qaytarish
+
+Bir necha oydan beri xarid qilmagan mijozlarga alohida xabar yozing. Faqat chegirma emas, qaytish uchun sabab bering: yangi mahsulot, yangi xizmat yoki ular avval olgan narsaga mos yangilik. Xabar shaxsiy bo‘lsin — ism va oxirgi xarid bilan.
+
+## Sodiqlik dasturini qanday tanlash
+
+- **Ballar yoki keshbek** — tushunarli va har qanday chakana savdo uchun mos.
+- **Darajalar** — ko‘proq sotib olganlarga ko‘proq imtiyoz.
+- **Yopiq klub** — Telegram kanal yoki guruhda maxsus takliflar.
+
+Qoidalar bitta jumlada tushuntirilsin. Dastur narxini oldindan hisoblang: imtiyozlar marjangizni yeb qo‘ymasin.
+
+## Ko‘p uchraydigan xatolar
+
+- Bazaga juda tez-tez va foydasiz xabarlar yuborish.
+- Barcha mijozlarga bir xil xabar.
+- Mijozni faqat chegirma bilan ushlab qolishga urinish.
+- Xarid paytida kontakt yig‘maslik.
+- Mijozlar nima uchun ketganini so‘ramaslik.
+
+## Savol-javob
+
+### Takroriy sotuv bo‘lmaydigan bizneslar-chi?
+
+Ko‘chmas mulk yoki to‘y xizmatlari kabi bir martalik xaridlarda ham LTV bor — tavsiyalar orqali. Mamnun mijoz do‘stlarini olib kelsa, bu ham uning qiymati.
+
+### Bazaga qanchalik tez-tez yozish mumkin?
+
+Har bir xabar foydali bo‘lsa — oyiga bir necha marta. Obunadan chiqishlar va javoblar sonini kuzating: chiqishlar ko‘paysa, chastotani kamaytiring.
+
+### Xabar yuborish uchun rozilik kerakmi?
+
+Ha. Kontaktni yig‘ayotganda xabarlar yuborishga ruxsat so‘rang va har bir xabarda obunadan chiqish imkonini bering.
+
+### LTV'ni tez oshirishning eng oddiy usuli qaysi?
+
+Xarid paytida mos qo‘shimcha mahsulot taklif qilish va mahsulot tugashidan oldin eslatma yuborish. Ikkalasi ham reklama byudjetini talab qilmaydi.
+
+### CRM'siz LTV'ni hisoblash mumkinmi?
+
+Ha, telefon raqami bo‘yicha xaridlar jadvali bilan. Lekin mijozlar ko‘paygan sari CRM ancha qulay bo‘ladi — tanlash bo‘yicha [CRM tanlash](/blog/crm-tanlash/) maqolasida.
+
+### Sodiqlik dasturi ishlayotganini qanday bilish mumkin?
+
+Dasturdagi va undan tashqaridagi mijozlarni solishtiring: qayta xarid ulushi, xaridlar orasidagi vaqt va o‘rtacha chek. Imtiyozlar xarajatini ham hisoblang — agar dastur faqat baribir qaytadigan mijozlarga chegirma bersa, u foyda emas, xarajat.
 
 ## Xulosa
 

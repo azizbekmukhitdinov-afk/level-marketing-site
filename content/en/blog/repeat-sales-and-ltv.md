@@ -2,6 +2,7 @@
 title: Repeat sales and LTV: more revenue from existing customers
 description: What LTV is, why a repeat sale costs less than a new one, loyalty programmes, reminders and win-backs via Telegram.
 date: 2026-10-22
+updated: 2026-10-23
 slug: repeat-sales-and-ltv
 type: article
 tags: sales, analytics
@@ -54,6 +55,76 @@ Once you know LTV, you know how much you can afford to pay to win a customer. In
 - Repeat purchase rate — the share of customers who bought at least twice.
 - Average time between purchases — tells you when to send a reminder.
 - LTV by source — which channel brings customers who come back.
+
+## LTV by channel
+
+Customers come from different channels and return at different rates. **An example (illustrative numbers):**
+
+| Channel | First purchase | Purchases per year | LTV |
+|---|---|---|---|
+| Instagram ads | $40 | 1.5 | $60 |
+| Telegram channel | $35 | 2.5 | $87 |
+| Referral | $45 | 3 | $135 |
+
+The table shows why judging channels by cost per lead alone is a mistake: a more expensive channel may bring customers who come back more often.
+
+## A follow-up calendar (example)
+
+| After the purchase | What to send |
+|---|---|
+| Day 1 | A thank-you and short usage instructions |
+| Day 7 | A check that everything's fine, and a review request |
+| Day 30 | A useful tip or care instructions |
+| Days 60–90 | A reminder that the product is running out, or a matching add-on |
+| Birthday | Personal greetings and a small gift |
+
+Fit the calendar to your product's life cycle: a month for coffee, a year for furniture.
+
+## Bringing back "dormant" customers
+
+Write a separate message to customers who haven't bought anything for several months. Give them a reason to come back, not just a discount: a new product, a new service or something new that goes with what they bought before. Make it personal — with their name and last purchase.
+
+## How to choose a loyalty programme
+
+- **Points or cashback** — easy to understand and suits any retail business.
+- **Tiers** — more perks for those who buy more.
+- **A closed club** — special offers in a Telegram channel or group.
+
+The rules should fit in one sentence. Calculate the programme's cost in advance so the perks don't eat your margin.
+
+## Common mistakes
+
+- Messaging your list too often and without value.
+- The same message to every customer.
+- Trying to keep customers with discounts alone.
+- Not collecting contacts at the point of sale.
+- Not asking why customers left.
+
+## Questions and answers
+
+### What about businesses without repeat sales?
+
+Even one-off purchases like real estate or wedding services have an LTV — through referrals. If a happy customer brings friends, that's part of their value too.
+
+### How often can you message your customer list?
+
+If every message is useful, a few times a month. Watch unsubscribes and replies: if unsubscribes rise, reduce the frequency.
+
+### Do you need consent to send messages?
+
+Yes. When collecting a contact, ask permission to send messages, and give an easy way to opt out in every message.
+
+### What's the simplest way to raise LTV quickly?
+
+Offer a matching add-on at checkout and send a reminder before the product runs out. Neither requires an ad budget.
+
+### Can you calculate LTV without a CRM?
+
+Yes, with a spreadsheet of purchases by phone number. But as customers multiply, a CRM becomes far more convenient — see [CRM for small business](/en/blog/crm-for-small-business/).
+
+### How do you know a loyalty programme is working?
+
+Compare customers inside and outside the programme: the share of repeat purchases, the time between purchases and the average order. Count the cost of the perks too — if the programme only gives discounts to customers who would have come back anyway, it's a cost, not a gain.
 
 ## Conclusion
 
