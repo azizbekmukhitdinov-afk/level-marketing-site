@@ -138,4 +138,4 @@ Combine both methods: calculate from the goal and sanity-check against a share o
 
 - [Competitor analysis: what you can learn in one day](/en/blog/competitor-analysis/)
 - [Target audience and customer persona: how to define them](/en/blog/target-audience-and-customer-persona/)
-- [Network marketing (MLM): can you make money, and how to spot a pyramid](/en/blog/network-marketing-mlm/)
+- [SMS advertising rules in Uzbekistan from 1 November 2026](/en/blog/sms-advertising-rules-uzbekistan/)

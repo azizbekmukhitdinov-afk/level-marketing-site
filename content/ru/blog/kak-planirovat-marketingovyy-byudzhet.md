@@ -138,4 +138,4 @@ rubric: biznes
 
 - [Анализ конкурентов: что можно узнать за один день](/ru/blog/analiz-konkurentov/)
 - [Целевая аудитория и портрет клиента: как определить](/ru/blog/tselevaya-auditoriya-i-portret-klienta/)
-- [Сетевой маркетинг (MLM): можно ли заработать и как отличить его от пирамиды](/ru/blog/setevoy-marketing-mlm/)
+- [Рекламные SMS: новые правила с 1 ноября 2026 и что делать бизнесу](/ru/blog/reklamnye-sms-novye-pravila/)

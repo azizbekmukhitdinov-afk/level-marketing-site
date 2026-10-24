@@ -138,4 +138,4 @@ Ikkala usulni birlashtiring: maqsaddan hisoblang va natijani daromad ulushi bila
 
 - [Raqobatchilar tahlili: 1 kunda nimani bilib olish mumkin](/blog/raqobatchilar-tahlili/)
 - [Maqsadli auditoriya va mijoz portreti: qanday aniqlash](/blog/maqsadli-auditoriya/)
-- [Tarmoq marketingi (MLM): pul topish mumkinmi va piramidani qanday ajratish kerak](/blog/tarmoq-marketingi-mlm/)
+- [SMS reklama yangi qoidalari: 1-noyabr 2026 dan biznes nima qiladi](/blog/sms-reklama-yangi-qoidalar/)

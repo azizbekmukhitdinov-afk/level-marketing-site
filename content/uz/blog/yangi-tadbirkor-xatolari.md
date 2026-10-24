@@ -115,4 +115,4 @@ Bu xatolarning barchasi tuzatiladi — ko‘pincha reklama byudjetini oshirmasda
 
 - [Marketing byudjetini qanday rejalash: daromaddan foiz va maqsaddan hisob](/blog/marketing-byudjeti-rejasi/)
 - [Raqobatchilar tahlili: 1 kunda nimani bilib olish mumkin](/blog/raqobatchilar-tahlili/)
-- [Tarmoq marketingi (MLM): pul topish mumkinmi va piramidani qanday ajratish kerak](/blog/tarmoq-marketingi-mlm/)
+- [SMS reklama yangi qoidalari: 1-noyabr 2026 dan biznes nima qiladi](/blog/sms-reklama-yangi-qoidalar/)

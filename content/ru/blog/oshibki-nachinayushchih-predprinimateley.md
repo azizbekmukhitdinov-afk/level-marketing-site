@@ -115,4 +115,4 @@ rubric: biznes
 
 - [Как планировать маркетинговый бюджет: процент от выручки и расчёт от цели](/ru/blog/kak-planirovat-marketingovyy-byudzhet/)
 - [Анализ конкурентов: что можно узнать за один день](/ru/blog/analiz-konkurentov/)
-- [Сетевой маркетинг (MLM): можно ли заработать и как отличить его от пирамиды](/ru/blog/setevoy-marketing-mlm/)
+- [Рекламные SMS: новые правила с 1 ноября 2026 и что делать бизнесу](/ru/blog/reklamnye-sms-novye-pravila/)
