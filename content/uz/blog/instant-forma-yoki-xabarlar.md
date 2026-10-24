@@ -111,5 +111,5 @@ Forma — tez va arzon arizalar, xabarlar — iliqroq suhbat. To‘g‘ri tanlov
 ## Shu mavzuda yana
 
 - [Reklama kabineti bloklandi: nima qilish va qanday oldini olish](/blog/reklama-kabineti-bloklandi/)
-- [Telegram Ads va kanallarda reklama: qaysi biri sizga mos](/blog/telegram-ads-reklama/)
+- [Zastroyshik uchun target reklama: 7 xato va ularni tuzatish](/blog/zastroyshik-uchun-target-reklama/)
 - [Instagram'da target reklama qanday sozlanadi: bosqichma-bosqich qo‘llanma](/blog/instagramda-target-reklama-sozlash/)

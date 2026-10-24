@@ -111,5 +111,5 @@ Lookalike — быстрый способ превратить базу теку
 ## Ещё по теме
 
 - [Ретаргетинг: как вернуть тех, кто не купил](/ru/blog/retargeting-kak-rabotaet/)
-- [TikTok Ads в Узбекистане: кому подходит и как начать](/ru/blog/tiktok-ads-v-uzbekistane/)
+- [Таргет для застройщика: 7 ошибок и как их исправить](/ru/blog/target-dlya-zastroyshchika/)
 - [Как настроить таргет в Instagram: пошаговое руководство](/ru/blog/kak-nastroit-target-v-instagram/)

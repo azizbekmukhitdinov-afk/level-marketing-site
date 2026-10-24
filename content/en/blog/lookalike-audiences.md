@@ -111,5 +111,5 @@ Lookalikes are a fast way to turn your existing customer base into a flow of new
 ## More on this topic
 
 - [Retargeting: how to bring back people who didn't buy](/en/blog/how-retargeting-works/)
-- [TikTok Ads in Uzbekistan: who it suits and how to start](/en/blog/tiktok-ads-in-uzbekistan/)
+- [Real estate developer ads: 7 mistakes and how to fix them](/en/blog/real-estate-developer-ads/)
 - [How to set up Instagram ads: a step-by-step guide](/en/blog/how-to-set-up-instagram-ads/)

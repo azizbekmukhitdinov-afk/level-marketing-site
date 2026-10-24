@@ -111,5 +111,5 @@ Lookalike — mavjud mijozlar bazangizni yangi mijozlar oqimiga aylantirishning 
 ## Shu mavzuda yana
 
 - [Retargeting: sotib olmaganlarni qanday qaytarish mumkin](/blog/retargeting-qanday-ishlaydi/)
-- [TikTok Ads O‘zbekistonda: kimga mos va qanday boshlash kerak](/blog/tiktok-ads-ozbekistonda/)
+- [Zastroyshik uchun target reklama: 7 xato va ularni tuzatish](/blog/zastroyshik-uchun-target-reklama/)
 - [Instagram'da target reklama qanday sozlanadi: bosqichma-bosqich qo‘llanma](/blog/instagramda-target-reklama-sozlash/)

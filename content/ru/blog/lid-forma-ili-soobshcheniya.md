@@ -111,5 +111,5 @@ rubric: target
 ## Ещё по теме
 
 - [Рекламный кабинет заблокирован: что делать и как не допустить](/ru/blog/reklamnyy-kabinet-zablokirovan/)
-- [Реклама в Telegram: Telegram Ads или посевы в каналах](/ru/blog/reklama-v-telegram/)
+- [Таргет для застройщика: 7 ошибок и как их исправить](/ru/blog/target-dlya-zastroyshchika/)
 - [Как настроить таргет в Instagram: пошаговое руководство](/ru/blog/kak-nastroit-target-v-instagram/)
