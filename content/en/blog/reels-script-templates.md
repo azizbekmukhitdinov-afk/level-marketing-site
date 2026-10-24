@@ -12,6 +12,8 @@ rubric: video
 
 Most Reels are filmed without a script — "I'll just say something" — and that's why nobody finishes them. A script makes a video short, clear and persuasive. Here is the structure of a Reel that sells, plus 5 templates you can adapt to any business.
 
+![The structure of a Reel that sells](/img/blog/illus/reels-ssenariy-shablon-1.jpg 1200x675)
+
 ## The structure of a Reel that sells
 
 1. **Hook (1–3 seconds)** — grab attention. Types of hooks are in our [hooks article](/en/blog/reels-hooks/).
@@ -50,6 +52,8 @@ One video, one idea. For a 30–45 second video, roughly 60–120 words is enoug
 - Don't open with a greeting — get straight to the point.
 - Ask for one specific action at the end.
 
+![Connecting templates to your plan](/img/blog/illus/reels-ssenariy-shablon-2.jpg 1200x675)
+
 ## Connecting templates to your plan
 
 Use each template several times a month on different topics, following the content types in our [content plan](/en/blog/instagram-content-plan/) article. For filming technique, see [shooting Reels on a phone](/en/blog/shooting-reels-on-a-phone/).
@@ -75,6 +79,8 @@ Use each template several times a month on different topics, following the conte
 3. Is there proof: a result, a number, a review or the process?
 4. Is there one clear call to action?
 5. Can the text be read calmly in 45 seconds?
+
+![Common mistakes](/img/blog/illus/reels-ssenariy-shablon-3.jpg 1200x675)
 
 ## Common mistakes
 

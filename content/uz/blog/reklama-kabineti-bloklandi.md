@@ -12,6 +12,8 @@ rubric: target
 
 Reklama kabinetining bloklanishi — tadbirkor va targetolog uchun eng yoqimsiz holatlardan biri: kampaniyalar to‘xtaydi, arizalar oqimi uziladi. Bu maqolada Meta kabinetlarni nima uchun bloklashini, bloklangandan keyin nima qilish kerakligini va xavfni qanday kamaytirishni ko‘rib chiqamiz.
 
+![Nima uchun bloklashadi](/img/blog/illus/reklama-kabineti-bloklandi-1.jpg 1200x675)
+
 ## Nima uchun bloklashadi
 
 | Sabab | Misol |
@@ -45,6 +47,8 @@ Reklama kabinetining bloklanishi — tadbirkor va targetolog uchun eng yoqimsiz 
 
 Kabinet va sahifa sizning biznesingizga tegishli bo‘lishi kerak, agentlik esa unga ruxsat bilan ishlaydi. Shunda hamkorlik tugasa ham, tarix, auditoriyalar va Pixel ma'lumotlari sizda qoladi. Bu haqda — [targetolog tanlash haqidagi maqolada](/blog/targetolog-qanday-tanlanadi/).
 
+![Qayta ko‘rib chiqish so‘rovi namunasi](/img/blog/illus/reklama-kabineti-bloklandi-2.jpg 1200x675)
+
 ## Qayta ko‘rib chiqish so‘rovi namunasi
 
 Qisqa, xushmuomala va faktlarga asoslangan bo‘lsin:
@@ -69,6 +73,8 @@ Hissiyotli, uzun yoki ayblovchi matn yozmang va bir xil so‘rovni qayta-qayta y
 - Biznes tasdiqlanmagan, kabinetda esa bitta admin.
 - To‘lov kartasini tez-tez almashtirish.
 - Targetologga shaxsiy profil parolini berish.
+
+![Zaxira reja](/img/blog/illus/reklama-kabineti-bloklandi-3.jpg 1200x675)
 
 ## Zaxira reja
 

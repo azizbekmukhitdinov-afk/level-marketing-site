@@ -12,6 +12,8 @@ rubric: smm
 
 Mijoz telefonda olgan oddiy video ko‘pincha studiyada suratga olingan reklamadan yaxshiroq sotadi. Bunday kontent **UGC** (user-generated content) — foydalanuvchilar yaratgan kontent deb ataladi. Bu maqolada UGC nima uchun ishlashini, uni qanday yig‘ish va reklamada qanday ishlatishni ko‘rib chiqamiz.
 
+![UGC nima](/img/blog/illus/ugc-kontent-1.jpg 1200x675)
+
 ## UGC nima
 
 UGC — mahsulotingiz haqida mijozlar yaratgan rasm, video, sharh va izohlar. Keyingi yillarda **UGC-kreatorlar** ham paydo bo‘ldi: ular haq evaziga mahsulotdan foydalanib, «mijoz uslubida» video tayyorlaydi.
@@ -43,6 +45,8 @@ UGC — mahsulotingiz haqida mijozlar yaratgan rasm, video, sharh va izohlar. Ke
 | Huquqlar | Reklamada ishlatish, muddat |
 
 Halollik muhim: kreator mahsulotdan haqiqatan foydalangan bo‘lsin va natijalarni oshirib aytmasin.
+
+![UGC'ni reklamada ishlatish](/img/blog/illus/ugc-kontent-2.jpg 1200x675)
 
 ## UGC'ni reklamada ishlatish
 
@@ -93,6 +97,8 @@ Instagram va TikTok'da sohangiz bo‘yicha kichik bloglarni kuzating, o‘z mijo
 ### UGC'ni qancha muddat ishlatish mumkin?
 
 Muallif bilan qanday kelishgan bo‘lsangiz, shuncha. Muddat va qayerda ishlatilishini (sahifa, reklama) yozma ravishda kelishib oling — yozishma ham yetarli. Muddat tugagach, videoni reklamadan olib tashlang yoki kelishuvni yangilang.
+
+![UGC uchun 5 ta g‘oya](/img/blog/illus/ugc-kontent-3.jpg 1200x675)
 
 ## UGC uchun 5 ta g‘oya
 

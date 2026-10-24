@@ -12,6 +12,8 @@ rubric: sotuv
 
 Many businesses spend their whole budget on finding new customers, yet someone who has already bought once knows you and trusts you. **LTV** (lifetime value) shows how much revenue one customer brings over the entire time they buy from you. Here is how to calculate LTV and how to grow repeat sales.
 
+![How to calculate LTV](/img/blog/illus/takroriy-sotuv-ltv-1.jpg 1200x675)
+
 ## How to calculate LTV
 
 The simplest formula:
@@ -49,6 +51,8 @@ Once you know LTV, you know how much you can afford to pay to win a customer. In
 2. Send them a short message with a personal offer, not a generic ad.
 3. Share useful content: new arrivals, tips, members-only deals — a [Telegram channel](/en/blog/grow-a-telegram-channel/) works well for this.
 4. Don't spam: a few messages a month is enough, each with a clear benefit.
+
+![Which numbers to track](/img/blog/illus/takroriy-sotuv-ltv-2.jpg 1200x675)
 
 ## Which numbers to track
 
@@ -91,6 +95,8 @@ Write a separate message to customers who haven't bought anything for several mo
 - **A closed club** — special offers in a Telegram channel or group.
 
 The rules should fit in one sentence. Calculate the programme's cost in advance so the perks don't eat your margin.
+
+![Common mistakes](/img/blog/illus/takroriy-sotuv-ltv-3.jpg 1200x675)
 
 ## Common mistakes
 

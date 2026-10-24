@@ -12,6 +12,8 @@ rubric: biznes
 
 Biznesni boshlaganda marketingdagi xatolar ayniqsa qimmatga tushadi: pul kam, vaqt esa undan ham kam. Quyida — yangi tadbirkorlarda eng ko‘p uchraydigan 7 ta xato va ularni tuzatish yo‘llari.
 
+![1. «Hamma uchun» mahsulot](/img/blog/illus/yangi-tadbirkor-xatolari-1.jpg 1200x675)
+
 ## 1. «Hamma uchun» mahsulot
 
 «Mahsulotimiz hammaga kerak» — demak, reklamangiz hech kimga aniq murojaat qilmaydi. Bitta asosiy segmentni tanlang: kim, qayerda, qanday muammo bilan. Qo‘llanma — [maqsadli auditoriya](/blog/maqsadli-auditoriya/) maqolasida.
@@ -31,6 +33,8 @@ Bir xil taklif, bir xil rasm, bir xil matn — natijada yagona farq narx bo‘li
 ## 5. Darhol natija kutish
 
 Reklamani 2–3 kundan keyin «ishlamayapti» deb o‘chirish — keng tarqalgan xato. Har qanday kampaniyaga test davri kerak: bir nechta kreativ va auditoriyani sinash, keyin eng yaxshisini qoldirish. Qanday qilish — [A/B test](/blog/kreativlar-ab-test/) maqolasida.
+
+![6. Arizalar bilan sust ishlash](/img/blog/illus/yangi-tadbirkor-xatolari-2.jpg 1200x675)
 
 ## 6. Arizalar bilan sust ishlash
 
@@ -67,6 +71,8 @@ Har oy oxirida bir xil raqamlarni yozing: sarf, arizalar, sotuvlar, bitta mijoz 
 - **Mijozlar bazasini yig‘maslik.** Har bir xaridorning kontakti — keyingi sotuv uchun eng arzon kanal.
 - **Faqat bitta kanalga tayanish.** Akkaunt bloklansa yoki algoritm o‘zgarsa, arizalar oqimi to‘xtaydi.
 - **Narxni yashirish.** «Narx Direct'da» ko‘p odamni yozmasdan chiqib ketishga majbur qiladi.
+
+![O‘zingizni tekshiring: 8 ta savol](/img/blog/illus/yangi-tadbirkor-xatolari-3.jpg 1200x675)
 
 ## O‘zingizni tekshiring: 8 ta savol
 

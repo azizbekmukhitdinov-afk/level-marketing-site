@@ -12,6 +12,8 @@ rubric: smm
 
 A simple video a customer films on their phone often sells better than a studio-made ad. This kind of content is called **UGC** — user-generated content. Here is why UGC works, how to collect it and how to use it in ads.
 
+![What UGC is](/img/blog/illus/ugc-kontent-1.jpg 1200x675)
+
 ## What UGC is
 
 UGC is photos, videos, reviews and comments about your product created by customers. In recent years **UGC creators** have appeared too: for a fee, they use the product and film videos "in the style of a customer".
@@ -43,6 +45,8 @@ UGC is photos, videos, reviews and comments about your product created by custom
 | Rights | Use in ads, duration |
 
 Honesty matters: the creator should genuinely use the product and not exaggerate results.
+
+![Using UGC in ads](/img/blog/illus/ugc-kontent-2.jpg 1200x675)
 
 ## Using UGC in ads
 
@@ -93,6 +97,8 @@ Watch small accounts in your niche on Instagram and TikTok, look for active peop
 ### How long can you use UGC?
 
 As long as you agreed with the creator. Agree the term and the places of use (your page, ads) in writing — a chat message will do. When the term ends, remove the video from ads or renew the agreement.
+
+![5 UGC ideas](/img/blog/illus/ugc-kontent-3.jpg 1200x675)
 
 ## 5 UGC ideas
 

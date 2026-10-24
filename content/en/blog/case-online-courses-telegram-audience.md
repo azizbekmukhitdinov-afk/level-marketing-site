@@ -13,6 +13,8 @@ image: /img/cases/dilrabo.jpg
 
 Two experts, one goal: build a warm Telegram audience before the course goes on sale.
 
+![Dilrabo Isroilova — online psychology course](/img/blog/illus/keys-onlayn-kurslar-1.jpg 1200x675)
+
 ## Dilrabo Isroilova — online psychology course
 
 | Metric | Result |
@@ -33,12 +35,16 @@ Before launching the first cohort, she needed a targeted audience on Telegram.
 | Ad spend | $6,000 |
 | Result | **25,000 subscribers from zero via paid ads** |
 
+![How to apply this approach](/img/blog/illus/keys-onlayn-kurslar-2.jpg 1200x675)
+
 ## How to apply this approach
 
 1. Start building the audience early — months before selling the course.
 2. Make the Telegram channel useful: the expert's free materials, answers and everyday tips.
 3. Use ads to bring targeted subscribers into the channel.
 4. When the course opens, offer it to exactly this warm audience.
+
+![Who this suits](/img/blog/illus/keys-onlayn-kurslar-3.jpg 1200x675)
 
 ## Who this suits
 

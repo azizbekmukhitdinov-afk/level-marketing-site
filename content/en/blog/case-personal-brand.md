@@ -13,6 +13,8 @@ image: /img/cases/personal-brand.jpg
 
 A personal brand is an expert's cheapest client acquisition channel: people trust a person before they trust a company. We build experts a profile, a content strategy and regular video production.
 
+![Personal brands we have worked with](/img/blog/illus/keys-shaxsiy-brend-1.jpg 1200x675)
+
 ## Personal brands we have worked with
 
 - **Nodirbek Khudoykulov** — corporate lawyer
@@ -32,12 +34,16 @@ A personal brand is an expert's cheapest client acquisition channel: people trus
 4. Our own team handles shooting and editing.
 5. Where needed, paid ads speed up audience growth.
 
+![If you're starting on your own: 4 steps](/img/blog/illus/keys-shaxsiy-brend-2.jpg 1200x675)
+
 ## If you're starting on your own: 4 steps
 
 1. **Positioning** — in one sentence: whom you help and to what result.
 2. **A schedule** — 2–3 videos a week, prepared in a single shoot day.
 3. **Topics** — taken from your customers' real questions.
 4. **Measurement** — not followers, but the number of enquiries that came through your content.
+
+![Who this suits](/img/blog/illus/keys-shaxsiy-brend-3.jpg 1200x675)
 
 ## Who this suits
 

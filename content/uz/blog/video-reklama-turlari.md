@@ -12,6 +12,8 @@ rubric: video
 
 Bir xil mahsulotni turli video formatlari bilan reklama qilish mumkin — va natija bir necha barobar farq qiladi. Qaysi format ishlashini oldindan bilish qiyin, shuning uchun bir nechta turni tayyorlab, sinash kerak. Bu maqolada eng ko‘p sotadigan 7 ta video reklama turini va ular qachon ishlashini ko‘rib chiqamiz.
 
+![7 ta tur](/img/blog/illus/video-reklama-turlari-1.jpg 1200x675)
+
 ## 7 ta tur
 
 | Tur | Qachon ishlaydi | Misol |
@@ -42,6 +44,8 @@ Uchta savol bering:
 2. Mijoz qaror qabul qilishdan oldin ko‘p o‘ylaydimi? — Ha bo‘lsa: sharh va ekspert.
 3. Auditoriya sizni allaqachon biladimi? — Ha bo‘lsa: taklif.
 
+![Qanday sinash kerak](/img/blog/illus/video-reklama-turlari-2.jpg 1200x675)
+
 ## Qanday sinash kerak
 
 Bir vaqtda 3–4 xil turdagi video tayyorlang va ularni bir xil auditoriya va byudjet bilan solishtiring — [A/B test](/blog/kreativlar-ab-test/) qoidalari bo‘yicha. G‘olib turdan keyingi oyda bir nechta variant qiling.
@@ -58,6 +62,8 @@ Batafsil shablonlar — [Reels ssenariy shablonlari](/blog/reels-ssenariy-shablo
 ## Uzunlik va format
 
 Vertikal 9:16 — Reels, Stories va TikTok uchun asosiy format. Ko‘p reklama videolari uchun 15–30 soniya yetarli, sharh va ekspert videolari esa biroz uzunroq bo‘lishi mumkin. Asosiy fikr birinchi 3 soniyada bo‘lsin, subtitrlar esa ovozsiz ko‘radiganlar uchun shart.
+
+![Ko‘p uchraydigan xatolar](/img/blog/illus/video-reklama-turlari-3.jpg 1200x675)
 
 ## Ko‘p uchraydigan xatolar
 

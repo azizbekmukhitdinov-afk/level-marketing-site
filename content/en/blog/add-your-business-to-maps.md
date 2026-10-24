@@ -12,6 +12,8 @@ rubric: brend
 
 "Dentist near me", "car service in Chilanzar" — people increasingly look for services on maps. A listing on Google and Yandex Maps is free and one of the "hottest" sources of customers. Here is how to create a business listing, verify it and rank higher.
 
+![What maps give you](/img/blog/illus/biznesni-xaritalarga-qoshish-1.jpg 1200x675)
+
 ## What maps give you
 
 - Customers searching nearby find you.
@@ -48,6 +50,8 @@ Maps weigh three factors:
 
 Also make sure your name, address and phone number match everywhere — website, Instagram, directories.
 
+![Common mistakes](/img/blog/illus/biznesni-xaritalarga-qoshish-2.jpg 1200x675)
+
 ## Common mistakes
 
 - Stuffing keywords into the name ("Dentist cheap Tashkent best") — it's against the rules and can get the listing suspended.
@@ -74,6 +78,8 @@ Use only real photos: stock images lower trust. Refresh them from time to time �
 4. **Reply to every review** — positive and negative.
 
 Don't promise a gift or discount for a positive review, and don't order fake reviews: it breaks the platforms' rules and can harm your listing. How to set up feedback collection is covered in [Collecting customer feedback](/en/blog/collecting-customer-feedback/).
+
+![A monthly upkeep checklist](/img/blog/illus/biznesni-xaritalarga-qoshish-3.jpg 1200x675)
 
 ## A monthly upkeep checklist
 

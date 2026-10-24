@@ -12,6 +12,8 @@ rubric: sotuv
 
 Mijoz reklamani ko‘rib, sizga va yana ikki-uchta raqobatchiga yozdi. Kim birinchi javob bersa, suhbatni o‘sha boshqaradi. Ko‘p bizneslar reklamaga pul sarflab, keyin arizaga soatlab javob bermay, mijozni yo‘qotadi. Bu maqolada javob tezligi nima uchun hal qiluvchi ekanini va uni qanday tizimga solishni ko‘rib chiqamiz.
 
+![Nega tezlik muhim](/img/blog/illus/arizaga-javob-tezligi-1.jpg 1200x675)
+
 ## Nega tezlik muhim
 
 - **Qiziqish tez so‘nadi.** Bir soat oldin «hozir sotib olaman» degan odam boshqa ishlarga o‘tib ketadi.
@@ -43,6 +45,8 @@ Mijoz reklamani ko‘rib, sizga va yana ikki-uchta raqobatchiga yozdi. Kim birin
 - **Yo‘qotilgan arizalar tahlili** — javobsiz qolganlar sababini aniqlang.
 - **Menejer KPI'siga** javob tezligini qo‘shing.
 
+![Tez javobdan keyin nima](/img/blog/illus/arizaga-javob-tezligi-2.jpg 1200x675)
+
 ## Tez javobdan keyin nima
 
 Tez javob — boshlanish xolos. Keyin suhbat sotuvga olib borishi kerak: savol bering, ehtiyojni aniqlang, aniq taklif qiling. Tuzilma — [sotuv skripti](/blog/sotuv-skripti/) maqolasida.
@@ -66,6 +70,8 @@ Birinchi javob faqat salom yoki faqat narx bo‘lmasligi kerak — u suhbatni da
 ## Sekin javob qanchaga tushadi: oddiy hisob
 
 **Misol (shartli raqamlar):** oyiga 200 ta ariza keladi, ulardan 40 tasiga kech javob beriladi va bu mijozlar raqobatchiga ketadi. Agar odatda arizalarning 15% sotuvga aylansa, bu oyiga 6 ta yo‘qotilgan sotuv. Ularni o‘rtacha chekka ko‘paytiring — bu summa ko‘pincha navbatchi menejer maoshi yoki avtomatlashtirish narxidan katta bo‘ladi.
+
+![Ko‘p uchraydigan xatolar](/img/blog/illus/arizaga-javob-tezligi-3.jpg 1200x675)
 
 ## Ko‘p uchraydigan xatolar
 

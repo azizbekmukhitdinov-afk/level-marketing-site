@@ -12,6 +12,8 @@ rubric: target
 
 O‘zbekistonda ko‘plab bizneslar uchun Instagram asosiy sotuv kanali: mijozlar mahsulotni shu yerda ko‘radi, Direct'ga yozadi va xarid qiladi. Lekin "Reklama qilish" (Продвигать) tugmasini bosib, post'ni ko‘tarish — bu target reklama emas. Ushbu qo‘llanmada Instagram reklamasini Meta Ads Manager orqali qanday to‘g‘ri sozlashni bosqichma-bosqich ko‘rib chiqamiz.
 
+![Nega Reklama qilish tugmasi yetarli emas](/img/blog/illus/instagramda-target-reklama-sozlash-1.jpg 1200x675)
+
 ## Nega "Reklama qilish" tugmasi yetarli emas
 
 Instagram ilovasidagi tugma tez, lekin imkoniyatlari cheklangan: auditoriyani nozik sozlash, bir nechta kreativni sinash, ariza formasi va natijalarni chuqur tahlil qilish deyarli yo‘q. **Meta Ads Manager** (adsmanager.facebook.com) esa to‘liq vosita: unda kampaniya, auditoriya va kreativlarni alohida boshqarasiz va qaysi reklama ariza olib kelayotganini ko‘rasiz.
@@ -76,6 +78,8 @@ Eng muhimi — arizaga tez javob berish. Mijoz bir vaqtda bir nechta kompaniyaga
 
 Eng yomon ishlayotgan kreativlarni o‘chirib, byudjetni yaxshilariga o‘tkazing va har hafta yangi kreativlar qo‘shing.
 
+![Kampaniya tuzilmasi: uch daraja](/img/blog/illus/instagramda-target-reklama-sozlash-2.jpg 1200x675)
+
 ## Kampaniya tuzilmasi: uch daraja
 
 Ads Manager'da har bir reklama uch darajadan iborat:
@@ -124,6 +128,8 @@ Matnning birinchi qatori eng muhim — u «Batafsil» tugmasisiz ko‘rinadi. Ta
 ## Retargeting kampaniyasini qo‘shish
 
 2–3 haftadan keyin, asosiy kampaniya auditoriya to‘plagach, ikkinchi kampaniyani qo‘shing: profil bilan faol bo‘lgan, videoni ko‘rgan yoki saytga kirgan, lekin ariza qoldirmaganlar uchun. Bu yerda boshqa kreativlar kerak — sharhlar, e'tirozlarga javob va muddatli taklif. Ariza qoldirganlarni istisno qiling va bu kampaniyaga byudjetning kichik qismini bering. Batafsil — [retargeting](/blog/retargeting-qanday-ishlaydi/) maqolasida.
+
+![Hisobotdagi asosiy ustunlar](/img/blog/illus/instagramda-target-reklama-sozlash-3.jpg 1200x675)
 
 ## Hisobotdagi asosiy ustunlar
 

@@ -12,6 +12,8 @@ rubric: target
 
 Are your ads bringing sales, or just clicks? Only tracking can answer that precisely. Meta advertising has two tracking tools for it: **Meta Pixel** and the **Conversions API**. Here is why you need them, which events to track and which setup mistakes to avoid.
 
+![What Meta Pixel is](/img/blog/illus/meta-pixel-conversions-api-1.jpg 1200x675)
+
 ## What Meta Pixel is
 
 The Pixel is a small piece of code you add to your website. It tells Meta what a visitor did on your site: viewed a page, submitted a form, completed a purchase. As a result:
@@ -50,6 +52,8 @@ The Pixel works through the browser. Because of ad blockers, iOS restrictions an
 - The domain isn't verified in Business Manager.
 - The campaign objective doesn't match the optimisation event.
 
+![What if you don't have a website](/img/blog/illus/meta-pixel-conversions-api-2.jpg 1200x675)
+
 ## What if you don't have a website
 
 Many businesses sell through Instagram Direct or Telegram. Then you don't need the Pixel, but you still have to record sales: mark leads in a CRM or spreadsheet and compare which ads bring sales. For calculating cost per lead, see our [CPL guide](/en/blog/cost-per-lead-cpl-how-to-lower/).
@@ -68,6 +72,8 @@ Add **value** and **currency** to Purchase and Lead events. Meta can then see wh
 ## Privacy and consent
 
 Tell your website users about data collection in your privacy policy. Don't send sensitive data through events: medical conditions, financial circumstances and the like. Clinics need to be especially careful — a page URL or event name must not reveal a condition. Clinic marketing is covered in [Marketing a clinic](/en/blog/marketing-a-clinic/).
+
+![How to use Pixel data](/img/blog/illus/meta-pixel-conversions-api-3.jpg 1200x675)
 
 ## How to use Pixel data
 

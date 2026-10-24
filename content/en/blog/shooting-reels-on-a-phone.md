@@ -12,6 +12,8 @@ rubric: video
 
 You don't need an expensive camera for Reels that sell — a modern phone is enough. A professional look comes not from gear but from three things: light, sound and framing. Here is how to set up your phone, shoot and quickly edit Reels.
 
+![Phone settings](/img/blog/illus/telefonda-reels-suratga-olish-1.jpg 1200x675)
+
 ## Phone settings
 
 - **Format:** vertical 9:16, 1080p or 4K.
@@ -49,6 +51,8 @@ Viewers forgive an imperfect picture but not bad sound.
 
 A tripod is the cheapest and most essential piece of gear. For moving shots, use a gimbal or your phone's stabilisation mode.
 
+![The shooting process](/img/blog/illus/telefonda-reels-suratga-olish-2.jpg 1200x675)
+
 ## The shooting process
 
 1. Write a script first — [Reels script templates](/en/blog/reels-script-templates/) help.
@@ -79,6 +83,8 @@ B-roll is the extra footage shown instead of the person talking. It hides cuts, 
 - the team at work;
 - a customer receiving an order (with their permission);
 - a screen recording: the website, an app or a report.
+
+![Common mistakes](/img/blog/illus/telefonda-reels-suratga-olish-3.jpg 1200x675)
 
 ## Common mistakes
 

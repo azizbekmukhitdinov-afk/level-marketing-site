@@ -12,6 +12,8 @@ rubric: target
 
 Eng yaxshi mijozlaringizga o‘xshash odamlarni qayerdan topish mumkin? Meta'da buning uchun **lookalike (o‘xshash) auditoriya** bor: siz algoritmga namuna berasiz, u esa shu namunaga o‘xshash yangi odamlarni topadi. Bu maqolada lookalike qanday ishlashini, qaysi manbadan yaratish kerakligini va qanday xatolardan qochishni ko‘rib chiqamiz.
 
+![Lookalike qanday ishlaydi](/img/blog/illus/lookalike-auditoriya-1.jpg 1200x675)
+
 ## Lookalike qanday ishlaydi
 
 Siz **manba auditoriya** (source) beraysiz — masalan, xaridorlaringiz ro‘yxati. Meta bu odamlarning umumiy belgilarini — qiziqishlari, xatti-harakati, demografiyasini — tahlil qiladi va tanlangan mamlakatda ularga eng o‘xshash odamlarni yig‘adi. Natijada siz qiziqishlarni taxmin qilib o‘tirmasdan, haqiqiy mijozlaringizga yaqin auditoriyaga reklama berasiz.
@@ -49,6 +51,8 @@ Lookalike hajmi mamlakat auditoriyasining 1% dan 10% gacha bo‘ladi. 1% — eng
 
 Meta bugun ko‘pincha algoritmga ko‘proq erkinlik beradigan Advantage+ auditoriyani tavsiya qiladi. Bunday kampaniyalarda lookalike'ni «tavsiya» sifatida qo‘shish mumkin — algoritm undan boshlang‘ich nuqta sifatida foydalanadi. Qaysi variant yaxshiroqligini faqat [A/B test](/blog/kreativlar-ab-test/) ko‘rsatadi.
 
+![Mijozlar ro‘yxatini qanday tayyorlash](/img/blog/illus/lookalike-auditoriya-2.jpg 1200x675)
+
 ## Mijozlar ro‘yxatini qanday tayyorlash
 
 - **Ustunlar:** telefon, email, ism — har bir ma'lumot alohida ustunda.
@@ -69,6 +73,8 @@ Lookalike auditoriya sizni hali tanimaydi — u retargeting emas. Shuning uchun 
 ## Natijani qanday baholash
 
 Lookalike'ni keng auditoriya yoki Advantage+ bilan bir xil kreativ va byudjetda solishtiring. Kamida bir hafta kuting va ariza narxini hamda iloji bo‘lsa sotuv narxini taqqoslang. Auditoriyalar bir-birini qoplamasligini ham tekshiring.
+
+![Lookalike qachon mos kelmaydi](/img/blog/illus/lookalike-auditoriya-3.jpg 1200x675)
 
 ## Lookalike qachon mos kelmaydi
 

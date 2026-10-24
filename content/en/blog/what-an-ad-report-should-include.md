@@ -12,6 +12,8 @@ rubric: sotuv
 
 Many business owners get a month-end report full of pretty charts that still doesn't tell them whether the ads are profitable. A good report is a decision-making tool. Here are the numbers and sections every advertising report must include.
 
+![Report structure](/img/blog/illus/reklama-hisoboti-1.jpg 1200x675)
+
 ## Report structure
 
 1. **Period and goal** — which month, and what the plan was.
@@ -44,6 +46,8 @@ For the last three rows, the client and agency have to share data: only the sale
 - No conclusions and no next steps.
 - The report is always late.
 
+![How the report is delivered](/img/blog/illus/reklama-hisoboti-2.jpg 1200x675)
+
 ## How the report is delivered
 
 Sending numbers isn't enough — they need explaining. At Level Marketing, every month on the project date our specialist visits the client's office, walks through reach, leads and cost per lead, and discusses next month's plan.
@@ -70,6 +74,8 @@ A report like this takes two minutes to read, and the decision is obvious.
 5. Does next month's plan include a specific numeric goal?
 
 If the report doesn't answer these questions, ask your specialist for more detail.
+
+![Agree on the report up front](/img/blog/illus/reklama-hisoboti-3.jpg 1200x675)
 
 ## Agree on the report up front
 

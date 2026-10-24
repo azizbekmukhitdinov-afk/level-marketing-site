@@ -12,6 +12,8 @@ rubric: target
 
 Instagram reklamasida ariza yig‘ishning ikki asosiy usuli bor: **Instant forma** (lid-forma) va **xabarlar** — Direct'ga yozish. Ikkalasi ham ariza beradi, lekin ular turli bizneslarga turlicha mos keladi. Bu maqolada farqni, qaysi biri qachon yaxshiroq ekanini va arizalar sifatini qanday oshirishni ko‘rib chiqamiz.
 
+![Ikki yondashuv qisqacha](/img/blog/illus/instant-forma-yoki-xabarlar-1.jpg 1200x675)
+
 ## Ikki yondashuv qisqacha
 
 **Instant forma** — foydalanuvchi Instagram'dan chiqmasdan ism va telefon raqamini qoldiradi. Keyin menejeringiz qo‘ng‘iroq qiladi.
@@ -45,6 +47,8 @@ Instagram reklamasida ariza yig‘ishning ikki asosiy usuli bor: **Instant forma
 3. Formaning boshida taklifni va keyingi qadamni aniq yozing: «Menejer 15 daqiqada qo‘ng‘iroq qiladi».
 4. Arizaga imkon qadar tez qo‘ng‘iroq qiling — vaqt o‘tgan sari mijoz sovib boradi.
 
+![Xabarlardan ko‘proq sotuv olish](/img/blog/illus/instant-forma-yoki-xabarlar-2.jpg 1200x675)
+
 ## Xabarlardan ko‘proq sotuv olish
 
 - Avtomatik salomlashuv va tez-tez beriladigan savollar tugmalarini sozlang.
@@ -73,6 +77,8 @@ Variantli savollar mijozga oson, sizga esa arizalarni saralash imkonini beradi.
 > «Assalomu alaykum! Yozganingiz uchun rahmat. Quyidagi savollardan birini tanlang yoki o‘z savolingizni yozing.»
 
 Tez savollar tugmalari: «Narxlar», «Manzil va ish vaqti», «Menejer bilan bog‘lanish». Har bir tugmaga tayyor javob yozing, lekin oxirida suhbatni davom ettiradigan savol qoldiring.
+
+![Ko‘p uchraydigan xatolar](/img/blog/illus/instant-forma-yoki-xabarlar-3.jpg 1200x675)
 
 ## Ko‘p uchraydigan xatolar
 

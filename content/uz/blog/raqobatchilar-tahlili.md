@@ -12,6 +12,8 @@ rubric: biznes
 
 Bozorni tushunish uchun qimmat tadqiqot shart emas: ochiq manbalardan bir ish kunida raqobatchilar haqida juda ko‘p narsani bilib olish mumkin. Maqsad — ularni nusxalash emas, balki ular nimani yomon qilayotganini va siz qanday ajralib turishingiz mumkinligini topish. Quyida — bir kunlik tahlil rejasi va xulosa jadvali.
 
+![Ertalab: 5–7 ta raqobatchini toping](/img/blog/illus/raqobatchilar-tahlili-1.jpg 1200x675)
+
 ## Ertalab: 5–7 ta raqobatchini toping
 
 - Asosiy so‘rovlaringiz bo‘yicha Google va Yandex qidiruvi.
@@ -55,6 +57,8 @@ Oxirgi ustun eng muhimi: raqobatchining har bir zaif tomoni — siz yaxshiroq qi
 
 Faqat ochiq ma'lumotdan foydalaning. Matn, rasm va dizaynni ko‘chirmang — tahlil bozorni tushunish uchun kerak, nusxa olish uchun emas.
 
+![Narx xaritasi](/img/blog/illus/raqobatchilar-tahlili-2.jpg 1200x675)
+
 ## Narx xaritasi
 
 Raqobatchilarni ikki o‘q bo‘yicha joylashtiring: narx va xizmat darajasi. **Misol (shartli):**
@@ -86,6 +90,8 @@ Oyiga bir marta 30 daqiqa ajrating: Meta Ad Library'dagi yangi reklamalar, yangi
 - Tahlilni bir marta qilib, keyin yangilamaslik.
 - Bilvosita raqobatchilarni e'tiborsiz qoldirish.
 - Bitta sharh asosida katta xulosa chiqarish.
+
+![SWOT: tahlilni qarorga aylantirish](/img/blog/illus/raqobatchilar-tahlili-3.jpg 1200x675)
 
 ## SWOT: tahlilni qarorga aylantirish
 

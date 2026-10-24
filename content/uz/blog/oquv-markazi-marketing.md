@@ -12,6 +12,8 @@ rubric: biznes
 
 Ta'lim — ishonch va natija haqida. O‘quvchi yoki uning ota-onasi o‘quv markazini sinchkovlik bilan tanlaydi: pul bilan birga vaqt ham sarflanadi. Bu maqolada ta'lim xizmatlarida qaror qanday qabul qilinishini va o‘quvchilarni qanday jalb qilishni ko‘rib chiqamiz.
 
+![Qaror qanday qabul qilinadi](/img/blog/illus/oquv-markazi-marketing-1.jpg 1200x675)
+
 ## Qaror qanday qabul qilinadi
 
 - **Kim hal qiladi:** bolalar uchun — ota-onalar, kattalar uchun — o‘quvchining o‘zi.
@@ -39,6 +41,8 @@ Odamlar markazga emas, o‘qituvchiga boradi. O‘qituvchilarning mini-darslari,
 ## Mavsumiylik
 
 Ko‘plab o‘quv markazlarida talab o‘quv yili boshlanishidan oldin, yangi yil boshida va imtihonlar oldidan o‘sadi. O‘z ma'lumotlaringizni tekshiring va reklamani cho‘qqidan 2–4 hafta oldin kuchaytiring.
+
+![Target va Telegram](/img/blog/illus/oquv-markazi-marketing-2.jpg 1200x675)
 
 ## Target va Telegram
 
@@ -77,6 +81,8 @@ Bolalar ta'limida qarorni ota-onalar qabul qiladi, ularning savollari esa boshqa
 - Sinov darsidan keyin qo‘ng‘iroq qilmaslik.
 - O‘quvchilar rasmini roziliksiz ishlatish.
 - Yangi o‘quvchilarga e'tibor berib, mavjudlarini ushlab qolishni unutish.
+
+![Kurs narxini qanday taqdim etish](/img/blog/illus/oquv-markazi-marketing-3.jpg 1200x675)
 
 ## Kurs narxini qanday taqdim etish
 

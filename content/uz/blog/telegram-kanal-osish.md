@@ -12,6 +12,8 @@ rubric: smm
 
 Telegram kanal — biznes uchun eng arzon «o‘z auditoriyasi»: algoritm qamrovni kesmaydi, har bir post obunachilarga to‘g‘ridan-to‘g‘ri yetib boradi. Lekin noldan boshlaganda birinchi obunachilarni yig‘ish qiyin. Bu maqolada kanalni qanday qurish, birinchi 1 000 obunachini qayerdan olish va ularni mijozga aylantirishni ko‘rib chiqamiz.
 
+![Kanal poydevori](/img/blog/illus/telegram-kanal-osish-1.jpg 1200x675)
+
 ## Kanal poydevori
 
 Reklamadan oldin kanal tayyor bo‘lishi kerak:
@@ -56,6 +58,8 @@ Muntazamlik muhim: masalan, kuniga 1 ta post yoki haftasiga 4–5 ta — lekin h
 - Qo‘shilish va chiqib ketishlar — qaysi postdan keyin odamlar ketadi.
 - Havolalarga bosishlar va kanaldan kelgan arizalar.
 
+![Ko‘p uchraydigan xatolar](/img/blog/illus/telegram-kanal-osish-2.jpg 1200x675)
+
 ## Ko‘p uchraydigan xatolar
 
 - Obunachilarni sotib olish — ko‘rishlar o‘smaydi, reklama beruvchilar va algoritmlar buni ko‘radi.
@@ -88,6 +92,8 @@ Ideal uzunlik — telefon ekranining bir-ikki sahifasi.
 ## Reklamadan kelganlarni ushlab qolish
 
 Yangi obunachi kanalga kirganda oxirgi postlarni ko‘radi. Shuning uchun reklama chiqishidan oldin kanalning yuqorisida kuchli foydali post bo‘lsin, mahkamlangan postda esa siz kimsiz va bu yerda nima bor — qisqa va aniq. Reklama kunida boshqa reklamalarni joylamang.
+
+![Faollikni qanday oshirish](/img/blog/illus/telegram-kanal-osish-3.jpg 1200x675)
 
 ## Faollikni qanday oshirish
 

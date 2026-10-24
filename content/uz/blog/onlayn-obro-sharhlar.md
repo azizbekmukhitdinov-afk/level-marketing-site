@@ -12,6 +12,8 @@ rubric: brend
 
 Xarid qilishdan oldin odamlar sharhlarni o‘qiydi: Google va Yandex Xaritalarda reytingni, Instagram'da izohlarni, Uzum Market'da baholarni. Bir nechta yaxshi sharh reklamadan kuchliroq ishlashi, bitta javobsiz salbiy sharh esa mijozlarni qochirishi mumkin. Bu maqolada sharhlarni qanday yig‘ish va salbiy sharhga qanday javob berishni ko‘rib chiqamiz.
 
+![Sharhlar qayerda yashaydi](/img/blog/illus/onlayn-obro-sharhlar-1.jpg 1200x675)
+
 ## Sharhlar qayerda yashaydi
 
 | Platforma | Kim o‘qiydi |
@@ -46,6 +48,8 @@ Yaxshi javob berilgan shikoyat yangi mijozlarga ko‘pincha maqtovdan kuchliroq 
 
 Agar sharh qoidalarni buzsa (haqorat, reklama, siz bilan aloqasi yo‘q) — platforma vositalari orqali shikoyat qiling. Baribir ochiq va xotirjam javob bering: boshqa o‘quvchilar ham uni ko‘radi.
 
+![Sharhlardan kontentda foydalanish](/img/blog/illus/onlayn-obro-sharhlar-2.jpg 1200x675)
+
 ## Sharhlardan kontentda foydalanish
 
 - Eng yaxshi sharhlarni (ruxsat bilan) Instagram «Sharhlar» highlight'iga joylang.
@@ -77,6 +81,8 @@ Mas'ul xodimni belgilang va haftalik qisqa hisobot so‘rang: nechta yangi sharh
 - Mijoz bilan ochiq bahslashish yoki uni ayblash.
 - Javobda mijozning shaxsiy ma'lumotlarini oshkor qilish — ayniqsa klinikalarda.
 - Faqat yangi sharhlarga javob berib, eskilarini e'tiborsiz qoldirish.
+
+![Birdaniga ko‘p salbiy sharh kelsa](/img/blog/illus/onlayn-obro-sharhlar-3.jpg 1200x675)
 
 ## Birdaniga ko‘p salbiy sharh kelsa
 

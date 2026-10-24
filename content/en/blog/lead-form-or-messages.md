@@ -12,6 +12,8 @@ rubric: target
 
 Instagram advertising has two main ways to collect leads: an **instant lead form** and **messages** in Direct. Both bring leads, but they suit different businesses. Here is how they differ, when each works better and how to improve lead quality.
 
+![The two approaches in brief](/img/blog/illus/instant-forma-yoki-xabarlar-1.jpg 1200x675)
+
 ## The two approaches in brief
 
 **Instant form** — the user leaves a name and phone number without leaving Instagram. Your manager then calls them.
@@ -45,6 +47,8 @@ Instagram advertising has two main ways to collect leads: an **instant lead form
 3. State the offer and the next step at the top of the form: "A manager will call you within 15 minutes".
 4. Call back as fast as possible — leads cool off quickly.
 
+![How to get more sales from messages](/img/blog/illus/instant-forma-yoki-xabarlar-2.jpg 1200x675)
+
 ## How to get more sales from messages
 
 - Set up an automatic greeting and buttons for frequent questions.
@@ -73,6 +77,8 @@ Multiple-choice questions are easy for the customer and let you sort the leads.
 > "Hello! Thanks for getting in touch. Choose one of the questions below or type your own."
 
 Quick-question buttons: "Prices", "Address and opening hours", "Talk to a manager". Prepare a ready answer for each button, but end it with a question that keeps the conversation going.
+
+![Common mistakes](/img/blog/illus/instant-forma-yoki-xabarlar-3.jpg 1200x675)
 
 ## Common mistakes
 

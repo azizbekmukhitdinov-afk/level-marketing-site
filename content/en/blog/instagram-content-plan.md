@@ -12,6 +12,8 @@ rubric: smm
 
 If "what are we posting today?" comes up every day, the page becomes chaotic and doesn't sell. A content plan solves this: you know a month ahead what you'll post, when and why. Here is how to build a content plan, plus 30 ideas for any business.
 
+![How much to post](/img/blog/illus/instagram-kontent-reja-1.jpg 1200x675)
+
 ## How much to post
 
 A practical minimum for a small business: **3–4 posts or Reels a week** and a few **Stories** every day. Consistency beats volume: three posts every week is better than 30 posts in a month followed by a month of silence.
@@ -71,6 +73,8 @@ It isn't a strict rule, but a page made only of offers turns into a notice board
 
 A simple table is enough (Google Sheets or Notion): date, content type, format (post, Reel, carousel), topic, call to action, status. Batch your shooting into one day — filming 8–10 videos in a day is far easier than one a day. For writing Reels scripts, see [Reels script templates](/en/blog/reels-script-templates/); for the first seconds, our [hooks article](/en/blog/reels-hooks/).
 
+![A sample monthly plan (illustrative)](/img/blog/illus/instagram-kontent-reja-2.jpg 1200x675)
+
 ## A sample monthly plan (illustrative)
 
 Three posts a week, for example for a furniture store:
@@ -98,6 +102,8 @@ That turns content creation into a clear few hours of work a week.
 ## Link the plan to results
 
 At the end of each month, check your insights: which three posts did best for saves, shares and DMs? Which content series brought leads? Next month, give those series a bigger share, and change or drop the ones that didn't work.
+
+![Common mistakes](/img/blog/illus/instagram-kontent-reja-3.jpg 1200x675)
 
 ## Common mistakes
 

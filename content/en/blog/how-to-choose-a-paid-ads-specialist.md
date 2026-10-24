@@ -12,6 +12,8 @@ rubric: biznes
 
 A poorly chosen ads specialist costs you not just their fee but your ad budget and your time. There are plenty of profiles calling themselves "targetologists" on Telegram and Instagram, so how do you check their experience? Here are 9 questions for the first meeting and what to listen for.
 
+![1. What projects have you done in my industry?](/img/blog/illus/targetolog-qanday-tanlanadi-1.jpg 1200x675)
+
 ## 1. "What projects have you done in my industry?"
 
 Experience in your niche helps but is not essential. What matters is that they can clearly explain how they solved a similar problem (for example, leads for an expensive product or a local service). Ask for numbers and process, not general talk.
@@ -43,6 +45,8 @@ A professional answer starts from your goals: how many customers you need, your 
 ## 8. "What will you do if there are no results?"
 
 No one can guarantee results 100% — be wary of anyone who does. The right answer: which metrics are tracked, when the strategy changes and how decisions are made.
+
+![9. Will you help with lead handling?](/img/blog/illus/targetolog-qanday-tanlanadi-2.jpg 1200x675)
 
 ## 9. "Will you help with lead handling?"
 
@@ -110,6 +114,8 @@ Before choosing, ask for an audit of your current ad account or a short plan for
 | Next month's plan | What will change and why |
 
 A report made only of reach and clicks is a warning sign: it doesn't show how the ads affected sales.
+
+![A weekly meeting: judging results together](/img/blog/illus/targetolog-qanday-tanlanadi-3.jpg 1200x675)
 
 ## A weekly meeting: judging results together
 

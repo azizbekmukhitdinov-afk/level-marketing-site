@@ -12,6 +12,8 @@ rubric: biznes
 
 Mebel — qimmat va kamdan-kam qilinadigan xarid. Mijoz uzoq solishtiradi, mahsulotni ko‘rishni va ushlab ko‘rishni xohlaydi, o‘lcham, sifat va rangda adashishdan qo‘rqadi. Shuning uchun mebel do‘koni marketingi ishonch va ko‘rgazmalilikka qurilishi kerak. Bu maqolada Instagram, Xaritalar va target reklamadan qanday foydalanishni ko‘rib chiqamiz.
 
+![Mebel sotuvining xususiyatlari](/img/blog/illus/mebel-dokoni-marketing-1.jpg 1200x675)
+
 ## Mebel sotuvining xususiyatlari
 
 - Qaror haftalab qabul qilinadi, ko‘pincha butun oila bilan.
@@ -54,6 +56,8 @@ Mebelni ko‘pincha do‘konga borib sotib olishadi, shuning uchun Google va Yan
 - Xaridorlar bazasidan [lookalike auditoriya](/blog/lookalike-auditoriya/).
 - Katalog videolarini ko‘rganlarga [retargeting](/blog/retargeting-qanday-ishlaydi/).
 
+![Arizadan sotuvgacha](/img/blog/illus/mebel-dokoni-marketing-2.jpg 1200x675)
+
 ## Arizadan sotuvgacha
 
 1. Foto, o‘lcham va narx bilan tez javob — [javob tezligi](/blog/arizaga-javob-tezligi/) hal qiluvchi.
@@ -88,6 +92,8 @@ Talab yil davomida bir xil emas: yangi uylarga ko‘chish, ta'mir yakunlanishi v
 - Direct'dagi savollarga sekin javob berish.
 - Ko‘rgazma zaliga kelgan mijoz bilan keyin bog‘lanmaslik.
 - Mijozlar uyidagi rasmlar bilan sharhlarni yig‘maslik.
+
+![Hamkorlar: dizaynerlar va quruvchilar](/img/blog/illus/mebel-dokoni-marketing-3.jpg 1200x675)
 
 ## Hamkorlar: dizaynerlar va quruvchilar
 

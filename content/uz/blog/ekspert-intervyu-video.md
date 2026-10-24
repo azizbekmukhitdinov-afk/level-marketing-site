@@ -12,6 +12,8 @@ rubric: video
 
 Intervyu — ekspertlikni ko‘rsatishning eng tabiiy formati: siz gapirasiz, kimdir savol beradi, tomoshabin esa suhbatga «quloq soladi». Bundan tashqari, bitta intervyudan bir oylik kontent chiqadi. Bu maqolada intervyuni qanday tayyorlash, suratga olish va undan qanday qilib 10 ta Reels qilishni ko‘rib chiqamiz.
 
+![Nega intervyu ishlaydi](/img/blog/illus/ekspert-intervyu-video-1.jpg 1200x675)
+
 ## Nega intervyu ishlaydi
 
 - **Ishonch.** Ekspert jonli gapiradi, matnni o‘qimaydi.
@@ -40,6 +42,8 @@ Intervyu — ekspertlikni ko‘rsatishning eng tabiiy formati: siz gapirasiz, ki
 - Ekspertdan javobni savolni takrorlab boshlashni so‘rang: «Implant odatda …». Shunda har bir javob alohida video bo‘lib qoladi.
 - Javoblar qisqa bo‘lsin — bir fikr 30–60 soniyada.
 - Har bir muhim javobni ikki marta oling.
+
+![Bitta intervyudan nima chiqadi](/img/blog/illus/ekspert-intervyu-video-2.jpg 1200x675)
 
 ## Bitta intervyudan nima chiqadi
 
@@ -73,6 +77,8 @@ Materialni bir kunda chiqarib yubormang — uni 4 haftaga taqsimlang:
 - **4-hafta:** to‘liq video YouTube'da va saytda maqola.
 
 Shunda bir kunlik suratga olish butun [kontent-reja](/blog/instagram-kontent-reja/)ni yopadi.
+
+![Ko‘p uchraydigan xatolar](/img/blog/illus/ekspert-intervyu-video-3.jpg 1200x675)
 
 ## Ko‘p uchraydigan xatolar
 

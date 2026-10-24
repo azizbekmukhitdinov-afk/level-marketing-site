@@ -12,6 +12,8 @@ rubric: biznes
 
 Sog‘liq masalasida odamlar binoni emas, shifokorni tanlaydi. Klinika va stomatologiya marketingi boshqa sohalarga qaraganda ko‘proq ishonchga tayanadi — va qat'iyroq qoidalarga bo‘ysunadi. Bu maqolada shifokorning shaxsiy brendi, sharhlar, Xaritalar va reklamada nimalarga e'tibor berish kerakligini ko‘rib chiqamiz.
 
+![Tibbiyot marketingining xususiyatlari](/img/blog/illus/klinika-marketing-1.jpg 1200x675)
+
 ## Tibbiyot marketingining xususiyatlari
 
 - Bemor qo‘rquv va xavotir bilan keladi: og‘riq, narx, natija.
@@ -48,6 +50,8 @@ Google va Yandex Xaritalaridagi kartochka — klinikaning ikkinchi qabulxonasi: 
 - Takliflar: bepul konsultatsiya yoki diagnostika, tekshiruv paketlari, «narxlar ...dan».
 - Lid-forma yoki Direct'ga xabar — [qaysi biri mos](/blog/instant-forma-yoki-xabarlar/).
 - Saytga kirganlar va videoni ko‘rganlarga [retargeting](/blog/retargeting-qanday-ishlaydi/).
+
+![Arizadan qabulgacha](/img/blog/illus/klinika-marketing-2.jpg 1200x675)
 
 ## Arizadan qabulgacha
 
@@ -94,6 +98,8 @@ Reklama qo‘ng‘iroq olib keladi, qabulga esa administrator yozadi. Uning skri
 | Qabuldan keyin | Sharh, qayta tashrif, tavsiya |
 
 Har bir bosqichda qancha bemor «tushib qolishini» o‘lchang: ko‘pincha muammo reklamada emas, qo‘ng‘iroq yoki eslatma bosqichida bo‘ladi.
+
+![Klinika uchun Telegram kanal](/img/blog/illus/klinika-marketing-3.jpg 1200x675)
 
 ## Klinika uchun Telegram kanal
 

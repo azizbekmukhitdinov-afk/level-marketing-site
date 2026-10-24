@@ -12,6 +12,8 @@ rubric: smm
 
 «Algoritm qamrovni kesdi» — SMM'da eng ko‘p eshitiladigan shikoyat. Lekin Instagram'da bitta «algoritm» yo‘q: lenta, Stories, Reels va Explore (Qidiruv) har biri o‘z qoidalari bilan ishlaydi. Instagram'ning o‘zi bu tizimlar qanday ishlashini umumiy tarzda tushuntirgan. Bu maqolada qamrovga nima ta'sir qilishini va amalda nima qilish kerakligini ko‘rib chiqamiz.
 
+![Instagram nimani hisobga oladi](/img/blog/illus/instagram-algoritmi-1.jpg 1200x675)
+
 ## Instagram nimani hisobga oladi
 
 Har bir bo‘lim kontentni foydalanuvchi uchun tartiblashda bir necha guruh signallardan foydalanadi:
@@ -45,6 +47,8 @@ Bu yerda munosabat hal qiladi: siz bilan muntazam aloqada bo‘lgan obunachilar 
 5. Hamkorlik postlari (Collab) — boshqa akkaunt bilan birgalikda joylash.
 6. Faqat o‘z videolaringiz, suv belgisiz.
 
+![Afsonalar](/img/blog/illus/instagram-algoritmi-2.jpg 1200x675)
+
 ## Afsonalar
 
 - **«30 ta xeshteg qo‘ysangiz, qamrov oshadi».** Xeshteglar mavzuni aniqlashga yordam beradi, lekin sehrli vosita emas.
@@ -70,6 +74,8 @@ Layklar sonidan ko‘ra quyidagilar ko‘proq ma'lumot beradi:
 | O‘rtacha ko‘rish vaqti | Video qanchalik ushlab turadi |
 | Ulashish va saqlashlar | Kontent qanchalik foydali yoki qiziqarli |
 | Profilga o‘tishlar | Kontent muallifga qiziqish uyg‘otyaptimi |
+
+![Ko‘p uchraydigan xatolar](/img/blog/illus/instagram-algoritmi-3.jpg 1200x675)
 
 ## Ko‘p uchraydigan xatolar
 

@@ -12,6 +12,8 @@ rubric: video
 
 The same product can be advertised with different video formats — and results can differ several times over. It's hard to guess in advance which format will work, so you need to prepare several types and test them. Here are the 7 video ad types that sell best and when each works.
 
+![The 7 types](/img/blog/illus/video-reklama-turlari-1.jpg 1200x675)
+
 ## The 7 types
 
 | Type | When it works | Example |
@@ -42,6 +44,8 @@ Ask three questions:
 2. Do customers think long before deciding? If yes: testimonial and expert.
 3. Does the audience already know you? If yes: offer.
 
+![How to test](/img/blog/illus/video-reklama-turlari-2.jpg 1200x675)
+
 ## How to test
 
 Prepare 3–4 videos of different types at once and compare them on the same audience and budget, following the rules of [A/B testing](/en/blog/ab-testing-ad-creatives/). Next month, make several variations of the winning type.
@@ -58,6 +62,8 @@ For detailed templates, see [Reels scripts: 5 ready-made templates](/en/blog/ree
 ## Length and format
 
 Vertical 9:16 is the main format for Reels, Stories and TikTok. Most ad videos need 15–30 seconds; testimonials and expert videos can run a little longer. Put the key idea in the first 3 seconds, and always add captions for people watching without sound.
+
+![Common mistakes](/img/blog/illus/video-reklama-turlari-3.jpg 1200x675)
 
 ## Common mistakes
 

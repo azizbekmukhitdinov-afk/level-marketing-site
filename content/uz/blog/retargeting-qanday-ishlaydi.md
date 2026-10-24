@@ -12,6 +12,8 @@ rubric: target
 
 Odamlarning ko‘pchiligi birinchi ko‘rishdayoq sotib olmaydi: profilga kiradi, narxni ko‘radi, o‘ylab ko‘rish uchun chiqib ketadi. **Retargeting** — aynan shu odamlarga qayta reklama ko‘rsatib, ularni qarorga qaytarish. Bu maqolada retargeting kimlarga ko‘rsatilishini, qanday kreativ ishlashini va uni qanday qilib bezor qiluvchi reklamaga aylantirmaslikni ko‘rib chiqamiz.
 
+![Retargeting nima](/img/blog/illus/retargeting-qanday-ishlaydi-1.jpg 1200x675)
+
 ## Retargeting nima
 
 Retargeting (yoki remarketing) — biznesingiz bilan allaqachon aloqada bo‘lgan odamlarga reklama ko‘rsatish. Ular sizni taniydi, shuning uchun bunday reklama odatda yangi auditoriyaga qaraganda arzonroq ariza olib keladi. Lekin auditoriya kichik bo‘lgani uchun u yangi mijozlar oqimini almashtirmaydi — uni to‘ldiradi.
@@ -42,6 +44,8 @@ Retargeting auditoriyasi sizni allaqachon biladi, shuning uchun ularga birinchi 
 
 Kichik auditoriyaga katta byudjet berilsa, bitta odam reklamani kuniga bir necha marta ko‘radi va bezor bo‘ladi. Chastota ko‘rsatkichini kuzating: u tez o‘sib, CTR tushsa — byudjetni kamaytiring yoki kreativni yangilang. Odatda retargetingga umumiy byudjetning kichik qismi, masalan, 10–20% yetadi.
 
+![Kimni istisno qilish kerak](/img/blog/illus/retargeting-qanday-ishlaydi-2.jpg 1200x675)
+
 ## Kimni istisno qilish kerak
 
 - Allaqachon sotib olganlarni (agar takroriy sotuv maqsadi bo‘lmasa).
@@ -65,6 +69,8 @@ Kichik auditoriyaga katta byudjet berilsa, bitta odam reklamani kuniga bir necha
 | 8–14 | Muddatli taklif |
 
 Bunday ketma-ketlik bir xil reklamani qayta-qayta ko‘rsatishdan ko‘ra yumshoqroq qabul qilinadi: odam har safar yangi ma'lumot oladi.
+
+![Retargeting uchun byudjet](/img/blog/illus/retargeting-qanday-ishlaydi-3.jpg 1200x675)
 
 ## Retargeting uchun byudjet
 

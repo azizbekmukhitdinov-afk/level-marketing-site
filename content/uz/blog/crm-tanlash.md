@@ -12,6 +12,8 @@ rubric: sotuv
 
 Arizalar Instagram, Telegram, telefon va saytdan keladi, menejerlar ularni bloknot va chatlarda saqlaydi — va ba'zilari yo‘qoladi. **CRM** (mijozlar bilan munosabatlarni boshqarish tizimi) har bir arizani bir joyga yig‘adi va uni sotuvgacha kuzatadi. Bu maqolada CRM qachon kerakligini, uni qanday tanlash va joriy qilishni ko‘rib chiqamiz.
 
+![CRM kerakligining belgilari](/img/blog/illus/crm-tanlash-1.jpg 1200x675)
+
 ## CRM kerakligining belgilari
 
 - Arizalar yo‘qoladi yoki javobsiz qoladi.
@@ -46,6 +48,8 @@ O‘zbekistonda kichik va o‘rta biznes ko‘pincha amoCRM (Kommo), Bitrix24 ka
 4. **Menejerlarni o‘rgating** va qoida qo‘ying: «CRM'da bo‘lmagan ariza — mavjud emas».
 5. **Har hafta hisobot** — [sotuv voronkasi](/blog/sotuv-voronkasi/) bo‘yicha.
 
+![Ko‘p uchraydigan xatolar](/img/blog/illus/crm-tanlash-2.jpg 1200x675)
+
 ## Ko‘p uchraydigan xatolar
 
 - Haddan tashqari murakkab sozlash — menejerlar foydalanmay qo‘yadi.
@@ -70,6 +74,8 @@ Rad etish sabablari ayniqsa foydali: agar ko‘p mijoz «qimmat» deb ketsa, mua
 2. **2-hafta:** joriy arizalarni ko‘chirish va menejerlarni o‘qitish.
 3. **3-hafta:** har kuni CRM'dan foydalanishni tekshirish, noqulay maydonlarni tuzatish.
 4. **4-hafta:** birinchi hisobot va nimani o‘zgartirish bo‘yicha qaror.
+
+![CRM o‘zini oqlaydimi: oddiy hisob](/img/blog/illus/crm-tanlash-3.jpg 1200x675)
 
 ## CRM o‘zini oqlaydimi: oddiy hisob
 

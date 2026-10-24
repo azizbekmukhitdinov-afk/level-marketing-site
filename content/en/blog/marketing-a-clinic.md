@@ -12,6 +12,8 @@ rubric: biznes
 
 When it comes to health, people choose a doctor, not a building. Marketing a clinic or dental practice relies on trust more than almost any other field — and follows stricter rules. Here is how to approach the doctor's personal brand, reviews, maps and advertising.
 
+![What's different about healthcare marketing](/img/blog/illus/klinika-marketing-1.jpg 1200x675)
+
 ## What's different about healthcare marketing
 
 - Patients arrive with fear and worry: pain, price, outcome.
@@ -48,6 +50,8 @@ Your Google and Yandex Maps listing is the clinic's second reception desk: addre
 - Offers: a free consultation or diagnostics, check-up packages, "prices from…".
 - Lead form or Direct messages — [which suits you](/en/blog/lead-form-or-messages/).
 - [Retargeting](/en/blog/how-retargeting-works/) website visitors and video viewers.
+
+![From lead to appointment](/img/blog/illus/klinika-marketing-2.jpg 1200x675)
 
 ## From lead to appointment
 
@@ -94,6 +98,8 @@ Ads bring in the call, but the administrator books the appointment. Their script
 | After the visit | A review, a return visit, a recommendation |
 
 Measure how many patients drop out at each stage: often the problem isn't the ads but the call or reminder stage.
+
+![A Telegram channel for a clinic](/img/blog/illus/klinika-marketing-3.jpg 1200x675)
 
 ## A Telegram channel for a clinic
 

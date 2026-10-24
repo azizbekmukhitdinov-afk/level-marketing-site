@@ -17,6 +17,8 @@ image: /img/cases/autorobot-logo.jpg
 
 **Partnership:** 8 months.
 
+![What we did](/img/blog/illus/keys-autorobot-1.jpg 1200x675)
+
 ## What we did
 
 - Built a **content matrix** strategy: a plan that regularly rotates process, results, expertise and client stories.
@@ -29,12 +31,16 @@ image: /img/cases/autorobot-logo.jpg
 | Followers | **11,000 from zero** |
 | Paid ads | not used |
 
+![How to apply this approach](/img/blog/illus/keys-autorobot-2.jpg 1200x675)
+
 ## How to apply this approach
 
 1. Find the visible part of your service — the process, the result, the details — and build your content around it.
 2. Create a content matrix: process, results, expertise and customer stories in rotation.
 3. Make before/after shots a habit on every job — with the customer's consent.
 4. Stay consistent: the results of systematic content build up over months.
+
+![Who this suits](/img/blog/illus/keys-autorobot-3.jpg 1200x675)
 
 ## Who this suits
 

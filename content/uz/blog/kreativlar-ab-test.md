@@ -12,6 +12,8 @@ rubric: target
 
 Qaysi reklama yaxshiroq ishlashini oldindan bilib bo‘lmaydi — tajribali targetolog ham taxmin qiladi. Shuning uchun professional reklama **A/B test** orqali boshqariladi: bir nechta variant bir vaqtda ishga tushadi va raqamlar g‘olibni aniqlaydi. Bu maqolada nimani, qanday va qancha vaqt test qilish kerakligini ko‘rib chiqamiz.
 
+![A/B test nima](/img/blog/illus/kreativlar-ab-test-1.jpg 1200x675)
+
 ## A/B test nima
 
 A/B test — ikki yoki undan ortiq variantni bir xil sharoitda solishtirish, bunda **faqat bitta element** farq qiladi. Masalan, bir xil auditoriya va byudjet, lekin videoning birinchi soniyalari har xil. Shunda natijadagi farq aynan shu elementga bog‘liq ekanini bilasiz.
@@ -40,6 +42,8 @@ Avval eng katta ta'sirga ega elementlardan boshlang: hook va taklif.
 ## G‘olibni qanday aniqlash
 
 Asosiy ko‘rsatkich — **ariza narxi (CPL)** va iloji bo‘lsa, sotuvga konversiya. CTR va bitta bosish narxi yordamchi ko‘rsatkichlar: arzon bosish ko‘p, lekin ariza yo‘q bo‘lsa, kreativ «qiziqarli», ammo sotmaydi. CPL nima ekanligi haqida — [CPL bo‘yicha qo‘llanmamizda](/blog/lid-narxi-cpl-qanday-kamaytirish/).
+
+![Test jurnali](/img/blog/illus/kreativlar-ab-test-2.jpg 1200x675)
 
 ## Test jurnali
 
@@ -78,6 +82,8 @@ Ro‘yxatdan bir vaqtda faqat bitta g‘oyani oling — aks holda natija nima sa
 Oddiy formula: **variantlar soni × har bir variant uchun kerakli natijalar × kutilayotgan ariza narxi**.
 
 **Misol (shartli raqamlar):** ikkita variant, har biriga taxminan 30 ta ariza, ariza narxi $2 → 2 × 30 × $2 = **$120**. Bu summani kamida bir haftaga taqsimlang — shunda ish kunlari ham, dam olish kunlari ham qamrab olinadi. Byudjet bunga yetmasa, variantlar sonini kamaytiring yoki arizadan arzonroq oraliq ko‘rsatkichni, masalan, boshlangan yozishmalar sonini solishtiring.
+
+![G‘olibni qanday masshtablash](/img/blog/illus/kreativlar-ab-test-3.jpg 1200x675)
 
 ## G‘olibni qanday masshtablash
 

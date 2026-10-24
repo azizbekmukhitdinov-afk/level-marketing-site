@@ -13,6 +13,8 @@ image: /img/cases/dilrabo.jpg
 
 Ikki ekspert, bitta vazifa: kurs sotuvidan oldin Telegram'da issiq auditoriya yig‘ish.
 
+![Dilrabo Isroilova — psixologiya bo‘yicha onlayn kurs](/img/blog/illus/keys-onlayn-kurslar-1.jpg 1200x675)
+
 ## Dilrabo Isroilova — psixologiya bo‘yicha onlayn kurs
 
 | Ko‘rsatkich | Natija |
@@ -33,12 +35,16 @@ Kursning birinchi oqimini boshlashdan oldin Telegram'da maqsadli auditoriya yig�
 | Reklama xarajati | $6 000 |
 | Natija | **target orqali noldan 25 000 obunachi** |
 
+![Bu yondashuvni qanday qo‘llash](/img/blog/illus/keys-onlayn-kurslar-2.jpg 1200x675)
+
 ## Bu yondashuvni qanday qo‘llash
 
 1. Auditoriya yig‘ishni kurs sotuvidan oldin, oylar avval boshlang.
 2. Telegram kanalni foydali qiling: ekspertning bepul materiallari, javoblari va kundalik maslahatlari.
 3. Reklama orqali kanalga maqsadli obunachilarni jalb qiling.
 4. Kurs ochilganda taklifni aynan shu issiq auditoriyaga bering.
+
+![Kimga mos](/img/blog/illus/keys-onlayn-kurslar-3.jpg 1200x675)
 
 ## Kimga mos
 

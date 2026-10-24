@@ -12,6 +12,8 @@ rubric: biznes
 
 "Our audience is women aged 18–45" isn't an audience description. A good customer persona tells you what to say in an ad, who to show it to and where. Here is how to segment your market, build a customer persona and use it in your ads.
 
+![Step 1: segmentation](/img/blog/illus/maqsadli-auditoriya-1.jpg 1200x675)
+
 ## Step 1: segmentation
 
 Split the market into groups with similar needs:
@@ -55,6 +57,8 @@ Describe one "typical" customer for each segment. **An example (illustrative):**
 
 A precise creative also helps the algorithm find the right people: the system shows the ad to people similar to those who responded. For setup basics, see [how to set up Instagram ads](/en/blog/how-to-set-up-instagram-ads/).
 
+![8 questions for a customer interview](/img/blog/illus/maqsadli-auditoriya-2.jpg 1200x675)
+
 ## 8 questions for a customer interview
 
 1. How did you find us, and why did you choose us?
@@ -75,6 +79,8 @@ In B2B, the decision is made not by one person but by several: the user, a manag
 ## Using the persona across the team
 
 Fit the persona on one page and share it with your SMM manager, designer, paid ads specialist and sales team. Refer to it in every brief. Before each new ad or post, ask a simple question: "Is this for Malika?" If the answer is no, rework the text or the creative.
+
+![Common mistakes](/img/blog/illus/maqsadli-auditoriya-3.jpg 1200x675)
 
 ## Common mistakes
 

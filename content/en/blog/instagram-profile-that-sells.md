@@ -12,6 +12,8 @@ rubric: smm
 
 Ads and Reels bring people to your profile, but the decision is made inside the profile. A new visitor usually decides within a few seconds whether to stay or leave. Here is how an Instagram profile that sells is built — from the name to the first 9 posts.
 
+![The 5-second test](/img/blog/illus/instagram-profil-sotadigan-1.jpg 1200x675)
+
 ## The 5-second test
 
 Someone opening your profile for the first time should find answers to three questions within 5 seconds:
@@ -59,6 +61,8 @@ The top of the grid is your profile's shop window. Pin three posts:
 
 The rest should mix content types — useful, proof, process — in the proportions from our [content plan article](/en/blog/instagram-content-plan/).
 
+![Checklist](/img/blog/illus/instagram-profil-sotadigan-2.jpg 1200x675)
+
 ## Checklist
 
 - The account is public and professional (business or creator).
@@ -94,6 +98,8 @@ Before launching ads, check:
 4. Are quick replies ready for DMs?
 
 Once ads are running, watch the ratio of profile visits to follows: lots of visits but few follows means the problem is the profile.
+
+![Measuring how well your profile works](/img/blog/illus/instagram-profil-sotadigan-3.jpg 1200x675)
 
 ## Measuring how well your profile works
 

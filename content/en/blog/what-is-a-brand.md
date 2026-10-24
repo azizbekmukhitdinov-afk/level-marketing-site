@@ -12,6 +12,8 @@ rubric: brend
 
 Many people picture a logo when they hear "brand". But a logo is only a small sign of the brand. A brand is what customers think and feel about your company. Here is what a brand is made of, why a small business needs one and where to start.
 
+![Brand vs logo](/img/blog/illus/brend-nima-1.jpg 1200x675)
+
 ## Brand vs logo
 
 | | Logo | Brand |
@@ -49,6 +51,8 @@ A beautiful logo won't save bad service, while a strong brand works even with a 
 
 Fill in this table — it becomes the basis for all your advertising, content and service. To find what sets you apart, see our [USP](/en/blog/unique-selling-proposition/) article; for the visual side, [visual identity](/en/blog/visual-identity-for-small-business/).
 
+![Common mistakes](/img/blog/illus/brend-nima-2.jpg 1200x675)
+
 ## Common mistakes
 
 - Starting with a logo without thinking through positioning.
@@ -79,6 +83,8 @@ A brand is formed not in ads but in everyday situations:
 - whether anyone checks in after the purchase.
 
 A brand is tested most when something goes wrong. Draw the customer journey on paper and check whether your promise is kept at every point. Working with reviews is covered in [Online reputation and reviews](/en/blog/online-reputation-and-reviews/).
+
+![How to measure a brand](/img/blog/illus/brend-nima-3.jpg 1200x675)
 
 ## How to measure a brand
 

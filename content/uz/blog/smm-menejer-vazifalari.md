@@ -12,6 +12,8 @@ rubric: smm
 
 «Bizga SMM'chi kerak» — deyishadi, lekin undan aniq nima kutishni har doim ham bilishmaydi. Natijada biri faqat post joylaydi, boshqasi reklama ham, video ham, sotuv ham qilishi kerak deb hisoblanadi. Bu maqolada SMM menejer nima qilishini, targetologdan farqini va uni qanday tanlashni ko‘rib chiqamiz.
 
+![SMM menejerning vazifalari](/img/blog/illus/smm-menejer-vazifalari-1.jpg 1200x675)
+
 ## SMM menejerning vazifalari
 
 - **Strategiya va kontent-reja** — rubrikalar, formatlar, joylash ritmi.
@@ -46,6 +48,8 @@ Ikkalasi bir-birini to‘ldiradi: yaxshi sahifa reklamani arzonlashtiradi, rekla
 3. Natijani qanday o‘lchaydi va qanday hisobot beradi.
 4. Kim suratga oladi va qancha video oyiga.
 5. Izoh va xabarlarga qancha vaqtda javob beradi.
+
+![Qanday KPI qo‘yish kerak](/img/blog/illus/smm-menejer-vazifalari-2.jpg 1200x675)
 
 ## Qanday KPI qo‘yish kerak
 
@@ -85,6 +89,8 @@ Yaxshi natija aniq topshiriqdan boshlanadi. Brifda quyidagilar bo‘lsin:
 | Oy oxiri | Birinchi hisobot va keyingi oy rejasi |
 
 Birinchi oy — tayyorgarlik oyi. Organik natijalarni 2–3 oydan keyin baholang.
+
+![Oylik hisobotda nima bo‘lishi kerak](/img/blog/illus/smm-menejer-vazifalari-3.jpg 1200x675)
 
 ## Oylik hisobotda nima bo‘lishi kerak
 

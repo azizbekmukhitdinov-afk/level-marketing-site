@@ -12,6 +12,8 @@ weight: 1
 
 Running paid social ads for a real estate developer is very different from advertising a regular shop: an apartment is a family's biggest purchase, the decision takes months, and the buyer has to trust the construction company. That is why the usual "nice render + discount" approach often just burns the budget. Below are the 7 mistakes developers make most often and how to fix each one.
 
+![Why the market is competitive right now](/img/blog/illus/zastroyshik-uchun-target-reklama-1.jpg 1200x675)
+
 ## Why the market is competitive right now
 
 The housing market is busy. According to the Center for Economic Research and Reforms (CERR), more than 171,000 real estate sale transactions were registered in Uzbekistan in January–June 2026, 25.3% more than a year earlier, and growth in Tashkent reached 34.9% ([anhor.uz](https://anhor.uz/news/rynok-nedvizhimosti-uzbekistana-sdelki-2026/)). There are plenty of buyers, but also plenty of new residential complexes. An Instagram feed shows dozens of developer ads a day, and the winner is whoever is more specific and replies to leads faster.
@@ -75,6 +77,8 @@ Lines like "the price will double in six months" or "100% safe investment" are r
 
 One more point: if you target the diaspora, for example compatriots in the US, Meta treats housing ads there as a special ad category and limits targeting. If Ads Manager warns you about this, don't ignore it, or the ad may be rejected.
 
+![Campaign structure: a simple scheme](/img/blog/illus/zastroyshik-uchun-target-reklama-2.jpg 1200x675)
+
 ## Campaign structure: a simple scheme
 
 | Stage | Goal | Format | Audience |
@@ -85,6 +89,8 @@ One more point: if you target the diaspora, for example compatriots in the US, M
 | Buyers | Referrals | "Bring a friend" offer | Signed contracts |
 
 In the first month, don't split the budget evenly across stages: put most of it into lead collection and less into awareness and retargeting, then reallocate based on the numbers. For budget planning, see [how much paid advertising costs](/en/blog/paid-ads-cost-in-uzbekistan/).
+
+![Pre-launch checklist](/img/blog/illus/zastroyshik-uchun-target-reklama-3.jpg 1200x675)
 
 ## Pre-launch checklist
 

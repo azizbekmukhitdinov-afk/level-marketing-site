@@ -12,6 +12,8 @@ rubric: target
 
 Most people don't buy on first contact: they visit your profile, check the price and leave "to think about it". **Retargeting** means showing ads again to exactly these people to bring them back to a decision. Here is who to retarget, which creatives work and how to keep it from becoming annoying.
 
+![What retargeting is](/img/blog/illus/retargeting-qanday-ishlaydi-1.jpg 1200x675)
+
 ## What retargeting is
 
 Retargeting (or remarketing) is advertising to people who have already interacted with your business. They know you, so these ads usually bring leads more cheaply than a cold audience. But the audience is small, so retargeting doesn't replace a flow of new customers — it complements it.
@@ -42,6 +44,8 @@ Your retargeting audience already knows you, so repeating the first ad is pointl
 
 Give a small audience a big budget and one person sees your ad several times a day and gets irritated. Watch frequency: if it climbs fast while CTR drops, cut the budget or refresh the creative. Retargeting usually needs only a small share of the total budget, for example 10–20%.
 
+![Who to exclude](/img/blog/illus/retargeting-qanday-ishlaydi-2.jpg 1200x675)
+
 ## Who to exclude
 
 - People who already bought (unless your goal is repeat sales).
@@ -65,6 +69,8 @@ Give a small audience a big budget and one person sees your ad several times a d
 | 8–14 | A time-limited offer |
 
 A sequence like this lands more gently than the same ad over and over: each time the person learns something new.
+
+![A budget for retargeting](/img/blog/illus/retargeting-qanday-ishlaydi-3.jpg 1200x675)
 
 ## A budget for retargeting
 

@@ -12,6 +12,8 @@ rubric: sotuv
 
 When someone complains that "ads don't work", the cause is often not the ads but another stage on the way to a sale. A **sales funnel** is the customer's path from first contact with you to purchase. Split it into stages and measure them, and you can see exactly where money is leaking.
 
+![Funnel stages](/img/blog/illus/sotuv-voronkasi-1.jpg 1200x675)
+
 ## Funnel stages
 
 | Stage | What happens | Metric |
@@ -42,6 +44,8 @@ Now improving any stage changes the result: if lead-to-sale conversion rises fro
 | Lead to sale | Slow replies, no script | [Response time](/en/blog/lead-response-time/), [sales script](/en/blog/sales-script/) |
 | Sale to repeat | No contact with the customer | [Repeat sales and LTV](/en/blog/repeat-sales-and-ltv/) |
 
+![How to track the funnel](/img/blog/illus/sotuv-voronkasi-2.jpg 1200x675)
+
 ## How to track the funnel
 
 A simple spreadsheet is enough for a small business: reach, visits, leads and sales every week. When lead volume grows, move to a [CRM](/en/blog/crm-for-small-business/). For calculating cost per lead, see our [CPL guide](/en/blog/cost-per-lead-cpl-how-to-lower/).
@@ -63,6 +67,8 @@ The stage where the percentage fell most is that week's main job. For example, i
 | Repeat purchase | Get back in touch a week after the purchase |
 
 Change only one stage at a time — that way you know exactly what moved the result.
+
+![Common mistakes](/img/blog/illus/sotuv-voronkasi-3.jpg 1200x675)
 
 ## Common mistakes
 

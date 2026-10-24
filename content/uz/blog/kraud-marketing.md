@@ -12,6 +12,8 @@ rubric: brend
 
 Odamlar xarid qilishdan oldin boshqalarning fikrini qidiradi: Telegram chatlarda "kim yaxshi stomatologni biladi?" deb so‘rashadi, forumlarda tajriba bilan bo‘lishadi, Google va Yandex Xaritalarda sharh o‘qishadi. Kraud-marketing — shu suhbatlarda brendingiz foydali va tabiiy tarzda tilga olinishi ustida ishlash. Bu maqolada u qanday ishlashini va uni spamga aylantirmasdan qanday qilishni ko‘rib chiqamiz.
 
+![Kraud-marketing nima](/img/blog/illus/kraud-marketing-1.jpg 1200x675)
+
 ## Kraud-marketing nima
 
 Kraud-marketing (inglizcha crowd — olomon) — auditoriyangiz muloqot qiladigan joylarda kompaniya, mahsulot yoki saytingiz haqida eslatmalar qoldirish. Odatda bu:
@@ -83,6 +85,8 @@ Telegram chatdagi savol: «Chilonzorda yaxshi stomatologiya bormi?»
 
 Yaxshi javob o‘zini tanishtiradi, foyda beradi va faqat oxirida taklif qiladi.
 
+![Haftalik ish tartibi](/img/blog/illus/kraud-marketing-2.jpg 1200x675)
+
 ## Haftalik ish tartibi
 
 - **Har kuni 30 daqiqa:** mavzuli chat va guruhlarda kalit so‘zlar bo‘yicha qidiruv.
@@ -120,6 +124,8 @@ Avval bitta-ikkita joyni tanlang va u yerda muntazam faol bo‘ling — o‘nta 
 ## Sharhlarga javob ham kraud-marketing
 
 Xaritadagi sharhga yozgan har bir javobingizni kelajakdagi mijozlar o‘qiydi. Xotirjam, aniq va foydali javob — ochiq maydondagi eng arzon reklama. Javob shablonlari — [onlayn obro‘](/blog/onlayn-obro-sharhlar/) maqolasida.
+
+![Kraud-marketingni sayt bilan bog‘lash](/img/blog/illus/kraud-marketing-3.jpg 1200x675)
 
 ## Kraud-marketingni sayt bilan bog‘lash
 

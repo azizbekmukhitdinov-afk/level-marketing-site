@@ -12,6 +12,8 @@ rubric: smm
 
 In Uzbekistan today, buyers look up almost any product on their phone first: they browse Instagram, ask for prices on Telegram and find the address on Google or Yandex Maps. Internet marketing means being found at every step of that path. Here is what each channel is for and where a small business should start.
 
+![What internet marketing is made of](/img/blog/illus/internet-marketing-sotuvni-oshirish-1.jpg 1200x675)
+
 ## What internet marketing is made of
 
 Internet marketing is not a single "run an ad" but several connected channels:
@@ -76,6 +78,8 @@ Every month, record at least:
 
 Followers and likes are not sales on their own. Base decisions on numbers connected to sales.
 
+![Common mistakes](/img/blog/illus/internet-marketing-sotuvni-oshirish-2.jpg 1200x675)
+
 ## Common mistakes
 
 - "Being everywhere" without a strategy and spreading the budget thin.
@@ -121,6 +125,8 @@ Marketing brings the lead; the process decides the sale. The lead goes into the 
 - When the quality of video and design is holding back your ads.
 
 Hand over the technical work first — ad setup, editing, design. Keep control of the offer, pricing and sales yourself. How to choose a specialist is covered in [How to choose a paid ads specialist](/en/blog/how-to-choose-a-paid-ads-specialist/).
+
+![A starter toolkit](/img/blog/illus/internet-marketing-sotuvni-oshirish-3.jpg 1200x675)
 
 ## A starter toolkit
 

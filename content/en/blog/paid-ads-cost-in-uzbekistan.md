@@ -12,6 +12,8 @@ rubric: target
 
 "How much do paid ads cost?" is the question business owners ask most. The honest answer: there is no single price. But once you know what the budget consists of and how to calculate it for your business, you can say exactly how much to invest.
 
+![What the costs consist of](/img/blog/illus/target-reklama-narxi-ozbekistonda-1.jpg 1200x675)
+
 ## What the costs consist of
 
 Many people only ask about the specialist's fee, but the total cost has three parts:
@@ -83,6 +85,8 @@ Whatever the model, clarify what you pay for: how many campaigns, who makes the 
 
 Many business owners count only the ad budget and forget the other costs. When calculating the cost of a customer, include every item — see [How to calculate ROMI](/en/blog/how-to-calculate-romi/).
 
+![The cost of content: where the money goes](/img/blog/illus/target-reklama-narxi-ozbekistonda-2.jpg 1200x675)
+
 ## The cost of content: where the money goes
 
 - **A shoot day** — several videos and photos in one day.
@@ -122,6 +126,8 @@ When cost per lead has stayed below target for several weeks, the sales team can
 | Real estate, B2B | High | Months | Qualification, a long funnel |
 
 These aren't figures but a direction: only your own test will show your actual cost per lead.
+
+![What must be ready before you run ads](/img/blog/illus/target-reklama-narxi-ozbekistonda-3.jpg 1200x675)
 
 ## What must be ready before you run ads
 

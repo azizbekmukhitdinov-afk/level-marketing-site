@@ -12,6 +12,8 @@ rubric: target
 
 Reklama byudjeti cheklangan bo‘lsa, birinchi savol tug‘iladi: pulni Google'ga sarflash kerakmi yoki Instagram va Facebook'ga? Ikkala platforma ham ariza olib keladi, lekin ular butunlay boshqacha ishlaydi. Ushbu maqolada Google Ads va Meta Ads farqini, qaysi biznesga qaysi biri mos kelishini va qanday tanlashni ko‘rib chiqamiz.
 
+![Asosiy farq: talab va taklif](/img/blog/illus/google-ads-yoki-meta-ads-1.jpg 1200x675)
+
 ## Asosiy farq: talab va taklif
 
 **Google Ads** odamlar o‘zi izlayotgan paytda ko‘rsatiladi. Kimdir "Toshkentda konditsioner o‘rnatish" deb yozdi — u allaqachon xizmat izlayapti. Bu **mavjud talabni** ushlash.
@@ -64,6 +66,8 @@ Biznes o‘sgani sari platformalar bir-birini to‘ldiradi. Tipik sxema:
 
 Bu holatda har bir platformani alohida emas, umumiy natija — jami arizalar va sotuvlar bo‘yicha baholang.
 
+![Ikkala platformani sinash rejasi (namuna)](/img/blog/illus/google-ads-yoki-meta-ads-2.jpg 1200x675)
+
 ## Ikkala platformani sinash rejasi (namuna)
 
 | Davr | Google Ads | Meta Ads |
@@ -89,6 +93,8 @@ Maqsad sifatida arizalar yoki xabarlarni tanlang, auditoriyani juda toraytirmang
 ## Natijani bir xil o‘lchov bilan solishtirish
 
 Bosish narxini emas, saralangan ariza va sotuv narxini solishtiring. Har bir arizaning manbasini [UTM-belgilar](/blog/utm-belgilar/) va CRM orqali belgilang. Esda tuting: platformalar bir-biriga yordam beradi — odam Instagram'da reklamani ko‘rib, keyin Google'da brendingizni qidirishi mumkin. Shuning uchun mijozlardan «Bizni qayerdan bildingiz?» deb ham so‘rang.
+
+![Ko‘p uchraydigan xatolar](/img/blog/illus/google-ads-yoki-meta-ads-3.jpg 1200x675)
 
 ## Ko‘p uchraydigan xatolar
 

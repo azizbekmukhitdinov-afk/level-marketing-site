@@ -13,6 +13,8 @@ image: /img/cases/icomfort.jpg
 
 **Client:** iComfort — Apple and electronics store selling on instalments.
 
+![Point A](/img/blog/illus/keys-icomfort-1.jpg 1200x675)
+
 ## Point A
 
 - Monthly sales: **100**
@@ -24,6 +26,8 @@ image: /img/cases/icomfort.jpg
 - Built a marketing strategy from scratch.
 - Rebuilt the Instagram page: expert videos, product reviews and clear content about prices and instalments.
 - Grew reach through Reels and paid ads.
+
+![Point B](/img/blog/illus/keys-icomfort-2.jpg 1200x675)
 
 ## Point B
 
@@ -39,6 +43,8 @@ image: /img/cases/icomfort.jpg
 2. Show the price and instalment terms clearly — customers shouldn't have to wait for an answer.
 3. Show the seller's knowledge through product reviews and expert videos.
 4. Raise the ad budget once the profile is ready.
+
+![Who this suits](/img/blog/illus/keys-icomfort-3.jpg 1200x675)
 
 ## Who this suits
 

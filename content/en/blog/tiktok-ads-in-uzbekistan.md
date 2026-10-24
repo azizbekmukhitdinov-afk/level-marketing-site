@@ -12,6 +12,8 @@ rubric: target
 
 TikTok is a short-video platform, and advertising there works differently from Instagram: people come for entertainment, and your ads have to look the same way. Here is which businesses TikTok Ads suit, what to check before you start and which creatives work.
 
+![Check first: is your audience on TikTok](/img/blog/illus/tiktok-ads-ozbekistonda-1.jpg 1200x675)
+
 ## Check first: is your audience on TikTok
 
 TikTok's availability in Uzbekistan has been restricted at different times. So before committing a budget, check two things:
@@ -44,6 +46,8 @@ If the answer is no, the same vertical videos can run on Instagram Reels and You
 - **A person talking to camera.** A founder, seller or customer — a face builds trust.
 - **Spark Ads.** Boosting a strong organic video as an ad keeps its likes and comments.
 
+![How to judge results](/img/blog/illus/tiktok-ads-ozbekistonda-2.jpg 1200x675)
+
 ## How to judge results
 
 Clicks on TikTok can be cheap, but what matters is cost per lead and per sale. Compare them the same way as your Meta ads: spend, leads, CPL and conversion to sale. For comparing creatives, see our [A/B testing](/en/blog/ab-testing-ad-creatives/) guide.
@@ -64,6 +68,8 @@ Clicks on TikTok can be cheap, but what matters is cost per lead and per sale. C
 | Week 1 | 3–5 different videos, one audience, a small budget |
 | Week 2 | Keep the best 1–2 and make 3 variations of them with new hooks |
 | Week 3 | Gradually raise the winner's budget; run strong organic videos as Spark Ads |
+
+![Common mistakes](/img/blog/illus/tiktok-ads-ozbekistonda-3.jpg 1200x675)
 
 ## Common mistakes
 

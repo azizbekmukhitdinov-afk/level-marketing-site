@@ -12,6 +12,8 @@ rubric: biznes
 
 "How much should we spend on marketing?" is one of the questions business owners ask most. There's no universal number, but there are two sound ways to plan a budget. Here are both, along with the cost structure, test and scale periods and a sample monthly table.
 
+![Method 1: a share of revenue](/img/blog/illus/marketing-byudjeti-rejasi-1.jpg 1200x675)
+
 ## Method 1: a share of revenue
 
 The budget is set as a share of revenue or planned revenue. The exact percentage depends on your industry, margin and growth goals: a new business aiming to grow fast usually allocates a larger share than an established company.
@@ -60,6 +62,8 @@ Then check: does the gross profit from 30 sales exceed all marketing costs? That
 
 Fill in the "Actual" column at the end of the month and reallocate next month's budget based on the results.
 
+![Account for seasonality](/img/blog/illus/marketing-byudjeti-rejasi-2.jpg 1200x675)
+
 ## Account for seasonality
 
 Demand isn't flat through the year: education centres peak before the academic year, many shops before holidays. Plan the budget month by month and raise it ahead of the peak.
@@ -92,6 +96,8 @@ Leave them out and your ROMI will look better than it really is.
 - No reserve for tests.
 - Scaling a working channel too quickly.
 - Stopping marketing completely in off-season months.
+
+![Budget control: a weekly routine](/img/blog/illus/marketing-byudjeti-rejasi-3.jpg 1200x675)
 
 ## Budget control: a weekly routine
 

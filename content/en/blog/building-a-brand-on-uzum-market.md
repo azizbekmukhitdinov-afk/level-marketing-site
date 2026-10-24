@@ -12,6 +12,8 @@ rubric: brend
 
 When dozens of sellers offer the same product on a marketplace, competition comes down to price and profit disappears. The way out is building your own brand. Here is how to move from reselling to a brand on marketplaces like Uzum Market.
 
+![Why a brand protects you from price wars](/img/blog/illus/uzum-market-brend-1.jpg 1200x675)
+
 ## Why a brand protects you from price wars
 
 - **Your own listing.** Other sellers can't sell your branded product under the same name.
@@ -43,6 +45,8 @@ When dozens of sellers offer the same product on a marketplace, competition come
 ## Why external traffic matters
 
 Relying only on internal search is hard when competition inside the marketplace is fierce. Buyers coming from Instagram and Telegram often improve your sales history, which may also help the listing's visibility on the platform. For setting up Instagram ads, see our [separate guide](/en/blog/how-to-set-up-instagram-ads/).
+
+![Common mistakes](/img/blog/illus/uzum-market-brend-2.jpg 1200x675)
 
 ## Common mistakes
 
@@ -78,6 +82,8 @@ Once a month, group negative reviews and questions:
 | "I didn't understand how to use it" | Add short instructions and a video |
 
 Fixing a recurring complaint helps your rating more than asking for new reviews.
+
+![Launch: the first 30 days](/img/blog/illus/uzum-market-brend-3.jpg 1200x675)
 
 ## Launch: the first 30 days
 

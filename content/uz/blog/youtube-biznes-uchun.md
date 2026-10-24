@@ -12,6 +12,8 @@ rubric: smm
 
 YouTube — nafaqat ko‘ngilochar platforma, balki ulkan qidiruv tizimi: odamlar u yerda «qanday tanlash», «nima farqi», «sharh» deb qidiradi. Bu maqolada YouTube qaysi bizneslarga mos kelishini, Shorts va uzun videolarning rolini va kanalni qanday boshlashni ko‘rib chiqamiz.
 
+![Kimga ayniqsa mos keladi](/img/blog/illus/youtube-biznes-uchun-1.jpg 1200x675)
+
 ## Kimga ayniqsa mos keladi
 
 - **Murakkab yoki qimmat mahsulotlar:** ko‘chmas mulk, avtomobillar, mebel, texnika — xaridor ko‘p ma'lumot qidiradi.
@@ -43,6 +45,8 @@ Eng yaxshi strategiya — ikkalasini birga: Shorts yangi odamlarni olib keladi, 
 - **Muqova (thumbnail)** — katta yuz, 3–4 so‘zli yirik matn, kontrast ranglar.
 - **Tavsif** — birinchi qatorlarda qisqa mazmun, sayt yoki Telegram havolasi, vaqt belgilari.
 
+![Boshlash rejasi](/img/blog/illus/youtube-biznes-uchun-2.jpg 1200x675)
+
 ## Boshlash rejasi
 
 1. Kanalni rasmiylashtiring: nom, avatar, banner, havolalar.
@@ -73,6 +77,8 @@ Uzun video — boshqa kanallar uchun ham xomashyo. Bitta 15 daqiqalik videodan q
 - Telegram kanal uchun post va Stories uchun iqtiboslar.
 
 Shunda bir kunlik suratga olish butun oy uchun kontent beradi. Telegram kanalni rivojlantirish haqida — [Telegram kanalni o‘stirish](/blog/telegram-kanal-osish/) maqolasida.
+
+![Ko‘p uchraydigan xatolar](/img/blog/illus/youtube-biznes-uchun-3.jpg 1200x675)
 
 ## Ko‘p uchraydigan xatolar
 

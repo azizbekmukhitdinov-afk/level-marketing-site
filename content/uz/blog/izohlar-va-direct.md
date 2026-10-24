@@ -12,6 +12,8 @@ rubric: smm
 
 Reklama va kontent odamlarni izohlar va Direct'ga olib keladi — sotuv aynan shu yerda boshlanadi. Javobsiz qolgan savol yoki «narx Direct'da» degan quruq javob tayyor mijozni yo‘qotadi. Bu maqolada izoh va xabarlar bilan ishlash standartlarini, tayyor shablonlarni va salbiy izohlarga qanday javob berishni ko‘rib chiqamiz.
 
+![Nega bu muhim](/img/blog/illus/izohlar-va-direct-1.jpg 1200x675)
+
 ## Nega bu muhim
 
 - **Izohlarni hamma ko‘radi.** Bitta savolga javob — o‘nlab o‘quvchilar uchun ma'lumot.
@@ -46,6 +48,8 @@ Shablon — boshlanish nuqtasi: har doim mijozning ismi va savoliga moslang. Har
 
 Yaxshi javob berilgan shikoyat yangi mijozlarga ko‘pincha maqtovdan kuchliroq ta'sir qiladi. Sharhlar bilan ishlash haqida — [onlayn obro‘](/blog/onlayn-obro-sharhlar/) maqolasida.
 
+![Spam va avtomatlashtirish](/img/blog/illus/izohlar-va-direct-2.jpg 1200x675)
+
 ## Spam va avtomatlashtirish
 
 - Instagram sozlamalarida yashirin so‘zlar filtrini yoqing.
@@ -72,6 +76,8 @@ Har hafta: xabarlar soni, ulardan arizalar, arizalardan sotuvlar va o‘rtacha j
 **«O‘ylab ko‘raman»:** «Albatta! Tanlashga nima yordam beradi — boshqa rangdagi rasmlarmi yoki mijozlar sharhlarimi? Hozir yuboraman.»
 
 **«Manzilingiz qayerda?»:** «Biz [manzil, mo‘ljal]da joylashganmiz, ish vaqtimiz [vaqt]. Xarita havolasini yuboraymi? Kelishdan oldin yozsangiz, kerakli modelni tayyorlab qo‘yamiz.»
+
+![Ko‘p uchraydigan xatolar](/img/blog/illus/izohlar-va-direct-3.jpg 1200x675)
 
 ## Ko‘p uchraydigan xatolar
 

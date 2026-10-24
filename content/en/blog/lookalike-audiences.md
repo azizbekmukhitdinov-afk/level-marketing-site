@@ -12,6 +12,8 @@ rubric: target
 
 Where can you find people who look like your best customers? Meta's answer is **lookalike audiences**: you give the algorithm a sample, and it finds new people similar to it. Here is how lookalikes work, which source to build them from and which mistakes to avoid.
 
+![How lookalikes work](/img/blog/illus/lookalike-auditoriya-1.jpg 1200x675)
+
 ## How lookalikes work
 
 You provide a **source audience** — for example, your list of buyers. Meta analyses what these people have in common — interests, behaviour, demographics — and gathers the people in your chosen country who resemble them most. You end up advertising to an audience close to your real customers without guessing interests by hand.
@@ -49,6 +51,8 @@ A lookalike covers 1% to 10% of a country's audience. 1% is the most similar but
 
 Meta now often recommends Advantage+ audience, which gives the algorithm more freedom. In those campaigns you can add a lookalike as a "suggestion" the algorithm uses as a starting point. Only an [A/B test](/en/blog/ab-testing-ad-creatives/) will show which approach works better for you.
 
+![How to prepare a customer list](/img/blog/illus/lookalike-auditoriya-2.jpg 1200x675)
+
 ## How to prepare a customer list
 
 - **Columns:** phone, email, name — each field in its own column.
@@ -69,6 +73,8 @@ A lookalike audience doesn't know you yet — it isn't retargeting. So the ad sh
 ## How to evaluate the results
 
 Compare the lookalike with a broad audience or Advantage+ using the same creative and budget. Wait at least a week, then compare cost per lead and, if possible, cost per sale. Also check that the audiences don't overlap.
+
+![When a lookalike doesn't fit](/img/blog/illus/lookalike-auditoriya-3.jpg 1200x675)
 
 ## When a lookalike doesn't fit
 

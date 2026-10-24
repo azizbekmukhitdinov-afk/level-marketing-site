@@ -13,6 +13,8 @@ image: /img/cases/express-school.jpg
 
 **Mijoz:** Express School — Toshkentdagi avtomaktab.
 
+![A nuqta](/img/blog/illus/keys-express-school-1.jpg 1200x675)
+
 ## A nuqta
 
 - Oylik sotuv: **40 ta**
@@ -23,6 +25,8 @@ image: /img/cases/express-school.jpg
 - Haqiqiy o‘quvchilar bilan Reels: haydovchilik guvohnomasini qo‘lida ushlab turgan bitiruvchilar — eng kuchli dalil.
 - "Necha kunda prava olish mumkin", "Toshkentda prava qancha turadi" kabi savollarga javob beradigan videolar.
 - Reels'larni target reklama orqali kerakli auditoriyaga yetkazdik.
+
+![B nuqta](/img/blog/illus/keys-express-school-2.jpg 1200x675)
 
 ## B nuqta
 
@@ -38,6 +42,8 @@ image: /img/cases/express-school.jpg
 2. Mijozlar eng ko‘p beradigan savollar ro‘yxatini tuzing va har biriga alohida video qiling.
 3. Eng yaxshi organik Reels'larni target reklama bilan kerakli auditoriyaga yetkazing.
 4. Arizalarga tez javob bering va aniq keyingi qadamni taklif qiling.
+
+![Kimga mos](/img/blog/illus/keys-express-school-3.jpg 1200x675)
 
 ## Kimga mos
 

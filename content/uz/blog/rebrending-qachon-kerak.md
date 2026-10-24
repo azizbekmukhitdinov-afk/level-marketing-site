@@ -12,6 +12,8 @@ rubric: brend
 
 Rebrending — katta qaror: yangi nom, logotip yoki pozitsiya mijozlarni jalb qilishi ham, yo‘qotishi ham mumkin. Bu maqolada rebrending qachon kerakligini, uni restaylingdan qanday ajratish va jarayonni mijozlarni yo‘qotmasdan qanday o‘tkazishni ko‘rib chiqamiz.
 
+![Rebrending kerakligining belgilari](/img/blog/illus/rebrending-qachon-kerak-1.jpg 1200x675)
+
 ## Rebrending kerakligining belgilari
 
 - Auditoriya o‘zgargan: endi boshqa segmentga sotyapsiz.
@@ -50,6 +52,8 @@ Agar muammo faqat «zerikarli logotip» bo‘lsa, ko‘pincha to‘liq rebrendin
 | Oflayn | Peshlavha, qadoq, vizitkalar, forma |
 | Hujjatlar | Shartnoma, hisob-faktura shablonlari |
 
+![Mijozlarni qanday yo‘qotmaslik](/img/blog/illus/rebrending-qachon-kerak-2.jpg 1200x675)
+
 ## Mijozlarni qanday yo‘qotmaslik
 
 - Tanish elementlarni saqlang: rang, belgi yoki shior.
@@ -78,6 +82,8 @@ Ko‘pincha eng katta xarajat oflayn qismda bo‘ladi, shuning uchun uni bosqich
 - Mijozlar uchun e'lon posti va Stories tayyor.
 - Menejerlar «nega o‘zgardingiz?» degan savolga bir xil javob beradi.
 - Eski vizitka va bannerlar muomaladan olib tashlandi.
+
+![Jamoani rebrendingga tayyorlash](/img/blog/illus/rebrending-qachon-kerak-3.jpg 1200x675)
 
 ## Jamoani rebrendingga tayyorlash
 

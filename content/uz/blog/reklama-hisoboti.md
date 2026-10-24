@@ -12,6 +12,8 @@ rubric: sotuv
 
 Ko‘p tadbirkorlar oy oxirida chiroyli diagrammalar bilan hisobot oladi, lekin undan reklama foyda keltiryaptimi yoki yo‘qmi, tushunib bo‘lmaydi. Yaxshi hisobot — qaror qabul qilish vositasi. Bu maqolada reklama hisobotida qanday raqamlar va bo‘limlar bo‘lishi shartligini ko‘rib chiqamiz.
 
+![Hisobotning tuzilmasi](/img/blog/illus/reklama-hisoboti-1.jpg 1200x675)
+
 ## Hisobotning tuzilmasi
 
 1. **Davr va maqsad** — qaysi oy, qanday reja qo‘yilgan edi.
@@ -44,6 +46,8 @@ Oxirgi uchta qator uchun mijoz va agentlik ma'lumot almashishi kerak: arizalar q
 - Xulosa va keyingi qadamlar yo‘q.
 - Hisobot har safar kechikadi.
 
+![Hisobot qanday topshiriladi](/img/blog/illus/reklama-hisoboti-2.jpg 1200x675)
+
 ## Hisobot qanday topshiriladi
 
 Raqamlarni yuborishning o‘zi kam — ularni tushuntirish kerak. Level Marketing'da har oy loyihaning o‘z sanasida mutaxassisimiz mijoz ofisiga borib, qamrov, arizalar va ariza narxini ko‘rsatadi va keyingi oy rejasini muhokama qiladi.
@@ -70,6 +74,8 @@ Bunday hisobotni o‘qish 2 daqiqa oladi va undan darhol qaror chiqadi.
 5. Keyingi oy rejasida aniq raqamli maqsad bormi?
 
 Bu savollarga hisobotdan javob topa olmasangiz — mutaxassisdan qo‘shimcha ma'lumot so‘rang.
+
+![Hisobotni boshidan kelishib oling](/img/blog/illus/reklama-hisoboti-3.jpg 1200x675)
 
 ## Hisobotni boshidan kelishib oling
 

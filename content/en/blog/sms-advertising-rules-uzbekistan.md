@@ -13,6 +13,8 @@ From 1 November 2026, new SMS advertising rules apply in Uzbekistan: promotional
 
 > This article is not legal advice. We explain the text of the resolution in plain language. For complex cases, talk to a lawyer.
 
+![What the resolution actually says](/img/blog/illus/sms-reklama-yangi-qoidalar-1.jpg 1200x675)
+
 ## What the resolution actually says
 
 The new requirements are set out in Presidential Resolution PQ-265 of 15 July 2026 ([lex.uz](https://lex.uz/docs/8329406)). Under point 11, from 1 November 2026:
@@ -70,6 +72,8 @@ Keep **proof** of consent: when, where and to what wording the person agreed. If
 
 Also give people a way out. In every promotional text, briefly add "reply STOP to unsubscribe" or a number, and act on such requests immediately. The resolution does not say this directly, but the ability to withdraw consent is a basic rule of handling personal data.
 
+![Step 3: reschedule your sending times](/img/blog/illus/sms-reklama-yangi-qoidalar-2.jpg 1200x675)
+
 ## Step 3: reschedule your sending times
 
 Advertising calls and messages are banned from 18:00 to 09:00. So your window for ads is **09:00 to 18:00**.
@@ -102,6 +106,8 @@ Additional channels:
 - **A Telegram channel** — customers subscribe themselves, so the interest is real. See [how to grow a Telegram channel](/en/blog/grow-a-telegram-channel/).
 - **Retargeting** — ads shown to people who visited your website or messaged you on Instagram. It is not SMS and does not need numbers from your database.
 - **A repeat-sales system** — timely reminders to customers who gave consent. More in [repeat sales and LTV](/en/blog/repeat-sales-and-ltv/).
+
+![Checklist for business (before 1 November)](/img/blog/illus/sms-reklama-yangi-qoidalar-3.jpg 1200x675)
 
 ## Checklist for business (before 1 November)
 

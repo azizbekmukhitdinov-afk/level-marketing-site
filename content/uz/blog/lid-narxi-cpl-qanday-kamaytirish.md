@@ -12,6 +12,8 @@ rubric: sotuv
 
 Reklamaga pul sarflayotgan har bir tadbirkor oxir-oqibat bitta savolga javob izlaydi: **bitta mijoz menga qanchaga tushyapti?** Bu savolning birinchi qadami — lid narxi, ya'ni CPL (cost per lead). Ushbu maqolada CPL qanday hisoblanishi, uni qaysi raqam bilan solishtirish kerakligi va ariza narxini ko‘tarib yuboradigan eng ko‘p uchraydigan xatolarni ko‘rib chiqamiz.
 
+![CPL nima va qanday hisoblanadi](/img/blog/illus/lid-narxi-cpl-qanday-kamaytirish-1.jpg 1200x675)
+
 ## CPL nima va qanday hisoblanadi
 
 CPL — bitta ariza (lid) uchun o‘rtacha qancha pul sarflanganini ko‘rsatadi:
@@ -85,6 +87,8 @@ Ikkita kampaniya, har biriga $300:
 
 Birinchi qarashda A arzonroq, lekin B har bir sotuvni ancha arzon olib keladi. Shuning uchun CPL'ni doim sotuv narxi bilan birga ko‘ring.
 
+![Maksimal ruxsat etilgan CPL](/img/blog/illus/lid-narxi-cpl-qanday-kamaytirish-2.jpg 1200x675)
+
 ## Maksimal ruxsat etilgan CPL
 
 Qancha ariza narxi sizga foydali ekanini oldindan hisoblang:
@@ -121,6 +125,8 @@ Turli kanallardagi arizalar sifati turlicha, shuning uchun faqat CPL'ga qarash y
 | Google qidiruv | $6 | 25% | $24 |
 
 Eng qimmat ariza eng arzon sotuvni bergan. Solishtirish uchun barcha kanallarda «ariza» bir xil ma'noda hisoblanishi kerak.
+
+![CPL'ni kamaytirishning 4 haftalik rejasi](/img/blog/illus/lid-narxi-cpl-qanday-kamaytirish-3.jpg 1200x675)
 
 ## CPL'ni kamaytirishning 4 haftalik rejasi
 

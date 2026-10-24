@@ -13,6 +13,8 @@ image: /img/cases/express-school.jpg
 
 **Client:** Express School — driving school in Tashkent.
 
+![Point A](/img/blog/illus/keys-express-school-1.jpg 1200x675)
+
 ## Point A
 
 - Monthly sales: **40**
@@ -23,6 +25,8 @@ image: /img/cases/express-school.jpg
 - Reels with real students: graduates holding their new licences are the strongest proof.
 - Videos answering the top questions: "how many days does it take to get a licence", "how much does a licence cost in Tashkent".
 - Paid ads to put the Reels in front of the right audience.
+
+![Point B](/img/blog/illus/keys-express-school-2.jpg 1200x675)
 
 ## Point B
 
@@ -38,6 +42,8 @@ image: /img/cases/express-school.jpg
 2. List the questions customers ask most and make a separate video for each.
 3. Use paid ads to take your best organic Reels to the right audience.
 4. Reply to leads quickly and offer a clear next step.
+
+![Who this suits](/img/blog/illus/keys-express-school-3.jpg 1200x675)
 
 ## Who this suits
 

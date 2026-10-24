@@ -13,6 +13,8 @@ image: /img/cases/global-avenue.jpg
 
 **Mijoz:** Global Avenue — turar joy majmuasi (ko‘chmas mulk).
 
+![Vazifa](/img/blog/illus/keys-global-avenue-1.jpg 1200x675)
+
 ## Vazifa
 
 Raqobatchilar orasida ajralib turish va xaridorlarni qiziqarli mavzuli taqdimot orqali jalb qilish.
@@ -22,6 +24,8 @@ Raqobatchilar orasida ajralib turish va xaridorlarni qiziqarli mavzuli taqdimot 
 - Brending loyihasi **Marokash uslubida**, o‘ziga xos geraldika va nafis yevropacha uslub bilan amalga oshirildi.
 - Mijoz bilan birgalikda bozor uchun noyob taklif ishlab chiqildi: **3 yilga foizsiz muddatli to‘lov**.
 - Auditoriya e'tiborini taklif afzalliklari va firma uslubiga qaratdik.
+
+![Natija](/img/blog/illus/keys-global-avenue-2.jpg 1200x675)
 
 ## Natija
 
@@ -36,6 +40,8 @@ Raqobatchilar orasida ajralib turish va xaridorlarni qiziqarli mavzuli taqdimot 
 2. Brend g‘oyasini butun loyihada izchil qo‘llang: nom, vizual, taqdimot va sotuv ofisi.
 3. Moliyaviy taklifni aniq yozing — muddat va shartlar bilan.
 4. Uzoq sotuv sikli uchun qayta aloqa va retargetingni oldindan rejalashtiring.
+
+![Kimga mos](/img/blog/illus/keys-global-avenue-3.jpg 1200x675)
 
 ## Kimga mos
 

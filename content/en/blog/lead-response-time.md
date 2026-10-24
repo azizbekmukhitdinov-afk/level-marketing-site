@@ -12,6 +12,8 @@ rubric: sotuv
 
 A customer saw your ad and messaged you and two or three competitors. Whoever replies first leads the conversation. Many businesses spend money on ads and then leave leads unanswered for hours, losing the customer. Here is why response speed is decisive and how to build a system around it.
 
+![Why speed matters](/img/blog/illus/arizaga-javob-tezligi-1.jpg 1200x675)
+
 ## Why speed matters
 
 - **Interest fades fast.** Someone "ready to buy" an hour ago has moved on to other things.
@@ -43,6 +45,8 @@ A customer saw your ad and messaged you and two or three competitors. Whoever re
 - **Review lost leads** — find out why they went unanswered.
 - **Add response speed to managers' KPIs.**
 
+![What comes after a fast reply](/img/blog/illus/arizaga-javob-tezligi-2.jpg 1200x675)
+
 ## What comes after a fast reply
 
 A fast reply is only the start. The conversation then has to lead to a sale: ask a question, identify the need, make a specific offer. For the structure, see our [sales script](/en/blog/sales-script/) article.
@@ -66,6 +70,8 @@ The first reply shouldn't be just a greeting or just a price — end it with a q
 ## What a slow reply costs: a simple calculation
 
 **An example (illustrative numbers):** you get 200 leads a month; 40 of them get a late reply, and those customers go to a competitor. If 15% of leads usually turn into sales, that's 6 lost sales a month. Multiply them by your average order value — the total is often more than a duty manager's salary or the cost of automation.
+
+![Common mistakes](/img/blog/illus/arizaga-javob-tezligi-3.jpg 1200x675)
 
 ## Common mistakes
 

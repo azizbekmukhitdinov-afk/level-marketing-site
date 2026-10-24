@@ -12,6 +12,8 @@ rubric: smm
 
 YouTube isn't just an entertainment platform — it's a huge search engine where people look up "how to choose", "what's the difference" and "review". Here is which businesses YouTube suits, the roles of Shorts and long videos and how to start a channel.
 
+![Who it suits best](/img/blog/illus/youtube-biznes-uchun-1.jpg 1200x675)
+
 ## Who it suits best
 
 - **Complex or expensive products:** real estate, cars, furniture, electronics — buyers research a lot.
@@ -43,6 +45,8 @@ The best strategy uses both: Shorts bring new people, long videos turn them into
 - **Thumbnail** — a large face, 3–4 big words, contrasting colours.
 - **Description** — a short summary in the first lines, a website or Telegram link, timestamps.
 
+![A starting plan](/img/blog/illus/youtube-biznes-uchun-2.jpg 1200x675)
+
 ## A starting plan
 
 1. Set up the channel: name, avatar, banner, links.
@@ -73,6 +77,8 @@ A long video is raw material for other channels too. One 15-minute video can bec
 - a Telegram channel post and quotes for Stories.
 
 That way one day of shooting gives you content for a whole month. How to develop a Telegram channel is covered in [Grow a Telegram channel](/en/blog/grow-a-telegram-channel/).
+
+![Common mistakes](/img/blog/illus/youtube-biznes-uchun-3.jpg 1200x675)
 
 ## Common mistakes
 

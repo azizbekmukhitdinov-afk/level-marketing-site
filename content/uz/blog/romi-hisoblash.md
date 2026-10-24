@@ -12,6 +12,8 @@ rubric: sotuv
 
 «Reklama o‘zini oqlayaptimi?» — bu savolga hissiyot bilan emas, formula bilan javob berish kerak. **ROMI** (Return on Marketing Investment) — marketingga sarflangan har bir so‘m qancha foyda qaytarganini ko‘rsatadi. Bu maqolada ROMI'ni qanday hisoblash, uni ROI va ROAS'dan farqi va qaysi xarajatlarni hisobga olish kerakligini ko‘rib chiqamiz.
 
+![Formula](/img/blog/illus/romi-hisoblash-1.jpg 1200x675)
+
 ## Formula
 
 > ROMI = (marketingdan olingan foyda − marketing xarajatlari) ÷ marketing xarajatlari × 100%
@@ -43,6 +45,8 @@ Yuqoridagi misolda ROAS = 6 000 ÷ 700 ≈ 8,6. ROAS yuqori ko‘rinadi, lekin u
 - Kontent ishlab chiqarish: video, dizayn.
 - Vositalar: CRM, servislar (marketingga tegishli qismi).
 
+![Hisoblashdagi qiyinchiliklar](/img/blog/illus/romi-hisoblash-2.jpg 1200x675)
+
 ## Hisoblashdagi qiyinchiliklar
 
 - **Uzoq sotuv sikli** — ariza bu oy, to‘lov keyingi oy. Davrlarni to‘g‘ri bog‘lang.
@@ -73,6 +77,8 @@ Bu jadval byudjetning bir qismini Google'ga o‘tkazish kerakligini ko‘rsatadi
 4. **Takroriy sotuvlar** — mijozni bir martalik emas, uzoq muddatli qilish.
 
 Ko‘pincha 2- va 4-yo‘llar eng arzon: reklamaga qo‘shimcha pul sarflamasdan ROMI oshadi.
+
+![Ko‘p uchraydigan xatolar](/img/blog/illus/romi-hisoblash-3.jpg 1200x675)
 
 ## Ko‘p uchraydigan xatolar
 

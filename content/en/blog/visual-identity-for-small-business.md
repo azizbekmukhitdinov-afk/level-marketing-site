@@ -12,6 +12,8 @@ rubric: brend
 
 When every post uses a different font, colour and style, the page looks chaotic and the brand isn't memorable. Big companies produce brand books hundreds of pages long, but a small business needs only a one-page minimum kit. Here it is.
 
+![The minimum kit](/img/blog/illus/vizual-uslub-aydentika-1.jpg 1200x675)
+
 ## The minimum kit
 
 | Element | What you need |
@@ -40,6 +42,8 @@ Don't use more than two fonts. Check that they display the Uzbek Latin letters o
 ## Photo style
 
 Consistent light, similar backgrounds and tones make your grid look unified. For phone filming rules, see [shooting Reels on a phone](/en/blog/shooting-reels-on-a-phone/).
+
+![Templates and tools](/img/blog/illus/vizual-uslub-aydentika-2.jpg 1200x675)
 
 ## Templates and tools
 
@@ -73,6 +77,8 @@ A clear brief means fewer rounds of revisions. Give the designer:
 - where the style will be used: Instagram, signage, packaging, website;
 - which files you need: logo versions, templates, a brand book;
 - the deadline, budget and number of revisions.
+
+![How to keep the style consistent](/img/blog/illus/vizual-uslub-aydentika-3.jpg 1200x675)
 
 ## How to keep the style consistent
 

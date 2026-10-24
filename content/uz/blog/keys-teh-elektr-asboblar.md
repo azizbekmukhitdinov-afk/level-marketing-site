@@ -15,6 +15,8 @@ image: /img/cases/teh.jpg
 
 **Hamkorlik muddati:** 1 yildan ortiq.
 
+![Nima qildik](/img/blog/illus/keys-teh-1.jpg 1200x675)
+
 ## Nima qildik
 
 - Instagram sahifani yagona firma uslubida qayta qurdik: qizil-qora dizayn, mahsulot xususiyatlari ko‘rsatilgan kartochkalar.
@@ -28,12 +30,16 @@ image: /img/cases/teh.jpg
 | Reklama xarajati | $7 000 |
 | Onlayn sotuvlar | **$40 000 dan ortiq** |
 
+![Bu yondashuvni qanday qo‘llash](/img/blog/illus/keys-teh-2.jpg 1200x675)
+
 ## Bu yondashuvni qanday qo‘llash
 
 1. Har bir mahsulot uchun xususiyatlar kartochkasining yagona shablonini yarating.
 2. Xaridor solishtiradigan parametrlarni birinchi o‘ringa qo‘ying: quvvat, kafolat, narx.
 3. Yagona firma uslubi bilan lentani qulay katalogga aylantiring.
 4. Lid va xabarlar kampaniyalarini ariza soni bilan emas, sotuv bilan solishtiring.
+
+![Kimga mos](/img/blog/illus/keys-teh-3.jpg 1200x675)
 
 ## Kimga mos
 

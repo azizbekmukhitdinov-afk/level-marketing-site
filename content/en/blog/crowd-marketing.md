@@ -12,6 +12,8 @@ rubric: brend
 
 Before buying, people look for other people's opinions: they ask in Telegram chats "does anyone know a good dentist?", share experiences on forums and read reviews on Google and Yandex Maps. Crowd marketing is the work of making sure your brand comes up in those conversations in a useful, natural way. Here is how it works and how to keep it from turning into spam.
 
+![What crowd marketing is](/img/blog/illus/kraud-marketing-1.jpg 1200x675)
+
 ## What crowd marketing is
 
 Crowd marketing means mentions of your company, product or website where your audience talks. Usually that is:
@@ -83,6 +85,8 @@ A question in a Telegram chat: "Is there a good dentist in Chilanzar?"
 
 A good answer introduces itself, gives something useful and only makes an offer at the end.
 
+![A weekly routine](/img/blog/illus/kraud-marketing-2.jpg 1200x675)
+
 ## A weekly routine
 
 - **30 minutes a day:** search topic chats and groups for your keywords.
@@ -120,6 +124,8 @@ Pick one or two places first and be active there regularly — one-off answers i
 ## Replying to reviews is crowd marketing too
 
 Future customers read every reply you post to a review on maps. A calm, precise and helpful reply is the cheapest advertising in a public space. Reply templates are in [Online reputation and reviews](/en/blog/online-reputation-and-reviews/).
+
+![Linking crowd marketing to your website](/img/blog/illus/kraud-marketing-3.jpg 1200x675)
 
 ## Linking crowd marketing to your website
 

@@ -12,6 +12,8 @@ rubric: target
 
 In Uzbekistan, Telegram is one of the most widely used messengers: channels about news, discounts, education and shopping have millions of subscribers. That makes Telegram advertising an important channel for many businesses. Here are the two main approaches — official **Telegram Ads** and **paid posts in channels** — and how to measure results.
 
+![Option 1: official Telegram Ads](/img/blog/illus/telegram-ads-reklama-1.jpg 1200x675)
+
 ## Option 1: official Telegram Ads
 
 Telegram's own ad platform (ads.telegram.org) shows short sponsored messages in large public channels.
@@ -48,6 +50,8 @@ The most common approach is agreeing an ad post with the admins of topic-specifi
 - One clear call to action and one link.
 - An image or short video so the post gets noticed.
 
+![Common mistakes](/img/blog/illus/telegram-ads-reklama-2.jpg 1200x675)
+
 ## Common mistakes
 
 - Choosing channels by subscriber count alone.
@@ -69,6 +73,8 @@ Record the agreement in writing in the chat so there are no disputes later.
 > "Writing is where most IELTS points are lost. In [channel name] we post one analysed essay and a list of mistakes every day. Subscribe — the first post has a ready-made template 👇 [invite link]"
 
 The post has one benefit, one reason or proof and one link. Agree the text with the admin in advance so it fits the channel's style.
+
+![How to split the budget](/img/blog/illus/telegram-ads-reklama-3.jpg 1200x675)
 
 ## How to split the budget
 

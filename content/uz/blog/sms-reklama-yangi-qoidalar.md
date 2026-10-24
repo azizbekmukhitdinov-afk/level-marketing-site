@@ -13,6 +13,8 @@ rubric: biznes
 
 > Bu maqola yuridik maslahat emas. Biz qaror matnini oddiy tilda tushuntiramiz. Murakkab holatlarda yurist bilan maslahatlashing.
 
+![Qarorda aniq nima yozilgan](/img/blog/illus/sms-reklama-yangi-qoidalar-1.jpg 1200x675)
+
 ## Qarorda aniq nima yozilgan
 
 Yangi talablar Prezidentning 2026-yil 15-iyuldagi PQ-265-son qarorida belgilangan ([lex.uz](https://lex.uz/docs/8329406)). Qarorning 11-bandiga ko‘ra, 2026-yil 1-noyabrdan:
@@ -70,6 +72,8 @@ Rozilik haqida **dalil** saqlang: qachon, qayerda va qanday matnga rozilik beril
 
 Yana bir muhim narsa — chiqish yo‘li. Har bir reklama SMS'da qisqa qilib «obunadan chiqish uchun STOP deb yozing» yoki raqam qoldiring va bunday so‘rovlarni darhol bajaring. Bu qarorda to‘g‘ridan-to‘g‘ri yozilmagan, lekin rozilikni qaytarib olish imkoniyati shaxsga doir ma’lumotlar bilan ishlashning asosiy qoidasi.
 
+![3-qadam: yuborish vaqtini qayta rejalang](/img/blog/illus/sms-reklama-yangi-qoidalar-2.jpg 1200x675)
+
 ## 3-qadam: yuborish vaqtini qayta rejalang
 
 18:00 dan 09:00 gacha reklama qo‘ng‘iroqlari va xabarlari taqiqlanadi. Demak, reklama uchun «oyna» — **09:00 dan 18:00 gacha**.
@@ -102,6 +106,8 @@ Bunga qo‘shimcha kanallar:
 - **Telegram kanal** — mijoz o‘zi obuna bo‘ladi, demak qiziqish bor. Qanday o‘stirish haqida — [Telegram kanalni noldan o‘stirish](/blog/telegram-kanal-osish/).
 - **Retargeting** — saytga kirgan yoki Instagram'da yozgan odamlarga reklama ko‘rsatish. Bu SMS emas va baza raqamlarini talab qilmaydi.
 - **Takroriy sotuv tizimi** — rozilik bergan mijozlarga vaqtida eslatma. Bu haqda [takroriy sotuv va LTV](/blog/takroriy-sotuv-ltv/) maqolasida yozganmiz.
+
+![Biznes uchun chek-list (1-noyabrgacha)](/img/blog/illus/sms-reklama-yangi-qoidalar-3.jpg 1200x675)
 
 ## Biznes uchun chek-list (1-noyabrgacha)
 

@@ -12,6 +12,8 @@ rubric: sotuv
 
 Mijozlar nima uchun sizdan sotib olishini va nima uchun ketishini aytib berishga tayyor — faqat so‘rash kerak. Fikr-mulohaza — bepul marketing tadqiqoti: undan reklama uchun so‘zlar, mahsulotni yaxshilash g‘oyalari va ochiq sharhlar olinadi. Bu maqolada qachon va qanday so‘rash, NPS va javoblardan qanday foydalanishni ko‘rib chiqamiz.
 
+![Qachon so‘rash kerak](/img/blog/illus/mijoz-fikrini-yigish-1.jpg 1200x675)
+
 ## Qachon so‘rash kerak
 
 - **Xariddan yoki xizmatdan keyin darhol** — taassurot hali yangi.
@@ -56,6 +58,8 @@ NPS = tarafdorlar foizi − tanqidchilar foizi. **Misol (shartli raqamlar):** 10
 | Shikoyatlar | Mahsulot va servisni tuzatish |
 | Manbalar | Byudjetni kanallar o‘rtasida taqsimlash |
 
+![Qoidalar](/img/blog/illus/mijoz-fikrini-yigish-2.jpg 1200x675)
+
 ## Qoidalar
 
 - Yo‘naltiruvchi savol bermang: «Sizga xizmatimiz yoqdimi?» emas, «Xizmat haqida nima deya olasiz?».
@@ -91,6 +95,8 @@ Xarid qilishni to‘xtatgan mijozga sotish uchun emas, tushunish uchun qo‘ng�
 - Fikr yig‘ish, lekin hech narsani o‘zgartirmaslik.
 - Faqat mamnun mijozlardan so‘rash.
 - Salbiy fikr bilan bahslashish.
+
+![Fikrni marketingga aylantirish: 3 misol (shartli)](/img/blog/illus/mijoz-fikrini-yigish-3.jpg 1200x675)
 
 ## Fikrni marketingga aylantirish: 3 misol (shartli)
 

@@ -12,6 +12,8 @@ rubric: biznes
 
 Noto‘g‘ri tanlangan targetolog faqat xizmat narxini emas, balki reklama byudjeti va vaqtingizni ham yo‘qotadi. Telegram va Instagram'da "targetolog" yozilgan profillar ko‘p, lekin ularning tajribasini qanday tekshirish kerak? Quyida mutaxassis yoki agentlik bilan birinchi suhbatda beriladigan 9 ta savol va javoblarda nimaga e'tibor berish kerakligi.
 
+![1. Mening sohamda qanday loyihalaringiz bo‘lgan?](/img/blog/illus/targetolog-qanday-tanlanadi-1.jpg 1200x675)
+
 ## 1. "Mening sohamda qanday loyihalaringiz bo‘lgan?"
 
 Sohangizda tajriba bo‘lsa yaxshi, lekin majburiy emas. Muhimi — mutaxassis o‘xshash vazifani (masalan, qimmat mahsulot uchun ariza yig‘ish yoki mahalliy xizmat) qanday hal qilganini aniq tushuntira olishi. Umumiy gaplar o‘rniga raqamlar va jarayonni so‘rang.
@@ -43,6 +45,8 @@ Professional javob sizning maqsadingizdan boshlanadi: nechta mijoz kerak, konver
 ## 8. "Natija bo‘lmasa nima qilasiz?"
 
 Hech kim natijani 100% kafolatlay olmaydi — kim kafolat bersa, ehtiyot bo‘ling. To‘g‘ri javob: qaysi ko‘rsatkichlar kuzatiladi, qachon strategiya o‘zgartiriladi va qanday qaror qabul qilinadi.
+
+![9. Arizalar bilan ishlashda yordam berasizmi?](/img/blog/illus/targetolog-qanday-tanlanadi-2.jpg 1200x675)
 
 ## 9. "Arizalar bilan ishlashda yordam berasizmi?"
 
@@ -110,6 +114,8 @@ Tanlashdan oldin mavjud reklama kabinetingiz auditini yoki biznesingiz uchun qis
 | Keyingi oy rejasi | Nima o‘zgaradi va nega |
 
 Faqat qamrov va bosishlardan iborat hisobot — xavfli signal: u reklama sotuvga qanday ta'sir qilganini ko‘rsatmaydi.
+
+![Haftalik uchrashuv: natijani birga baholash](/img/blog/illus/targetolog-qanday-tanlanadi-3.jpg 1200x675)
 
 ## Haftalik uchrashuv: natijani birga baholash
 

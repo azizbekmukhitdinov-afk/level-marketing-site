@@ -13,6 +13,8 @@ image: /img/cases/chorsu.jpg
 
 **Mijoz:** Chorsu Gold Center — zargarlik buyumlari do‘koni, Toshkent.
 
+![Vazifa](/img/blog/illus/keys-chorsu-gold-1.jpg 1200x675)
+
 ## Vazifa
 
 Loyihaning o‘ziga xosligini aks ettiradigan aydentika yaratish, do‘kon afzalliklarini turli kanallar orqali yetkazish va sotuvlarni rag‘batlantirish.
@@ -22,6 +24,8 @@ Loyihaning o‘ziga xosligini aks ettiradigan aydentika yaratish, do‘kon afzal
 - Mijoz bilan birgalikda bozor uchun **noyob taklif** ishlab chiqildi: **5 yilga foizsiz muddatli to‘lov**.
 - Auditoriya e'tiborini aynan shu taklifning afzalliklariga qaratdik.
 - Barcha kreativlar va kontent brendning firma uslubida tayyorlandi.
+
+![Natija](/img/blog/illus/keys-chorsu-gold-2.jpg 1200x675)
 
 ## Natija
 
@@ -36,6 +40,8 @@ Loyihaning o‘ziga xosligini aks ettiradigan aydentika yaratish, do‘kon afzal
 2. Shu to‘siqni olib tashlaydigan taklif ishlab chiqing — faqat biznes uni haqiqatan bajara olsa.
 3. Taklifni barcha kreativlarning markaziga qo‘ying va bir xil firma uslubida ko‘rsating.
 4. Natijani bosishlar bilan emas, sotuvlar bilan o‘lchang.
+
+![Kimga mos](/img/blog/illus/keys-chorsu-gold-3.jpg 1200x675)
 
 ## Kimga mos
 

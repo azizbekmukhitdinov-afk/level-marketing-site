@@ -12,6 +12,8 @@ rubric: target
 
 TikTok — qisqa videolar platformasi, u yerda reklama Instagram'dan boshqacha ishlaydi: odamlar ko‘ngilochar kontent uchun keladi va reklama ham shunday ko‘rinishi kerak. Bu maqolada TikTok Ads qaysi bizneslarga mos kelishini, boshlashdan oldin nimani tekshirish kerakligini va qanday kreativ ishlashini ko‘rib chiqamiz.
 
+![Avval tekshiring: auditoriyangiz TikTok'dami](/img/blog/illus/tiktok-ads-ozbekistonda-1.jpg 1200x675)
+
 ## Avval tekshiring: auditoriyangiz TikTok'dami
 
 O‘zbekistonda TikTok'ning ishlashi turli davrlarda cheklangan. Shuning uchun byudjet ajratishdan oldin ikki narsani tekshiring:
@@ -44,6 +46,8 @@ Agar javob «yo‘q» bo‘lsa, xuddi shu vertikal videolarni Instagram Reels va
 - **Odam kameraga gapiradi.** Asoschi, sotuvchi yoki mijoz — yuz ishonch uyg‘otadi.
 - **Spark Ads.** Yaxshi organik videoni reklama sifatida ko‘tarish — u layk va izohlarini saqlab qoladi.
 
+![Natijani qanday baholash](/img/blog/illus/tiktok-ads-ozbekistonda-2.jpg 1200x675)
+
 ## Natijani qanday baholash
 
 TikTok'da bosishlar arzon bo‘lishi mumkin, lekin asosiy ko‘rsatkich — ariza va sotuv narxi. Ularni Meta reklamasi bilan bir xil usulda solishtiring: sarf, arizalar, CPL va sotuvga konversiya. Kreativlarni qanday solishtirish haqida — [A/B test](/blog/kreativlar-ab-test/) maqolasida.
@@ -64,6 +68,8 @@ TikTok'da bosishlar arzon bo‘lishi mumkin, lekin asosiy ko‘rsatkich — ariz
 | 1-hafta | 3–5 ta turli video, bitta auditoriya, kichik byudjet |
 | 2-hafta | Eng yaxshi 1–2 tasini qoldirish va ularga yangi hook bilan 3 ta variant qilish |
 | 3-hafta | G‘olibning byudjetini asta-sekin oshirish, yaxshi organik videolarni Spark Ads qilish |
+
+![Ko‘p uchraydigan xatolar](/img/blog/illus/tiktok-ads-ozbekistonda-3.jpg 1200x675)
 
 ## Ko‘p uchraydigan xatolar
 

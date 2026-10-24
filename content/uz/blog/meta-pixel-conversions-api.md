@@ -12,6 +12,8 @@ rubric: target
 
 Reklama sotuv olib kelyaptimi yoki shunchaki bosishlarmi? Bu savolga aniq javobni faqat kuzatuv beradi. Meta reklamasida kuzatuvning ikki vositasi bor: **Meta Pixel** va **Conversions API**. Ushbu maqolada ular nima uchun kerakligini, qaysi hodisalarni kuzatish va o‘rnatishda qanday xatolardan qochish kerakligini ko‘rib chiqamiz.
 
+![Meta Pixel nima](/img/blog/illus/meta-pixel-conversions-api-1.jpg 1200x675)
+
 ## Meta Pixel nima
 
 Pixel — saytingizga qo‘yiladigan kichik kod. U tashrif buyuruvchi saytda nima qilganini — sahifani ko‘rgani, formani yuborgani, xarid qilganini — Meta'ga yuboradi. Natijada:
@@ -50,6 +52,8 @@ Pixel brauzer orqali ishlaydi. Reklama blokerlari, iOS cheklovlari va cookie soz
 - Domen Business Manager'da tasdiqlanmagan.
 - Kampaniya maqsadi bilan optimallashtirish hodisasi mos kelmaydi.
 
+![Saytingiz bo‘lmasa-chi](/img/blog/illus/meta-pixel-conversions-api-2.jpg 1200x675)
+
 ## Saytingiz bo‘lmasa-chi
 
 Ko‘p bizneslar Instagram Direct yoki Telegram orqali sotadi. Bunda Pixel kerak emas, lekin sotuvni qayd qilish baribir zarur: arizalarni CRM yoki jadvalda belgilang va qaysi reklama sotuv olib kelganini solishtiring. Ariza narxini qanday hisoblash haqida — [CPL bo‘yicha qo‘llanmamizda](/blog/lid-narxi-cpl-qanday-kamaytirish/).
@@ -68,6 +72,8 @@ Purchase va Lead hodisalariga **qiymat** (value) va **valyuta** (currency) qo‘
 ## Maxfiylik va rozilik
 
 Sayt foydalanuvchilarini maxfiylik siyosatida ma'lumot yig‘ish haqida xabardor qiling. Hodisalar orqali sezgir ma'lumot yubormang: tibbiy holatlar, moliyaviy ahvol va boshqalar. Ayniqsa klinikalar ehtiyot bo‘lishi kerak — sahifa manzili yoki hodisa nomi kasallikni oshkor qilmasin. Klinikalar marketingi haqida — [klinika marketingi](/blog/klinika-marketing/) maqolasida.
+
+![Pixel ma'lumotlaridan qanday foydalanish](/img/blog/illus/meta-pixel-conversions-api-3.jpg 1200x675)
 
 ## Pixel ma'lumotlaridan qanday foydalanish
 

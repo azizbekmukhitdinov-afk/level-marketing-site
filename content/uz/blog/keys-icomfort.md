@@ -13,6 +13,8 @@ image: /img/cases/icomfort.jpg
 
 **Mijoz:** iComfort — Apple va boshqa texnika do‘koni, muddatli to‘lov bilan sotuv.
 
+![A nuqta](/img/blog/illus/keys-icomfort-1.jpg 1200x675)
+
 ## A nuqta
 
 - Oylik sotuv: **100 ta**
@@ -24,6 +26,8 @@ image: /img/cases/icomfort.jpg
 - Marketing strategiyasini noldan tuzdik.
 - Instagram sahifani qayta qurdik: ekspert videolar, mahsulot obzorlari, narx va muddatli to‘lov haqida aniq kontent.
 - Reels va target reklama orqali qamrovni oshirdik.
+
+![B nuqta](/img/blog/illus/keys-icomfort-2.jpg 1200x675)
 
 ## B nuqta
 
@@ -39,6 +43,8 @@ image: /img/cases/icomfort.jpg
 2. Narx va muddatli to‘lov shartlarini aniq ko‘rsating — mijoz savolga javob kutib o‘tirmasin.
 3. Mahsulot obzorlari va ekspert videolar orqali sotuvchining bilimini ko‘rsating.
 4. Reklama byudjetini profil tayyor bo‘lgandan keyin oshiring.
+
+![Kimga mos](/img/blog/illus/keys-icomfort-3.jpg 1200x675)
 
 ## Kimga mos
 

@@ -12,6 +12,8 @@ rubric: smm
 
 A Telegram channel is the cheapest "own audience" a business can have: no algorithm cuts your reach, and every post goes straight to subscribers. But starting from zero and getting the first subscribers is hard. Here is how to build a channel, where to find the first 1,000 subscribers and how to turn them into customers.
 
+![The channel's foundation](/img/blog/illus/telegram-kanal-osish-1.jpg 1200x675)
+
 ## The channel's foundation
 
 Before any advertising, the channel needs to be ready:
@@ -56,6 +58,8 @@ Consistency matters: for example, one post a day or 4–5 a week — but always 
 - Joins and leaves — after which posts people leave.
 - Link clicks and leads from the channel.
 
+![Common mistakes](/img/blog/illus/telegram-kanal-osish-2.jpg 1200x675)
+
 ## Common mistakes
 
 - Buying subscribers — views don't grow, and both advertisers and algorithms can see it.
@@ -88,6 +92,8 @@ The ideal length is one or two phone screens.
 ## Keeping the people your ads bring in
 
 When a new subscriber opens your channel, they see the latest posts. So before an ad goes out, make sure a strong, useful post sits at the top of the channel, and that the pinned post says briefly and clearly who you are and what's here. Don't publish other people's ads on the day of your campaign.
+
+![How to boost engagement](/img/blog/illus/telegram-kanal-osish-3.jpg 1200x675)
 
 ## How to boost engagement
 

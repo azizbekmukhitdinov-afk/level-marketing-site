@@ -12,6 +12,8 @@ rubric: target
 
 For many businesses in Uzbekistan, Instagram is the main sales channel: customers discover products there, message in Direct and buy. But pressing "Boost" under a post is not real targeted advertising. This guide walks through setting up Instagram ads properly in Meta Ads Manager.
 
+![Why the Boost button is not enough](/img/blog/illus/instagramda-target-reklama-sozlash-1.jpg 1200x675)
+
 ## Why the Boost button is not enough
 
 The in-app button is quick but limited: almost no fine audience control, no testing of multiple creatives, no lead forms and no deep analytics. **Meta Ads Manager** (adsmanager.facebook.com) is the full tool: you manage campaigns, audiences and creatives separately and see which ad brings leads.
@@ -76,6 +78,8 @@ Above all, reply fast. People message several companies at once and choose the f
 
 Switch off the worst creatives, move budget to the best and add new creatives every week.
 
+![Campaign structure: three levels](/img/blog/illus/instagramda-target-reklama-sozlash-2.jpg 1200x675)
+
 ## Campaign structure: three levels
 
 In Ads Manager, every ad has three levels:
@@ -124,6 +128,8 @@ The first line of the text matters most — it's visible without tapping "More".
 ## Add a retargeting campaign
 
 After 2–3 weeks, once the main campaign has built up an audience, add a second campaign for people who engaged with your profile, watched a video or visited your site but didn't leave a request. It needs different creatives — reviews, answers to objections and a time-limited offer. Exclude people who already submitted a lead, and give this campaign a small share of the budget. More in [How retargeting works](/en/blog/how-retargeting-works/).
+
+![The key columns in your report](/img/blog/illus/instagramda-target-reklama-sozlash-3.jpg 1200x675)
 
 ## The key columns in your report
 

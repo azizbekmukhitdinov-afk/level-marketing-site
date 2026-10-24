@@ -12,6 +12,8 @@ rubric: smm
 
 Reklama yoki Reels odamni profilingizga olib keladi, lekin qaror profil ichida qabul qilinadi. Odatda yangi tashrif buyuruvchi bir necha soniyada sahifada qolish yoki chiqib ketishni hal qiladi. Bu maqolada sotadigan Instagram profil qanday tuzilishini — ismdan tortib birinchi 9 ta postgacha — ko‘rib chiqamiz.
 
+![5 soniya testi](/img/blog/illus/instagram-profil-sotadigan-1.jpg 1200x675)
+
 ## 5 soniya testi
 
 Profilingizni birinchi marta ko‘rgan odam 5 soniyada uchta savolga javob topishi kerak:
@@ -59,6 +61,8 @@ Lentaning yuqori qismi — profil «vitrinasi». Uchta postni mahkamlang:
 
 Qolgan postlar turli rubrikalardan bo‘lsin: foyda, isbot, jarayon — [kontent-reja maqolasidagi](/blog/instagram-kontent-reja/) nisbat bo‘yicha.
 
+![Tekshiruv ro‘yxati](/img/blog/illus/instagram-profil-sotadigan-2.jpg 1200x675)
+
 ## Tekshiruv ro‘yxati
 
 - Akkaunt ochiq va professional (biznes yoki muallif).
@@ -94,6 +98,8 @@ Reklamani ishga tushirishdan oldin tekshiring:
 4. Direct uchun tez javoblar tayyormi.
 
 Reklama boshlangach, profilga o‘tishlar va obunalar nisbatini kuzating: o‘tish ko‘p, obuna kam bo‘lsa — muammo profilda.
+
+![Profil samarasini o‘lchash](/img/blog/illus/instagram-profil-sotadigan-3.jpg 1200x675)
 
 ## Profil samarasini o‘lchash
 

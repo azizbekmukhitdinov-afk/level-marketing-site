@@ -12,6 +12,8 @@ rubric: target
 
 Ko‘pchilik qidiruv reklamasi deganda faqat Google Ads'ni o‘ylaydi. Lekin O‘zbekistonda, ayniqsa rusiyzabon auditoriya orasida, Yandex qidiruvi va Yandex Xaritalaridan ham faol foydalaniladi. **Yandex Direkt** — Yandex'ning reklama tizimi. Bu maqolada u qachon foydali ekanini, Google Ads'dan farqini va birinchi kampaniyani qanday ishga tushirishni ko‘rib chiqamiz.
 
+![Yandex Direkt nima](/img/blog/illus/yandex-direkt-ozbekistonda-1.jpg 1200x675)
+
 ## Yandex Direkt nima
 
 Yandex Direkt reklamani bir nechta joyda ko‘rsatadi:
@@ -46,6 +48,8 @@ Ko‘p hollarda eng yaxshi natija ikkala tizimni test qilib, ariza narxini solis
 5. E'lonlarni yozing: sarlavhada so‘rov, matnda taklif va afzallik, qo‘shimcha havolalar (sitelinks).
 6. Har bir e'lonni mos sahifaga yo‘naltiring — bosh sahifaga emas.
 
+![Ko‘p uchraydigan xatolar](/img/blog/illus/yandex-direkt-ozbekistonda-2.jpg 1200x675)
+
 ## Ko‘p uchraydigan xatolar
 
 - Minus-so‘zlarsiz keng kalit so‘zlar — byudjet keraksiz so‘rovlarga ketadi.
@@ -71,6 +75,8 @@ Har bir guruh uchun alohida e'lon va alohida sahifa bo‘lsin — shunda e'lon s
 - **Qo‘shimcha havolalar:** «Каталог», «Цены», «Рассрочка», «Контакты».
 
 Bu — shartli namuna: matnda faqat siz haqiqatan bajara oladigan va'dalar bo‘lsin.
+
+![Birinchi ikki hafta: nimani kuzatish](/img/blog/illus/yandex-direkt-ozbekistonda-3.jpg 1200x675)
 
 ## Birinchi ikki hafta: nimani kuzatish
 

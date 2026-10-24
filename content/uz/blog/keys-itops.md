@@ -15,6 +15,8 @@ image: /img/cases/itops.jpg
 
 **Hamkorlik muddati:** 3 oy.
 
+![Nima qildik](/img/blog/illus/keys-itops-1.jpg 1200x675)
+
 ## Nima qildik
 
 - Sahifa uchun kontent strategiyasi va Reels formatlarini ishlab chiqdik.
@@ -27,12 +29,16 @@ image: /img/cases/itops.jpg
 | Obunachilar | **noldan 1 000** |
 | Organik ko‘rishlar | **6 mln va 4 mln** (eng yaxshi Reels'lar) |
 
+![Bu yondashuvni qanday qo‘llash](/img/blog/illus/keys-itops-2.jpg 1200x675)
+
 ## Bu yondashuvni qanday qo‘llash
 
 1. Yuzi bor format tanlang: doimiy boshlovchi auditoriyaga tanish bo‘lib qoladi.
 2. Mahsulotni qiziqarli va tushunarli tushuntiring: taqqoslash, savol-javob, sinov.
 3. Eng ko‘p ko‘rilgan Reels'larni tahlil qiling va ularning formatini takrorlang.
 4. Organik qamrovdan keyinchalik retargeting va target reklama uchun auditoriya sifatida foydalaning.
+
+![Kimga mos](/img/blog/illus/keys-itops-3.jpg 1200x675)
 
 ## Kimga mos
 

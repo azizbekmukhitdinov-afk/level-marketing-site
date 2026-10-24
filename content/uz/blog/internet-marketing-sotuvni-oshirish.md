@@ -12,6 +12,8 @@ rubric: smm
 
 Bugun O‘zbekistonda xaridor deyarli har qanday mahsulotni avval telefonda qidiradi: Instagram'da ko‘radi, Telegram'da narx so‘raydi, Google yoki Yandex Xaritalarda manzilni topadi. Internet-marketing — shu yo‘lning har bir bosqichida sizni topishlarini ta'minlash. Bu maqolada qaysi kanal nima uchun kerakligini va kichik biznes qayerdan boshlashi kerakligini ko‘rib chiqamiz.
 
+![Internet-marketing nimadan iborat](/img/blog/illus/internet-marketing-sotuvni-oshirish-1.jpg 1200x675)
+
 ## Internet-marketing nimadan iborat
 
 Internet-marketing — bu bitta "reklama berish" emas, balki bir-biriga ulangan bir nechta kanal:
@@ -76,6 +78,8 @@ Har oy kamida shu raqamlarni yozib boring:
 
 Obunachilar va layklar soni o‘z-o‘zidan sotuv emas. Qaror qabul qilishda sotuvga bog‘liq raqamlarga tayaning.
 
+![Ko‘p uchraydigan xatolar](/img/blog/illus/internet-marketing-sotuvni-oshirish-2.jpg 1200x675)
+
 ## Ko‘p uchraydigan xatolar
 
 - Strategiyasiz "hamma joyda bo‘lish" va byudjetni tarqatib yuborish.
@@ -121,6 +125,8 @@ Marketing ariza olib keladi, sotuvni esa jarayon hal qiladi: ariza CRM'ga tushad
 - Video va dizayn sifati reklama natijasini cheklayotgan bo‘lsa.
 
 Avval texnik ishlarni topshiring — reklama sozlash, montaj, dizayn. Taklif, narx va sotuv ustidan nazorat esa sizda qolsin. Mutaxassisni tanlash — [targetolog tanlash](/blog/targetolog-qanday-tanlanadi/) maqolasida.
+
+![Boshlang‘ich vositalar to‘plami](/img/blog/illus/internet-marketing-sotuvni-oshirish-3.jpg 1200x675)
 
 ## Boshlang‘ich vositalar to‘plami
 

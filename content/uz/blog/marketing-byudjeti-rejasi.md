@@ -12,6 +12,8 @@ rubric: biznes
 
 «Marketingga qancha pul ajratish kerak?» — tadbirkorlar eng ko‘p beradigan savollardan biri. Universal raqam yo‘q, lekin byudjetni asosli rejalashning ikkita usuli bor. Bu maqolada ikkala usulni, xarajatlar tarkibini, test va masshtab davrlarini hamda oylik jadval namunasini ko‘rib chiqamiz.
 
+![1-usul: daromaddan foiz](/img/blog/illus/marketing-byudjeti-rejasi-1.jpg 1200x675)
+
 ## 1-usul: daromaddan foiz
 
 Byudjet daromad yoki rejalashtirilgan daromadning ma'lum ulushi sifatida belgilanadi. Aniq foiz soha, marja va o‘sish maqsadiga bog‘liq: tez o‘sishni maqsad qilgan yangi biznes odatda barqaror kompaniyaga qaraganda ko‘proq ulush ajratadi.
@@ -60,6 +62,8 @@ Keyin tekshiring: 30 ta sotuvdan keladigan yalpi foyda barcha marketing xarajatl
 
 «Fakt» ustunini oy oxirida to‘ldiring va keyingi oy byudjetini natijaga qarab qayta taqsimlang.
 
+![Mavsumiylikni hisobga oling](/img/blog/illus/marketing-byudjeti-rejasi-2.jpg 1200x675)
+
 ## Mavsumiylikni hisobga oling
 
 Talab yil davomida bir xil emas: o‘quv markazlari uchun o‘quv yili oldidan, ko‘plab do‘konlar uchun bayramlar oldidan cho‘qqi bo‘ladi. Byudjetni oylar bo‘yicha rejalang va cho‘qqidan oldin oshiring.
@@ -92,6 +96,8 @@ Ularni hisobga olmasangiz, ROMI amaldagidan yaxshiroq ko‘rinadi.
 - Test uchun zaxira qoldirmaslik.
 - Ishlayotgan kanalni juda tez masshtablash.
 - Mavsumdan tashqari oylarda marketingni butunlay to‘xtatish.
+
+![Byudjetni nazorat qilish: haftalik tartib](/img/blog/illus/marketing-byudjeti-rejasi-3.jpg 1200x675)
 
 ## Byudjetni nazorat qilish: haftalik tartib
 

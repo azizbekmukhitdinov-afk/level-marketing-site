@@ -12,6 +12,8 @@ rubric: target
 
 When people think of search advertising, most only think of Google Ads. But in Uzbekistan, especially among Russian-speaking users, Yandex search and Yandex Maps are also widely used. **Yandex Direct** is Yandex's advertising system. Here is when it helps, how it differs from Google Ads and how to launch your first campaign.
 
+![What Yandex Direct is](/img/blog/illus/yandex-direkt-ozbekistonda-1.jpg 1200x675)
+
 ## What Yandex Direct is
 
 Yandex Direct shows ads in several places:
@@ -46,6 +48,8 @@ The best results usually come from testing both systems and comparing cost per l
 5. Write ads: the query in the headline, your offer and advantage in the text, plus sitelinks.
 6. Send each ad to a relevant page, not the home page.
 
+![Common mistakes](/img/blog/illus/yandex-direkt-ozbekistonda-2.jpg 1200x675)
+
 ## Common mistakes
 
 - Broad keywords without negatives — budget goes on irrelevant searches.
@@ -71,6 +75,8 @@ Give each group its own ad and its own landing page, so the ad answers the query
 - **Sitelinks:** "Catalogue", "Prices", "Instalments", "Contacts".
 
 This is an illustrative example: your text should only make promises you actually keep.
+
+![The first two weeks: what to watch](/img/blog/illus/yandex-direkt-ozbekistonda-3.jpg 1200x675)
 
 ## The first two weeks: what to watch
 

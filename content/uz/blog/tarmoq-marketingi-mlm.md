@@ -12,6 +12,8 @@ rubric: biznes
 
 Instagram yoki Telegram'da "uydan turib daromad", "o‘z biznesingizni boshlang", "jamoamizga qo‘shiling" degan takliflarni ko‘p uchratasiz. Ularning katta qismi tarmoq marketingi, ya'ni MLM (multi-level marketing) haqida. Ushbu maqolada MLM qanday ishlashini, unda kim pul topishini va halol tarmoq kompaniyasini moliyaviy piramidadan qanday ajratishni marketolog nigohi bilan ko‘rib chiqamiz.
 
+![MLM nima: oddiy so‘zlar bilan](/img/blog/illus/tarmoq-marketingi-mlm-1.jpg 1200x675)
+
 ## MLM nima: oddiy so‘zlar bilan
 
 Tarmoq marketingi — mahsulot do‘kon va reklama orqali emas, odamlar orqali sotiladigan model. Ishtirokchi ("distribyutor", "hamkor", "konsultant") ikki yo‘l bilan daromad oladi:
@@ -80,6 +82,8 @@ Ikki-uchta savolga aniq javob olmasangiz — bu jiddiy signal.
 
 MLM'ga qiziqqan ko‘pchilikni aslida mahsulot emas, o‘z biznesiga ega bo‘lish g‘oyasi jalb qiladi. Bugun O‘zbekistonda kichik biznes uchun to‘g‘ridan-to‘g‘ri sotuv kanallari ochiq: Instagram, Telegram, Uzum Market. O‘z mahsulotingiz yoki xizmatingizni sotsangiz, butun daromad sizda qoladi, mijozlar bazasi va brend esa sizniki bo‘ladi. Qanday boshlash haqida [Instagram'da target sozlash qo‘llanmasida](/blog/instagramda-target-reklama-sozlash/) va [target reklama narxi haqidagi maqolada](/blog/target-reklama-narxi-ozbekistonda/) yozganmiz.
 
+![MLM daromadini qanday hisoblash](/img/blog/illus/tarmoq-marketingi-mlm-2.jpg 1200x675)
+
 ## MLM daromadini qanday hisoblash
 
 Va'da qilingan bonusdan emas, sof daromaddan kelib chiqing:
@@ -126,6 +130,8 @@ Jadvaldan ko‘rinadiki, daromad mijozlarga sotuvdan kelsa — bu biznes; asosan
 ## Yaqinlaringizni qanday himoya qilish mumkin
 
 Agar yaqiningiz MLM'ga qiziqib qolgan bo‘lsa, ayblamang va kulmang — bu uni yanada uzoqlashtiradi. Birga sof daromadni hisoblashni taklif qiling, kompaniya hujjatlarini so‘rang va «start paket» uchun qarz bermang. Qaror qilish uchun vaqt bering: bosim ostida qabul qilingan qaror ko‘pincha xato bo‘ladi.
+
+![Qaror uchun oddiy test](/img/blog/illus/tarmoq-marketingi-mlm-3.jpg 1200x675)
 
 ## Qaror uchun oddiy test
 

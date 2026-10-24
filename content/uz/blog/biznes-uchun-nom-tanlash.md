@@ -12,6 +12,8 @@ rubric: brend
 
 Nom — mijoz siz haqingizda eshitadigan birinchi so‘z. Yaxshi nom esda qoladi, qidiruvda topiladi va tavsiya qilish oson; yomon nom esa har bir reklamada qo‘shimcha tushuntirish talab qiladi. Bu maqolada biznes uchun nom tanlashning 8 ta qoidasini va jarayonni ko‘rib chiqamiz.
 
+![8 ta qoida](/img/blog/illus/biznes-uchun-nom-tanlash-1.jpg 1200x675)
+
 ## 8 ta qoida
 
 1. **Qisqa va aytish oson.** O‘zbek, rus va ingliz tilida so‘zlashuvchilar bir xil talaffuz qila olsin.
@@ -40,6 +42,8 @@ Nom — mijoz siz haqingizda eshitadigan birinchi so‘z. Yaxshi nom esda qoladi
 4. Mijozlarda test.
 5. Tanlash va darhol ro‘yxatdan o‘tkazish.
 
+![Ko‘p uchraydigan xatolar](/img/blog/illus/biznes-uchun-nom-tanlash-2.jpg 1200x675)
+
 ## Ko‘p uchraydigan xatolar
 
 - Faqat o‘ziga yoqqani uchun tanlash.
@@ -64,6 +68,8 @@ Agar nom bitta bandda ham o‘tmasa — uni qayta ko‘rib chiqing: hozir o‘zg
 Nomni tanlaganingiz bilan uni band qiling: domenni sotib oling, ijtimoiy tarmoqlarda akkauntlar oching va tovar belgisini ro‘yxatdan o‘tkazish uchun ariza bering. Ariza tartibi va to‘lovlar haqida Intellektual mulk agentligining rasmiy manbalaridan bilib oling yoki yuristga murojaat qiling — bu yerdagi xato keyinchalik qimmatga tushadi.
 
 Shundan keyin nomni hamma joyda bir xil yozing: peshlavha, sayt, xaritalardagi kartochka va ijtimoiy tarmoqlar. Xaritalarga qo‘shish — [biznesni xaritalarga qo‘shish](/blog/biznesni-xaritalarga-qoshish/) maqolasida.
+
+![Nomni o‘zgartirish kerak bo‘lsa](/img/blog/illus/biznes-uchun-nom-tanlash-3.jpg 1200x675)
 
 ## Nomni o‘zgartirish kerak bo‘lsa
 

@@ -15,6 +15,8 @@ image: /img/cases/itops.jpg
 
 **Partnership:** 3 months.
 
+![What we did](/img/blog/illus/keys-itops-1.jpg 1200x675)
+
 ## What we did
 
 - Built a content strategy and Reels formats for the page.
@@ -27,12 +29,16 @@ image: /img/cases/itops.jpg
 | Followers | **1,000 from zero** |
 | Organic views | **6M and 4M** (top Reels) |
 
+![How to apply this approach](/img/blog/illus/keys-itops-2.jpg 1200x675)
+
 ## How to apply this approach
 
 1. Choose a format with a face: a regular presenter becomes familiar to the audience.
 2. Explain the product in an interesting, clear way: comparisons, Q&A, tests.
 3. Analyse your most-viewed Reels and repeat their format.
 4. Later, use the organic reach as an audience for retargeting and paid ads.
+
+![Who this suits](/img/blog/illus/keys-itops-3.jpg 1200x675)
 
 ## Who this suits
 

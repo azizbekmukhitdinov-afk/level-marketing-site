@@ -12,6 +12,8 @@ rubric: smm
 
 Stories are watched mostly by people who already know you — your followers. That makes Stories the easiest place to touch a warm audience every day and sell. Here is why Stories sell, which sequences work and a simple daily plan.
 
+![Why Stories sell](/img/blog/illus/stories-orqali-sotuv-1.jpg 1200x675)
+
 ## Why Stories sell
 
 - **A warm audience.** Viewers follow you and are interested.
@@ -55,6 +57,8 @@ You can message people who answered a sticker in Direct — that's a ready-made 
 - Face and voice — talk to camera in at least a few Stories.
 - Save your best Stories to highlights — more in [an Instagram profile that sells](/en/blog/instagram-profile-that-sells/).
 
+![How to measure results](/img/blog/illus/stories-orqali-sotuv-2.jpg 1200x675)
+
 ## How to measure results
 
 Track reach, exits after the first frame, the number of replies and link clicks. Note which sequences bring more messages.
@@ -97,6 +101,8 @@ No, but a face and a voice noticeably increase trust. If talking to camera is ha
 ### Should you promote Stories with ads?
 
 Yes, your best-performing Stories can run as ads — they're usually cheap and look natural. But ads don't replace daily Stories for your followers. For setting up ads, see [How to set up Instagram ads](/en/blog/how-to-set-up-instagram-ads/).
+
+![10 Stories ideas](/img/blog/illus/stories-orqali-sotuv-3.jpg 1200x675)
 
 ## 10 Stories ideas
 

@@ -12,6 +12,8 @@ rubric: target
 
 "Target reklama qancha turadi?" — tadbirkorlardan eng ko‘p eshitiladigan savol. Halol javob: bitta universal narx yo‘q. Lekin byudjet qaysi qismlardan iboratligini va uni o‘z biznesingiz uchun qanday hisoblashni bilsangiz, reklamaga qancha pul ajratish kerakligini aniq aytishingiz mumkin bo‘ladi.
 
+![Target reklama xarajatlari nimadan iborat](/img/blog/illus/target-reklama-narxi-ozbekistonda-1.jpg 1200x675)
+
 ## Target reklama xarajatlari nimadan iborat
 
 Ko‘pchilik faqat targetolog xizmati narxini so‘raydi, ammo umumiy xarajat uch qismdan tashkil topadi:
@@ -83,6 +85,8 @@ Qaysi model bo‘lishidan qat'i nazar, nimaga pul to‘layotganingizni aniqlang:
 
 Ko‘p tadbirkorlar faqat reklama byudjetini hisoblaydi va qolgan xarajatlarni unutadi. Bitta mijoz narxini hisoblaganda barcha moddalarni qo‘shing — bu haqda [ROMI](/blog/romi-hisoblash/) maqolasida.
 
+![Kontent narxi: nimaga pul ketadi](/img/blog/illus/target-reklama-narxi-ozbekistonda-2.jpg 1200x675)
+
 ## Kontent narxi: nimaga pul ketadi
 
 - **Suratga olish kuni** — bir kunda bir nechta video va rasm.
@@ -122,6 +126,8 @@ Ariza narxi bir necha hafta davomida maqsaddan barqaror past bo‘lsa, sotuv bo�
 | Ko‘chmas mulk, B2B | Yuqori | Oylar | Saralash, uzun voronka |
 
 Bu raqamlar emas, yo‘nalish: aniq ariza narxini faqat o‘z testingiz ko‘rsatadi.
+
+![Reklamadan oldin nima tayyor bo‘lishi kerak](/img/blog/illus/target-reklama-narxi-ozbekistonda-3.jpg 1200x675)
 
 ## Reklamadan oldin nima tayyor bo‘lishi kerak
 

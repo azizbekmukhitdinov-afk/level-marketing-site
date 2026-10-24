@@ -12,6 +12,8 @@ rubric: smm
 
 Ads and content bring people into your comments and DMs — that's where the sale starts. An unanswered question or a curt "price in DM" loses a customer who was ready to buy. Here are standards for handling comments and messages, ready templates and how to respond to criticism.
 
+![Why it matters](/img/blog/illus/izohlar-va-direct-1.jpg 1200x675)
+
 ## Why it matters
 
 - **Everyone sees comments.** One reply informs dozens of readers.
@@ -46,6 +48,8 @@ A template is only a starting point: always adapt it to the customer's name and 
 
 A well-handled complaint often impresses new customers more than praise. For working with reviews, see our [online reputation](/en/blog/online-reputation-and-reviews/) article.
 
+![Spam and automation](/img/blog/illus/izohlar-va-direct-2.jpg 1200x675)
+
 ## Spam and automation
 
 - Turn on the hidden words filter in Instagram settings.
@@ -72,6 +76,8 @@ Weekly: number of messages, leads from them, sales from leads and average respon
 **"I'll think about it":** "Of course! What would help you decide — photos in another colour or customer reviews? I'll send them now."
 
 **"Where are you located?":** "We're at [address, landmark], open [hours]. Shall I send a map link? If you message us before you come, we'll have the model ready for you."
+
+![Common mistakes](/img/blog/illus/izohlar-va-direct-3.jpg 1200x675)
 
 ## Common mistakes
 

@@ -12,6 +12,8 @@ rubric: video
 
 Sotadigan Reels uchun qimmat kamera shart emas — zamonaviy telefon yetarli. Professional ko‘rinishni jihoz emas, uch narsa beradi: yorug‘lik, ovoz va to‘g‘ri kadr. Bu maqolada telefonda Reels'ni qanday sozlash, suratga olish va tez montaj qilishni ko‘rib chiqamiz.
 
+![Telefon sozlamalari](/img/blog/illus/telefonda-reels-suratga-olish-1.jpg 1200x675)
+
 ## Telefon sozlamalari
 
 - **Format:** vertikal 9:16, 1080p yoki 4K.
@@ -49,6 +51,8 @@ Tomoshabin xira tasvirni kechiradi, lekin yomon ovozni kechirmaydi.
 
 Shtativ — eng arzon va zarur jihoz. Harakatli kadrlar uchun — gimbal yoki telefonning stabilizatsiya rejimi.
 
+![Suratga olish jarayoni](/img/blog/illus/telefonda-reels-suratga-olish-2.jpg 1200x675)
+
 ## Suratga olish jarayoni
 
 1. Ssenariyni oldindan yozing — [Reels ssenariy shablonlari](/blog/reels-ssenariy-shablon/) yordam beradi.
@@ -79,6 +83,8 @@ B-roll — gapirayotgan odam o‘rniga ko‘rsatiladigan qo‘shimcha kadrlar. U
 - ish jarayonidagi jamoa;
 - mijoz buyurtmani qabul qilayotgan payt (uning roziligi bilan);
 - ekran yozuvi: sayt, ilova yoki hisobot.
+
+![Ko‘p uchraydigan xatolar](/img/blog/illus/telefonda-reels-suratga-olish-3.jpg 1200x675)
 
 ## Ko‘p uchraydigan xatolar
 

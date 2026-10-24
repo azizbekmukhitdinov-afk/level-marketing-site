@@ -12,6 +12,8 @@ rubric: biznes
 
 At the start of a business, marketing mistakes are especially costly: money is short and time is shorter. Here are the 7 most common mistakes new entrepreneurs make, and how to fix them.
 
+![1. A product for everyone](/img/blog/illus/yangi-tadbirkor-xatolari-1.jpg 1200x675)
+
 ## 1. A product "for everyone"
 
 "Everyone needs our product" means your ads speak to no one in particular. Choose one core segment: who they are, where they are and what problem they have. See our guide to [target audiences](/en/blog/target-audience-and-customer-persona/).
@@ -31,6 +33,8 @@ The same offer, the same photos, the same copy — price becomes the only differ
 ## 5. Expecting instant results
 
 Switching ads off after 2–3 days because "it doesn't work" is a common mistake. Every campaign needs a test period: try several creatives and audiences, then keep the best. Here's how: [A/B testing ad creatives](/en/blog/ab-testing-ad-creatives/).
+
+![6. Weak lead handling](/img/blog/illus/yangi-tadbirkor-xatolari-2.jpg 1200x675)
 
 ## 6. Weak lead handling
 
@@ -67,6 +71,8 @@ At the end of each month, record the same numbers: spend, leads, sales and cost 
 - **Not building a customer list.** Every buyer's contact is the cheapest channel for the next sale.
 - **Relying on a single channel.** If the account gets blocked or the algorithm changes, the flow of leads stops.
 - **Hiding the price.** "Price in DM" makes many people leave without writing.
+
+![Check yourself: 8 questions](/img/blog/illus/yangi-tadbirkor-xatolari-3.jpg 1200x675)
 
 ## Check yourself: 8 questions
 

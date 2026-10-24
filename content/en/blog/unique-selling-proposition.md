@@ -12,6 +12,8 @@ rubric: brend
 
 If customers can't see the difference between you and a competitor, they compare only price — and pick the cheapest. A **unique selling proposition (USP)** is one concrete reason to choose you. Here is how to find your USP, phrase it and where to use it.
 
+![3 signs of a good USP](/img/blog/illus/unikal-savdo-taklifi-1.jpg 1200x675)
+
 ## 3 signs of a good USP
 
 1. **It matters to the customer** — it solves their problem or removes a fear.
@@ -46,6 +48,8 @@ The last example comes from our [Global Avenue case](/en/blog/case-global-avenue
 
 Important: a USP must be true and delivered. A broken promise hurts a brand more than no advertising at all.
 
+![Where to use your USP](/img/blog/illus/unikal-savdo-taklifi-2.jpg 1200x675)
+
 ## Where to use your USP
 
 - In your Instagram bio and pinned posts.
@@ -71,6 +75,8 @@ A USP that looks good in the office may not work in the market. Test it before a
 - **Certificates and licences** — especially in healthcare and education.
 
 Keep the proof next to the promise: if an ad makes the promise, the proof should be in that ad too.
+
+![Common mistakes](/img/blog/illus/unikal-savdo-taklifi-3.jpg 1200x675)
 
 ## Common mistakes
 

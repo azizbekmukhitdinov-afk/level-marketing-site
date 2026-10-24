@@ -12,6 +12,8 @@ rubric: sotuv
 
 Two managers sell leads from the same ad very differently: one closes many, the other few. The difference is usually not talent but structure. A **sales script** is a step-by-step plan for the conversation: it helps new managers learn faster and reduces lost sales. Here is the structure of a script and a ready example.
 
+![A script isn't robot-speak](/img/blog/illus/sotuv-skripti-1.jpg 1200x675)
+
 ## A script isn't robot-speak
 
 A script isn't text to read word for word — it's a map: what to ask at each stage and where to steer. A live conversation adapted to the customer's name and question gets the best results.
@@ -40,6 +42,8 @@ A script isn't text to read word for word — it's a map: what to ask at each st
 - Photos, video or voice notes are more convincing than text.
 - End every message with a question so the conversation doesn't stall.
 - Reply fast — see our [lead response time](/en/blog/lead-response-time/) article.
+
+![How to improve the script](/img/blog/illus/sotuv-skripti-2.jpg 1200x675)
 
 ## How to improve the script
 
@@ -74,6 +78,8 @@ Don't ask them all in a row — pick the 3–4 that fit the conversation. Record
 - Arguing with an objection.
 - Ending the conversation without agreeing on a next step.
 - Delivering the script in a monotone, as if reading it.
+
+![A follow-up script](/img/blog/illus/sotuv-skripti-3.jpg 1200x675)
 
 ## A follow-up script
 

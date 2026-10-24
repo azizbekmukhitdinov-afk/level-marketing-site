@@ -12,6 +12,8 @@ rubric: sotuv
 
 Bir xil reklamadan kelgan arizalarni ikki menejer turlicha sotadi: biri ko‘p, biri kam. Farq ko‘pincha iste'dodda emas, tuzilmada. **Sotuv skripti** — suhbatning qadamma-qadam rejasi: u yangi menejerlarga tez o‘rganishga yordam beradi va yo‘qotilgan sotuvlarni kamaytiradi. Bu maqolada skript tuzilmasini va tayyor misolni ko‘rib chiqamiz.
 
+![Skript — robot gapi emas](/img/blog/illus/sotuv-skripti-1.jpg 1200x675)
+
 ## Skript — robot gapi emas
 
 Skript so‘zma-so‘z o‘qiladigan matn emas, balki yo‘l xaritasi: qaysi bosqichda nima so‘rash va qayerga olib borish kerak. Jonli, mijozning ismi va savoliga moslashgan suhbat — eng yaxshi natija beradi.
@@ -40,6 +42,8 @@ Skript so‘zma-so‘z o‘qiladigan matn emas, balki yo‘l xaritasi: qaysi bos
 - Rasm, video yoki ovozli xabar — matndan ko‘ra ishonchliroq.
 - Har bir xabarni savol bilan tugating — suhbat to‘xtamasin.
 - Tez javob — bu haqda [arizaga javob berish tezligi](/blog/arizaga-javob-tezligi/) maqolasida.
+
+![Skriptni qanday yaxshilash](/img/blog/illus/sotuv-skripti-2.jpg 1200x675)
 
 ## Skriptni qanday yaxshilash
 
@@ -74,6 +78,8 @@ Barcha savollarni ketma-ket bermang — suhbatga mos 3–4 tasini tanlang. Mijoz
 - E'tiroz bilan bahslashish.
 - Keyingi qadam kelishilmasdan suhbatni tugatish.
 - Skriptni bir xil ohangda, o‘qiyotgandek aytish.
+
+![Qayta aloqa skripti](/img/blog/illus/sotuv-skripti-3.jpg 1200x675)
 
 ## Qayta aloqa skripti
 

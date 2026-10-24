@@ -12,6 +12,8 @@ rubric: sotuv
 
 "Is advertising paying off?" deserves an answer from a formula, not a feeling. **ROMI** (return on marketing investment) shows how much profit each unit of money spent on marketing brought back. Here is how to calculate ROMI, how it differs from ROI and ROAS and which costs to include.
 
+![The formula](/img/blog/illus/romi-hisoblash-1.jpg 1200x675)
+
 ## The formula
 
 > ROMI = (profit from marketing − marketing costs) ÷ marketing costs × 100%
@@ -43,6 +45,8 @@ In the example, ROAS = 6,000 ÷ 700 ≈ 8.6. ROAS looks high but ignores margin 
 - Content production: video, design.
 - Tools: CRM and services (the marketing share).
 
+![What makes it tricky](/img/blog/illus/romi-hisoblash-2.jpg 1200x675)
+
 ## What makes it tricky
 
 - **Long sales cycles** — the lead comes this month, payment next month. Match periods correctly.
@@ -73,6 +77,8 @@ The table suggests moving part of the budget to Google. But every channel has li
 4. **Repeat sales** — turn one-off customers into long-term ones.
 
 Ways 2 and 4 are often the cheapest: ROMI rises without spending more on ads.
+
+![Common mistakes](/img/blog/illus/romi-hisoblash-3.jpg 1200x675)
 
 ## Common mistakes
 

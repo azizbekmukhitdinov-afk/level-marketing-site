@@ -12,6 +12,8 @@ rubric: brend
 
 «Yaqin atrofdagi stomatologiya», «Chilonzordagi avtoservis» — odamlar xizmatni tobora ko‘proq xaritalardan qidiradi. Google va Yandex Xaritalaridagi kartochka — bepul va eng «issiq» mijozlar manbalaridan biri. Bu maqolada kompaniya kartochkasini qanday ochish, tasdiqlash va qidiruvda yuqoriga chiqarishni ko‘rib chiqamiz.
 
+![Xaritalar nima beradi](/img/blog/illus/biznesni-xaritalarga-qoshish-1.jpg 1200x675)
+
 ## Xaritalar nima beradi
 
 - Yaqin atrofda qidirayotgan mijozlar sizni topadi.
@@ -48,6 +50,8 @@ Xaritalar uchta narsaga qaraydi:
 
 Shuningdek, nom, manzil va telefon barcha joyda — sayt, Instagram, kataloglar — bir xil bo‘lishi kerak.
 
+![Ko‘p uchraydigan xatolar](/img/blog/illus/biznesni-xaritalarga-qoshish-2.jpg 1200x675)
+
 ## Ko‘p uchraydigan xatolar
 
 - Nomga kalit so‘zlar qo‘shish («Stomatologiya arzon Toshkent eng yaxshi») — bu qoidalarga zid va kartochka bloklanishi mumkin.
@@ -74,6 +78,8 @@ Faqat haqiqiy rasmlardan foydalaning: stok rasmlar ishonchni pasaytiradi. Rasmla
 4. **Har bir sharhga javob bering** — ijobiysiga ham, salbiysiga ham.
 
 Ijobiy sharh uchun sovg‘a yoki chegirma va'da qilmang va soxta sharh buyurtma qilmang: bu platformalar qoidalariga zid va kartochkaga zarar keltirishi mumkin. Fikr yig‘ish tizimi — [mijoz fikrini yig‘ish](/blog/mijoz-fikrini-yigish/) maqolasida.
+
+![Oylik parvarish chek-list](/img/blog/illus/biznesni-xaritalarga-qoshish-3.jpg 1200x675)
 
 ## Oylik parvarish chek-list
 

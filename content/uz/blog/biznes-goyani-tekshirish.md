@@ -12,6 +12,8 @@ rubric: biznes
 
 Eng qimmat xato — hech kimga kerak bo‘lmagan mahsulotga oylar va pul sarflash. Katta reklama byudjetidan oldin talabni arzon usullar bilan tekshirish mumkin. Bu maqolada g‘oyani bir necha hafta ichida va kichik xarajat bilan sinashning 6 usulini ko‘rib chiqamiz.
 
+![1. Raqobatchilarni o‘rganing](/img/blog/illus/biznes-goyani-tekshirish-1.jpg 1200x675)
+
 ## 1. Raqobatchilarni o‘rganing
 
 Agar bunday mahsulotni hech kim sotmasa, ehtimol talab yo‘q — yoki siz bo‘sh joy topdingiz. Raqobatchilar ko‘p bo‘lsa, talab bor, lekin ajralib turish kerak. Ularning narxi, taklifi va sharhlarini ko‘ring, faol reklamalarini esa Meta Ad Library'da toping. Batafsil — [raqobatchilar tahlili](/blog/raqobatchilar-tahlili/) maqolasida.
@@ -35,6 +37,8 @@ Bir necha kun davomida cheklangan byudjet bilan reklama yoqing va CTR, ariza nar
 ## 6. Oldindan buyurtma
 
 Eng kuchli signal — odamlar mahsulot hali yo‘q paytda pul to‘lashga tayyor. Halol bo‘ling: yetkazib berish sanasini ayting va muddat buzilsa pulni qaytaring.
+
+![Usullarni solishtirish](/img/blog/illus/biznes-goyani-tekshirish-2.jpg 1200x675)
 
 ## Usullarni solishtirish
 
@@ -85,6 +89,8 @@ Salbiy natija — muvaffaqiyatsizlik emas, tejalgan pul. Undan keyin bitta narsa
 - Muvaffaqiyat mezonini oldindan yozmaslik.
 - Mahsulotni to‘liq tayyorlab, keyin sotishni sinash.
 - Juda kichik tanlov asosida xulosa chiqarish.
+
+![Minimal mahsulot bilan sinash](/img/blog/illus/biznes-goyani-tekshirish-3.jpg 1200x675)
 
 ## Minimal mahsulot bilan sinash
 

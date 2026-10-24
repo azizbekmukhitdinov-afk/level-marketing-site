@@ -12,6 +12,8 @@ rubric: target
 
 O‘zbekistonda Telegram — eng ko‘p ishlatiladigan messenjerlardan biri: yangiliklar, chegirmalar, ta'lim va savdo kanallari millionlab obunachilarga ega. Shuning uchun Telegram'da reklama ko‘plab bizneslar uchun muhim kanal. Bu maqolada ikki asosiy usul — rasmiy **Telegram Ads** va **kanallarda post joylash** — farqini va natijani qanday o‘lchashni ko‘rib chiqamiz.
 
+![1-usul: rasmiy Telegram Ads](/img/blog/illus/telegram-ads-reklama-1.jpg 1200x675)
+
 ## 1-usul: rasmiy Telegram Ads
 
 Telegram'ning o‘z reklama platformasi (ads.telegram.org) yirik ommaviy kanallarda qisqa homiylik xabarlarini ko‘rsatadi.
@@ -48,6 +50,8 @@ Eng ko‘p ishlatiladigan usul — mavzuli kanallar adminlari bilan kelishib, re
 - Bitta aniq harakatga chaqiruv va bitta havola.
 - Rasm yoki qisqa video — ko‘zga tashlanishi uchun.
 
+![Ko‘p uchraydigan xatolar](/img/blog/illus/telegram-ads-reklama-2.jpg 1200x675)
+
 ## Ko‘p uchraydigan xatolar
 
 - Faqat obunachilar soniga qarab kanal tanlash.
@@ -69,6 +73,8 @@ Kelishuvni yozma ravishda, chatda qayd eting — keyin tortishuv bo‘lmasligi u
 > «IELTS'da eng ko‘p ball yo‘qotiladigan bo‘lim — Writing. [Kanal nomi]da har kuni bitta tahlil qilingan insho va xatolar ro‘yxatini joylaymiz. Obuna bo‘ling — birinchi postda tayyor shablon bor 👇 [taklif havolasi]»
 
 Postda bitta foyda, bitta sabab yoki isbot va bitta havola bo‘lsin. Matnni kanal uslubiga moslash uchun admin bilan oldindan kelishing.
+
+![Byudjetni qanday taqsimlash](/img/blog/illus/telegram-ads-reklama-3.jpg 1200x675)
 
 ## Byudjetni qanday taqsimlash
 

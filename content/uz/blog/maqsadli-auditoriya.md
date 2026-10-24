@@ -12,6 +12,8 @@ rubric: biznes
 
 «Bizning auditoriyamiz — 18–45 yoshli ayollar» — bu auditoriya tavsifi emas. Yaxshi mijoz portreti reklamada nima deyish, uni kimga va qayerda ko‘rsatishni aytib beradi. Bu maqolada bozorni segmentlash, mijoz portretini tuzish va undan reklamada foydalanishni ko‘rib chiqamiz.
 
+![1-qadam: segmentlash](/img/blog/illus/maqsadli-auditoriya-1.jpg 1200x675)
+
 ## 1-qadam: segmentlash
 
 Bozorni ehtiyojlari o‘xshash guruhlarga ajrating:
@@ -55,6 +57,8 @@ Har bir segment uchun bitta «tipik» mijozni tasvirlang. **Misol (shartli):** b
 
 Aniq kreativ reklama algoritmiga ham to‘g‘ri odamlarni topishda yordam beradi: tizim reklamani unga reaksiya bildirganlarga o‘xshash odamlarga ko‘rsatadi. Sozlash asoslari — [Instagram'da target reklama](/blog/instagramda-target-reklama-sozlash/) qo‘llanmasida.
 
+![Mijoz bilan suhbat uchun 8 ta savol](/img/blog/illus/maqsadli-auditoriya-2.jpg 1200x675)
+
 ## Mijoz bilan suhbat uchun 8 ta savol
 
 1. Bizni qanday topdingiz va nega aynan bizni tanladingiz?
@@ -75,6 +79,8 @@ B2B'da qarorni bitta odam emas, bir nechta odam qabul qiladi: foydalanuvchi, rah
 ## Portretni jamoada qanday ishlatish
 
 Portretni bir sahifaga sig‘diring va uni SMM menejer, dizayner, targetolog va sotuv bo‘limiga bering. Har bir brifda unga havola qiling. Har bir yangi reklama yoki post oldidan oddiy savol bering: «Bu Malika uchunmi?» Javob «yo‘q» bo‘lsa, matn yoki kreativni qayta ko‘rib chiqing.
+
+![Ko‘p uchraydigan xatolar](/img/blog/illus/maqsadli-auditoriya-3.jpg 1200x675)
 
 ## Ko‘p uchraydigan xatolar
 

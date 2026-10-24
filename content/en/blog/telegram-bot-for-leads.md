@@ -11,6 +11,8 @@ rubric: sotuv
 
 In Uzbekistan, customers message on Telegram first. That makes collecting leads with a Telegram bot the most natural channel after a website or a lead form: the customer stays in a familiar app, and you get a ready name, phone number and request. Below, step by step: what the bot should ask, where the lead goes and how a manager should handle it.
 
+![Why a Telegram bot](/img/blog/illus/telegram-bot-orqali-arizalar-1.jpg 1200x675)
+
 ## Why a Telegram bot
 
 After visiting Tashkent in June 2024, Telegram founder Pavel Durov wrote that more than 70% of Uzbekistan's population is on Telegram ([Spot](https://www.spot.uz/oz/2024/06/30/pavel-durov/)). That is the company's own figure, but everyday experience points the same way: customers of shops, clinics and training centres would rather write than call.
@@ -81,6 +83,8 @@ The bot collects leads, but the manager brings in the money. The most common pro
 
 A simple rule in the managers' group also helps: whoever takes a lead reacts to the message or replies "mine". That way two people never call the same customer, and no lead is left unanswered.
 
+![How to track the ad source](/img/blog/illus/telegram-bot-orqali-arizalar-2.jpg 1200x675)
+
 ## How to track the ad source
 
 A big advantage of a bot is that you can see which ad each lead came from. Telegram supports a start parameter for this: you add a tag to the bot link, for example `t.me/your_bot?start=insta_kitchen`. When a customer opens the bot through that link, the bot sees the tag and saves it with the lead.
@@ -123,6 +127,8 @@ Whichever route you choose, check before launch:
 - there is an after-hours auto-reply;
 - every ad has its own start link;
 - you have left a test lead yourself or through a friend.
+
+![Common mistakes](/img/blog/illus/telegram-bot-orqali-arizalar-3.jpg 1200x675)
 
 ## Common mistakes
 

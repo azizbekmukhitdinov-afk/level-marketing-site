@@ -12,6 +12,8 @@ rubric: video
 
 A trend is a format, sound or idea that lots of people use at the same time. Used well, it helps you reach a new audience fast; used badly, it makes a brand look silly or awkward. Here is where to find trends, when to join them and how to adapt them for a business.
 
+![Where to find trends](/img/blog/illus/trendlardan-foydalanish-1.jpg 1200x675)
+
 ## Where to find trends
 
 - **The Reels tab** — popular sounds show a growth indicator.
@@ -44,6 +46,8 @@ Trends are short-lived — often days to a few weeks. Join early and you get mor
 - Trends tied to politics, tragedy or mocking someone.
 - When your audience won't get it.
 - When it doesn't fit your brand at all — forced attempts show.
+
+![Important: trending music and ads](/img/blog/illus/trendlardan-foydalanish-2.jpg 1200x675)
 
 ## Important: trending music and ads
 
@@ -78,6 +82,8 @@ Compare a trend video with the average results of your regular posts:
 | DMs and leads | Whether the reach moved people closer to buying |
 
 If reach is high but nobody visits the profile, the trend isn't connected to your brand. How the algorithm distributes reach is covered in [How the Instagram algorithm works](/en/blog/how-the-instagram-algorithm-works/).
+
+![Common mistakes](/img/blog/illus/trendlardan-foydalanish-3.jpg 1200x675)
 
 ## Common mistakes
 

@@ -12,6 +12,8 @@ rubric: video
 
 On Instagram Reels and TikTok, people decide in a couple of seconds whether to keep watching or scroll. What holds them in that moment? The **hook**: the line, shot or action at the very start of the video. Here are 10 hook types that work for businesses, with examples.
 
+![What a hook is and why it matters](/img/blog/illus/reels-uchun-hooklar-1.jpg 1200x675)
+
 ## What a hook is and why it matters
 
 A hook is the first 1–3 seconds of a video that tell the viewer "this is about me, I'll watch to the end". The Reels algorithm pays close attention to how many people finish a video. With a weak hook, even the most useful content goes unseen and ads get more expensive.
@@ -80,6 +82,8 @@ We cover creative testing and cost per lead in our [Instagram ads setup guide](/
 - **Horizontal video.** Reels need vertical 9:16.
 - **Slow editing.** No pauses in the first seconds.
 
+![The three layers of a hook](/img/blog/illus/reels-uchun-hooklar-2.jpg 1200x675)
+
 ## The three layers of a hook
 
 A strong hook works on three levels at once:
@@ -113,6 +117,8 @@ Record every hook in one spreadsheet: the text, the type, the video and the resu
 - Change shots every 2–3 seconds.
 - Leave an open question like "the most important bit is at the end" — but be sure to close it.
 - End the video with what the hook promised.
+
+![Fill-in-the-blank hook templates](/img/blog/illus/reels-uchun-hooklar-3.jpg 1200x675)
 
 ## Fill-in-the-blank hook templates
 

@@ -21,7 +21,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="/style.css?v=4e945d48">
+<link rel="stylesheet" href="/style.css?v=6c390b39">
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BlogPosting", "headline": "Meta Pixel and Conversions API: why you need them and how to set them up", "description": "How Meta Pixel and the Conversions API help your ads, which events to track and the most common setup mistakes.", "image": "https://levelm.uz/covers/en-meta-pixel-and-conversions-api.svg", "datePublished": "2026-10-22", "dateModified": "2026-10-23", "inLanguage": "en", "mainEntityOfPage": "https://levelm.uz/en/blog/meta-pixel-and-conversions-api/", "author": {"@type": "Organization", "name": "Level Marketing", "url": "https://levelm.uz/"}, "publisher": {"@type": "Organization", "name": "Level Marketing", "url": "https://levelm.uz/"}}</script>
 </head>
 <body>
@@ -57,6 +57,7 @@ document.querySelectorAll('#menu a').forEach(function (a) {
   <img class="cover" src="/covers/en-meta-pixel-and-conversions-api.svg" alt="Meta Pixel and Conversions API: why you need them and how to set them up" width="1200" height="630">
   <nav class="toc"><ol><li><a href="#what-meta-pixel-is">What Meta Pixel is</a></li><li><a href="#what-the-conversions-api-is-and-why-the-pixel-isnt-enough">What the Conversions API is, and why the Pixel isn&#x27;t enough</a></li><li><a href="#which-events-to-track">Which events to track</a></li><li><a href="#how-to-set-it-up-5-steps">How to set it up: 5 steps</a></li><li><a href="#common-mistakes">Common mistakes</a></li><li><a href="#what-if-you-dont-have-a-website">What if you don&#x27;t have a website</a></li><li><a href="#how-to-check-your-events">How to check your events</a></li><li><a href="#event-parameters">Event parameters</a></li><li><a href="#privacy-and-consent">Privacy and consent</a></li><li><a href="#how-to-use-pixel-data">How to use Pixel data</a></li><li><a href="#questions-and-answers">Questions and answers</a></li><li><a href="#conclusion">Conclusion</a></li><li><a href="#more-on-this-topic">More on this topic</a></li></ol></nav>
   <div class="prose"><p>Are your ads bringing sales, or just clicks? Only tracking can answer that precisely. Meta advertising has two tracking tools for it: <strong>Meta Pixel</strong> and the <strong>Conversions API</strong>. Here is why you need them, which events to track and which setup mistakes to avoid.</p>
+<figure class="illus"><img src="/img/blog/illus/meta-pixel-conversions-api-1.jpg" alt="What Meta Pixel is" loading="lazy" decoding="async" width="1200" height="675"></figure>
 <h2 id="what-meta-pixel-is">What Meta Pixel is</h2>
 <p>The Pixel is a small piece of code you add to your website. It tells Meta what a visitor did on your site: viewed a page, submitted a form, completed a purchase. As a result:</p>
 <ul><li>you can see in Ads Manager which ads brought leads and sales;</li><li>the algorithm learns to look for people who take exactly that action;</li><li>you can build a <a href="/en/blog/how-retargeting-works/">retargeting</a> audience of people who visited but didn't buy.</li></ul>
@@ -68,6 +69,7 @@ document.querySelectorAll('#menu a').forEach(function (a) {
 <ol><li>In <strong>Events Manager</strong> (business.facebook.com), create a new data source — a Pixel.</li><li>Add the code to your site. Builders like Tilda, WordPress or Shopify have ready integrations; on a custom site the code goes into the page header or through Google Tag Manager.</li><li>Set up the key events: at least Lead or Purchase, plus Contact for small businesses.</li><li>Connect the <strong>Conversions API</strong>: via your platform's integration, a Google Tag Manager server container or a developer.</li><li>Check in <strong>Test Events</strong> that every event arrives and what its Event Match Quality score is.</li></ol>
 <h2 id="common-mistakes">Common mistakes</h2>
 <ul><li>The Pixel is installed twice, so every event is counted double.</li><li>The Lead event fires on the form page itself rather than the "Thank you" page, so every visit looks like a lead.</li><li>The domain isn't verified in Business Manager.</li><li>The campaign objective doesn't match the optimisation event.</li></ul>
+<figure class="illus"><img src="/img/blog/illus/meta-pixel-conversions-api-2.jpg" alt="What if you don&#x27;t have a website" loading="lazy" decoding="async" width="1200" height="675"></figure>
 <h2 id="what-if-you-dont-have-a-website">What if you don't have a website</h2>
 <p>Many businesses sell through Instagram Direct or Telegram. Then you don't need the Pixel, but you still have to record sales: mark leads in a CRM or spreadsheet and compare which ads bring sales. For calculating cost per lead, see our <a href="/en/blog/cost-per-lead-cpl-how-to-lower/">CPL guide</a>.</p>
 <h2 id="how-to-check-your-events">How to check your events</h2>
@@ -76,6 +78,7 @@ document.querySelectorAll('#menu a').forEach(function (a) {
 <p>Add <strong>value</strong> and <strong>currency</strong> to Purchase and Lead events. Meta can then see which ads bring in more money and optimise towards higher-value customers. Stores with a catalogue also need product IDs (content_ids) — they power dynamic retargeting.</p>
 <h2 id="privacy-and-consent">Privacy and consent</h2>
 <p>Tell your website users about data collection in your privacy policy. Don't send sensitive data through events: medical conditions, financial circumstances and the like. Clinics need to be especially careful — a page URL or event name must not reveal a condition. Clinic marketing is covered in <a href="/en/blog/marketing-a-clinic/">Marketing a clinic</a>.</p>
+<figure class="illus"><img src="/img/blog/illus/meta-pixel-conversions-api-3.jpg" alt="How to use Pixel data" loading="lazy" decoding="async" width="1200" height="675"></figure>
 <h2 id="how-to-use-pixel-data">How to use Pixel data</h2>
 <ul><li>Optimise campaigns for the <strong>Lead</strong> or <strong>Purchase</strong> event, not for clicks.</li><li>Build <a href="/en/blog/how-retargeting-works/">retargeting</a> audiences from website visitors.</li><li>Create <a href="/en/blog/lookalike-audiences/">lookalike audiences</a> from leads and buyers.</li><li>See in reports which creative brings in leads.</li></ul>
 <h2 id="questions-and-answers">Questions and answers</h2>

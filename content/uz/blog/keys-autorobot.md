@@ -17,6 +17,8 @@ image: /img/cases/autorobot-logo.jpg
 
 **Hamkorlik muddati:** 8 oy.
 
+![Nima qildik](/img/blog/illus/keys-autorobot-1.jpg 1200x675)
+
 ## Nima qildik
 
 - **Kontent-matritsa** strategiyasini qurdik: jarayon, natija, ekspertlik va mijoz hikoyalarini muntazam almashtirib boradigan reja.
@@ -29,12 +31,16 @@ image: /img/cases/autorobot-logo.jpg
 | Obunachilar | **noldan 11 000** |
 | Target reklama | ishlatilmagan |
 
+![Bu yondashuvni qanday qo‘llash](/img/blog/illus/keys-autorobot-2.jpg 1200x675)
+
 ## Bu yondashuvni qanday qo‘llash
 
 1. Xizmatingizning ko‘z bilan ko‘rinadigan qismini toping — jarayon, natija, detal — va kontentni shunga quring.
 2. Kontent-matritsa tuzing: jarayon, natija, ekspertlik va mijoz hikoyalari navbatma-navbat chiqsin.
 3. «Oldin / keyin» kadrlarini har bir buyurtmada olishni odatga aylantiring — mijoz roziligi bilan.
 4. Muntazam bo‘ling: tizimli kontent natijasi oylar davomida to‘planadi.
+
+![Kimga mos](/img/blog/illus/keys-autorobot-3.jpg 1200x675)
 
 ## Kimga mos
 

@@ -13,6 +13,8 @@ image: /img/cases/loxen.jpg
 
 Farmatsevtikada reklama cheklangan, xaridor esa shifokor va farmatsevtga ishonadi. Shuning uchun ikkala loyihada iste'molchi va mutaxassisga bir vaqtda ishladik.
 
+![Loxen — og‘riq qoldiruvchi plastir](/img/blog/illus/keys-farmatsevtika-1.jpg 1200x675)
+
 ## Loxen — og‘riq qoldiruvchi plastir
 
 **Vazifa:** mahsulot o‘ziga xosligini aks ettiradigan aydentika yaratish, afzalliklarni turli kanallar orqali yetkazish va qiziqish uyg‘otish.
@@ -35,12 +37,16 @@ Farmatsevtikada reklama cheklangan, xaridor esa shifokor va farmatsevtga ishonad
 - Tibbiy vakillar uchun aksiyalar va taqdimotlar o‘tkazdik.
 - Dorixona tarmoqlariga preparat samaradorligiga urg‘u berilgan tijoriy takliflar yubordik.
 
+![Bu yondashuvni qanday qo‘llash](/img/blog/illus/keys-farmatsevtika-2.jpg 1200x675)
+
 ## Bu yondashuvni qanday qo‘llash
 
 1. Ikki auditoriyani alohida rejalashtiring: iste'molchi hamda mutaxassis va dorixona.
 2. Ekspert videolarda shifokorlar ishtirok etsin — ular ishonch manbai.
 3. B2B kanalni unutmang: dorixona tarmoqlari uchun tijoriy takliflar va taqdimotlar.
 4. Reklama qoidalari va qonun talablarini kampaniyadan oldin tekshiring.
+
+![Kimga mos](/img/blog/illus/keys-farmatsevtika-3.jpg 1200x675)
 
 ## Kimga mos
 

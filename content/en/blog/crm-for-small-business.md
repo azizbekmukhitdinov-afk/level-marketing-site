@@ -12,6 +12,8 @@ rubric: sotuv
 
 Leads arrive from Instagram, Telegram, the phone and your website, managers keep them in notebooks and chats — and some get lost. A **CRM** (customer relationship management system) collects every lead in one place and tracks it through to the sale. Here is when you need a CRM, how to choose one and how to roll it out.
 
+![Signs you need a CRM](/img/blog/illus/crm-tanlash-1.jpg 1200x675)
+
 ## Signs you need a CRM
 
 - Leads get lost or go unanswered.
@@ -46,6 +48,8 @@ In Uzbekistan, small and medium businesses often use systems like amoCRM (Kommo)
 4. **Train managers** and set a rule: "If a lead isn't in the CRM, it doesn't exist."
 5. **A weekly report** based on your [sales funnel](/en/blog/what-is-a-sales-funnel/).
 
+![Common mistakes](/img/blog/illus/crm-tanlash-2.jpg 1200x675)
+
 ## Common mistakes
 
 - Over-complicated setup — managers stop using it.
@@ -70,6 +74,8 @@ Loss reasons are especially useful: if many customers leave saying "too expensiv
 2. **Week 2:** move current leads over and train the managers.
 3. **Week 3:** check daily CRM use and fix awkward fields.
 4. **Week 4:** the first report and a decision on what to change.
+
+![Will a CRM pay off? A simple calculation](/img/blog/illus/crm-tanlash-3.jpg 1200x675)
 
 ## Will a CRM pay off? A simple calculation
 

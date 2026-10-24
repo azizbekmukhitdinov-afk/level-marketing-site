@@ -12,6 +12,8 @@ rubric: brend
 
 People trust a person faster than a company. That's why, for a doctor, lawyer, teacher, marketer or business owner, a personal brand is one of the cheapest ways to attract clients. Here is where to start, how to choose your positioning and how to plan the first 90 days.
 
+![What a personal brand gives you](/img/blog/illus/shaxsiy-brend-qayerdan-boshlash-1.jpg 1200x675)
+
 ## What a personal brand gives you
 
 - **Trust.** Clients already "know" you from your videos.
@@ -46,6 +48,8 @@ One main and one secondary platform are enough to start.
 3. **Personal** — values, your journey, moments from your workday.
 4. **Opinion** — your stance on industry issues.
 5. **Offer** — a consultation, service or product.
+
+![A plan for the first 90 days](/img/blog/illus/shaxsiy-brend-qayerdan-boshlash-2.jpg 1200x675)
 
 ## A plan for the first 90 days
 
@@ -86,6 +90,8 @@ You don't need to spend hours a day on a personal brand. A workable rhythm:
 | Once a month | Review the results and plan next month's topics |
 
 Editing and design can go to an assistant or an SMM manager, but the ideas and the voice must stay yours.
+
+![What to check after 90 days](/img/blog/illus/shaxsiy-brend-qayerdan-boshlash-3.jpg 1200x675)
 
 ## What to check after 90 days
 

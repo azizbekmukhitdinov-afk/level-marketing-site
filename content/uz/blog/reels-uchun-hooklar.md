@@ -12,6 +12,8 @@ rubric: video
 
 Instagram Reels va TikTok'da odam videoni davom ettirish yoki o‘tkazib yuborishni bir necha soniyada hal qiladi. Shu qisqa vaqtda uni nima ushlab qoladi? Javob — **hook** (ilmoq): videoning boshidagi gap, kadr yoki harakat. Bu maqolada biznes uchun ishlaydigan 10 ta hook turini misollar bilan ko‘rib chiqamiz.
 
+![Hook nima va nega u shunchalik muhim](/img/blog/illus/reels-uchun-hooklar-1.jpg 1200x675)
+
 ## Hook nima va nega u shunchalik muhim
 
 Hook — videoning birinchi 1–3 soniyasi bo‘lib, tomoshabinga "bu menga tegishli, oxirigacha ko‘raman" degan signal beradi. Reels algoritmi videoni qancha odam oxirigacha ko‘rganiga katta e'tibor beradi. Hook kuchsiz bo‘lsa, eng foydali kontent ham ko‘rilmaydi, reklama esa qimmatlashadi.
@@ -80,6 +82,8 @@ Kreativlarni test qilish va ariza narxini kuzatish haqida [Instagram'da target s
 - **Gorizontal video.** Reels uchun faqat vertikal 9:16 format.
 - **Juda sekin montaj.** Birinchi soniyalarda pauzalar bo‘lmasin.
 
+![Hook'ning uch qatlami](/img/blog/illus/reels-uchun-hooklar-2.jpg 1200x675)
+
 ## Hook'ning uch qatlami
 
 Kuchli hook bir vaqtda uch darajada ishlaydi:
@@ -113,6 +117,8 @@ Barcha hooklarni bitta jadvalga yozing: matn, turi, video va natija — birinchi
 - Kadrlarni har 2–3 soniyada almashtiring.
 - «Oxirida eng muhimi» kabi ochiq savol qoldiring — lekin uni albatta yoping.
 - Videoni hook'da va'da qilingan narsa bilan tugating.
+
+![To‘ldirish uchun hook shablonlari](/img/blog/illus/reels-uchun-hooklar-3.jpg 1200x675)
 
 ## To‘ldirish uchun hook shablonlari
 

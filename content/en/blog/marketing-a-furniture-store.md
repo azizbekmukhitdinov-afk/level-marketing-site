@@ -12,6 +12,8 @@ rubric: biznes
 
 Furniture is an expensive, infrequent purchase. Customers compare for a long time, want to see and touch the product, and fear getting the size, quality or colour wrong. That's why marketing a furniture store has to be built on trust and on showing rather than telling. Here is how to use Instagram, maps and paid ads.
 
+![What makes furniture sales different](/img/blog/illus/mebel-dokoni-marketing-1.jpg 1200x675)
+
 ## What makes furniture sales different
 
 - Decisions take weeks, often with the whole family involved.
@@ -54,6 +56,8 @@ Furniture is often bought in person, so your Google and Yandex Maps listing matt
 - A [lookalike audience](/en/blog/lookalike-audiences/) built from your buyer list.
 - [Retargeting](/en/blog/how-retargeting-works/) people who watched your catalogue videos.
 
+![From lead to sale](/img/blog/illus/mebel-dokoni-marketing-2.jpg 1200x675)
+
 ## From lead to sale
 
 1. A fast reply with photos, dimensions and price — [response time](/en/blog/lead-response-time/) is decisive.
@@ -88,6 +92,8 @@ Demand isn't even through the year: it usually rises when people move into new f
 - Answering DM questions slowly.
 - Not following up after a showroom visit.
 - Not collecting reviews with photos from customers' homes.
+
+![Partners: designers and builders](/img/blog/illus/mebel-dokoni-marketing-3.jpg 1200x675)
 
 ## Partners: designers and builders
 

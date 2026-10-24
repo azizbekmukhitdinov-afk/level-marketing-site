@@ -12,6 +12,8 @@ rubric: brend
 
 Har bir post turli shrift, rang va uslubda bo‘lsa, sahifa tartibsiz ko‘rinadi va brend esda qolmaydi. Katta kompaniyalar yuzlab sahifali brendbuk yaratadi, lekin kichik biznesga bir sahifali minimal to‘plam yetarli. Bu maqolada aynan shu minimumni ko‘rib chiqamiz.
 
+![Minimal to‘plam](/img/blog/illus/vizual-uslub-aydentika-1.jpg 1200x675)
+
 ## Minimal to‘plam
 
 | Element | Nima kerak |
@@ -40,6 +42,8 @@ Ikkitadan ko‘p shrift ishlatmang. O‘zbek lotin yozuvidagi o‘ va g‘ harfl
 ## Fotosurat uslubi
 
 Bir xil yorug‘lik, o‘xshash fon va rang tusi — lenta yaxlit ko‘rinadi. Telefonda suratga olish qoidalari — [telefonda Reels suratga olish](/blog/telefonda-reels-suratga-olish/) maqolasida.
+
+![Shablonlar va vositalar](/img/blog/illus/vizual-uslub-aydentika-2.jpg 1200x675)
 
 ## Shablonlar va vositalar
 
@@ -73,6 +77,8 @@ Aniq topshiriq qayta ishlashlarni kamaytiradi. Dizaynerga quyidagilarni bering:
 - uslub qayerda ishlatiladi: Instagram, peshlavha, qadoq, sayt;
 - qaysi fayllar kerak: logotip versiyalari, shablonlar, brendbuk;
 - muddat, byudjet va tuzatishlar soni.
+
+![Uslubni qanday saqlab qolish](/img/blog/illus/vizual-uslub-aydentika-3.jpg 1200x675)
 
 ## Uslubni qanday saqlab qolish
 

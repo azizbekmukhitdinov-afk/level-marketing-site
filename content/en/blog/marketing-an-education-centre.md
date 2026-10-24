@@ -12,6 +12,8 @@ rubric: biznes
 
 Education is about trust and results. Students — or their parents — choose a learning centre carefully: they invest time as well as money. Here is how people decide on courses and how to attract students.
 
+![How the decision is made](/img/blog/illus/oquv-markazi-marketing-1.jpg 1200x675)
+
 ## How the decision is made
 
 - **Who decides:** parents for children, the students themselves for adults.
@@ -39,6 +41,8 @@ People don't go to a centre — they go to a teacher. Teachers' mini-lessons, ti
 ## Seasonality
 
 At many learning centres, demand rises before the academic year starts, at the beginning of the new year and before exams. Check your own data and step up advertising 2–4 weeks before the peak.
+
+![Paid ads and Telegram](/img/blog/illus/oquv-markazi-marketing-2.jpg 1200x675)
 
 ## Paid ads and Telegram
 
@@ -77,6 +81,8 @@ In children's education, parents make the decision, and their questions are diff
 - Not calling after a trial lesson.
 - Using students' photos without consent.
 - Focusing only on new students and forgetting to keep existing ones.
+
+![How to present the course price](/img/blog/illus/oquv-markazi-marketing-3.jpg 1200x675)
 
 ## How to present the course price
 

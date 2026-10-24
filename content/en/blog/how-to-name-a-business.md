@@ -12,6 +12,8 @@ rubric: brend
 
 A name is the first word customers hear about you. A good name is memorable, easy to find and easy to recommend; a bad one needs explaining in every ad. Here are 8 rules for naming a business and the process to follow.
 
+![8 rules](/img/blog/illus/biznes-uchun-nom-tanlash-1.jpg 1200x675)
+
 ## 8 rules
 
 1. **Short and easy to say.** Uzbek, Russian and English speakers should all pronounce it the same way.
@@ -40,6 +42,8 @@ A name is the first word customers hear about you. A good name is memorable, eas
 4. Test with customers.
 5. Choose and register it straight away.
 
+![Common mistakes](/img/blog/illus/biznes-uchun-nom-tanlash-2.jpg 1200x675)
+
 ## Common mistakes
 
 - Choosing a name just because you like it.
@@ -64,6 +68,8 @@ If the name fails even one point, reconsider it: changing it now is far cheaper 
 As soon as you've chosen the name, lock it in: buy the domain, create the social accounts and file a trademark application. Check the filing procedure and fees with the official sources of Uzbekistan's Intellectual Property Agency or with a lawyer — a mistake here gets expensive later.
 
 Then write the name the same way everywhere: signage, website, map listings and social networks. For adding your business to maps, see [How to add your business to Google and Yandex Maps](/en/blog/add-your-business-to-maps/).
+
+![If you need to change the name](/img/blog/illus/biznes-uchun-nom-tanlash-3.jpg 1200x675)
 
 ## If you need to change the name
 

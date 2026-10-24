@@ -12,6 +12,8 @@ rubric: brend
 
 Before buying, people read reviews: ratings on Google and Yandex Maps, comments on Instagram, scores on Uzum Market. A handful of good reviews can work harder than advertising, while one unanswered complaint can scare customers away. Here is how to collect reviews and how to respond to negative ones.
 
+![Where reviews live](/img/blog/illus/onlayn-obro-sharhlar-1.jpg 1200x675)
+
 ## Where reviews live
 
 | Platform | Who reads them |
@@ -46,6 +48,8 @@ A well-handled complaint often impresses new customers more than praise does.
 
 If a review breaks the rules (abuse, advertising, unrelated to you), report it using the platform's tools. Still reply openly and calmly — other readers see your answer too.
 
+![Using reviews in content](/img/blog/illus/onlayn-obro-sharhlar-2.jpg 1200x675)
+
 ## Using reviews in content
 
 - Put your best reviews (with permission) in an Instagram "Reviews" highlight.
@@ -77,6 +81,8 @@ Assign a responsible person and ask for a short weekly report: how many new revi
 - Arguing with the customer in public or blaming them.
 - Revealing the customer's personal details in a reply — especially in clinics.
 - Answering only new reviews and ignoring older ones.
+
+![When many negative reviews arrive at once](/img/blog/illus/onlayn-obro-sharhlar-3.jpg 1200x675)
 
 ## When many negative reviews arrive at once
 

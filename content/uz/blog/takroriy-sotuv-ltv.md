@@ -12,6 +12,8 @@ rubric: sotuv
 
 Ko‘p bizneslar butun byudjetni yangi mijozlarni topishga sarflaydi, lekin bir marta sotib olgan odam allaqachon sizni taniydi va sizga ishonadi. **LTV** (lifetime value — mijozning umrbod qiymati) bitta mijoz siz bilan ishlagan butun davr mobaynida qancha daromad keltirishini ko‘rsatadi. Bu maqolada LTV'ni qanday hisoblash va takroriy sotuvni qanday oshirishni ko‘rib chiqamiz.
 
+![LTV qanday hisoblanadi](/img/blog/illus/takroriy-sotuv-ltv-1.jpg 1200x675)
+
 ## LTV qanday hisoblanadi
 
 Eng oddiy formula:
@@ -49,6 +51,8 @@ LTV'ni bilsangiz, bitta mijozni jalb qilishga qancha to‘lash mumkinligini bila
 2. Ularga shaxsiy taklif bilan qisqa xabar yuboring — umumiy reklama emas.
 3. Foydali kontent bering: yangi kelgan mahsulotlar, maslahatlar, yopiq aksiyalar — buning uchun [Telegram kanal](/blog/telegram-kanal-osish/) qulay.
 4. Spam qilmang: oyiga bir necha xabar yetarli, har birida aniq foyda bo‘lsin.
+
+![Qaysi raqamlarni kuzatish](/img/blog/illus/takroriy-sotuv-ltv-2.jpg 1200x675)
 
 ## Qaysi raqamlarni kuzatish
 
@@ -91,6 +95,8 @@ Bir necha oydan beri xarid qilmagan mijozlarga alohida xabar yozing. Faqat chegi
 - **Yopiq klub** — Telegram kanal yoki guruhda maxsus takliflar.
 
 Qoidalar bitta jumlada tushuntirilsin. Dastur narxini oldindan hisoblang: imtiyozlar marjangizni yeb qo‘ymasin.
+
+![Ko‘p uchraydigan xatolar](/img/blog/illus/takroriy-sotuv-ltv-3.jpg 1200x675)
 
 ## Ko‘p uchraydigan xatolar
 

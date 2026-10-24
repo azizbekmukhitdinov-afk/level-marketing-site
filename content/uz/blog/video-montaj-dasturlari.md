@@ -12,6 +12,8 @@ rubric: video
 
 Yaxshi suratga olingan video montajda yo jonlanadi, yo «o‘ladi». Lekin montaj uchun murakkab professional dastur shart emas — ko‘p bizneslarga telefondagi ilova yetarli. Bu maqolada telefon va kompyuter uchun asosiy dasturlarni, subtitrlar va montajni tezlashtirish usullarini ko‘rib chiqamiz.
 
+![Asosiy dasturlar](/img/blog/illus/video-montaj-dasturlari-1.jpg 1200x675)
+
 ## Asosiy dasturlar
 
 | Dastur | Platforma | Narxi | Kimga mos |
@@ -43,6 +45,8 @@ Ko‘pchilik videoni ovozsiz ko‘radi, shuning uchun subtitr shart. Ko‘p ilov
 4. **Bir kunda bir nechta videoni montaj qiling** — bitta uslubda ishlash tezroq.
 5. **Klaviatura yorliqlari**ni o‘rganing (kompyuterda).
 
+![Montajda ko‘p uchraydigan xatolar](/img/blog/illus/video-montaj-dasturlari-2.jpg 1200x675)
+
 ## Montajda ko‘p uchraydigan xatolar
 
 - Birinchi soniyalarda logotip va uzun intro.
@@ -71,6 +75,8 @@ Ko‘pchilik videoni ovozsiz ko‘radi, shuning uchun subtitr shart. Ko‘p ilov
 | Matn joylashuvi | Chetlardan uzoqroq, interfeys tugmalari ostida qolmasin |
 
 Videoni messenjerda video sifatida yuborsangiz, u siqilishi va sifatini yo‘qotishi mumkin. Uni fayl sifatida yoki bulut orqali o‘tkazing.
+
+![Montajchi yollash yoki o‘zingiz qilish](/img/blog/illus/video-montaj-dasturlari-3.jpg 1200x675)
 
 ## Montajchi yollash yoki o‘zingiz qilish
 

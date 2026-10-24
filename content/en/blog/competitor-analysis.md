@@ -12,6 +12,8 @@ rubric: biznes
 
 You don't need expensive research to understand your market: in a single working day, open sources can tell you a great deal about competitors. The goal isn't to copy them but to find what they do badly and how you can stand out. Here is a one-day plan and a summary table.
 
+![Morning: find 5–7 competitors](/img/blog/illus/raqobatchilar-tahlili-1.jpg 1200x675)
+
 ## Morning: find 5–7 competitors
 
 - Google and Yandex searches for your main queries.
@@ -55,6 +57,8 @@ The last column matters most: every competitor weakness is something you can do 
 
 Use only public information. Don't copy texts, photos or designs — the analysis is for understanding the market, not for cloning it.
 
+![A price map](/img/blog/illus/raqobatchilar-tahlili-2.jpg 1200x675)
+
 ## A price map
 
 Plot competitors on two axes: price and level of service. **An example (illustrative):**
@@ -86,6 +90,8 @@ Set aside 30 minutes once a month: check new ads in the Meta Ad Library, new off
 - Doing the analysis once and never updating it.
 - Ignoring indirect competitors.
 - Drawing big conclusions from a single review.
+
+![SWOT: turning analysis into decisions](/img/blog/illus/raqobatchilar-tahlili-3.jpg 1200x675)
 
 ## SWOT: turning analysis into decisions
 

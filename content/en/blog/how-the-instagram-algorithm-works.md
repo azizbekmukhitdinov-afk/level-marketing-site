@@ -12,6 +12,8 @@ rubric: smm
 
 "The algorithm cut my reach" is the most common complaint in SMM. But Instagram doesn't have one "algorithm": Feed, Stories, Reels and Explore each run on their own rules. Instagram itself has explained in general terms how these systems work. Here is what affects reach and what to do in practice.
 
+![What Instagram takes into account](/img/blog/illus/instagram-algoritmi-1.jpg 1200x675)
+
 ## What Instagram takes into account
 
 Each surface ranks content for a user using several groups of signals:
@@ -45,6 +47,8 @@ Here relationships decide: followers who regularly interact with you see your po
 5. Collab posts with another account.
 6. Only your own videos, no watermarks.
 
+![Myths](/img/blog/illus/instagram-algoritmi-2.jpg 1200x675)
+
 ## Myths
 
 - **"30 hashtags will boost reach."** Hashtags help define the topic, but they're not a magic button.
@@ -70,6 +74,8 @@ These tell you more than likes:
 | Average watch time | How well the video holds attention |
 | Shares and saves | How useful or interesting the content is |
 | Profile visits | Whether the content sparks interest in the author |
+
+![Common mistakes](/img/blog/illus/instagram-algoritmi-3.jpg 1200x675)
 
 ## Common mistakes
 

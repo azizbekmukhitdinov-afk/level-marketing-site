@@ -12,6 +12,8 @@ rubric: biznes
 
 On Instagram and Telegram you keep seeing offers like "earn from home", "start your own business", "join our team". Most of them are about network marketing, or MLM (multi-level marketing). Here is a marketer's look at how the model works, who makes money in it and how to tell an honest network company from a financial pyramid.
 
+![What MLM is, in plain words](/img/blog/illus/tarmoq-marketingi-mlm-1.jpg 1200x675)
+
 ## What MLM is, in plain words
 
 Network marketing is a model where products are sold not through shops and advertising but through people. A participant (a "distributor", "partner" or "consultant") earns in two ways:
@@ -80,6 +82,8 @@ If two or three questions don't get a clear answer, that is a serious warning.
 
 What draws many people to MLM is not the product but the idea of owning a business. Today small businesses in Uzbekistan have direct sales channels: Instagram, Telegram, Uzum Market. When you sell your own product or service, you keep all the income, and the customer base and brand are yours. To get started, see our [Instagram ads setup guide](/en/blog/how-to-set-up-instagram-ads/) and our [guide to ad costs](/en/blog/paid-ads-cost-in-uzbekistan/).
 
+![How to calculate MLM income](/img/blog/illus/tarmoq-marketingi-mlm-2.jpg 1200x675)
+
 ## How to calculate MLM income
 
 Start from net income, not the promised bonus:
@@ -126,6 +130,8 @@ The table makes it clear: if income comes from selling to customers, it's a busi
 ## How to protect people close to you
 
 If someone close to you gets drawn into MLM, don't blame or mock them — it only pushes them further away. Offer to calculate the net income together, ask for the company's documents and don't lend money for a "starter pack". Give them time to decide: decisions made under pressure are often wrong.
+
+![A simple test before deciding](/img/blog/illus/tarmoq-marketingi-mlm-3.jpg 1200x675)
 
 ## A simple test before deciding
 

@@ -12,6 +12,8 @@ rubric: sotuv
 
 Customers are ready to tell you why they buy from you and why they leave — you just have to ask. Feedback is free market research: it gives you words for your ads, ideas for improving the product and public reviews. Here is when and how to ask, what NPS is and how to use the answers.
 
+![When to ask](/img/blog/illus/mijoz-fikrini-yigish-1.jpg 1200x675)
+
 ## When to ask
 
 - **Right after a purchase or service** — while the impression is fresh.
@@ -56,6 +58,8 @@ NPS = % promoters − % detractors. **An example (illustrative numbers):** out o
 | Complaints | Fixes to the product and service |
 | Sources | Splitting the budget between channels |
 
+![Rules](/img/blog/illus/mijoz-fikrini-yigish-2.jpg 1200x675)
+
 ## Rules
 
 - Don't ask leading questions: not "Did you enjoy our service?" but "What would you say about our service?"
@@ -91,6 +95,8 @@ Call a customer who stopped buying — not to sell, but to understand. Four ques
 - Collecting feedback and changing nothing.
 - Asking only happy customers.
 - Arguing with negative feedback.
+
+![Turning feedback into marketing: 3 examples (illustrative)](/img/blog/illus/mijoz-fikrini-yigish-3.jpg 1200x675)
 
 ## Turning feedback into marketing: 3 examples (illustrative)
 

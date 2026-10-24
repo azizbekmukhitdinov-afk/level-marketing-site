@@ -13,6 +13,8 @@ image: /img/cases/personal-brand.jpg
 
 Shaxsiy brend — ekspert uchun eng arzon mijoz jalb qilish kanali: odamlar kompaniyadan oldin insonga ishonadi. Biz ekspertlarga profil, kontent strategiyasi va muntazam video ishlab chiqarishni quramiz.
 
+![Biz ishlagan shaxsiy brendlar](/img/blog/illus/keys-shaxsiy-brend-1.jpg 1200x675)
+
 ## Biz ishlagan shaxsiy brendlar
 
 - **Nodirbek Xudoyqulov** — korporativ masalalar bo‘yicha yurist
@@ -32,12 +34,16 @@ Shaxsiy brend — ekspert uchun eng arzon mijoz jalb qilish kanali: odamlar komp
 4. Suratga olish va montajni o‘z jamoamiz bajaradi.
 5. Kerak bo‘lsa, target orqali auditoriyani tezlashtiramiz.
 
+![O‘zingiz boshlasangiz: 4 qadam](/img/blog/illus/keys-shaxsiy-brend-2.jpg 1200x675)
+
 ## O‘zingiz boshlasangiz: 4 qadam
 
 1. **Pozitsiya** — bir jumlada: kimga va qanday natijaga yordam berasiz.
 2. **Jadval** — haftasiga 2–3 ta video, bitta suratga olish kunida tayyorlanadi.
 3. **Mavzular** — mijozlaringizning haqiqiy savollaridan.
 4. **O‘lchov** — obunachilar emas, kontent orqali kelgan murojaatlar soni.
+
+![Kimga mos](/img/blog/illus/keys-shaxsiy-brend-3.jpg 1200x675)
 
 ## Kimga mos
 

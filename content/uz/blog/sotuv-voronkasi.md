@@ -12,6 +12,8 @@ rubric: sotuv
 
 «Reklama ishlamayapti» degan shikoyatning sababi ko‘pincha reklamada emas, balki sotuv yo‘lining boshqa bosqichida bo‘ladi. **Sotuv voronkasi** — mijozning sizni birinchi ko‘rishidan xaridigacha bo‘lgan yo‘li. Uni bosqichlarga bo‘lib o‘lchasangiz, pul qayerda «oqib ketayotgani» aniq ko‘rinadi.
 
+![Voronka bosqichlari](/img/blog/illus/sotuv-voronkasi-1.jpg 1200x675)
+
 ## Voronka bosqichlari
 
 | Bosqich | Nima sodir bo‘ladi | Ko‘rsatkich |
@@ -42,6 +44,8 @@ Endi har bir bosqichni yaxshilash natijani o‘zgartiradi: agar arizadan sotuvga
 | Arizadan sotuvga | Kech javob, skript yo‘q | [Javob tezligi](/blog/arizaga-javob-tezligi/), [sotuv skripti](/blog/sotuv-skripti/) |
 | Sotuvdan takroriy xaridga | Mijoz bilan aloqa yo‘q | [Takroriy sotuv va LTV](/blog/takroriy-sotuv-ltv/) |
 
+![Voronkani qanday kuzatish](/img/blog/illus/sotuv-voronkasi-2.jpg 1200x675)
+
 ## Voronkani qanday kuzatish
 
 Kichik biznes uchun oddiy jadval yetarli: har hafta qamrov, o‘tishlar, arizalar, sotuvlar. Arizalar soni ko‘payganda — [CRM](/blog/crm-tanlash/) ga o‘ting. Ariza narxini qanday hisoblash — [CPL qo‘llanmasida](/blog/lid-narxi-cpl-qanday-kamaytirish/).
@@ -63,6 +67,8 @@ Qaysi bosqichda foiz eng ko‘p tushgan bo‘lsa — o‘sha haftaning asosiy va
 | Takroriy xarid | Xariddan bir hafta keyin mijoz bilan qayta bog‘laning |
 
 Bir vaqtda faqat bitta bosqichni o‘zgartiring — shunda natija nimadan o‘zgarganini aniq bilasiz.
+
+![Ko‘p uchraydigan xatolar](/img/blog/illus/sotuv-voronkasi-3.jpg 1200x675)
 
 ## Ko‘p uchraydigan xatolar
 

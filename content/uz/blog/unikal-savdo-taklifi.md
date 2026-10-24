@@ -12,6 +12,8 @@ rubric: brend
 
 Agar mijoz siz bilan raqobatchingiz o‘rtasidagi farqni ko‘rmasa, u faqat narxni solishtiradi — va eng arzonini tanlaydi. **Unikal savdo taklifi (USP)** — mijozga aynan sizni tanlash uchun bitta aniq sabab. Bu maqolada USP'ni qanday topish, uni qanday shakllantirish va qayerda ishlatishni ko‘rib chiqamiz.
 
+![Yaxshi USP'ning 3 belgisi](/img/blog/illus/unikal-savdo-taklifi-1.jpg 1200x675)
+
 ## Yaxshi USP'ning 3 belgisi
 
 1. **Mijoz uchun muhim** — uning muammosini yoki qo‘rquvini hal qiladi.
@@ -46,6 +48,8 @@ Oxirgi misol — bizning [Global Avenue keysimizdan](/blog/keys-global-avenue/):
 
 Muhim: USP haqiqiy bo‘lishi va bajarilishi shart. Bajarilmagan va'da brendga reklamadan ko‘ra ko‘proq zarar qiladi.
 
+![USP'ni qayerda ishlatish](/img/blog/illus/unikal-savdo-taklifi-2.jpg 1200x675)
+
 ## USP'ni qayerda ishlatish
 
 - Instagram bio'sida va mahkamlangan postlarda.
@@ -71,6 +75,8 @@ Ofisda yaxshi ko‘ringan USP bozorda ishlamasligi mumkin. Uni keng ishga tushir
 - **Sertifikat va litsenziyalar** — ayniqsa tibbiyot va ta'limda.
 
 Isbot va'da bilan bir joyda bo‘lsin: reklamada va'da qilinsa, isbot ham o‘sha reklamada ko‘rinsin.
+
+![Ko‘p uchraydigan xatolar](/img/blog/illus/unikal-savdo-taklifi-3.jpg 1200x675)
 
 ## Ko‘p uchraydigan xatolar
 

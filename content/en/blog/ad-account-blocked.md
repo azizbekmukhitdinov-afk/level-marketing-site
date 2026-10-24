@@ -12,6 +12,8 @@ rubric: target
 
 A blocked ad account is one of the most unpleasant things that can happen to a business owner or ads specialist: campaigns stop and the flow of leads is cut off. Here is why Meta blocks accounts, what to do after a ban and how to reduce the risk.
 
+![Why accounts get blocked](/img/blog/illus/reklama-kabineti-bloklandi-1.jpg 1200x675)
+
 ## Why accounts get blocked
 
 | Reason | Example |
@@ -45,6 +47,8 @@ A blocked ad account is one of the most unpleasant things that can happen to a b
 
 The ad account and Page should belong to your business, with the agency working through granted access. That way, even when the partnership ends, the history, audiences and Pixel data stay with you. More in our article on [choosing an ads specialist](/en/blog/how-to-choose-a-paid-ads-specialist/).
 
+![A sample review request](/img/blog/illus/reklama-kabineti-bloklandi-2.jpg 1200x675)
+
 ## A sample review request
 
 Keep it short, polite and factual:
@@ -69,6 +73,8 @@ Don't write an emotional, long or accusatory message, and don't send the same re
 - An unverified business with a single admin on the account.
 - Changing the payment card frequently.
 - Giving your paid ads specialist the password to your personal profile.
+
+![A backup plan](/img/blog/illus/reklama-kabineti-bloklandi-3.jpg 1200x675)
 
 ## A backup plan
 

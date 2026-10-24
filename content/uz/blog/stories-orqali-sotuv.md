@@ -12,6 +12,8 @@ rubric: smm
 
 Stories'ni asosan sizni allaqachon taniydigan odamlar — obunachilar ko‘radi. Shuning uchun Stories — iliq auditoriyaga har kuni yaqinlashish va sotishning eng qulay joyi. Bu maqolada Stories nega sotishini, qanday ketma-ketliklar ishlashini va har kunlik oddiy rejani ko‘rib chiqamiz.
 
+![Nega Stories sotadi](/img/blog/illus/stories-orqali-sotuv-1.jpg 1200x675)
+
 ## Nega Stories sotadi
 
 - **Iliq auditoriya.** Ko‘ruvchilar sizga obuna bo‘lgan va qiziqqan.
@@ -55,6 +57,8 @@ Stikerga javob bergan odamlarga Direct'da yozish mumkin — bu tayyor suhbat.
 - Yuz va ovoz — kamida bir nechta Stories'da gapiring.
 - Eng yaxshi Stories'ni Highlights'ga saqlang — ular haqida [sotadigan profil](/blog/instagram-profil-sotadigan/) maqolasida.
 
+![Natijani qanday o‘lchash](/img/blog/illus/stories-orqali-sotuv-2.jpg 1200x675)
+
 ## Natijani qanday o‘lchash
 
 Kuzating: qamrov, birinchi kadrdan keyin chiqib ketishlar, javoblar soni va havolaga bosishlar. Qaysi seriyadan keyin ko‘proq xabar kelganini yozib boring.
@@ -97,6 +101,8 @@ Shart emas, lekin yuz va ovoz ishonchni ancha oshiradi. Kamera oldida gapirish q
 ### Stories'ni reklama qilish kerakmi?
 
 Ha, eng yaxshi ishlagan Stories'ni reklamaga qo‘yish mumkin — ular odatda arzon va tabiiy ko‘rinadi. Lekin reklama obunachilar uchun har kuni joylanadigan Stories'ning o‘rnini bosmaydi. Reklama sozlash haqida — [Instagram'da target reklama](/blog/instagramda-target-reklama-sozlash/) qo‘llanmasida.
+
+![Stories uchun 10 ta g‘oya](/img/blog/illus/stories-orqali-sotuv-3.jpg 1200x675)
 
 ## Stories uchun 10 ta g‘oya
 

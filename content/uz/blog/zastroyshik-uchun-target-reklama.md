@@ -12,6 +12,8 @@ weight: 1
 
 Zastroyshik uchun target reklama oddiy do‘kon reklamasidan keskin farq qiladi: kvartira — oilaning eng katta xaridi, qaror oylab qabul qilinadi, mijoz esa qurilish kompaniyasiga ishonishi kerak. Shuning uchun boshqa sohada ishlaydigan «chiroyli render + chegirma» usuli bu yerda tez-tez pulni yeb qo‘yadi. Quyida zastroyshiklar eng ko‘p yo‘l qo‘yadigan 7 xato va har birini qanday tuzatish mumkinligi.
 
+![Nega bozor hozir raqobatli](/img/blog/illus/zastroyshik-uchun-target-reklama-1.jpg 1200x675)
+
 ## Nega bozor hozir raqobatli
 
 Uy-joy bozori faol. Iqtisodiy tadqiqotlar va islohotlar markazi (CERR) ma’lumotiga ko‘ra, 2026-yil yanvar–iyun oylarida O‘zbekistonda 171 mingdan ortiq ko‘chmas mulk oldi-sotdi bitimi ro‘yxatdan o‘tgan — bir yil oldingiga nisbatan 25,3% ko‘p, Toshkentda esa o‘sish 34,9% bo‘lgan ([anhor.uz](https://anhor.uz/news/rynok-nedvizhimosti-uzbekistana-sdelki-2026/)). Xaridor ko‘p, lekin yangi turar-joy majmualari ham ko‘p. Instagram lentasida bir kunda o‘nlab zastroyshik reklamasi chiqadi — kim aniqroq gapirsa va arizaga tezroq javob bersa, o‘sha yutadi.
@@ -75,6 +77,8 @@ Kvartira tanlash bir necha oy davom etadi. Reklamani bir marta ko‘rib, saytga 
 
 Yana bir nuqta: diasporaga, masalan AQShdagi vatandoshlarga reklama bersangiz, Meta u yerda uy-joy reklamasini maxsus kategoriyaga kiritadi va targeting imkoniyatlarini cheklaydi. Reklama kabinetida bu haqda ogohlantirish chiqsa, uni e’tiborsiz qoldirmang — aks holda reklama rad etilishi mumkin.
 
+![Kampaniya tuzilmasi: oddiy sxema](/img/blog/illus/zastroyshik-uchun-target-reklama-2.jpg 1200x675)
+
 ## Kampaniya tuzilmasi: oddiy sxema
 
 | Bosqich | Maqsad | Format | Auditoriya |
@@ -85,6 +89,8 @@ Yana bir nuqta: diasporaga, masalan AQShdagi vatandoshlarga reklama bersangiz, M
 | Xaridorlar bilan | Tavsiya | «Do‘stingizni olib keling» taklifi | Shartnoma tuzganlar |
 
 Byudjetni birinchi oyda bosqichlar o‘rtasida teng bo‘lmang: ko‘p qismini ariza yig‘ishga, kichikroq qismini tanishuv va retargetingga bering, keyin raqamlarga qarab qayta taqsimlang. Byudjetni qanday hisoblash haqida — [target reklama narxi](/blog/target-reklama-narxi-ozbekistonda/) maqolasida.
+
+![Ishga tushirishdan oldin chek-list](/img/blog/illus/zastroyshik-uchun-target-reklama-3.jpg 1200x675)
 
 ## Ishga tushirishdan oldin chek-list
 

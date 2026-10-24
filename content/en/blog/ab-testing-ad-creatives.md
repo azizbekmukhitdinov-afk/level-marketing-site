@@ -12,6 +12,8 @@ rubric: target
 
 You can't know in advance which ad will perform best — even an experienced specialist is only guessing. That's why professional advertising runs on **A/B tests**: several versions launch at once and the numbers pick the winner. Here is what to test, how and for how long.
 
+![What an A/B test is](/img/blog/illus/kreativlar-ab-test-1.jpg 1200x675)
+
 ## What an A/B test is
 
 An A/B test compares two or more versions under the same conditions, with **only one element** different. For example, the same audience and budget but a different opening for the video. Then any difference in results comes down to that element.
@@ -40,6 +42,8 @@ Start with the elements that matter most: the hook and the offer.
 ## How to pick the winner
 
 The main metric is **cost per lead (CPL)** and, where possible, conversion to sale. CTR and cost per click are secondary: lots of cheap clicks with no leads means the creative is "interesting" but doesn't sell. More on CPL in our [CPL guide](/en/blog/cost-per-lead-cpl-how-to-lower/).
+
+![A test log](/img/blog/illus/kreativlar-ab-test-2.jpg 1200x675)
 
 ## A test log
 
@@ -78,6 +82,8 @@ Take only one idea from the list at a time — otherwise you won't know what cha
 A simple formula: **number of variants × results needed per variant × expected cost per lead**.
 
 **An example (illustrative numbers):** two variants, about 30 leads each, cost per lead $2 → 2 × 30 × $2 = **$120**. Spread this over at least a week so the test covers both weekdays and weekends. If the budget can't stretch that far, test fewer variants or compare a cheaper intermediate metric, such as conversations started.
+
+![How to scale the winner](/img/blog/illus/kreativlar-ab-test-3.jpg 1200x675)
 
 ## How to scale the winner
 

@@ -12,6 +12,8 @@ rubric: brend
 
 Odamlar kompaniyadan ko‘ra insonga tezroq ishonadi. Shuning uchun shifokor, yurist, o‘qituvchi, marketolog yoki biznes egasi uchun shaxsiy brend — eng arzon mijoz jalb qilish kanallaridan biri. Bu maqolada shaxsiy brendni qayerdan boshlash, pozitsiyani qanday tanlash va birinchi 90 kunni qanday rejalashtirishni ko‘rib chiqamiz.
 
+![Shaxsiy brend nima beradi](/img/blog/illus/shaxsiy-brend-qayerdan-boshlash-1.jpg 1200x675)
+
 ## Shaxsiy brend nima beradi
 
 - **Ishonch.** Mijoz sizni videolar orqali allaqachon «taniydi».
@@ -46,6 +48,8 @@ Boshlash uchun bitta asosiy va bitta qo‘shimcha platforma yetarli.
 3. **Shaxsiy** — qadriyatlar, yo‘lingiz, ish kunidan lavhalar.
 4. **Fikr** — soha haqidagi pozitsiyangiz.
 5. **Taklif** — konsultatsiya, xizmat yoki mahsulot.
+
+![Birinchi 90 kun rejasi](/img/blog/illus/shaxsiy-brend-qayerdan-boshlash-2.jpg 1200x675)
 
 ## Birinchi 90 kun rejasi
 
@@ -86,6 +90,8 @@ Shaxsiy brendga har kuni bir necha soat sarflash shart emas. Amaliy tartib:
 | Oyda 1 marta | Natijalarni ko‘rib chiqish va keyingi oy mavzulari |
 
 Montaj va dizaynni yordamchiga yoki SMM menejerga topshirish mumkin — lekin fikr va ovoz sizniki bo‘lib qolishi kerak.
+
+![90 kundan keyin nimani tekshirish](/img/blog/illus/shaxsiy-brend-qayerdan-boshlash-3.jpg 1200x675)
 
 ## 90 kundan keyin nimani tekshirish
 

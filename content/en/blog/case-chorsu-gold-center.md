@@ -13,6 +13,8 @@ image: /img/cases/chorsu.jpg
 
 **Client:** Chorsu Gold Center — jewellery store, Tashkent.
 
+![Goal](/img/blog/illus/keys-chorsu-gold-1.jpg 1200x675)
+
 ## Goal
 
 Create a visual identity that reflects what makes the store unique, communicate its advantages across channels and drive sales.
@@ -22,6 +24,8 @@ Create a visual identity that reflects what makes the store unique, communicate 
 - Together with the client we built a **unique offer** for the market: **a 5-year interest-free instalment plan**.
 - We focused the audience's attention on the benefits of that offer.
 - All creatives and content followed the brand's visual identity.
+
+![Results](/img/blog/illus/keys-chorsu-gold-2.jpg 1200x675)
 
 ## Results
 
@@ -36,6 +40,8 @@ Create a visual identity that reflects what makes the store unique, communicate 
 2. Develop an offer that removes that barrier — only if the business can genuinely deliver it.
 3. Put the offer at the centre of every creative and present it in a consistent brand style.
 4. Measure results by sales, not clicks.
+
+![Who this suits](/img/blog/illus/keys-chorsu-gold-3.jpg 1200x675)
 
 ## Who this suits
 

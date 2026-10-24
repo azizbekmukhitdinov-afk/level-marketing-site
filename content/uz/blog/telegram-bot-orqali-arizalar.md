@@ -11,6 +11,8 @@ rubric: sotuv
 
 O‘zbekistonda mijoz birinchi navbatda Telegram'ga yozadi. Shuning uchun Telegram bot orqali arizalarni yig‘ish — sayt yoki lid-formadan keyin eng tabiiy kanal: mijoz tanish ilovada qoladi, siz esa tayyor ism, raqam va ehtiyojni olasiz. Bu maqolada bot qanday savollar berishi, ariza qayerga tushishi va uni menejer qanday qayta ishlashini bosqichma-bosqich ko‘rib chiqamiz.
 
+![Nega aynan Telegram bot](/img/blog/illus/telegram-bot-orqali-arizalar-1.jpg 1200x675)
+
 ## Nega aynan Telegram bot
 
 Telegram asoschisi Pavel Durov 2024-yil iyunida Toshkentga tashrifidan keyin O‘zbekiston aholisining 70% dan ortig‘i Telegram'da ekanini yozgan edi ([Spot](https://www.spot.uz/oz/2024/06/30/pavel-durov/)). Bu kompaniyaning o‘z ma'lumoti, lekin kundalik tajriba ham shuni ko‘rsatadi: mijozlar do‘kon, klinika yoki o‘quv markaziga qo‘ng‘iroq qilishdan ko‘ra Telegram'da yozishni afzal ko‘radi.
@@ -81,6 +83,8 @@ Bot ariza yig‘adi, lekin pulni menejer olib keladi. Eng ko‘p uchraydigan mua
 
 Menejerlar guruhida oddiy kelishuv ham yordam beradi: arizani olgan menejer xabarga reaksiya qo‘yadi yoki «oldim» deb javob yozadi. Shunda ikki kishi bitta mijozga qo‘ng‘iroq qilmaydi va hech biri javobsiz qolmaydi.
 
+![Reklama manbasini qanday kuzatish](/img/blog/illus/telegram-bot-orqali-arizalar-2.jpg 1200x675)
+
 ## Reklama manbasini qanday kuzatish
 
 Botning katta afzalligi — har bir ariza qaysi reklamadan kelganini bilish mumkin. Buning uchun Telegram'ning start parametri bor: bot havolasiga belgi qo‘shasiz, masalan `t.me/sizning_bot?start=insta_oshxona`. Mijoz shu havola orqali kirsa, bot bu belgini ko‘radi va arizaga yozib qo‘yadi.
@@ -123,6 +127,8 @@ Qaysi yo‘lni tanlasangiz ham, ishga tushirishdan oldin tekshiring:
 - Ish vaqtidan tashqari avtojavob bor.
 - Har bir reklama uchun alohida start havolasi bor.
 - O‘zingiz yoki tanishingiz orqali sinov arizasi qoldirdingiz.
+
+![Ko‘p uchraydigan xatolar](/img/blog/illus/telegram-bot-orqali-arizalar-3.jpg 1200x675)
 
 ## Ko‘p uchraydigan xatolar
 

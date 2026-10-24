@@ -12,6 +12,8 @@ rubric: smm
 
 "We need an SMM person," many businesses say, without always knowing what to expect. One ends up only posting, while another is expected to handle ads, video and sales too. Here is what an SMM manager does, how they differ from an ads specialist and how to choose one.
 
+![An SMM manager's responsibilities](/img/blog/illus/smm-menejer-vazifalari-1.jpg 1200x675)
+
 ## An SMM manager's responsibilities
 
 - **Strategy and content plan** — content types, formats, posting rhythm.
@@ -46,6 +48,8 @@ They complement each other: a good page makes ads cheaper, and ads bring new peo
 3. How they measure results and report.
 4. Who shoots the videos, and how many per month.
 5. How quickly they reply to comments and messages.
+
+![Which KPIs to set](/img/blog/illus/smm-menejer-vazifalari-2.jpg 1200x675)
 
 ## Which KPIs to set
 
@@ -85,6 +89,8 @@ Good results start with a clear brief. It should include:
 | End of month | The first report and next month's plan |
 
 The first month is for setting up. Judge organic results after 2–3 months.
+
+![What a monthly report should include](/img/blog/illus/smm-menejer-vazifalari-3.jpg 1200x675)
 
 ## What a monthly report should include
 

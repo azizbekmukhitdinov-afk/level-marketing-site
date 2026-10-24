@@ -12,6 +12,8 @@ rubric: brend
 
 Ko‘pchilik «brend» deganda logotipni tasavvur qiladi. Lekin logotip — brendning faqat kichik belgisi. Brend — mijozlar sizning kompaniyangiz haqida nima o‘ylashi va his qilishi. Bu maqolada brend nimadan iboratligini, kichik biznesga u nima uchun kerakligini va qayerdan boshlashni ko‘rib chiqamiz.
 
+![Brend va logotip farqi](/img/blog/illus/brend-nima-1.jpg 1200x675)
+
 ## Brend va logotip farqi
 
 | | Logotip | Brend |
@@ -49,6 +51,8 @@ Chiroyli logotip yomon xizmatni qutqarmaydi, lekin kuchli brend oddiy logotip bi
 
 Shu jadvalni to‘ldiring — u barcha reklama, kontent va xizmat uchun asos bo‘ladi. Farqni topish uchun — [unikal savdo taklifi (USP)](/blog/unikal-savdo-taklifi/), vizual qism uchun esa — [vizual uslub](/blog/vizual-uslub-aydentika/) maqolalari.
 
+![Ko‘p uchraydigan xatolar](/img/blog/illus/brend-nima-2.jpg 1200x675)
+
 ## Ko‘p uchraydigan xatolar
 
 - Logotipdan boshlash va pozitsiyani o‘ylamaslik.
@@ -79,6 +83,8 @@ Brend reklamada emas, kundalik vaziyatlarda shakllanadi:
 - xariddan keyin kimdir hol-ahvol so‘raydimi.
 
 Ayniqsa, biror narsa noto‘g‘ri ketganda brend sinovdan o‘tadi. Mijoz yo‘lini qog‘ozga chizing va har bir nuqtada va'dangiz bajarilyaptimi, tekshiring. Sharhlar bilan ishlash — [onlayn obro‘](/blog/onlayn-obro-sharhlar/) maqolasida.
+
+![Brendni qanday o‘lchash](/img/blog/illus/brend-nima-3.jpg 1200x675)
 
 ## Brendni qanday o‘lchash
 

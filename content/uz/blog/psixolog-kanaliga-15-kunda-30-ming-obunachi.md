@@ -10,6 +10,8 @@ rubric: target
 ---
 Bugun mijozim — psixolog bilan qilgan bitta loyiham haqida aytib bermoqchiman. Zapusk uchun uning Telegram kanaliga noldan obunachi yig‘ish kerak edi. Natijada 15 kunda 30 000 dan ortiq jonli obunachiga erishdim. Quyida — qadamma-qadam qanday qilganim.
 
+![Avval kontent, keyin kanal](/img/blog/illus/psixolog-kanaliga-15-kunda-30-ming-obunachi-1.jpg 1200x675)
+
 ## Avval kontent, keyin kanal
 
 Boshida bu profil uchun 20 ta Reels ssenariysini yozdim. Telegram kanalni hali ochmasdan turib, shu 20 ta Reels'ni suratga oldik. Ya'ni kanal ochilgan kuni odamlarga ko‘rsatadigan kontent allaqachon tayyor edi.
@@ -19,6 +21,8 @@ Reels uchun ssenariyni qanday yozish — [5 ta tayyor shablon](/blog/reels-ssena
 ## Keyin akkaunt va target reklama
 
 Reels'larni suratga olib bo‘lganimizdan keyin akkauntni ochdim va target reklamani yoqdim.
+
+![Reklama paytida ham suratga olishni to‘xtatmadik](/img/blog/illus/psixolog-kanaliga-15-kunda-30-ming-obunachi-2.jpg 1200x675)
 
 ## Reklama paytida ham suratga olishni to‘xtatmadik
 
@@ -39,6 +43,8 @@ Shunday qilib, menda turli og‘riqlar va muammolar bo‘yicha taxminan 30 ta ko
 Profilga ommaviy auditoriya kirdi: eng ko‘p kirgan kuni bir kunning o‘zida 11 000 dan ortiq odam obuna bo‘ldi.
 
 Obunachi va ariza narxini qanday hisoblash va kamaytirish haqida — [CPL qo‘llanmasida](/blog/lid-narxi-cpl-qanday-kamaytirish/).
+
+![Bu loyihada men nimaga tayandim](/img/blog/illus/psixolog-kanaliga-15-kunda-30-ming-obunachi-3.jpg 1200x675)
 
 ## Bu loyihada men nimaga tayandim
 

@@ -12,6 +12,8 @@ rubric: sotuv
 
 Saytga Instagram, Telegram, Google va hamkor kanallardan odamlar keladi — lekin qaysi biri ariza va sotuv olib kelyapti? **UTM-belgilar** bu savolga javob beradi: ular havolaga qo‘shiladigan kichik «yorliqlar» bo‘lib, analitikada har bir tashrif manbasini ko‘rsatadi. Bu maqolada UTM nima ekanini, havolani qanday yaratish va natijani qayerda ko‘rishni ko‘rib chiqamiz.
 
+![UTM parametrlari](/img/blog/illus/utm-belgilar-1.jpg 1200x675)
+
 ## UTM parametrlari
 
 | Parametr | Nimani bildiradi | Misol |
@@ -43,6 +45,8 @@ Misol havola:
 - **Google Analytics 4** — trafik manbalari hisobotida source, medium va campaign kesimida.
 - **Yandex Metrika** — UTM-belgilar bo‘yicha hisobotlar.
 - **CRM** — sayt formasi orqali kelgan arizaga UTM qiymatlarini saqlasangiz, sotuvni aniq manbaga bog‘laysiz. CRM tanlash haqida — [alohida maqolada](/blog/crm-tanlash/).
+
+![Sayt bo‘lmasa-chi](/img/blog/illus/utm-belgilar-2.jpg 1200x675)
 
 ## Sayt bo‘lmasa-chi
 
@@ -76,6 +80,8 @@ Bitta kampaniya barcha kanallarda bitta utm_campaign nomiga ega bo‘lsin — sh
 GA4'dagi trafik manbalari hisobotida tashriflar bilan birga arizalarni (konversiyalarni) ham ko‘ring. Faqat tashriflar soniga qarash noto‘g‘ri xulosaga olib keladi.
 
 **Misol (shartli raqamlar):** Instagram reklamadan 1 000 ta tashrif va 20 ta ariza, Telegram postdan 300 ta tashrif va 15 ta ariza. Birinchisi ko‘proq odam olib keladi, lekin Telegram'dan kelganlar ancha «issiqroq»: 5% ga qarshi 2%. Bunday solishtirish byudjetni qayerga ko‘paytirishni ko‘rsatadi.
+
+![UTM'ni arizagacha yetkazish](/img/blog/illus/utm-belgilar-3.jpg 1200x675)
 
 ## UTM'ni arizagacha yetkazish
 

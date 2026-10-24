@@ -15,6 +15,8 @@ image: /img/cases/teh.jpg
 
 **Partnership:** over 1 year.
 
+![What we did](/img/blog/illus/keys-teh-1.jpg 1200x675)
+
 ## What we did
 
 - Rebuilt the Instagram page in one consistent brand style: red-and-black design and product spec cards.
@@ -28,12 +30,16 @@ image: /img/cases/teh.jpg
 | Ad spend | $7,000 |
 | Online sales | **over $40,000** |
 
+![How to apply this approach](/img/blog/illus/keys-teh-2.jpg 1200x675)
+
 ## How to apply this approach
 
 1. Create one template for a specifications card for every product.
 2. Put the parameters buyers compare up front: power, warranty, price.
 3. Use a single brand style to turn your feed into a convenient catalogue.
 4. Compare lead and message campaigns by sales, not by number of leads.
+
+![Who this suits](/img/blog/illus/keys-teh-3.jpg 1200x675)
 
 ## Who this suits
 

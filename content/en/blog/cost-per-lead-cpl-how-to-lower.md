@@ -12,6 +12,8 @@ rubric: sotuv
 
 Every business owner who spends money on ads eventually asks one question: **how much does one customer cost me?** The first step to the answer is the cost per lead, or CPL. This guide covers how to calculate CPL, what to compare it with and which mistakes most often inflate it.
 
+![What CPL is and how to calculate it](/img/blog/illus/lid-narxi-cpl-qanday-kamaytirish-1.jpg 1200x675)
+
 ## What CPL is and how to calculate it
 
 CPL shows how much you paid, on average, for one lead:
@@ -85,6 +87,8 @@ Two campaigns, $300 each:
 
 At first glance A is cheaper, but B brings each sale in far more cheaply. That's why you should always look at CPL together with cost per sale.
 
+![The maximum affordable CPL](/img/blog/illus/lid-narxi-cpl-qanday-kamaytirish-2.jpg 1200x675)
+
 ## The maximum affordable CPL
 
 Work out in advance what cost per lead is profitable for you:
@@ -121,6 +125,8 @@ Lead quality differs between channels, so CPL alone isn't enough. **An example (
 | Google search | $6 | 25% | $24 |
 
 The most expensive lead produced the cheapest sale. For a fair comparison, a "lead" must be counted the same way in every channel.
+
+![A 4-week plan to lower CPL](/img/blog/illus/lid-narxi-cpl-qanday-kamaytirish-3.jpg 1200x675)
 
 ## A 4-week plan to lower CPL
 

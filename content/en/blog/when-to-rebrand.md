@@ -12,6 +12,8 @@ rubric: brend
 
 A rebrand is a big decision: a new name, logo or positioning can attract customers or drive them away. Here is when you need a rebrand, how it differs from restyling and how to carry it out without losing customers.
 
+![Signs you need a rebrand](/img/blog/illus/rebrending-qachon-kerak-1.jpg 1200x675)
+
 ## Signs you need a rebrand
 
 - Your audience has changed: you now sell to a different segment.
@@ -50,6 +52,8 @@ If the only problem is a "boring logo", a restyle is often enough rather than a 
 | Offline | Signage, packaging, business cards, uniforms |
 | Documents | Contract and invoice templates |
 
+![How not to lose customers](/img/blog/illus/rebrending-qachon-kerak-2.jpg 1200x675)
+
 ## How not to lose customers
 
 - Keep recognisable elements: a colour, symbol or slogan.
@@ -78,6 +82,8 @@ The biggest cost is often offline, so plan to replace it in stages.
 - Announcement post and Stories ready for customers.
 - Managers give the same answer to "Why did you change?".
 - Old business cards and banners taken out of circulation.
+
+![Preparing your team for a rebrand](/img/blog/illus/rebrending-qachon-kerak-3.jpg 1200x675)
 
 ## Preparing your team for a rebrand
 

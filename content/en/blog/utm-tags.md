@@ -12,6 +12,8 @@ rubric: sotuv
 
 People arrive at your website from Instagram, Telegram, Google and partner channels — but which of them bring leads and sales? **UTM tags** answer that: small "labels" added to a link that show the source of every visit in your analytics. Here is what UTM is, how to build a link and where to see the results.
 
+![UTM parameters](/img/blog/illus/utm-belgilar-1.jpg 1200x675)
+
 ## UTM parameters
 
 | Parameter | What it means | Example |
@@ -43,6 +45,8 @@ An example link:
 - **Google Analytics 4** — in the traffic acquisition report by source, medium and campaign.
 - **Yandex Metrica** — UTM reports.
 - **Your CRM** — if you store UTM values with leads from website forms, each sale links to its exact source. For choosing a CRM, see our [separate article](/en/blog/crm-for-small-business/).
+
+![What if you don't have a website](/img/blog/illus/utm-belgilar-2.jpg 1200x675)
 
 ## What if you don't have a website
 
@@ -76,6 +80,8 @@ Give one campaign the same utm_campaign name across all channels — then its to
 In GA4's traffic acquisition report, look at leads (conversions) alongside visits. Judging channels by visits alone leads to the wrong conclusions.
 
 **An example (illustrative numbers):** Instagram ads bring 1,000 visits and 20 leads; a Telegram post brings 300 visits and 15 leads. The first channel brings more people, but the Telegram visitors are much "warmer": 5% versus 2%. A comparison like this shows where to add budget.
+
+![Carrying UTM tags through to the lead](/img/blog/illus/utm-belgilar-3.jpg 1200x675)
 
 ## Carrying UTM tags through to the lead
 

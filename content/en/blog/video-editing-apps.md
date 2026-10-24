@@ -12,6 +12,8 @@ rubric: video
 
 A well-shot video either comes alive in editing or dies there. But you don't need complex professional software — for many businesses, a phone app is enough. Here are the main apps for phone and computer, how to handle captions and tricks to speed up editing.
 
+![The main apps](/img/blog/illus/video-montaj-dasturlari-1.jpg 1200x675)
+
 ## The main apps
 
 | App | Platform | Price | Best for |
@@ -43,6 +45,8 @@ Many people watch without sound, so captions are a must. Many apps generate capt
 4. **Edit several videos in one session** — working in one style is faster.
 5. **Learn keyboard shortcuts** (on a computer).
 
+![Common editing mistakes](/img/blog/illus/video-montaj-dasturlari-2.jpg 1200x675)
+
 ## Common editing mistakes
 
 - A logo and long intro in the first seconds.
@@ -71,6 +75,8 @@ Many people watch without sound, so captions are a must. Many apps generate capt
 | Text placement | Away from the edges, so interface buttons don't cover it |
 
 If you send a video through a messenger as a video, it may be compressed and lose quality. Send it as a file or through cloud storage.
+
+![Hire an editor or edit yourself](/img/blog/illus/video-montaj-dasturlari-3.jpg 1200x675)
 
 ## Hire an editor or edit yourself
 

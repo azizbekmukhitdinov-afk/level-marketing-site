@@ -12,6 +12,8 @@ rubric: target
 
 With a limited ad budget, the first question is: spend it on Google, or on Instagram and Facebook? Both bring leads, but they work completely differently. Here is how Google Ads and Meta Ads differ, which businesses each suits and how to choose.
 
+![The core difference: demand and supply](/img/blog/illus/google-ads-yoki-meta-ads-1.jpg 1200x675)
+
 ## The core difference: demand and supply
 
 **Google Ads** shows when people are already searching. Someone typed "air conditioner installation Tashkent" — they are looking for the service right now. This is **capturing existing demand**.
@@ -64,6 +66,8 @@ As a business grows, the platforms complement each other. A typical flow:
 
 In this setup, judge the overall result — total leads and sales — rather than each platform on its own.
 
+![A plan for testing both platforms (example)](/img/blog/illus/google-ads-yoki-meta-ads-2.jpg 1200x675)
+
 ## A plan for testing both platforms (example)
 
 | Period | Google Ads | Meta Ads |
@@ -89,6 +93,8 @@ Choose leads or messages as the objective, don't narrow the audience too much an
 ## Compare results with the same yardstick
 
 Compare the cost of a qualified lead and a sale, not the cost per click. Tag the source of every lead with [UTM tags](/en/blog/utm-tags/) and your CRM. Remember that the platforms help each other: someone may see your ad on Instagram and later search for your brand on Google. So ask customers "Where did you hear about us?" as well.
+
+![Common mistakes](/img/blog/illus/google-ads-yoki-meta-ads-3.jpg 1200x675)
 
 ## Common mistakes
 

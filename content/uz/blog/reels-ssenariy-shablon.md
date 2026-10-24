@@ -12,6 +12,8 @@ rubric: video
 
 Reels'ning ko‘pchiligi ssenariysiz, «hozir bir narsa gapiraman» deb suratga olinadi — va shuning uchun ko‘rilmaydi. Ssenariy videoni qisqa, aniq va sotadigan qiladi. Bu maqolada sotadigan Reels tuzilishini va har qanday biznesga moslash mumkin bo‘lgan 5 ta shablonni ko‘rib chiqamiz.
 
+![Sotadigan Reels tuzilishi](/img/blog/illus/reels-ssenariy-shablon-1.jpg 1200x675)
+
 ## Sotadigan Reels tuzilishi
 
 1. **Hook (1–3 soniya)** — e'tiborni ushlash. Turlari haqida — [hooklar maqolasida](/blog/reels-uchun-hooklar/).
@@ -50,6 +52,8 @@ Bitta video — bitta g‘oya. 30–45 soniyalik video uchun taxminan 60–120 s
 - Birinchi jumlada salomlashmang — darhol mavzuga o‘ting.
 - Oxirida bitta aniq harakat so‘rang.
 
+![Shablonlarni rejaga ulash](/img/blog/illus/reels-ssenariy-shablon-2.jpg 1200x675)
+
 ## Shablonlarni rejaga ulash
 
 Har bir shablonni oyiga bir necha marta turli mavzular bilan ishlating — [kontent-reja](/blog/instagram-kontent-reja/) maqolasidagi rubrikalar bo‘yicha. Suratga olish texnikasi — [telefonda Reels suratga olish](/blog/telefonda-reels-suratga-olish/) maqolasida.
@@ -75,6 +79,8 @@ Har bir shablonni oyiga bir necha marta turli mavzular bilan ishlating — [kont
 3. Isbot bormi: natija, raqam, sharh yoki jarayon?
 4. Harakatga chaqiruv bitta va aniqmi?
 5. Matnni 45 soniyada shoshilmasdan o‘qib bo‘ladimi?
+
+![Ko‘p uchraydigan xatolar](/img/blog/illus/reels-ssenariy-shablon-3.jpg 1200x675)
 
 ## Ko‘p uchraydigan xatolar
 

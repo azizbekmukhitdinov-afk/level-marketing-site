@@ -12,6 +12,8 @@ rubric: video
 
 Trend — bir vaqtning o‘zida ko‘pchilik ishlatadigan format, ovoz yoki g‘oya. To‘g‘ri ishlatilsa, u yangi auditoriyaga tez chiqishga yordam beradi; noto‘g‘ri ishlatilsa, brendni kulgili yoki noqulay ko‘rsatadi. Bu maqolada trendlarni qayerdan topish, qachon qo‘shilish va ularni biznesga qanday moslashni ko‘rib chiqamiz.
 
+![Trendlarni qayerdan topish](/img/blog/illus/trendlardan-foydalanish-1.jpg 1200x675)
+
 ## Trendlarni qayerdan topish
 
 - **Reels bo‘limi** — ko‘p ishlatilayotgan ovozlar yonida o‘sish belgisi ko‘rinadi.
@@ -44,6 +46,8 @@ Trendning umri qisqa — ko‘pincha bir necha kundan bir necha haftagacha. Erta
 - Siyosat, fojia yoki birovni kamsitish bilan bog‘liq trendlar.
 - Auditoriyangizga tushunarsiz bo‘lsa.
 - Brendingizga mutlaqo mos kelmasa — majburlab qo‘shilish sezilib turadi.
+
+![Muhim: trend musiqasi va reklama](/img/blog/illus/trendlardan-foydalanish-2.jpg 1200x675)
 
 ## Muhim: trend musiqasi va reklama
 
@@ -78,6 +82,8 @@ Trend videoni oddiy postlaringizning o‘rtacha ko‘rsatkichlari bilan solishti
 | Direct xabarlar va arizalar | Qamrov sotuvga yaqinlashtirdimi |
 
 Agar qamrov katta, lekin profilga o‘tish yo‘q bo‘lsa, trend brendingiz bilan bog‘lanmagan. Algoritm qamrovni qanday taqsimlashi — [Instagram algoritmi](/blog/instagram-algoritmi/) maqolasida.
+
+![Ko‘p uchraydigan xatolar](/img/blog/illus/trendlardan-foydalanish-3.jpg 1200x675)
 
 ## Ko‘p uchraydigan xatolar
 

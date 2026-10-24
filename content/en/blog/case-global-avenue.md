@@ -13,6 +13,8 @@ image: /img/cases/global-avenue.jpg
 
 **Client:** Global Avenue — residential complex (real estate).
 
+![Goal](/img/blog/illus/keys-global-avenue-1.jpg 1200x675)
+
 ## Goal
 
 Stand out from competitors and attract buyers with an engaging themed presentation.
@@ -22,6 +24,8 @@ Stand out from competitors and attract buyers with an engaging themed presentati
 - Branding built **in a Moroccan style** with its own heraldry and an elegant European touch.
 - Together with the client we created a unique offer for the market: **a 3-year interest-free instalment plan**.
 - We focused the audience on the offer's benefits and the brand style.
+
+![Results](/img/blog/illus/keys-global-avenue-2.jpg 1200x675)
 
 ## Results
 
@@ -36,6 +40,8 @@ Stand out from competitors and attract buyers with an engaging themed presentati
 2. Apply the brand idea consistently across the whole project: name, visuals, presentation and sales office.
 3. State the financial offer clearly — with the term and conditions.
 4. Plan follow-ups and retargeting in advance for a long sales cycle.
+
+![Who this suits](/img/blog/illus/keys-global-avenue-3.jpg 1200x675)
 
 ## Who this suits
 

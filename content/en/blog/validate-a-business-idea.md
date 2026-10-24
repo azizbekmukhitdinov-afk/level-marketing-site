@@ -12,6 +12,8 @@ rubric: biznes
 
 The most expensive mistake is spending months and money on a product nobody wants. Before committing a big ad budget, you can test demand cheaply. Here are 6 ways to validate an idea within a few weeks and at minimal cost.
 
+![1. Study competitors](/img/blog/illus/biznes-goyani-tekshirish-1.jpg 1200x675)
+
 ## 1. Study competitors
 
 If nobody sells anything like it, there may be no demand — or you've found a gap. If there are many competitors, demand exists, but you'll need to stand out. Look at their prices, offers and reviews, and find their active ads in the Meta Ad Library. More in our [competitor analysis](/en/blog/competitor-analysis/) article.
@@ -35,6 +37,8 @@ Run ads for a few days on a limited budget and measure CTR, cost per lead and th
 ## 6. Take pre-orders
 
 The strongest signal is people paying before the product exists. Be honest: give a delivery date and refund the money if you miss it.
+
+![Comparing the methods](/img/blog/illus/biznes-goyani-tekshirish-2.jpg 1200x675)
 
 ## Comparing the methods
 
@@ -85,6 +89,8 @@ A negative result isn't a failure — it's money saved. Change one thing and try
 - Not writing down the success criterion in advance.
 - Building the whole product first and testing sales afterwards.
 - Drawing conclusions from too small a sample.
+
+![Testing with a minimal product](/img/blog/illus/biznes-goyani-tekshirish-3.jpg 1200x675)
 
 ## Testing with a minimal product
 

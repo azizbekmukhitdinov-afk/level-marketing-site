@@ -12,6 +12,8 @@ rubric: smm
 
 «Bugun nima joylaymiz?» degan savol har kuni qaytarilsa, sahifa tartibsiz bo‘lib qoladi va sotmaydi. Kontent-reja bu muammoni hal qiladi: siz bir oy oldin nimani, qachon va nima maqsadda joylashingizni bilasiz. Bu maqolada kontent-rejani qanday tuzish va har qanday biznesga mos 30 ta g‘oyani ko‘rib chiqamiz.
 
+![Qancha joylash kerak](/img/blog/illus/instagram-kontent-reja-1.jpg 1200x675)
+
 ## Qancha joylash kerak
 
 Kichik biznes uchun amaliy minimum: haftasiga **3–4 ta post yoki Reels** va har kuni bir nechta **Stories**. Muntazamlik hajmdan muhimroq: oyiga 30 ta post, keyin bir oy jimlikdan ko‘ra, har hafta 3 ta post yaxshiroq.
@@ -71,6 +73,8 @@ Bu qat'iy qoida emas, lekin faqat takliflardan iborat sahifa e'lonlar taxtasiga 
 
 Oddiy jadval yetarli (Google Sheets yoki Notion): sana, rubrika, format (post, Reels, karusel), mavzu, harakatga chaqiruv, holat. Suratga olishni bir kunga jamlang — bir kunda 8–10 ta video tayyorlash har kuni bittadan olishdan ancha oson. Reels uchun ssenariy yozish haqida — [Reels ssenariy shablonlari](/blog/reels-ssenariy-shablon/) maqolasida, birinchi soniyalar haqida esa [hooklar maqolasida](/blog/reels-uchun-hooklar/).
 
+![Bir oylik reja namunasi (shartli)](/img/blog/illus/instagram-kontent-reja-2.jpg 1200x675)
+
 ## Bir oylik reja namunasi (shartli)
 
 Haftasiga uchta post uchun, masalan, mebel do‘koni:
@@ -98,6 +102,8 @@ Shunda kontent yaratish haftasiga bir necha soatlik aniq ishga aylanadi.
 ## Rejani natija bilan bog‘lash
 
 Har oy oxirida statistikani ko‘ring: saqlash, ulashish va Direct xabarlari bo‘yicha eng yaxshi uchta post qaysi? Qaysi rubrika arizalar olib keldi? Keyingi oy shu rubrikalar ulushini oshiring, ishlamaganlarini esa o‘zgartiring yoki olib tashlang.
+
+![Ko‘p uchraydigan xatolar](/img/blog/illus/instagram-kontent-reja-3.jpg 1200x675)
 
 ## Ko‘p uchraydigan xatolar
 

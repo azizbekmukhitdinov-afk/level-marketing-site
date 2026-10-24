@@ -12,6 +12,8 @@ rubric: brend
 
 Marketpleysda bir xil tovarni o‘nlab sotuvchi sotsa, raqobat faqat narxga aylanadi va foyda yo‘qoladi. Bu holatdan chiqishning yo‘li — o‘z brendingizni qurish. Bu maqolada Uzum Market kabi marketpleyslarda qayta sotuvchidan brendga qanday o‘tishni ko‘rib chiqamiz.
 
+![Nega brend narx urushidan himoya qiladi](/img/blog/illus/uzum-market-brend-1.jpg 1200x675)
+
 ## Nega brend narx urushidan himoya qiladi
 
 - **O‘z kartochkangiz.** Brendli tovarni boshqa sotuvchi bir xil nom bilan sotolmaydi.
@@ -43,6 +45,8 @@ Marketpleysda bir xil tovarni o‘nlab sotuvchi sotsa, raqobat faqat narxga ayla
 ## Tashqi trafik nima uchun muhim
 
 Marketpleys ichidagi raqobatda faqat ichki qidiruvga tayanish qiyin. Instagram va Telegram'dan kelgan xaridorlar ko‘pincha savdo tarixini yaxshilaydi, bu esa kartochkaning ichki ko‘rinishiga ham yordam berishi mumkin. Instagram reklamasini sozlash — [alohida qo‘llanmada](/blog/instagramda-target-reklama-sozlash/).
+
+![Ko‘p uchraydigan xatolar](/img/blog/illus/uzum-market-brend-2.jpg 1200x675)
 
 ## Ko‘p uchraydigan xatolar
 
@@ -78,6 +82,8 @@ Har oy salbiy sharh va savollarni guruhlang:
 | «Qanday ishlatishni tushunmadim» | Qisqa yo‘riqnoma va video qo‘shing |
 
 Takrorlanadigan shikoyatni tuzatish reytingga yangi sharh so‘rashdan ko‘ra ko‘proq yordam beradi.
+
+![Ishga tushirish: birinchi 30 kun](/img/blog/illus/uzum-market-brend-3.jpg 1200x675)
 
 ## Ishga tushirish: birinchi 30 kun
 

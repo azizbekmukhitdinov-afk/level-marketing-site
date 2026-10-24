@@ -12,6 +12,8 @@ rubric: video
 
 An interview is the most natural way to show expertise: you talk, someone asks questions and the viewer "listens in" on the conversation. And one interview gives you a month of content. Here is how to prepare and film an interview and how to turn it into 10 Reels.
 
+![Why interviews work](/img/blog/illus/ekspert-intervyu-video-1.jpg 1200x675)
+
 ## Why interviews work
 
 - **Trust.** The expert speaks naturally rather than reading a script.
@@ -40,6 +42,8 @@ An interview is the most natural way to show expertise: you talk, someone asks q
 - Ask the expert to start each answer by restating the question: "An implant usually lasts…". Then every answer works as a standalone video.
 - Keep answers short — one idea in 30–60 seconds.
 - Record every important answer twice.
+
+![What one interview produces](/img/blog/illus/ekspert-intervyu-video-2.jpg 1200x675)
 
 ## What one interview produces
 
@@ -73,6 +77,8 @@ Don't release everything in one day — spread it over four weeks:
 - **Week 4:** the full video on YouTube and an article on your website.
 
 That way one day of shooting covers your whole [content plan](/en/blog/instagram-content-plan/).
+
+![Common mistakes](/img/blog/illus/ekspert-intervyu-video-3.jpg 1200x675)
 
 ## Common mistakes
 

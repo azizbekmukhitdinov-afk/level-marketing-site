@@ -76,6 +76,14 @@ def markdown(src):
                 toc.append((hid, text))
             out.append(f'<h{level} id="{hid}">{inline(text)}</h{level}>')
             i += 1; continue
+        m = re.match(r"^!\[([^\]]*)\]\((\S+?)(?:\s+(\d+)x(\d+))?\)$", s)
+        if m:
+            # Illustration on its own line: ![alt](/img/blog/x.jpg) or ![alt](/img/blog/x.jpg 1200x675)
+            flush()
+            alt, src = html.escape(m.group(1)), m.group(2).replace('"', "%22")
+            size = f' width="{m.group(3)}" height="{m.group(4)}"' if m.group(3) else ""
+            out.append(f'<figure class="illus"><img src="{src}" alt="{alt}" loading="lazy" decoding="async"{size}></figure>')
+            i += 1; continue
         if re.match(r"^(-{3,}|\*{3,})$", s):
             flush(); out.append("<hr>"); i += 1; continue
         if s.startswith(">"):

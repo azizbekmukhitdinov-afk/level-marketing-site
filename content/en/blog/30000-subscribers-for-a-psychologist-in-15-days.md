@@ -10,6 +10,8 @@ rubric: target
 ---
 Today I want to share one project with my client, a psychologist. For her launch we needed to build a Telegram channel audience from zero. In 15 days I got her more than 30,000 live subscribers. Here is how I did it, step by step.
 
+![Content first, channel second](/img/blog/illus/psixolog-kanaliga-15-kunda-30-ming-obunachi-1.jpg 1200x675)
+
 ## Content first, channel second
 
 First I wrote 20 Reels scripts for the profile. Before the Telegram channel even existed, we shot all 20. So on the day the channel opened, there was already content to show people.
@@ -19,6 +21,8 @@ For writing Reels scripts, see [Reels scripts: 5 ready-made templates](/en/blog/
 ## Then the account and paid ads
 
 Once the Reels were shot, I opened the account and launched paid ads.
+
+![We kept shooting while the ads ran](/img/blog/illus/psixolog-kanaliga-15-kunda-30-ming-obunachi-2.jpg 1200x675)
 
 ## We kept shooting while the ads ran
 
@@ -39,6 +43,8 @@ In the end I had about 30 pieces of content covering different pains and problem
 A mass audience came to the profile: on the strongest day alone, more than 11,000 people subscribed.
 
 To calculate and lower your cost per lead or subscriber, see our [CPL guide](/en/blog/cost-per-lead-cpl-how-to-lower/).
+
+![What I relied on](/img/blog/illus/psixolog-kanaliga-15-kunda-30-ming-obunachi-3.jpg 1200x675)
 
 ## What I relied on
 
