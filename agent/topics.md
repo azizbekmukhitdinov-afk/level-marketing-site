@@ -6,7 +6,8 @@
 
 - [sotuv] Muddatli to‘lov va nasiya reklamasi: PQ-265 12-banddagi yangi talablar (ustama va yakuniy narx) — Vazirlar Mahkamasi hujjati chiqqanini tekshirib yozish | Реклама рассрочки: новые требования (переплата и итоговая цена)
 - [biznes] Mijozlar bazasi va shaxsga doir ma’lumotlar: tadbirkor nimani bilishi kerak (reyestr, rozilik, saqlash) | База клиентов и персональные данные: что знать предпринимателю
-- [smm] Mavsumiy kontent: Navro‘z, Ramazon va Yangi yil uchun g‘oyalar | Сезонный контент: идеи к Наврузу, Рамадану и Новому году
+- [target] Dekabrda reklama byudjeti: bayram mavsumida auksion raqobati va retargetingni qanday rejalash | Рекламный бюджет в декабре: конкуренция в аукционе и ретаргетинг
+- [smm] Ramazon oyida kontent va reklama: nima mos, nimadan saqlanish kerak (2027 sanasi e’lon qilinganda yozish) | Контент и реклама в Рамадан
 - [brend] Blogerlar bilan reklama: qanday tanlash va natijani o‘lchash | Реклама у блогеров: как выбрать и измерить результат
 - [biznes] Restoran va kafe uchun Instagram marketing | Instagram-маркетинг для ресторана и кафе
 - [video] Qurilish jarayoni videolari: zastroyshik uchun ishonch kontenti (oylik hisobot-video, muhandis intervyusi) | Видео со стройки: контент доверия для застройщика
@@ -26,3 +27,5 @@
 - [smm] Telegram'da rozilik asosida xabarnoma: bot obunachilari bilan qanday ishlash | Рассылки в Telegram-боте по согласию: как работать с подписчиками
 - [sotuv] Arizadan sotuv ofisiga tashrifgacha: qimmat xaridlarda konversiyani oshirish (ko‘chmas mulk, avto, mebel) | От заявки до визита в офис: дорогие покупки
 - [biznes] Eskrou hisobvaraqlari va ulushli qurilish: qonun loyihasi qabul qilinganda zastroyshik marketingi nimani o‘zgartiradi (holatini tekshirib yozish) | Эскроу в долевом строительстве и маркетинг застройщика
+- [sotuv] Sovg‘a sertifikati: klinika, salon va o‘quv markazi uchun qanday sotish | Подарочный сертификат: как продавать клинике, салону, учебному центру
+- [biznes] Mahalliy ishlab chiqaruvchilar uchun reklama xarajatlarini kompensatsiya qilish: kim oladi va qanday (anhor.uz, Savdoga ko‘maklashish jamg‘armasi — shartlarini tekshirib yozish) | Компенсация рекламы местным производителям

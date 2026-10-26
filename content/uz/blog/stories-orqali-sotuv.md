@@ -125,4 +125,4 @@ Stories — reklamasiz sotuv: auditoriyani har kuni isitib, iliq odamlarni suhba
 
 - [Instagram algoritmi qanday ishlaydi: qamrovni oshirish uchun nima muhim](/blog/instagram-algoritmi/)
 - [SMM menejer nima qiladi va uni qanday tanlash kerak](/blog/smm-menejer-vazifalari/)
-- [Internet-marketing orqali sotuvni qanday oshirish mumkin: O‘zbekistondagi biznes uchun xarita](/blog/internet-marketing-sotuvni-oshirish/)
+- [Yangi yil uchun kontent-reja: noyabrdan yanvargacha 8 hafta](/blog/yangi-yil-kontent-reja/)

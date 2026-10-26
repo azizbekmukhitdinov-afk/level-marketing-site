@@ -151,4 +151,4 @@ Reels дают охват новой аудитории, а карусели ч�
 
 - [Как раскрутить Telegram-канал с нуля](/ru/blog/kak-raskrutit-telegram-kanal/)
 - [Продающий профиль Instagram: шапка, хайлайты и первые 9 постов](/ru/blog/prodayushchiy-profil-instagram/)
-- [Как увеличить продажи с помощью интернет-маркетинга: карта для бизнеса в Узбекистане](/ru/blog/internet-marketing-uvelichit-prodazhi/)
+- [Новогодний контент-план: 8 недель с ноября по январь](/ru/blog/novogodniy-kontent-plan/)

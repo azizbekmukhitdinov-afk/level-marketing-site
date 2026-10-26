@@ -125,4 +125,4 @@ Stories — продажи без рекламы: они каждый день �
 
 - [Как работает алгоритм Instagram: что важно для охвата](/ru/blog/kak-rabotaet-algoritm-instagram/)
 - [Чем занимается SMM-менеджер и как его выбрать](/ru/blog/chem-zanimaetsya-smm-menedzher/)
-- [Как увеличить продажи с помощью интернет-маркетинга: карта для бизнеса в Узбекистане](/ru/blog/internet-marketing-uvelichit-prodazhi/)
+- [Новогодний контент-план: 8 недель с ноября по январь](/ru/blog/novogodniy-kontent-plan/)

@@ -125,4 +125,4 @@ Stories are selling without ads: they warm up your audience every day and bring 
 
 - [How the Instagram algorithm works: what matters for reach](/en/blog/how-the-instagram-algorithm-works/)
 - [What an SMM manager does and how to choose one](/en/blog/what-an-smm-manager-does/)
-- [How to grow sales with internet marketing: a map for businesses in Uzbekistan](/en/blog/internet-marketing-increase-sales/)
+- [New Year content plan: 8 weeks from November to January](/en/blog/new-year-content-plan/)

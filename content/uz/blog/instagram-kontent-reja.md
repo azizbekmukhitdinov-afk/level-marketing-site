@@ -151,4 +151,4 @@ Kontent-reja — sahifani tasodifiy postlardan tizimli sotuv kanaliga aylantirad
 
 - [Telegram kanalni noldan qanday o‘stirish mumkin](/blog/telegram-kanal-osish/)
 - [Sotadigan Instagram profil: bio, highlights va birinchi 9 post](/blog/instagram-profil-sotadigan/)
-- [Internet-marketing orqali sotuvni qanday oshirish mumkin: O‘zbekistondagi biznes uchun xarita](/blog/internet-marketing-sotuvni-oshirish/)
+- [Yangi yil uchun kontent-reja: noyabrdan yanvargacha 8 hafta](/blog/yangi-yil-kontent-reja/)
