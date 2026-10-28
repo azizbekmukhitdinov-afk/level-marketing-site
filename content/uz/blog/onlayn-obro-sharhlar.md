@@ -122,4 +122,4 @@ Onlayn obro‘ — har kuni yig‘iladigan kapital. Mamnun mijozlardan muntazam 
 
 - [Biznesni Google va Yandex Xaritalarga qanday qo‘shish mumkin](/blog/biznesni-xaritalarga-qoshish/)
 - [Shaxsiy brend: ekspert qayerdan boshlashi kerak](/blog/shaxsiy-brend-qayerdan-boshlash/)
-- [Kraud-marketing nima va u saytingizga mijozlarni qanday olib keladi](/blog/kraud-marketing/)
+- [Blogerlar bilan reklama: qanday tanlash va natijani o‘lchash](/blog/blogerlar-bilan-reklama/)

@@ -123,4 +123,4 @@ Shaxsiy brend — bir jumlali pozitsiya, muntazam foydali kontent va halollik. K
 
 - [Vizual uslub va aydentika: kichik biznes uchun minimum](/blog/vizual-uslub-aydentika/)
 - [Qayta sotuvchidan brendga: Uzum Market'da o‘z brendingizni qurish](/blog/uzum-market-brend/)
-- [Kraud-marketing nima va u saytingizga mijozlarni qanday olib keladi](/blog/kraud-marketing/)
+- [Blogerlar bilan reklama: qanday tanlash va natijani o‘lchash](/blog/blogerlar-bilan-reklama/)

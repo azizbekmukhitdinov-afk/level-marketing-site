@@ -123,4 +123,4 @@ rubric: brend
 
 - [Фирменный стиль: минимум для малого бизнеса](/ru/blog/firmennyy-stil-dlya-malogo-biznesa/)
 - [Из перекупа в бренд: как построить свой бренд на Uzum Market](/ru/blog/brend-na-uzum-market/)
-- [Что такое крауд-маркетинг и как он приводит клиентов на сайт](/ru/blog/kraud-marketing/)
+- [Реклама у блогеров: как выбрать блогера и измерить результат](/ru/blog/reklama-u-blogerov/)

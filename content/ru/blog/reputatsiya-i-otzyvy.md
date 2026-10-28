@@ -122,4 +122,4 @@ rubric: brend
 
 - [Как добавить бизнес в Google и Яндекс Карты](/ru/blog/kak-dobavit-biznes-na-karty/)
 - [Личный бренд: с чего начать эксперту](/ru/blog/lichnyy-brend-s-chego-nachat/)
-- [Что такое крауд-маркетинг и как он приводит клиентов на сайт](/ru/blog/kraud-marketing/)
+- [Реклама у блогеров: как выбрать блогера и измерить результат](/ru/blog/reklama-u-blogerov/)

@@ -122,4 +122,4 @@ Online reputation is capital you build every day. Ask happy customers for review
 
 - [How to add your business to Google and Yandex Maps](/en/blog/add-your-business-to-maps/)
 - [Personal brand: where an expert should start](/en/blog/personal-brand-where-to-start/)
-- [What crowd marketing is and how it brings customers to your website](/en/blog/crowd-marketing/)
+- [Influencer advertising: choosing a blogger and measuring results](/en/blog/influencer-advertising-uzbekistan/)
