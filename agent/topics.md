@@ -7,8 +7,10 @@
 - [sotuv] Muddatli to‘lov va nasiya reklamasi: PQ-265 12-banddagi yangi talablar (ustama va yakuniy narx) — Vazirlar Mahkamasi hujjati chiqqanini tekshirib yozish | Реклама рассрочки: новые требования (переплата и итоговая цена)
 - [biznes] Mijozlar bazasi va shaxsga doir ma’lumotlar: tadbirkor nimani bilishi kerak (reyestr, rozilik, saqlash) | База клиентов и персональные данные: что знать предпринимателю
 - [target] Dekabrda reklama byudjeti: bayram mavsumida auksion raqobati va retargetingni qanday rejalash | Рекламный бюджет в декабре: конкуренция в аукционе и ретаргетинг
+- [smm] Instagram’da «Hamkorlik reklamasi» (Paid partnership) va partnership ads: bloger kontentini target reklamada ishlatish | Партнёрская реклама в Instagram: как запускать контент блогера в таргете
+- [biznes] Blogerlar va onlayn reklama markirovkasi: Soliq qo‘mitasi loyihasi qabul qilinganda biznes uchun nima o‘zgaradi (holatini tekshirib yozish) | Маркировка онлайн-рекламы и блогеры: что изменится для бизнеса
+- [brend] Mikroinfluenserlar: kichik blogerlar bilan tizimli ishlash | Микроинфлюенсеры: как системно работать с небольшими блогерами
 - [smm] Ramazon oyida kontent va reklama: nima mos, nimadan saqlanish kerak (2027 sanasi e’lon qilinganda yozish) | Контент и реклама в Рамадан
-- [brend] Blogerlar bilan reklama: qanday tanlash va natijani o‘lchash | Реклама у блогеров: как выбрать и измерить результат
 - [biznes] Restoran va kafe uchun Instagram marketing | Instagram-маркетинг для ресторана и кафе
 - [video] Qurilish jarayoni videolari: zastroyshik uchun ishonch kontenti (oylik hisobot-video, muhandis intervyusi) | Видео со стройки: контент доверия для застройщика
 - [target] CRM’dan Meta’ga sifatli lid hodisalarini yuborish (Conversions API, offline konversiyalar) | Как передавать в Meta качественные лиды из CRM
