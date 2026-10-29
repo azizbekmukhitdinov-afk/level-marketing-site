@@ -140,4 +140,4 @@ Repeat sales are one of the fastest ways to grow revenue without raising your ad
 
 - [How to collect customer feedback and what to do with it](/en/blog/collecting-customer-feedback/)
 - [What a sales funnel is, in plain words](/en/blog/what-is-a-sales-funnel/)
-- [Cost per lead (CPL): what it is and how to lower it](/en/blog/cost-per-lead-cpl-how-to-lower/)
+- [Installment advertising in Uzbekistan: new rules and a checklist](/en/blog/installment-advertising-rules/)

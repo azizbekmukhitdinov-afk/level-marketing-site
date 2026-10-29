@@ -140,4 +140,4 @@ rubric: sotuv
 
 - [Как собирать обратную связь от клиентов и что с ней делать](/ru/blog/kak-sobirat-obratnuyu-svyaz/)
 - [Что такое воронка продаж: простыми словами](/ru/blog/chto-takoe-voronka-prodazh/)
-- [Цена лида (CPL): что это и как её снизить — гид для предпринимателя](/ru/blog/tsena-lida-cpl-kak-snizit/)
+- [Реклама рассрочки: новые требования и как сделать её честной](/ru/blog/reklama-rassrochki/)

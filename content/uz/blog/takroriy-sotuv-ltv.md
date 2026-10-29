@@ -140,4 +140,4 @@ Takroriy sotuv — reklama byudjetini oshirmasdan daromadni o‘stirishning eng 
 
 - [Mijozlardan fikr-mulohaza qanday yig‘iladi va undan qanday foydalaniladi](/blog/mijoz-fikrini-yigish/)
 - [Sotuv voronkasi nima: oddiy so‘zlar bilan](/blog/sotuv-voronkasi/)
-- [Lid narxi (CPL) nima va uni qanday kamaytirish mumkin: tadbirkor uchun qo‘llanma](/blog/lid-narxi-cpl-qanday-kamaytirish/)
+- [Muddatli to‘lov reklamasi: yangi talablar va to‘g‘ri e’lon](/blog/muddatli-tolov-reklamasi/)

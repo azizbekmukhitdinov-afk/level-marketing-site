@@ -4,11 +4,11 @@
 Можете сами вписывать темы в начало списка — агент возьмёт их первыми.
 22.10.2026 на сайт вышел пакет из 50 статей — перед выбором темы проверь `ls content/uz/blog`, чтобы не повторяться.
 
-- [sotuv] Muddatli to‘lov va nasiya reklamasi: PQ-265 12-banddagi yangi talablar (ustama va yakuniy narx) — Vazirlar Mahkamasi hujjati chiqqanini tekshirib yozish | Реклама рассрочки: новые требования (переплата и итоговая цена)
 - [biznes] Mijozlar bazasi va shaxsga doir ma’lumotlar: tadbirkor nimani bilishi kerak (reyestr, rozilik, saqlash) | База клиентов и персональные данные: что знать предпринимателю
 - [target] Dekabrda reklama byudjeti: bayram mavsumida auksion raqobati va retargetingni qanday rejalash | Рекламный бюджет в декабре: конкуренция в аукционе и ретаргетинг
 - [smm] Instagram’da «Hamkorlik reklamasi» (Paid partnership) va partnership ads: bloger kontentini target reklamada ishlatish | Партнёрская реклама в Instagram: как запускать контент блогера в таргете
 - [biznes] Blogerlar va onlayn reklama markirovkasi: Soliq qo‘mitasi loyihasi qabul qilinganda biznes uchun nima o‘zgaradi (holatini tekshirib yozish) | Маркировка онлайн-рекламы и блогеры: что изменится для бизнеса
+- [biznes] Reklama to‘g‘risidagi qonun: chalg‘ituvchi reklama, taqiqlar va jarimalar — tadbirkor uchun qisqa qo‘llanma (Raqobat qo‘mitasi amaliyoti) | Закон о рекламе: недобросовестная реклама, запреты и штрафы — коротко для предпринимателя
 - [brend] Mikroinfluenserlar: kichik blogerlar bilan tizimli ishlash | Микроинфлюенсеры: как системно работать с небольшими блогерами
 - [smm] Ramazon oyida kontent va reklama: nima mos, nimadan saqlanish kerak (2027 sanasi e’lon qilinganda yozish) | Контент и реклама в Рамадан
 - [biznes] Restoran va kafe uchun Instagram marketing | Instagram-маркетинг для ресторана и кафе
@@ -23,6 +23,8 @@
 - [video] Instagram'da jonli efir: sotuv uchun qanday o‘tkazish | Прямые эфиры в Instagram для продаж
 - [biznes] B2B marketing: korporativ mijozlarni qanday jalb qilish | B2B-маркетинг: как привлекать корпоративных клиентов
 - [sotuv] Muddatli to‘lov taklifi: qachon sotuvni oshiradi | Рассрочка как оффер: когда она увеличивает продажи
+- [sotuv] Muddatli to‘lov xizmati operatorlari reyestri (2027-yil 1-yanvardan, PQ-294): do‘kon hamkor-operatorni tanlashda nimani tekshiradi | Реестр операторов рассрочки с 2027 года: что проверить магазину при выборе партнёра
+- [target] Meta’da moliyaviy xizmatlar reklamasi: maxsus kategoriya, cheklovlar va ogohlantirish matni (bank, mikromoliya, muddatli to‘lov) | Реклама финансовых услуг в Meta: спецкатегория и ограничения
 - [target] Meta Advantage+ kampaniyalari: qachon foydalanish kerak | Кампании Advantage+ от Meta: когда их использовать
 - [biznes] Avtoservis va detailing studiyasi uchun marketing | Маркетинг автосервиса и детейлинга
 - [sotuv] Telegram mini app: do‘kon va onlayn yozilish uchun qachon kerak | Telegram Mini App для магазина и онлайн-записи: когда нужен

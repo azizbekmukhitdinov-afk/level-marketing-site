@@ -118,4 +118,4 @@ Sotuv skripti — reklama olib kelgan arizalarni sotuvga aylantirishning tizimi.
 
 - [CRM nima va kichik biznesga qaysi biri mos](/blog/crm-tanlash/)
 - [Reklama hisobotida qanday raqamlar bo‘lishi shart](/blog/reklama-hisoboti/)
-- [Lid narxi (CPL) nima va uni qanday kamaytirish mumkin: tadbirkor uchun qo‘llanma](/blog/lid-narxi-cpl-qanday-kamaytirish/)
+- [Muddatli to‘lov reklamasi: yangi talablar va to‘g‘ri e’lon](/blog/muddatli-tolov-reklamasi/)

@@ -118,4 +118,4 @@ rubric: sotuv
 
 - [Что такое CRM и какая подойдёт малому бизнесу](/ru/blog/kakaya-crm-dlya-malogo-biznesa/)
 - [Что должно быть в отчёте по рекламе](/ru/blog/chto-dolzhno-byt-v-otchete-po-reklame/)
-- [Цена лида (CPL): что это и как её снизить — гид для предпринимателя](/ru/blog/tsena-lida-cpl-kak-snizit/)
+- [Реклама рассрочки: новые требования и как сделать её честной](/ru/blog/reklama-rassrochki/)

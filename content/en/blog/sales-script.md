@@ -118,4 +118,4 @@ A sales script is the system that turns ad leads into sales. Write it, train you
 
 - [What a CRM is and which one suits a small business](/en/blog/crm-for-small-business/)
 - [What an advertising report should include](/en/blog/what-an-ad-report-should-include/)
-- [Cost per lead (CPL): what it is and how to lower it](/en/blog/cost-per-lead-cpl-how-to-lower/)
+- [Installment advertising in Uzbekistan: new rules and a checklist](/en/blog/installment-advertising-rules/)
