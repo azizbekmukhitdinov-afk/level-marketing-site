@@ -96,6 +96,6 @@ rubric: video
 
 ## Ещё по теме
 
-- [Экспертное интервью: формат видео, который вызывает доверие](/ru/blog/ekspertnoe-intervyu-video/)
+- [Видео товара для маркетплейса и рекламы: 7 ошибок](/ru/blog/video-tovara/)
 - [Как снимать Reels на телефон: свет, звук и кадр](/ru/blog/kak-snimat-reels-na-telefon/)
 - [10 хуков для Reels: как удержать внимание в первые 3 секунды](/ru/blog/huki-dlya-reels/)

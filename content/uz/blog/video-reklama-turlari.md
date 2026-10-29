@@ -96,6 +96,6 @@ Video turlarini almashtirib turish — kreativlar «charchashining» oldini olis
 
 ## Shu mavzuda yana
 
-- [Ekspert intervyu video: ishonch qozonadigan format](/blog/ekspert-intervyu-video/)
+- [Mahsulot videosi: marketplace va reklama uchun 7 xato](/blog/mahsulot-videosi/)
 - [Telefonda Reels suratga olish: yorug‘lik, ovoz va kadr](/blog/telefonda-reels-suratga-olish/)
 - [Reels uchun 10 ta hook: birinchi 3 soniyada e'tiborni ushlash](/blog/reels-uchun-hooklar/)
