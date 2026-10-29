@@ -12,9 +12,11 @@
 - [brend] Mikroinfluenserlar: kichik blogerlar bilan tizimli ishlash | Микроинфлюенсеры: как системно работать с небольшими блогерами
 - [smm] Ramazon oyida kontent va reklama: nima mos, nimadan saqlanish kerak (2027 sanasi e’lon qilinganda yozish) | Контент и реклама в Рамадан
 - [biznes] Restoran va kafe uchun Instagram marketing | Instagram-маркетинг для ресторана и кафе
+- [video] Unboxing va «qutidan chiqarish» videolari: onlayn do‘kon uchun ssenariy va suratga olish | Видео-распаковка для интернет-магазина: сценарий и съёмка
+- [target] Instagram Reels reklamasi uchun kreativ: xavfsiz zona, ovoz va subtitr — reklama hisobida tekshirish (Meta Ads Guide) | Креатив для рекламы в Reels: безопасная зона, звук и субтитры
+- [sotuv] Marketplace kartochkasi konversiyasi: rasm, video, sharhlar va savollarga javob (Uzum Market sotuvchilari uchun) | Конверсия карточки на маркетплейсе: фото, видео, отзывы
 - [video] Qurilish jarayoni videolari: zastroyshik uchun ishonch kontenti (oylik hisobot-video, muhandis intervyusi) | Видео со стройки: контент доверия для застройщика
 - [target] CRM’dan Meta’ga sifatli lid hodisalarini yuborish (Conversions API, offline konversiyalar) | Как передавать в Meta качественные лиды из CRM
-- [video] Mahsulot videosi: marketplace va reklama uchun qanday suratga olish | Видео товара для маркетплейса и рекламы
 - [target] Google Ads qidiruv reklamasi: birinchi kampaniyani sozlash | Google Ads: как настроить первую поисковую кампанию
 - [sotuv] Landing sahifa: ariza olib keladigan tuzilma | Лендинг, который приносит заявки: структура
 - [brend] Brendning ovoz ohangi (tone of voice) | Tone of voice бренда: как говорить с клиентами
