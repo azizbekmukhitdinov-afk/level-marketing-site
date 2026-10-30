@@ -120,5 +120,5 @@ rubric: biznes
 ## Ещё по теме
 
 - [Как планировать маркетинговый бюджет: процент от выручки и расчёт от цели](/ru/blog/kak-planirovat-marketingovyy-byudzhet/)
-- [Анализ конкурентов: что можно узнать за один день](/ru/blog/analiz-konkurentov/)
+- [База клиентов и персональные данные: что знать предпринимателю](/ru/blog/baza-klientov-personalnye-dannye/)
 - [Рекламные SMS: новые правила с 1 ноября 2026 и что делать бизнесу](/ru/blog/reklamnye-sms-novye-pravila/)

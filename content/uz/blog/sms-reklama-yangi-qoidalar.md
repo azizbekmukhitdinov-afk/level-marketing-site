@@ -147,4 +147,4 @@ Level Marketing'da reklama kampaniyalarini sozlashda arizalar va rozilik qayerda
 
 - [Yangi tadbirkorlarning marketingdagi 7 ta xatosi](/blog/yangi-tadbirkor-xatolari/)
 - [Marketing byudjetini qanday rejalash: daromaddan foiz va maqsaddan hisob](/blog/marketing-byudjeti-rejasi/)
-- [Maqsadli auditoriya va mijoz portreti: qanday aniqlash](/blog/maqsadli-auditoriya/)
+- [Mijozlar bazasi va shaxsga doir ma’lumotlar: tadbirkor uchun](/blog/mijozlar-bazasi-shaxsiy-malumotlar/)

@@ -4,7 +4,6 @@
 Можете сами вписывать темы в начало списка — агент возьмёт их первыми.
 22.10.2026 на сайт вышел пакет из 50 статей — перед выбором темы проверь `ls content/uz/blog`, чтобы не повторяться.
 
-- [biznes] Mijozlar bazasi va shaxsga doir ma’lumotlar: tadbirkor nimani bilishi kerak (reyestr, rozilik, saqlash) | База клиентов и персональные данные: что знать предпринимателю
 - [target] Dekabrda reklama byudjeti: bayram mavsumida auksion raqobati va retargetingni qanday rejalash | Рекламный бюджет в декабре: конкуренция в аукционе и ретаргетинг
 - [smm] Instagram’da «Hamkorlik reklamasi» (Paid partnership) va partnership ads: bloger kontentini target reklamada ishlatish | Партнёрская реклама в Instagram: как запускать контент блогера в таргете
 - [biznes] Blogerlar va onlayn reklama markirovkasi: Soliq qo‘mitasi loyihasi qabul qilinganda biznes uchun nima o‘zgaradi (holatini tekshirib yozish) | Маркировка онлайн-рекламы и блогеры: что изменится для бизнеса
@@ -16,6 +15,8 @@
 - [target] Instagram Reels reklamasi uchun kreativ: xavfsiz zona, ovoz va subtitr — reklama hisobida tekshirish (Meta Ads Guide) | Креатив для рекламы в Reels: безопасная зона, звук и субтитры
 - [sotuv] Marketplace kartochkasi konversiyasi: rasm, video, sharhlar va savollarga javob (Uzum Market sotuvchilari uchun) | Конверсия карточки на маркетплейсе: фото, видео, отзывы
 - [video] Qurilish jarayoni videolari: zastroyshik uchun ishonch kontenti (oylik hisobot-video, muhandis intervyusi) | Видео со стройки: контент доверия для застройщика
+- [target] Meta’ga mijozlar ro‘yxatini yuklash (Custom Audience): xeshlash, rozilik matni va o‘xshash auditoriya | Загрузка списка клиентов в Meta: хеширование, согласие, lookalike
+- [sotuv] Sayt va lid-forma uchun maxfiylik siyosati: nima yozish kerak (O‘RQ-547, 21-modda) | Политика конфиденциальности для сайта и лид-формы: что написать
 - [target] CRM’dan Meta’ga sifatli lid hodisalarini yuborish (Conversions API, offline konversiyalar) | Как передавать в Meta качественные лиды из CRM
 - [target] Google Ads qidiruv reklamasi: birinchi kampaniyani sozlash | Google Ads: как настроить первую поисковую кампанию
 - [sotuv] Landing sahifa: ariza olib keladigan tuzilma | Лендинг, который приносит заявки: структура

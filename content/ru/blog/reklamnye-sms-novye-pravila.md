@@ -147,4 +147,4 @@ rubric: biznes
 
 - [7 маркетинговых ошибок начинающих предпринимателей](/ru/blog/oshibki-nachinayushchih-predprinimateley/)
 - [Как планировать маркетинговый бюджет: процент от выручки и расчёт от цели](/ru/blog/kak-planirovat-marketingovyy-byudzhet/)
-- [Целевая аудитория и портрет клиента: как определить](/ru/blog/tselevaya-auditoriya-i-portret-klienta/)
+- [База клиентов и персональные данные: что знать предпринимателю](/ru/blog/baza-klientov-personalnye-dannye/)
