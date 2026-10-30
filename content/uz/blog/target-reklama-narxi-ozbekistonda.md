@@ -174,5 +174,5 @@ Target reklama narxi — bu reklama byudjeti, mutaxassis xizmati va kontentning 
 ## Shu mavzuda yana
 
 - [Marketing byudjetini qanday rejalash: daromaddan foiz va maqsaddan hisob](/blog/marketing-byudjeti-rejasi/)
-- [Instant forma yoki Direct'ga xabar: qaysi biri ko‘proq sotuv olib keladi](/blog/instant-forma-yoki-xabarlar/)
+- [Dekabrda reklama byudjeti: bayram mavsumiga 5 qadamli reja](/blog/dekabr-reklama-byudjeti/)
 - [Reklama hisobotida qanday raqamlar bo‘lishi shart](/blog/reklama-hisoboti/)

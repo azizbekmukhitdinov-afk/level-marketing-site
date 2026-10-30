@@ -174,5 +174,5 @@ The cost of paid ads is the sum of the ad budget, the specialist's fee and conte
 ## More on this topic
 
 - [How to plan a marketing budget: share of revenue vs goal-based](/en/blog/planning-a-marketing-budget/)
-- [Lead form or Direct messages: which brings more sales](/en/blog/lead-form-or-messages/)
+- [December ad budget: a 5-step plan for the holiday season](/en/blog/december-ad-budget/)
 - [What an advertising report should include](/en/blog/what-an-ad-report-should-include/)

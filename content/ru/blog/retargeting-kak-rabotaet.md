@@ -100,6 +100,6 @@ rubric: target
 
 ## Ещё по теме
 
-- [TikTok Ads в Узбекистане: кому подходит и как начать](/ru/blog/tiktok-ads-v-uzbekistane/)
+- [Рекламный бюджет в декабре: план на праздничный сезон в 5 шагов](/ru/blog/reklamnyy-byudzhet-v-dekabre/)
 - [A/B-тесты рекламных креативов: как проводить](/ru/blog/ab-test-kreativov/)
 - [Как настроить таргет в Instagram: пошаговое руководство](/ru/blog/kak-nastroit-target-v-instagram/)

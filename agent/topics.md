@@ -4,7 +4,8 @@
 Можете сами вписывать темы в начало списка — агент возьмёт их первыми.
 22.10.2026 на сайт вышел пакет из 50 статей — перед выбором темы проверь `ls content/uz/blog`, чтобы не повторяться.
 
-- [target] Dekabrda reklama byudjeti: bayram mavsumida auksion raqobati va retargetingni qanday rejalash | Рекламный бюджет в декабре: конкуренция в аукционе и ретаргетинг
+- [target] Meta’da o‘rganish bosqichi va «Learning limited»: nima uchun reklama beqaror va byudjetni qanday oshirish | Этап обучения в Meta и «Ограниченное обучение»: почему реклама нестабильна
+- [sotuv] Bayram kunlari sotuv bo‘limi: navbatchilik jadvali va arizalarni yo‘qotmaslik (31-dekabr – 3-yanvar) | Отдел продаж в праздники: дежурства и обработка заявок
 - [smm] Instagram’da «Hamkorlik reklamasi» (Paid partnership) va partnership ads: bloger kontentini target reklamada ishlatish | Партнёрская реклама в Instagram: как запускать контент блогера в таргете
 - [biznes] Blogerlar va onlayn reklama markirovkasi: Soliq qo‘mitasi loyihasi qabul qilinganda biznes uchun nima o‘zgaradi (holatini tekshirib yozish) | Маркировка онлайн-рекламы и блогеры: что изменится для бизнеса
 - [biznes] Reklama to‘g‘risidagi qonun: chalg‘ituvchi reklama, taqiqlar va jarimalar — tadbirkor uchun qisqa qo‘llanma (Raqobat qo‘mitasi amaliyoti) | Закон о рекламе: недобросовестная реклама, запреты и штрафы — коротко для предпринимателя
@@ -36,3 +37,4 @@
 - [biznes] Eskrou hisobvaraqlari va ulushli qurilish: qonun loyihasi qabul qilinganda zastroyshik marketingi nimani o‘zgartiradi (holatini tekshirib yozish) | Эскроу в долевом строительстве и маркетинг застройщика
 - [sotuv] Sovg‘a sertifikati: klinika, salon va o‘quv markazi uchun qanday sotish | Подарочный сертификат: как продавать клинике, салону, учебному центру
 - [biznes] Mahalliy ishlab chiqaruvchilar uchun reklama xarajatlarini kompensatsiya qilish: kim oladi va qanday (anhor.uz, Savdoga ko‘maklashish jamg‘armasi — shartlarini tekshirib yozish) | Компенсация рекламы местным производителям
+- [smm] Yanvar sukunati: bayramdan keyingi oyda kontent va aksiya bilan sotuvni ushlab turish | Январское затишье: как продавать после праздников

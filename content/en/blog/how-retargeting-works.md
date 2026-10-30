@@ -100,6 +100,6 @@ Retargeting brings back people who were interested but didn't decide. The right 
 
 ## More on this topic
 
-- [TikTok Ads in Uzbekistan: who it suits and how to start](/en/blog/tiktok-ads-in-uzbekistan/)
+- [December ad budget: a 5-step plan for the holiday season](/en/blog/december-ad-budget/)
 - [A/B testing ad creatives: how to run it](/en/blog/ab-testing-ad-creatives/)
 - [How to set up Instagram ads: a step-by-step guide](/en/blog/how-to-set-up-instagram-ads/)
