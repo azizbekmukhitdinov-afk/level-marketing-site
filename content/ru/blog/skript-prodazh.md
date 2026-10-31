@@ -118,4 +118,4 @@ rubric: sotuv
 
 - [Что такое CRM и какая подойдёт малому бизнесу](/ru/blog/kakaya-crm-dlya-malogo-biznesa/)
 - [Что должно быть в отчёте по рекламе](/ru/blog/chto-dolzhno-byt-v-otchete-po-reklame/)
-- [Реклама рассрочки: новые требования и как сделать её честной](/ru/blog/reklama-rassrochki/)
+- [Отдел продаж в праздники: как не потерять заявки в Новый год](/ru/blog/otdel-prodazh-v-prazdniki/)

@@ -107,4 +107,4 @@ Response speed is the cheapest way to grow sales without raising the ad budget. 
 
 - [Sales script: a structure for calls and Telegram](/en/blog/sales-script/)
 - [What a CRM is and which one suits a small business](/en/blog/crm-for-small-business/)
-- [Collecting leads with a Telegram bot: a guide for business](/en/blog/telegram-bot-for-leads/)
+- [Sales team during the holidays: how not to lose leads](/en/blog/sales-team-during-holidays/)

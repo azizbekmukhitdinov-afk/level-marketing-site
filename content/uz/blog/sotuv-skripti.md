@@ -118,4 +118,4 @@ Sotuv skripti — reklama olib kelgan arizalarni sotuvga aylantirishning tizimi.
 
 - [CRM nima va kichik biznesga qaysi biri mos](/blog/crm-tanlash/)
 - [Reklama hisobotida qanday raqamlar bo‘lishi shart](/blog/reklama-hisoboti/)
-- [Muddatli to‘lov reklamasi: yangi talablar va to‘g‘ri e’lon](/blog/muddatli-tolov-reklamasi/)
+- [Bayram kunlari sotuv bo‘limi: arizalarni yo‘qotmaslik rejasi](/blog/bayram-kunlari-sotuv-bolimi/)
