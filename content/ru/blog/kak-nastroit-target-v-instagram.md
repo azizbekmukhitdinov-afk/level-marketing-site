@@ -180,5 +180,5 @@ rubric: target
 ## Ещё по теме
 
 - [Meta Pixel и Conversions API: зачем нужны и как установить](/ru/blog/meta-pixel-i-conversions-api/)
-- [Lookalike-аудитории: как найти людей, похожих на ваших клиентов](/ru/blog/lookalike-auditoriya/)
+- [«Ограниченное обучение» в Meta: почему реклама нестабильна](/ru/blog/ogranichennoe-obuchenie-meta/)
 - [A/B-тесты рекламных креативов: как проводить](/ru/blog/ab-test-kreativov/)

@@ -121,5 +121,5 @@ A/B-тесты переводят рекламу из догадок в цифр
 ## Ещё по теме
 
 - [Лид-форма или сообщения в Direct: что приносит больше продаж](/ru/blog/lid-forma-ili-soobshcheniya/)
-- [Рекламный кабинет заблокирован: что делать и как не допустить](/ru/blog/reklamnyy-kabinet-zablokirovan/)
+- [«Ограниченное обучение» в Meta: почему реклама нестабильна](/ru/blog/ogranichennoe-obuchenie-meta/)
 - [Как настроить таргет в Instagram: пошаговое руководство](/ru/blog/kak-nastroit-target-v-instagram/)

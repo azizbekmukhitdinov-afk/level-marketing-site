@@ -180,5 +180,5 @@ Instagram advertising is not a single button but a system: objective, audience, 
 ## More on this topic
 
 - [Meta Pixel and Conversions API: why you need them and how to set them up](/en/blog/meta-pixel-and-conversions-api/)
-- [Lookalike audiences: how to find people like your customers](/en/blog/lookalike-audiences/)
+- [Learning limited in Meta ads: why results are unstable](/en/blog/meta-learning-limited/)
 - [A/B testing ad creatives: how to run it](/en/blog/ab-testing-ad-creatives/)

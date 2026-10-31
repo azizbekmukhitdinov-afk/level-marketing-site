@@ -121,5 +121,5 @@ A/B testing moves your advertising from guesswork to numbers. At least one test 
 ## More on this topic
 
 - [Lead form or Direct messages: which brings more sales](/en/blog/lead-form-or-messages/)
-- [Ad account blocked: what to do and how to prevent it](/en/blog/ad-account-blocked/)
+- [Learning limited in Meta ads: why results are unstable](/en/blog/meta-learning-limited/)
 - [How to set up Instagram ads: a step-by-step guide](/en/blog/how-to-set-up-instagram-ads/)

@@ -121,5 +121,5 @@ A/B test reklamani taxmindan raqamlarga o‘tkazadi. Har hafta kamida bitta test
 ## Shu mavzuda yana
 
 - [Instant forma yoki Direct'ga xabar: qaysi biri ko‘proq sotuv olib keladi](/blog/instant-forma-yoki-xabarlar/)
-- [Reklama kabineti bloklandi: nima qilish va qanday oldini olish](/blog/reklama-kabineti-bloklandi/)
+- [Learning limited nima: Meta reklamasi nega beqaror ishlaydi](/blog/learning-limited-meta/)
 - [Instagram'da target reklama qanday sozlanadi: bosqichma-bosqich qo‘llanma](/blog/instagramda-target-reklama-sozlash/)

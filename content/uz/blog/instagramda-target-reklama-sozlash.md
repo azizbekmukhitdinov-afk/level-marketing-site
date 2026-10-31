@@ -180,5 +180,5 @@ Instagram'da target reklama — bu bitta tugma emas, balki maqsad, auditoriya, k
 ## Shu mavzuda yana
 
 - [Meta Pixel va Conversions API: nima uchun kerak va qanday o‘rnatiladi](/blog/meta-pixel-conversions-api/)
-- [Lookalike auditoriya: mijozlaringizga o‘xshash odamlarni qanday topish](/blog/lookalike-auditoriya/)
+- [Learning limited nima: Meta reklamasi nega beqaror ishlaydi](/blog/learning-limited-meta/)
 - [Reklama kreativlari uchun A/B test: qanday o‘tkaziladi](/blog/kreativlar-ab-test/)
