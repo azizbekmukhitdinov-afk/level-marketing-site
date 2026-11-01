@@ -115,6 +115,6 @@ rubric: smm
 
 ## Ещё по теме
 
-- [YouTube для бизнеса: канал, Shorts и длинные видео](/ru/blog/youtube-dlya-biznesa/)
+- [Автоответы в Meta Business Suite: настройка для бизнеса](/ru/blog/avtootvety-meta-business-suite/)
 - [Контент-план для Instagram: 30 идей на месяц](/ru/blog/kontent-plan-dlya-instagram/)
 - [Как увеличить продажи с помощью интернет-маркетинга: карта для бизнеса в Узбекистане](/ru/blog/internet-marketing-uvelichit-prodazhi/)

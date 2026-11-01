@@ -115,6 +115,6 @@ Izoh va Direct — sahifaning «kassasi». Tez, aniq va do‘stona javoblar, tay
 
 ## Shu mavzuda yana
 
-- [YouTube biznes uchun: kanal, Shorts va uzun videolar](/blog/youtube-biznes-uchun/)
+- [Meta Business Suite’da avtomatik javoblar: biznes uchun sozlash](/blog/meta-business-suite-avtomatik-javoblar/)
 - [Instagram uchun kontent-reja: oyiga 30 ta post g‘oyasi](/blog/instagram-kontent-reja/)
 - [Internet-marketing orqali sotuvni qanday oshirish mumkin: O‘zbekistondagi biznes uchun xarita](/blog/internet-marketing-sotuvni-oshirish/)

@@ -115,6 +115,6 @@ Comments and DMs are your page's checkout. Fast, specific and friendly replies, 
 
 ## More on this topic
 
-- [YouTube for business: channel, Shorts and long videos](/en/blog/youtube-for-business/)
+- [Automated responses in Meta Business Suite: a setup guide](/en/blog/meta-business-suite-automated-responses/)
 - [Instagram content plan: 30 post ideas for a month](/en/blog/instagram-content-plan/)
 - [How to grow sales with internet marketing: a map for businesses in Uzbekistan](/en/blog/internet-marketing-increase-sales/)

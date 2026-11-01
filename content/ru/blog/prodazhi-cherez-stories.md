@@ -124,5 +124,5 @@ Stories — продажи без рекламы: они каждый день �
 ## Ещё по теме
 
 - [Как работает алгоритм Instagram: что важно для охвата](/ru/blog/kak-rabotaet-algoritm-instagram/)
-- [Чем занимается SMM-менеджер и как его выбрать](/ru/blog/chem-zanimaetsya-smm-menedzher/)
+- [Автоответы в Meta Business Suite: настройка для бизнеса](/ru/blog/avtootvety-meta-business-suite/)
 - [Новогодний контент-план: 8 недель с ноября по январь](/ru/blog/novogodniy-kontent-plan/)

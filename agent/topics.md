@@ -5,8 +5,9 @@
 22.10.2026 на сайт вышел пакет из 50 статей — перед выбором темы проверь `ls content/uz/blog`, чтобы не повторяться.
 
 - [sotuv] Bayramdan keyingi birinchi hafta: javobsiz arizalarni qayta ishlash va «sovigan» lidlarni qaytarish | Первая неделя после праздников: как вернуть остывшие заявки
-- [smm] Meta Business Suite’da avtomatik javoblar: tezkor javob, ish vaqtidan tashqari xabar va FAQ — biznes uchun sozlash | Автоответы в Meta Business Suite: настройка для бизнеса
 - [biznes] Bayram kunlari xodimlar ishi: navbatchilik, qo‘shimcha haq va dam olish kuni — tadbirkor uchun qisqa qo‘llanma (Mehnat kodeksi, 263-modda; manbani lex.uz’da tekshirish) | Работа сотрудников в праздники: что знать предпринимателю
+- [target] «Xabar yuborish» maqsadli reklamada salomlashuv matni va tayyor savollar: Direct’ga keladigan arizalarni saralash (Meta Ads Manager, message template) | Шаблон приветствия в рекламе на сообщения: как квалифицировать заявки
+- [sotuv] Direct va Messenger’dagi javobsiz suhbatlar: haftalik audit va menejer uchun javob standarti (kirish qutisi yorliqlari, mas’ullar) | Неотвеченные диалоги в Direct: еженедельный аудит и стандарт ответа
 - [smm] Instagram’da «Hamkorlik reklamasi» (Paid partnership) va partnership ads: bloger kontentini target reklamada ishlatish | Партнёрская реклама в Instagram: как запускать контент блогера в таргете
 - [biznes] Blogerlar va onlayn reklama markirovkasi: Soliq qo‘mitasi loyihasi qabul qilinganda biznes uchun nima o‘zgaradi (holatini tekshirib yozish) | Маркировка онлайн-рекламы и блогеры: что изменится для бизнеса
 - [biznes] Reklama to‘g‘risidagi qonun: chalg‘ituvchi reklama, taqiqlar va jarimalar — tadbirkor uchun qisqa qo‘llanma (Raqobat qo‘mitasi amaliyoti) | Закон о рекламе: недобросовестная реклама, запреты и штрафы — коротко для предпринимателя
@@ -42,3 +43,4 @@
 - [sotuv] Sovg‘a sertifikati: klinika, salon va o‘quv markazi uchun qanday sotish | Подарочный сертификат: как продавать клинике, салону, учебному центру
 - [biznes] Mahalliy ishlab chiqaruvchilar uchun reklama xarajatlarini kompensatsiya qilish: kim oladi va qanday (anhor.uz, Savdoga ko‘maklashish jamg‘armasi — shartlarini tekshirib yozish) | Компенсация рекламы местным производителям
 - [smm] Yanvar sukunati: bayramdan keyingi oyda kontent va aksiya bilan sotuvni ushlab turish | Январское затишье: как продавать после праздников
+- [smm] Meta Business AI / biznes uchun AI-yordamchi Instagram va Messenger’da: nima qiladi, avtojavoblar bilan qanday ishlaydi (Meta rasmiy e’lonlari bo‘yicha tekshirib yozish) | AI-агент Meta для бизнеса в Instagram и Messenger: что умеет
