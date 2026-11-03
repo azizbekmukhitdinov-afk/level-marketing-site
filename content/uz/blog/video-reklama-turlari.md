@@ -98,4 +98,4 @@ Video turlarini almashtirib turish — kreativlar «charchashining» oldini olis
 
 - [Mahsulot videosi: marketplace va reklama uchun 7 xato](/blog/mahsulot-videosi/)
 - [Telefonda Reels suratga olish: yorug‘lik, ovoz va kadr](/blog/telefonda-reels-suratga-olish/)
-- [Reels uchun 10 ta hook: birinchi 3 soniyada e'tiborni ushlash](/blog/reels-uchun-hooklar/)
+- [Unboxing video: onlayn do‘kon uchun ssenariy va suratga olish](/blog/unboxing-video/)

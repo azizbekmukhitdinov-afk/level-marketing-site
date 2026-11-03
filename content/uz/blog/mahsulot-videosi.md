@@ -159,6 +159,6 @@ Level Marketing reklama uchun videolarni ssenariydan boshlab tayyorlaydi va qays
 
 ## Shu mavzuda yana
 
-- [Video reklamaning 7 turi: qaysi biri sizning mahsulotingizni sotadi](/blog/video-reklama-turlari/)
+- [Unboxing video: onlayn do‘kon uchun ssenariy va suratga olish](/blog/unboxing-video/)
 - [Telefonda Reels suratga olish: yorug‘lik, ovoz va kadr](/blog/telefonda-reels-suratga-olish/)
 - [Reels uchun 10 ta hook: birinchi 3 soniyada e'tiborni ushlash](/blog/reels-uchun-hooklar/)

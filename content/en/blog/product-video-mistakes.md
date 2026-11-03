@@ -159,6 +159,6 @@ Level Marketing produces ad videos starting from the script and tests in paid ca
 
 ## More on this topic
 
-- [7 types of video ads: which one will sell your product](/en/blog/types-of-video-ads/)
+- [Unboxing video for an online store: script and shooting](/en/blog/unboxing-video-online-store/)
 - [Shooting Reels on a phone: light, sound and framing](/en/blog/shooting-reels-on-a-phone/)
 - [10 Reels hooks: how to hold attention in the first 3 seconds](/en/blog/reels-hooks/)

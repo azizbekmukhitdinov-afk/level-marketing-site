@@ -14,12 +14,14 @@
 - [biznes] Tashqi reklama va peshlavha: reklama joyi pasporti va ruxsat tartibi (qonunning 23–26-moddalari, VMQ-428 2023) | Наружная реклама и вывеска: паспорт рекламного места и разрешения
 - [brend] Mikroinfluenserlar: kichik blogerlar bilan tizimli ishlash | Микроинфлюенсеры: как системно работать с небольшими блогерами
 - [smm] Ramazon oyida kontent va reklama: nima mos, nimadan saqlanish kerak (2027 sanasi e’lon qilinganda yozish) | Контент и реклама в Рамадан
-- [video] Unboxing va «qutidan chiqarish» videolari: onlayn do‘kon uchun ssenariy va suratga olish | Видео-распаковка для интернет-магазина: сценарий и съёмка
 - [target] Meta’da kampaniya tuzilmasi: nechta kampaniya va reklama to‘plami kerak, Advantage campaign budget qachon qulay | Структура кампаний в Meta: сколько кампаний и групп нужно
 - [sotuv] Kabinetdagi lidlar va CRM’dagi sonlar mos kelmasa: sabablari va haftalik tekshiruv | Лиды в кабинете и в CRM не совпадают: причины и проверка
 - [target] Meta’da stavka strategiyalari: eng past narx, cost cap va bid cap — kichik biznes uchun qaysi biri (Meta Business Help bo‘yicha tekshirib yozish) | Стратегии ставок в Meta: какую выбрать малому бизнесу
 - [target] Instagram Reels reklamasi uchun kreativ: xavfsiz zona, ovoz va subtitr — reklama hisobida tekshirish (Meta Ads Guide) | Креатив для рекламы в Reels: безопасная зона, звук и субтитры
 - [sotuv] Marketplace kartochkasi konversiyasi: rasm, video, sharhlar va savollarga javob (Uzum Market sotuvchilari uchun) | Конверсия карточки на маркетплейсе: фото, видео, отзывы
+- [sotuv] Onlayn do‘konda qaytarishlar: «rangi boshqa», «o‘lchami mos emas» — kartochka, video va javob shablonlari bilan qaytarishni kamaytirish | Возвраты в интернет-магазине: как снизить их описанием, видео и ответами
+- [video] Mijoz videolari (UGC) bilan ishlash: so‘rash, rozilik olish va reklamada ishlatish | Видео от клиентов (UGC): как просить, получать согласие и запускать в рекламу
+- [brend] Qadoq dizayni brend sifatida: kichik onlayn do‘kon uchun kartochka, lenta va «birinchi taassurot» | Упаковка как часть бренда: что положить в посылку небольшому магазину
 - [video] Qurilish jarayoni videolari: zastroyshik uchun ishonch kontenti (oylik hisobot-video, muhandis intervyusi) | Видео со стройки: контент доверия для застройщика
 - [target] Meta’ga mijozlar ro‘yxatini yuklash (Custom Audience): xeshlash, rozilik matni va o‘xshash auditoriya | Загрузка списка клиентов в Meta: хеширование, согласие, lookalike
 - [sotuv] Sayt va lid-forma uchun maxfiylik siyosati: nima yozish kerak (O‘RQ-547, 21-modda) | Политика конфиденциальности для сайта и лид-формы: что написать

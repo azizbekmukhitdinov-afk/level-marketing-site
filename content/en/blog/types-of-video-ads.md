@@ -98,4 +98,4 @@ Rotating video types is the simplest way to stop creatives wearing out and keep 
 
 - [Product video for marketplaces and ads: 7 mistakes](/en/blog/product-video-mistakes/)
 - [Shooting Reels on a phone: light, sound and framing](/en/blog/shooting-reels-on-a-phone/)
-- [10 Reels hooks: how to hold attention in the first 3 seconds](/en/blog/reels-hooks/)
+- [Unboxing video for an online store: script and shooting](/en/blog/unboxing-video-online-store/)
