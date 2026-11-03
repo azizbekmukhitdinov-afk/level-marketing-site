@@ -146,5 +146,5 @@ At Level Marketing, when we set up ad campaigns, we plan in advance where leads 
 ## More on this topic
 
 - [7 marketing mistakes new entrepreneurs make](/en/blog/marketing-mistakes-new-entrepreneurs/)
-- [How to plan a marketing budget: share of revenue vs goal-based](/en/blog/planning-a-marketing-budget/)
+- [Advertising law in Uzbekistan: bans and fines in brief](/en/blog/advertising-law-uzbekistan/)
 - [Customer database and personal data in Uzbekistan: a guide](/en/blog/customer-database-personal-data-uzbekistan/)

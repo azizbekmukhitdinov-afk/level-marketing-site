@@ -10,7 +10,8 @@
 - [sotuv] Direct va Messenger’dagi javobsiz suhbatlar: haftalik audit va menejer uchun javob standarti (kirish qutisi yorliqlari, mas’ullar) | Неотвеченные диалоги в Direct: еженедельный аудит и стандарт ответа
 - [smm] Instagram’da «Hamkorlik reklamasi» (Paid partnership) va partnership ads: bloger kontentini target reklamada ishlatish | Партнёрская реклама в Instagram: как запускать контент блогера в таргете
 - [biznes] Blogerlar va onlayn reklama markirovkasi: Soliq qo‘mitasi loyihasi qabul qilinganda biznes uchun nima o‘zgaradi (holatini tekshirib yozish) | Маркировка онлайн-рекламы и блогеры: что изменится для бизнеса
-- [biznes] Reklama to‘g‘risidagi qonun: chalg‘ituvchi reklama, taqiqlar va jarimalar — tadbirkor uchun qisqa qo‘llanma (Raqobat qo‘mitasi amaliyoti) | Закон о рекламе: недобросовестная реклама, запреты и штрафы — коротко для предпринимателя
+- [biznes] Klinika va dorixona reklamasi: dori vositalari va BFQ reklamasiga talablar (Reklama to‘g‘risidagi qonun, 34–35-moddalar; lex.uz’da tekshirib yozish) | Реклама клиники и аптеки: требования к рекламе лекарств и БАД
+- [biznes] Tashqi reklama va peshlavha: reklama joyi pasporti va ruxsat tartibi (qonunning 23–26-moddalari, VMQ-428 2023) | Наружная реклама и вывеска: паспорт рекламного места и разрешения
 - [brend] Mikroinfluenserlar: kichik blogerlar bilan tizimli ishlash | Микроинфлюенсеры: как системно работать с небольшими блогерами
 - [smm] Ramazon oyida kontent va reklama: nima mos, nimadan saqlanish kerak (2027 sanasi e’lon qilinganda yozish) | Контент и реклама в Рамадан
 - [biznes] Restoran va kafe uchun Instagram marketing | Instagram-маркетинг для ресторана и кафе
@@ -27,7 +28,7 @@
 - [target] Google Ads qidiruv reklamasi: birinchi kampaniyani sozlash | Google Ads: как настроить первую поисковую кампанию
 - [sotuv] Landing sahifa: ariza olib keladigan tuzilma | Лендинг, который приносит заявки: структура
 - [brend] Brendning ovoz ohangi (tone of voice) | Tone of voice бренда: как говорить с клиентами
-- [smm] Instagram'da giveaway: qoidalar, mexanika va xatolar | Розыгрыш в Instagram: правила, механика и ошибки
+- [smm] Instagram'da giveaway: qoidalar, mexanika va xatolar (Reklama to‘g‘risidagi qonun, 21-modda: shartlarni oldindan e’lon qilish, 6 oy ochiq turishi) | Розыгрыш в Instagram: правила, механика и ошибки
 - [biznes] Go‘zallik saloni uchun marketing | Маркетинг салона красоты
 - [video] Instagram'da jonli efir: sotuv uchun qanday o‘tkazish | Прямые эфиры в Instagram для продаж
 - [biznes] B2B marketing: korporativ mijozlarni qanday jalb qilish | B2B-маркетинг: как привлекать корпоративных клиентов

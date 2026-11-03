@@ -119,6 +119,6 @@ All of these mistakes can be fixed — often without raising the ad budget. To t
 
 ## More on this topic
 
-- [How to plan a marketing budget: share of revenue vs goal-based](/en/blog/planning-a-marketing-budget/)
+- [Advertising law in Uzbekistan: bans and fines in brief](/en/blog/advertising-law-uzbekistan/)
 - [Customer database and personal data in Uzbekistan: a guide](/en/blog/customer-database-personal-data-uzbekistan/)
 - [SMS advertising rules in Uzbekistan from 1 November 2026](/en/blog/sms-advertising-rules-uzbekistan/)

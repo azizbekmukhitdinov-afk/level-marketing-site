@@ -119,6 +119,6 @@ Bu xatolarning barchasi tuzatiladi — ko‘pincha reklama byudjetini oshirmasda
 
 ## Shu mavzuda yana
 
-- [Marketing byudjetini qanday rejalash: daromaddan foiz va maqsaddan hisob](/blog/marketing-byudjeti-rejasi/)
+- [Reklama to‘g‘risidagi qonun: taqiqlar va jarimalar qisqacha](/blog/reklama-togrisidagi-qonun/)
 - [Mijozlar bazasi va shaxsga doir ma’lumotlar: tadbirkor uchun](/blog/mijozlar-bazasi-shaxsiy-malumotlar/)
 - [SMS reklama yangi qoidalari: 1-noyabr 2026 dan biznes nima qiladi](/blog/sms-reklama-yangi-qoidalar/)

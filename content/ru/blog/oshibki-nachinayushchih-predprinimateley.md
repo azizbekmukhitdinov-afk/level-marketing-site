@@ -119,6 +119,6 @@ rubric: biznes
 
 ## Ещё по теме
 
-- [Как планировать маркетинговый бюджет: процент от выручки и расчёт от цели](/ru/blog/kak-planirovat-marketingovyy-byudzhet/)
+- [Закон о рекламе в Узбекистане: запреты и штрафы коротко](/ru/blog/zakon-o-reklame-uzbekistan/)
 - [База клиентов и персональные данные: что знать предпринимателю](/ru/blog/baza-klientov-personalnye-dannye/)
 - [Рекламные SMS: новые правила с 1 ноября 2026 и что делать бизнесу](/ru/blog/reklamnye-sms-novye-pravila/)
