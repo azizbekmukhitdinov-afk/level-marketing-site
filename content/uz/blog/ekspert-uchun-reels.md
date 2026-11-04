@@ -11,6 +11,8 @@ rubric: brend
 
 Shifokor, psixolog, yurist, advokat, stomatolog — bu mutaxassislarga mijozlar ko‘pincha tavsiya orqali keladi. Tavsiya yaxshi, lekin uni tezlashtirib bo‘lmaydi. Shuning uchun ko‘p ekspertlar Instagram orqali o‘z nomi bilan mijoz olishni xohlaydi. Ikkita to‘siq bor: «nima haqida gapiraman?» va «kamera oldida o‘zimni noqulay his qilaman». Bu maqolada ikkala muammoni ham amaliy hal qilishni ko‘rib chiqamiz.
 
+![Nega ekspert uchun Reels ishlaydi](/img/blog/illus/ekspert-uchun-reels-1.jpg 1200x675)
+
 ## Nega ekspert uchun Reels ishlaydi
 
 Mutaxassis xizmatini tanlashda odamlar avval odamni tanlaydi. Ular so‘raydi: bu shifokor menga tushunarli gapiradimi? Bu yurist mening vaziyatimni tushunadimi? Qisqa video bu savolga javob beradi: yuz, ovoz, gapirish tarzi, bilim — bularning hammasi 30 soniyada ko‘rinadi.
@@ -53,6 +55,8 @@ Har kuni suratga olish ekspert uchun real emas. Yaxshiroq usul — oyiga bir yok
 
 Natijada bir kunda bir necha haftalik kontent tayyor bo‘ladi va siz asosiy ishingizdan chalg‘imaysiz.
 
+![Profildan konsultatsiyagacha: voronka](/img/blog/illus/ekspert-uchun-reels-2.jpg 1200x675)
+
 ## Profildan konsultatsiyagacha: voronka
 
 Video odamni olib keladi, lekin uni mijozga aylantirish uchun yo‘l kerak:
@@ -82,6 +86,8 @@ Tibbiyot va huquq sohasida ishonch juda nozik. Bir nechta qoida:
 - profilga o‘tishlar va obunalar;
 - Direct'dagi so‘rovlar va konsultatsiyaga yozilishlar;
 - konsultatsiyaga kelganlarning qanchasi «videongizni ko‘rib» kelgan — buni qabulda so‘rang.
+
+![Ko‘p uchraydigan xatolar](/img/blog/illus/ekspert-uchun-reels-3.jpg 1200x675)
 
 ## Ko‘p uchraydigan xatolar
 

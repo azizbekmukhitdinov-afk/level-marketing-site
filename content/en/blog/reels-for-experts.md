@@ -11,6 +11,8 @@ rubric: brend
 
 Doctors, psychologists, lawyers, attorneys, dentists — clients usually reach specialists like these through referrals. Referrals are great, but you can't speed them up. That's why many experts want to win clients through Instagram, under their own name. Two things get in the way: "what do I talk about?" and "I feel awkward on camera". This article offers a practical answer to both.
 
+![Why Reels work for experts](/img/blog/illus/ekspert-uchun-reels-1.jpg 1200x675)
+
 ## Why Reels work for experts
 
 When people choose a specialist, they choose the person first. They wonder: does this doctor explain things clearly? Will this lawyer understand my situation? A short video answers that: face, voice, manner, knowledge — all visible in 30 seconds.
@@ -53,6 +55,8 @@ Filming every day isn't realistic for an expert. A better approach is a "shoot d
 
 One day yields several weeks of content, and you don't get pulled away from your main work.
 
+![From profile to consultation: the funnel](/img/blog/illus/ekspert-uchun-reels-2.jpg 1200x675)
+
 ## From profile to consultation: the funnel
 
 A video brings someone in, but turning them into a client needs a path:
@@ -82,6 +86,8 @@ In medicine and law, trust is fragile. A few rules:
 - profile visits and follows;
 - DM enquiries and consultation bookings;
 - how many people at consultations "saw your videos" — ask at the appointment.
+
+![Common mistakes](/img/blog/illus/ekspert-uchun-reels-3.jpg 1200x675)
 
 ## Common mistakes
 

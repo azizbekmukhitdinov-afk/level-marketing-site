@@ -11,6 +11,8 @@ rubric: biznes
 
 Ko‘p tadbirkorlar barcha pulni ta’mir, jihozlar va ijaraga sarflaydi. Marketing «ochilgandan keyin» rejalashtiriladi. Natijada eshik ochiladi, chiroyli zal tayyor, xodimlar ishga olingan — lekin mijozlar yo‘q. Birinchi oylar ijara va maosh bilan o‘tadi, reklamaga pul qolmaydi, biznes qiyin boshlanadi. Marketing ochilishdan 1–2 oy oldin boshlansa, birinchi kundan mijozlar bilan ochilish mumkin. Bu maqolada 60 kunlik amaliy rejani ko‘rib chiqamiz.
 
+![Asosiy qoida: marketing — investitsiyaning bir qismi](/img/blog/illus/ochilishdan-oldin-marketing-1.jpg 1200x675)
+
 ## Asosiy qoida: marketing — investitsiyaning bir qismi
 
 Biznes rejasida marketing alohida qator bo‘lishi kerak — ochilishdan oldingi davr va birinchi 2–3 oy uchun. Uni «qolgan puldan» rejalashtirish xavfli: ta’mir har doim rejadagidan qimmatroq tushadi va marketing birinchi bo‘lib qisqartiriladi.
@@ -66,6 +68,8 @@ Biznes rejasida marketing alohida qator bo‘lishi kerak — ochilishdan oldingi
 
 Har bir mavzuni Reels yoki Stories qiling va har birining oxirida kutish ro‘yxatiga yozilishni taklif qiling — [Instagram kontent reja](/blog/instagram-kontent-reja/).
 
+![Ochilish kuni](/img/blog/illus/ochilishdan-oldin-marketing-2.jpg 1200x675)
+
 ## Ochilish kuni
 
 - birinchi mijozlarni kutib olish va suratga olish (ruxsat bilan);
@@ -88,6 +92,8 @@ Ochilish — boshlanish, oxiri emas. Birinchi oyda:
 - **Go‘zallik saloni:** ustalar portfoliosi, oldindan yozilish ro‘yxati — [go‘zallik saloni marketingi](/blog/gozallik-saloni-marketing/).
 - **O‘quv markazi:** bepul sinov darslari va daraja testi ochilishdan oldin.
 - **Do‘kon:** ochilish to‘plami yoki sovg‘a birinchi xaridorlarga.
+
+![Ko‘p uchraydigan xatolar](/img/blog/illus/ochilishdan-oldin-marketing-3.jpg 1200x675)
 
 ## Ko‘p uchraydigan xatolar
 

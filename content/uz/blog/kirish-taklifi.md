@@ -11,6 +11,8 @@ rubric: sotuv
 
 «Biz hamma turdagi xizmatlarni ko‘rsatamiz» — ko‘p bizneslarning reklamasi shunday boshlanadi. Lekin mijoz uchun bu hech narsa demaydi: u nima olishini, qancha to‘lashini va qanday natija kutishini bilmaydi. Taqqoslash qiyin bo‘lgani uchun u eng tanish yoki eng arzon joyni tanlaydi. Bitta aniq paket — nomi, narxi, tarkibi va natijasi bilan — ko‘pincha butun xizmatlar ro‘yxatidan yaxshiroq sotadi. Bu maqolada kirish taklifini qanday tuzishni ko‘rib chiqamiz.
 
+![Kirish taklifi nima](/img/blog/illus/kirish-taklifi-1.jpg 1200x675)
+
 ## Kirish taklifi nima
 
 Kirish taklifi — yangi mijoz siz bilan tanishishi uchun eng oson birinchi qadam. U:
@@ -53,6 +55,8 @@ Reklamadagi narx so‘mda bo‘lishi va haqiqiy bo‘lishi kerak — [Reklama to
 
 (Barcha misollar shartli — tarkib va narxni o‘z biznesingizga moslang.)
 
+![Narxni qanday qo‘yish](/img/blog/illus/kirish-taklifi-2.jpg 1200x675)
+
 ## Narxni qanday qo‘yish
 
 Kirish taklifi ko‘pincha past marjali yoki hatto zararsiz bo‘ladi. Bu normal, agar keyingi xaridlar foyda keltirsa. Hisoblang:
@@ -90,6 +94,8 @@ Kirish taklifi o‘zi foyda keltirmaydi — keyingi qadam keltiradi. Shuning uch
 - bitta aniq harakat: forma yoki Direct.
 
 Bitta reklamada bitta taklif. Bir nechta paketni sinash uchun alohida kreativlar qiling va natijani sotuv bo‘yicha solishtiring.
+
+![Ko‘p uchraydigan xatolar](/img/blog/illus/kirish-taklifi-3.jpg 1200x675)
 
 ## Ko‘p uchraydigan xatolar
 

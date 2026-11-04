@@ -11,6 +11,8 @@ rubric: biznes
 
 Many owners spend everything on renovation, equipment and rent. Marketing is planned for "after we open". So the doors open, the space looks great, staff are hired — and there are no customers. The first months go on rent and salaries, nothing is left for ads, and the business gets off to a hard start. If marketing begins 1–2 months before opening, you can open with customers from day one. This article sets out a practical 60-day plan.
 
+![The core rule: marketing is part of the investment](/img/blog/illus/ochilishdan-oldin-marketing-1.jpg 1200x675)
+
 ## The core rule: marketing is part of the investment
 
 In the business plan, marketing should be its own line — for the pre-opening period and the first 2–3 months. Planning it "from whatever's left" is risky: renovation always costs more than planned, and marketing is the first thing cut.
@@ -66,6 +68,8 @@ In the business plan, marketing should be its own line — for the pre-opening p
 
 Turn each topic into a Reel or Stories, and end each one with an invitation to join the waiting list — [Instagram content plan](/en/blog/instagram-content-plan/).
 
+![Opening day](/img/blog/illus/ochilishdan-oldin-marketing-2.jpg 1200x675)
+
 ## Opening day
 
 - welcome and photograph the first customers (with permission);
@@ -88,6 +92,8 @@ Opening is a beginning, not the end. In the first month:
 - **Beauty salon:** stylists' portfolios, an advance booking list — [marketing a beauty salon](/en/blog/marketing-a-beauty-salon/).
 - **Education centre:** free trial lessons and a level test before opening.
 - **Shop:** an opening bundle or a gift for the first customers.
+
+![Common mistakes](/img/blog/illus/ochilishdan-oldin-marketing-3.jpg 1200x675)
 
 ## Common mistakes
 

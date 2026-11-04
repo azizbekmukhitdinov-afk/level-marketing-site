@@ -11,6 +11,8 @@ rubric: sotuv
 
 "We provide every kind of service" — that's how many businesses open their ads. But it tells the customer nothing: they don't know what they'll get, what they'll pay or what result to expect. Comparing is hard, so they pick the most familiar or the cheapest option. One clear package — with a name, price, contents and result — often outsells an entire list of services. This article shows how to build an entry offer.
 
+![What an entry offer is](/img/blog/illus/kirish-taklifi-1.jpg 1200x675)
+
 ## What an entry offer is
 
 An entry offer is the easiest first step for a new customer to get to know you. It is:
@@ -53,6 +55,8 @@ Prices in ads must be in so‘m and genuine — [advertising law in Uzbekistan](
 
 (All examples are illustrative — adapt the contents and price to your business.)
 
+![How to price it](/img/blog/illus/kirish-taklifi-2.jpg 1200x675)
+
 ## How to price it
 
 An entry offer is often low-margin or even break-even. That's fine if later purchases bring the profit. Work out:
@@ -90,6 +94,8 @@ The entry offer doesn't make the profit by itself — the next step does. So:
 - one clear action: a form or DMs.
 
 One ad, one offer. To test several packages, make separate creatives and compare them by sales.
+
+![Common mistakes](/img/blog/illus/kirish-taklifi-3.jpg 1200x675)
 
 ## Common mistakes
 
