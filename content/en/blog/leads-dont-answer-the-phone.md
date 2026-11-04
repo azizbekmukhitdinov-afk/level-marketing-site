@@ -11,6 +11,8 @@ rubric: sotuv
 
 "We get leads, but nobody picks up" is one of the most common complaints from sales teams. A manager calls three times, gets no answer, and marks the lead "poor quality". The money spent on ads and the manager's time are both lost. Yet in many cases these people genuinely were interested — they were just contacted at the wrong time, through the wrong channel, in the wrong way. This article covers 7 reasons people don't pick up and a fix for each.
 
+![First, measure how big the problem is](/img/blog/illus/lidlar-telefon-kotarmaydi-1.jpg 1200x675)
+
 ## First, measure how big the problem is
 
 For one month, record for every lead:
@@ -73,6 +75,8 @@ A short message before the call raises the chance of a reply:
 
 The message has three things that set you apart from a competitor or spam: their name, your company name and the topic of the lead.
 
+![Follow-up schedule](/img/blog/illus/lidlar-telefon-kotarmaydi-2.jpg 1200x675)
+
 ## Follow-up schedule
 
 One call is too few. But endless calls are irritating too. A simple schedule:
@@ -106,6 +110,8 @@ Data on who didn't answer is valuable for marketing. Every week, review with the
 - how to change the form questions.
 
 More — [marketing and sales alignment](/en/blog/marketing-and-sales-alignment/).
+
+![Common mistakes](/img/blog/illus/lidlar-telefon-kotarmaydi-3.jpg 1200x675)
 
 ## Common mistakes
 

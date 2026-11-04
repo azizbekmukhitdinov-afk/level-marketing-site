@@ -11,6 +11,8 @@ rubric: target
 
 Sales drop, so the owner raises the ad budget. No result, so they switch agencies. The new agency doesn't deliver either — more budget, another switch. Three times a year the verdict is "ads don't work". Yet in many cases the ads did work: they brought people in. The money leaked somewhere else — in the offer, the price or the first call. This article covers what to check before raising the budget, and when raising it really is the right move.
 
+![Ads are a multiplier, not a creator](/img/blog/illus/reklama-byudjetini-oshirishdan-oldin-1.jpg 1200x675)
+
 ## Ads are a multiplier, not a creator
 
 Sales can be written as a simple formula:
@@ -71,6 +73,8 @@ Profit per order × lead-to-sale conversion = maximum cost per lead. If your cur
 
 If leads double, who answers them? If managers can't keep up already, the extra leads will go unanswered — and cost per sale will rise along with cost per lead.
 
+![When raising the budget is right](/img/blog/illus/reklama-byudjetini-oshirishdan-oldin-2.jpg 1200x675)
+
 ## When raising the budget is right
 
 Signs that a bigger budget will genuinely pay off:
@@ -94,6 +98,8 @@ A simple one-week check:
 5. Only then decide about the budget.
 
 The full checklist — [marketing audit](/en/blog/marketing-audit-checklist/).
+
+![Common mistakes](/img/blog/illus/reklama-byudjetini-oshirishdan-oldin-3.jpg 1200x675)
 
 ## Common mistakes
 

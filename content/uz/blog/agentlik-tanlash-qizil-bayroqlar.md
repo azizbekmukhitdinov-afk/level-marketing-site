@@ -11,6 +11,8 @@ rubric: biznes
 
 Tadbirkor marketing agentligini tanlaganda ikki xil xavfdan qo‘rqadi: pulni yo‘qotishdan va vaqtni yo‘qotishdan. Ikkinchisi ko‘pincha qimmatroq: noto‘g‘ri agentlik bilan o‘tgan 3–4 oy — bu yo‘qotilgan mavsum, ruhi tushgan jamoa va «marketing bizga ishlamaydi» degan noto‘g‘ri xulosa. Bu maqolada agentlikni shartnomadan oldin qanday tekshirish, qaysi belgilar xavotirli va qaysilari ishonch uyg‘otishini ko‘rib chiqamiz.
 
+![Nega tanlov bunchalik qiyin](/img/blog/illus/agentlik-tanlash-qizil-bayroqlar-1.jpg 1200x675)
+
 ## Nega tanlov bunchalik qiyin
 
 Agentlik xizmati — oldindan sinab ko‘rib bo‘lmaydigan mahsulot. Siz va’da sotib olasiz. Shuning uchun ko‘p agentliklar va’dani chiroyli qadoqlaydi: logotiplar ro‘yxati, «to‘liq sikl», «kafolatlangan natija». Lekin bularning hech biri sizning biznesingiz uchun natija bo‘lishini isbotlamaydi.
@@ -72,6 +74,8 @@ Raqobatchilarni tanqid qilish bilan o‘zini ko‘rsatadigan agentlik o‘z nati
 - kabinet sizning nomingizda;
 - «reklama hozir sizga yordam bermaydi» deyishga tayyorlik, agar bu haqiqat bo‘lsa.
 
+![Shartnomadan oldin 10 ta savol](/img/blog/illus/agentlik-tanlash-qizil-bayroqlar-2.jpg 1200x675)
+
 ## Shartnomadan oldin 10 ta savol
 
 1. Mening sohamdagi yoki yaqin sohadagi keysingizni raqamlar bilan ko‘rsata olasizmi?
@@ -97,6 +101,8 @@ Oxirgi savol noqulay, lekin juda foydali: halol agentlik bunga ochiq javob berad
 ## Agentlik, frilanser yoki shtat?
 
 Ba’zan muammo agentlikda emas, modelda: bitta aniq vazifa uchun frilanser yetarli bo‘lishi mumkin, katta hajmda esa ichki marketolog va agentlik birga ishlaydi — [agentlik, frilanser yoki shtat](/blog/agentlik-frilanser-yoki-shtat/).
+
+![Ko‘p uchraydigan xatolar](/img/blog/illus/agentlik-tanlash-qizil-bayroqlar-3.jpg 1200x675)
 
 ## Ko‘p uchraydigan xatolar
 

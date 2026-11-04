@@ -11,6 +11,8 @@ rubric: sotuv
 
 Hisobot chiroyli ko‘rinadi: ariza narxi tushdi, arizalar soni oshdi. Lekin oy oxirida kassada pul o‘zgarmagan. Menejerlar «arizalar sifatsiz» deydi, targetolog «ariza narxi bozordagi eng past» deydi. Ikkalasi ham haq. Muammo shundaki, arzon arizalar ko‘pincha arzon mijozlarni — yoki umuman mijoz bo‘lmaydigan odamlarni — olib keladi. Bu maqolada arzon lid tuzog‘i qanday ishlashini va undan qanday chiqishni ko‘rib chiqamiz.
 
+![Nega arzon ariza — har doim ham yaxshi emas](/img/blog/illus/arzon-lid-tuzogi-1.jpg 1200x675)
+
 ## Nega arzon ariza — har doim ham yaxshi emas
 
 Reklama tizimi siz bergan vazifani bajaradi. Agar vazifa «iloji boricha arzon ariza» bo‘lsa, algoritm forma to‘ldirishga eng oson ko‘nadigan odamlarni topadi. Ular har doim ham eng ko‘p sotib oladiganlar emas.
@@ -61,6 +63,8 @@ Chiqish — «nega aynan siz» degan savolga aniq javob. Pozitsiya aniq bo‘lsa
 3. **Bitta aniq va’da tanlang.** «Hamma narsa» emas, eng yaxshi mijozlaringiz uchun eng muhim bitta narsa: muddat, kafolat, natija, xizmat formati — [unikal savdo taklifi](/blog/unikal-savdo-taklifi/).
 4. **Isbot qo‘shing.** Raqamli keys, «oldin → keyin», mijoz sharhi. Isbotsiz va’da — yana bir «sifatli xizmat».
 
+![Reklamada nimani o‘zgartirish kerak](/img/blog/illus/arzon-lid-tuzogi-2.jpg 1200x675)
+
 ## Reklamada nimani o‘zgartirish kerak
 
 - **Kimga murojaat qilayotganingizni birinchi jumlada ayting.** «Agar siz [segment] bo‘lsangiz…» — mos odam to‘xtaydi, mos bo‘lmagani o‘tib ketadi.
@@ -87,6 +91,8 @@ Arzon ariza yomon emas, agar u sotuvga aylanayotgan bo‘lsa. Arzon arizalar mos
 - kampaniya sotuv bo‘yicha optimallashtirilgan va arizadan sotuvga aylanish barqaror bo‘lsa.
 
 Muammo arzon arizada emas, uni yagona maqsad qilib qo‘yishda.
+
+![Ko‘p uchraydigan xatolar](/img/blog/illus/arzon-lid-tuzogi-3.jpg 1200x675)
 
 ## Ko‘p uchraydigan xatolar
 

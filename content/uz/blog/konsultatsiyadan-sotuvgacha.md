@@ -11,6 +11,8 @@ rubric: sotuv
 
 Ko‘p bizneslarda sotuv bir qadam bilan emas, ikki qadam bilan bo‘ladi: avval konsultatsiya, tashrif, sinov darsi yoki test-drayv, keyin xarid. Marketingning ko‘p qismi birinchi qadamga — odamni konsultatsiyaga olib kelishga qaratilgan. Ikkinchi qadam esa ko‘pincha e’tiborsiz qoladi: «keldi, gaplashdi, o‘ylab ko‘raman dedi». Holbuki, aynan shu yerda reklamaga bir so‘m ham qo‘shmasdan mijoz narxini ikki baravar arzonlashtirish mumkin. Bu maqolada konsultatsiyadan sotuvga aylanishni qanday oshirishni ko‘rib chiqamiz.
 
+![Nega bu eng arzon richag](/img/blog/illus/konsultatsiyadan-sotuvgacha-1.jpg 1200x675)
+
 ## Nega bu eng arzon richag
 
 Bitta mijoz narxi bunday hisoblanadi:
@@ -75,6 +77,8 @@ Odam uyga qaytib, oilasi yoki sherigi bilan maslahatlashadi. Unga ko‘rsatadiga
 
 Telegram'da PDF yoki rasm ko‘rinishida yuborish mumkin — u oila chatida tarqaladi.
 
+![Qayta aloqa: 24 soat va 3 kun](/img/blog/illus/konsultatsiyadan-sotuvgacha-2.jpg 1200x675)
+
 ## Qayta aloqa: 24 soat va 3 kun
 
 | Qachon | Nima qilish |
@@ -101,6 +105,8 @@ Ko‘pincha mutaxassislar orasida aylanish bir necha baravar farq qiladi. Eng ya
 - **O‘quv markazi:** sinov darsi → daraja testi → guruhga yozilish — [o‘quv markazi marketingi](/blog/oquv-markazi-marketing/).
 - **Ko‘chmas mulk:** ofisga tashrif → obyektni ko‘rish → bron.
 - **Avtosalon:** test-drayv → hisob-kitob → shartnoma.
+
+![Ko‘p uchraydigan xatolar](/img/blog/illus/konsultatsiyadan-sotuvgacha-3.jpg 1200x675)
 
 ## Ko‘p uchraydigan xatolar
 

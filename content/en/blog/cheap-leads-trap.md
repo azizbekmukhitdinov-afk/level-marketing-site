@@ -11,6 +11,8 @@ rubric: sotuv
 
 The report looks great: cost per lead is down, lead volume is up. Yet at the end of the month there's no more money in the till. The sales team says "the leads are poor"; the ads specialist says "our cost per lead is the lowest on the market". Both are right. The trouble is that cheap leads often bring cheap customers — or people who will never become customers at all. This article explains how the cheap leads trap works and how to get out of it.
 
+![Why a cheap lead isn't always good](/img/blog/illus/arzon-lid-tuzogi-1.jpg 1200x675)
+
 ## Why a cheap lead isn't always good
 
 An ad platform does the job you give it. If the job is "the cheapest possible lead", the algorithm finds the people most easily persuaded to fill in a form. They aren't always the people who buy the most.
@@ -61,6 +63,8 @@ The way out is a clear answer to "why you". With a clear position, your ads talk
 3. **Choose one clear promise.** Not "everything", but the one thing that matters most to your best customers: timing, guarantee, result, service format — [unique selling proposition](/en/blog/unique-selling-proposition/).
 4. **Add proof.** A case with numbers, a "before → after", a customer review. A promise without proof is just another "quality service".
 
+![What to change in your ads](/img/blog/illus/arzon-lid-tuzogi-2.jpg 1200x675)
+
 ## What to change in your ads
 
 - **Say who you're talking to in the first line.** "If you're a [segment]…" — the right person stops, the wrong one scrolls on.
@@ -87,6 +91,8 @@ A cheap lead isn't bad if it turns into a sale. Cheap leads work well:
 - when the campaign is optimised for sales and lead-to-sale conversion is stable.
 
 The problem isn't the cheap lead — it's making it the only goal.
+
+![Common mistakes](/img/blog/illus/arzon-lid-tuzogi-3.jpg 1200x675)
 
 ## Common mistakes
 

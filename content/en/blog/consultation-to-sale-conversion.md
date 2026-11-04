@@ -11,6 +11,8 @@ rubric: sotuv
 
 In many businesses a sale happens in two steps, not one: first a consultation, visit, trial lesson or test drive, then the purchase. Most marketing aims at the first step — getting people to the consultation. The second step often gets little attention: "they came, they talked, they said they'd think about it". Yet this is exactly where you can halve the cost of a customer without adding a single so‘m to ads. This article shows how to raise conversion from consultation to sale.
 
+![Why this is the cheapest lever](/img/blog/illus/konsultatsiyadan-sotuvgacha-1.jpg 1200x675)
+
 ## Why this is the cheapest lever
 
 The cost of one customer works out like this:
@@ -75,6 +77,8 @@ The person will go home and talk it over with family or a partner. Give them som
 
 You can send it on Telegram as a PDF or image — it will travel through the family chat.
 
+![Follow-up: 24 hours and 3 days](/img/blog/illus/konsultatsiyadan-sotuvgacha-2.jpg 1200x675)
+
 ## Follow-up: 24 hours and 3 days
 
 | When | What to do |
@@ -101,6 +105,8 @@ Conversion often differs several-fold between specialists. Record the consultati
 - **Education centre:** trial lesson → level test → group enrolment — [marketing an education centre](/en/blog/marketing-an-education-centre/).
 - **Real estate:** office visit → property viewing → reservation.
 - **Car dealership:** test drive → financing calculation → contract.
+
+![Common mistakes](/img/blog/illus/konsultatsiyadan-sotuvgacha-3.jpg 1200x675)
 
 ## Common mistakes
 

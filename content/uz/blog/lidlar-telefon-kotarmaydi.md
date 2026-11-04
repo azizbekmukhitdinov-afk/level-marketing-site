@@ -11,6 +11,8 @@ rubric: sotuv
 
 «Arizalar bor, lekin hech kim telefon ko‘tarmaydi» — sotuv bo‘limidan eng ko‘p eshitiladigan shikoyatlardan biri. Menejer uch marta qo‘ng‘iroq qiladi, javob yo‘q, ariza «sifatsiz» deb belgilanadi. Natijada reklamaga to‘langan pul ham, menejer vaqti ham yo‘qoladi. Lekin ko‘p hollarda bu odamlar haqiqatan qiziqqan edi — ular shunchaki noto‘g‘ri vaqtda, noto‘g‘ri kanal orqali, noto‘g‘ri tarzda bezovta qilingan. Bu maqolada telefon ko‘tarilmasligining 7 sababini va har biri uchun yechimni ko‘rib chiqamiz.
 
+![Avval o‘lchang: muammo qanchalik katta](/img/blog/illus/lidlar-telefon-kotarmaydi-1.jpg 1200x675)
+
 ## Avval o‘lchang: muammo qanchalik katta
 
 Bir oy davomida har bir ariza uchun yozing:
@@ -73,6 +75,8 @@ Qo‘ng‘iroqdan oldin yuboriladigan qisqa xabar javob berish ehtimolini oshira
 
 Xabarda raqobatchi yoki spamdan farq qiladigan uchta narsa bor: ism, kompaniya nomi va ariza mavzusi.
 
+![Qayta aloqa jadvali](/img/blog/illus/lidlar-telefon-kotarmaydi-2.jpg 1200x675)
+
 ## Qayta aloqa jadvali
 
 Bitta qo‘ng‘iroq — kam. Lekin cheksiz qo‘ng‘iroq qilish ham bezovta qiladi. Oddiy jadval:
@@ -106,6 +110,8 @@ Javob bermaganlar haqidagi ma’lumot marketing uchun juda muhim. Har hafta sotu
 - forma savollarini qanday o‘zgartirish kerak.
 
 Batafsil — [marketing va sotuv hamkorligi](/blog/sotuv-va-marketing-hamkorligi/).
+
+![Ko‘p uchraydigan xatolar](/img/blog/illus/lidlar-telefon-kotarmaydi-3.jpg 1200x675)
 
 ## Ko‘p uchraydigan xatolar
 

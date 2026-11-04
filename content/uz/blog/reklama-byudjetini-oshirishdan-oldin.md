@@ -11,6 +11,8 @@ rubric: target
 
 Sotuv tushdi — tadbirkor reklama byudjetini oshiradi. Natija yo‘q — agentlikni almashtiradi. Yangi agentlik ham kutilgan natijani bermaydi — yana byudjet, yana almashtirish. Bir yil ichida uch marta «reklama ishlamaydi» degan xulosa chiqariladi. Ko‘p hollarda esa reklama haqiqatan ham ishlagan: odamlarni olib kelgan. Pul boshqa joyda — taklifda, narxda yoki birinchi qo‘ng‘iroqda oqib ketgan. Bu maqolada byudjetni oshirishdan oldin nimani tekshirish kerakligini va qachon oshirish haqiqatan to‘g‘ri ekanini ko‘rib chiqamiz.
 
+![Reklama — ko‘paytiruvchi, yaratuvchi emas](/img/blog/illus/reklama-byudjetini-oshirishdan-oldin-1.jpg 1200x675)
+
 ## Reklama — ko‘paytiruvchi, yaratuvchi emas
 
 Sotuvni oddiy formula bilan ifodalash mumkin:
@@ -71,6 +73,8 @@ Bitta buyurtmadan foyda × arizadan sotuvga aylanish = maksimal ariza narxi. Aga
 
 Arizalar ikki baravar ko‘paysa, kim javob beradi? Menejerlar hozir ham ulgurmayotgan bo‘lsa, qo‘shimcha arizalar javobsiz qoladi va ariza narxi bilan birga bitta sotuv narxi ham oshadi.
 
+![Qachon byudjetni oshirish to‘g‘ri](/img/blog/illus/reklama-byudjetini-oshirishdan-oldin-2.jpg 1200x675)
+
 ## Qachon byudjetni oshirish to‘g‘ri
 
 Byudjetni oshirish haqiqatan foydali bo‘ladigan belgilar:
@@ -94,6 +98,8 @@ Bir haftalik oddiy tekshiruv:
 5. Faqat shundan keyin byudjet haqida qaror qabul qiling.
 
 To‘liq chek-list — [marketing auditi](/blog/marketing-auditi/).
+
+![Ko‘p uchraydigan xatolar](/img/blog/illus/reklama-byudjetini-oshirishdan-oldin-3.jpg 1200x675)
 
 ## Ko‘p uchraydigan xatolar
 

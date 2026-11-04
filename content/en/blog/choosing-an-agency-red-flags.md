@@ -11,6 +11,8 @@ rubric: biznes
 
 When business owners choose a marketing agency, they fear two things: losing money and losing time. The second is often more expensive: 3–4 months with the wrong agency means a missed season, a demoralised team and the false conclusion that "marketing doesn't work for us". This article covers how to vet an agency before signing, which signs should worry you, and which ones build trust.
 
+![Why the choice is so hard](/img/blog/illus/agentlik-tanlash-qizil-bayroqlar-1.jpg 1200x675)
+
 ## Why the choice is so hard
 
 An agency's service is a product you can't try in advance. You're buying a promise. So many agencies package the promise beautifully: logo lists, "full service", "guaranteed results". None of it proves your business will get results.
@@ -72,6 +74,8 @@ An agency that sells itself by criticising competitors says little about its own
 - the ad account in your name;
 - willingness to say "ads won't help you right now" if that's the truth.
 
+![10 questions to ask before signing](/img/blog/illus/agentlik-tanlash-qizil-bayroqlar-2.jpg 1200x675)
+
 ## 10 questions to ask before signing
 
 1. Can you show a case in my niche or a related one, with numbers?
@@ -97,6 +101,8 @@ The last question is uncomfortable but very useful: an honest agency will answer
 ## Agency, freelancer or in-house?
 
 Sometimes the problem isn't the agency but the model: a freelancer may be enough for one specific task, while at larger scale an in-house marketer and an agency work together — [agency, freelancer or in-house](/en/blog/agency-freelancer-or-in-house/).
+
+![Common mistakes](/img/blog/illus/agentlik-tanlash-qizil-bayroqlar-3.jpg 1200x675)
 
 ## Common mistakes
 
