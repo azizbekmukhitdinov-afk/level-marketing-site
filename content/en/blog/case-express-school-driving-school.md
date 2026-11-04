@@ -1,8 +1,8 @@
 ---
 title: Express School driving school case: from 40 to 300+ students a month
-description: Reels and paid ads for the Express School driving school: 300+ sales a month, 5M+ reach and a new office in Nest One.
+description: Reels and paid ads for the Express School driving school: 300+ sales a month, 5M+ reach and 4 branches in Tashkent.
 date: 2026-10-22
-updated: 2026-10-23
+updated: 2026-11-04
 slug: case-express-school-driving-school
 type: case
 tags: case, reels, paid ads
@@ -34,7 +34,7 @@ image: /img/cases/express-school.jpg
 |---|---|---|
 | Monthly sales | 40 | **300+** |
 | Reach | — | **5 million+** |
-| Business | — | new office in Nest One |
+| Business | — | 4 branches in Tashkent's busiest locations |
 
 ## How to apply this approach
 

@@ -1,8 +1,8 @@
 ---
 title: Кейс автошколы Express School: с 40 до 300+ учеников в месяц
-description: Reels и таргет для автошколы Express School: 300+ продаж в месяц, охват 5 млн+ и офис в Nest One.
+description: Reels и таргет для автошколы Express School: 300+ продаж в месяц, охват 5 млн+ и 4 филиала в Ташкенте.
 date: 2026-10-22
-updated: 2026-10-23
+updated: 2026-11-04
 slug: keys-express-school-avtoshkola
 type: case
 tags: кейс, reels, таргет
@@ -34,7 +34,7 @@ image: /img/cases/express-school.jpg
 |---|---|---|
 | Продажи в месяц | 40 | **300+** |
 | Охват | — | **5 млн+** |
-| Бизнес | — | новый офис в Nest One |
+| Бизнес | — | 4 филиала в самых проходных местах Ташкента |
 
 ## Как применить этот подход
 

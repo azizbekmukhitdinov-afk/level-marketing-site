@@ -1,8 +1,8 @@
 ---
 title: Express School avtomaktabi keysi: oyiga 40 tadan 300+ o‘quvchiga
-description: Express School avtomaktabi uchun Reels va target reklama: oyiga 300+ sotuv, 5 million+ qamrov va Nest One'da ofis.
+description: Express School avtomaktabi uchun Reels va target reklama: oyiga 300+ sotuv, 5 million+ qamrov va Toshkentda 4 ta filial.
 date: 2026-10-22
-updated: 2026-10-23
+updated: 2026-11-04
 slug: keys-express-school-avtomaktab
 type: case
 tags: keys, reels, target reklama
@@ -34,7 +34,7 @@ image: /img/cases/express-school.jpg
 |---|---|---|
 | Oylik sotuv | 40 ta | **300+ ta** |
 | Qamrov | — | **5 million+** |
-| Biznes | — | Nest One'da yangi ofis |
+| Biznes | — | Toshkentning eng gavjum joylarida 4 ta filial |
 
 ## Bu yondashuvni qanday qo‘llash
 
