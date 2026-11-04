@@ -119,4 +119,4 @@ rubric: brend
 
 - [Из перекупа в бренд: как построить свой бренд на Uzum Market](/ru/blog/brend-na-uzum-market/)
 - [Как выбрать название для бизнеса: 8 правил](/ru/blog/kak-vybrat-nazvanie-biznesa/)
-- [Что такое крауд-маркетинг и как он приводит клиентов на сайт](/ru/blog/kraud-marketing/)
+- [Упаковка для интернет-магазина: 7 правил для малого бизнеса](/ru/blog/upakovka-dlya-internet-magazina/)

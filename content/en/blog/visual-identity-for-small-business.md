@@ -119,4 +119,4 @@ A visual identity makes your brand recognisable at every touchpoint. Start with 
 
 - [From reseller to brand: building your own brand on Uzum Market](/en/blog/building-a-brand-on-uzum-market/)
 - [How to name a business: 8 rules](/en/blog/how-to-name-a-business/)
-- [What crowd marketing is and how it brings customers to your website](/en/blog/crowd-marketing/)
+- [Packaging for an online store: 7 rules for small businesses](/en/blog/packaging-for-online-store/)

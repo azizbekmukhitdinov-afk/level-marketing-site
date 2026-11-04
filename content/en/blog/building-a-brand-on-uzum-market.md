@@ -118,4 +118,4 @@ A brand on a marketplace is the way out of price wars and toward stable profit. 
 
 - [How to name a business: 8 rules](/en/blog/how-to-name-a-business/)
 - [What a brand is and how it differs from a logo](/en/blog/what-is-a-brand/)
-- [What crowd marketing is and how it brings customers to your website](/en/blog/crowd-marketing/)
+- [Packaging for an online store: 7 rules for small businesses](/en/blog/packaging-for-online-store/)

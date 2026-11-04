@@ -118,4 +118,4 @@ Marketpleysda brend — narx urushidan chiqish va barqaror foyda yo‘li. O‘z 
 
 - [Biznes uchun nom qanday tanlanadi: 8 ta qoida](/blog/biznes-uchun-nom-tanlash/)
 - [Brend nima va u logotipdan nimasi bilan farq qiladi](/blog/brend-nima/)
-- [Kraud-marketing nima va u saytingizga mijozlarni qanday olib keladi](/blog/kraud-marketing/)
+- [Qadoq dizayni: kichik onlayn do‘kon uchun 7 qoida](/blog/qadoq-dizayni-onlayn-dokon/)

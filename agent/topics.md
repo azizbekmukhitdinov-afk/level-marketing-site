@@ -13,6 +13,9 @@
 - [biznes] Tashqi reklama va peshlavha: reklama joyi pasporti va ruxsat tartibi (qonunning 23–26-moddalari, VMQ-428 2023) | Наружная реклама и вывеска: паспорт рекламного места и разрешения
 - [brend] Kreator bilan uzoq muddatli hamkorlik (elchi-bloger): shartnoma, kontent huquqi muddati va narxlash | Амбассадор бренда: долгосрочная работа с блогером, права на контент
 - [smm] Instagram jonli efirini reklama qilish: Live partnership ads va efirdan keyingi qisqa kliplar (Meta e’lonlari bo‘yicha tekshirib yozish) | Как рекламировать прямой эфир в Instagram
+- [sotuv] Posilkadagi kartochka va QR-kod natijasini o‘lchash: promokod, UTM va takroriy buyurtmalar ulushi (onlayn do‘kon uchun oddiy jadval) | Как измерить отдачу карточки и QR-кода в посылке: промокоды, UTM, доля повторных заказов
+- [smm] Mijoz posilkani Stories’ga joylasa: repost, rozilik so‘rash va «Aktual»da yig‘ish | Покупатель выложил посылку в Stories: репост, согласие и подборка в «Актуальном»
+- [biznes] Onlayn do‘kon uchun qadoq ta’minotchisini tanlash: kichik partiya, namuna, muddat va narxni solishtirish | Как выбрать поставщика упаковки для интернет-магазина: малые партии, образцы, сроки
 - [target] Kreativ charchashi (creative fatigue): reklama qachon «yonib ketadi» va kreativlarni qanday almashtirish | Выгорание креативов: когда менять объявления
 - [brend] Mikroinfluenserlar: kichik blogerlar bilan tizimli ishlash | Микроинфлюенсеры: как системно работать с небольшими блогерами
 - [smm] Ramazon oyida kontent va reklama: nima mos, nimadan saqlanish kerak (2027 sanasi e’lon qilinganda yozish) | Контент и реклама в Рамадан
@@ -23,7 +26,6 @@
 - [sotuv] Marketplace kartochkasi konversiyasi: rasm, video, sharhlar va savollarga javob (Uzum Market sotuvchilari uchun) | Конверсия карточки на маркетплейсе: фото, видео, отзывы
 - [sotuv] Onlayn do‘konda qaytarishlar: «rangi boshqa», «o‘lchami mos emas» — kartochka, video va javob shablonlari bilan qaytarishni kamaytirish | Возвраты в интернет-магазине: как снизить их описанием, видео и ответами
 - [video] Mijoz videolari (UGC) bilan ishlash: so‘rash, rozilik olish va reklamada ishlatish | Видео от клиентов (UGC): как просить, получать согласие и запускать в рекламу
-- [brend] Qadoq dizayni brend sifatida: kichik onlayn do‘kon uchun kartochka, lenta va «birinchi taassurot» | Упаковка как часть бренда: что положить в посылку небольшому магазину
 - [video] Qurilish jarayoni videolari: zastroyshik uchun ishonch kontenti (oylik hisobot-video, muhandis intervyusi) | Видео со стройки: контент доверия для застройщика
 - [target] Meta’ga mijozlar ro‘yxatini yuklash (Custom Audience): xeshlash, rozilik matni va o‘xshash auditoriya | Загрузка списка клиентов в Meta: хеширование, согласие, lookalike
 - [sotuv] Sayt va lid-forma uchun maxfiylik siyosati: nima yozish kerak (O‘RQ-547, 21-modda) | Политика конфиденциальности для сайта и лид-формы: что написать

@@ -119,4 +119,4 @@ Vizual uslub — brendni har bir aloqada taniladigan qiladi. Minimal to‘plamda
 
 - [Qayta sotuvchidan brendga: Uzum Market'da o‘z brendingizni qurish](/blog/uzum-market-brend/)
 - [Biznes uchun nom qanday tanlanadi: 8 ta qoida](/blog/biznes-uchun-nom-tanlash/)
-- [Kraud-marketing nima va u saytingizga mijozlarni qanday olib keladi](/blog/kraud-marketing/)
+- [Qadoq dizayni: kichik onlayn do‘kon uchun 7 qoida](/blog/qadoq-dizayni-onlayn-dokon/)

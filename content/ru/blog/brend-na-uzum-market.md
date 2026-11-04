@@ -118,4 +118,4 @@ rubric: brend
 
 - [Как выбрать название для бизнеса: 8 правил](/ru/blog/kak-vybrat-nazvanie-biznesa/)
 - [Что такое бренд и чем он отличается от логотипа](/ru/blog/chto-takoe-brend/)
-- [Что такое крауд-маркетинг и как он приводит клиентов на сайт](/ru/blog/kraud-marketing/)
+- [Упаковка для интернет-магазина: 7 правил для малого бизнеса](/ru/blog/upakovka-dlya-internet-magazina/)
