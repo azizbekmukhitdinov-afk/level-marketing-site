@@ -8,10 +8,12 @@
 - [biznes] Bayram kunlari xodimlar ishi: navbatchilik, qo‘shimcha haq va dam olish kuni — tadbirkor uchun qisqa qo‘llanma (Mehnat kodeksi, 263-modda; manbani lex.uz’da tekshirish) | Работа сотрудников в праздники: что знать предпринимателю
 - [target] «Xabar yuborish» maqsadli reklamada salomlashuv matni va tayyor savollar: Direct’ga keladigan arizalarni saralash (Meta Ads Manager, message template) | Шаблон приветствия в рекламе на сообщения: как квалифицировать заявки
 - [sotuv] Direct va Messenger’dagi javobsiz suhbatlar: haftalik audit va menejer uchun javob standarti (kirish qutisi yorliqlari, mas’ullar) | Неотвеченные диалоги в Direct: еженедельный аудит и стандарт ответа
-- [smm] Instagram’da «Hamkorlik reklamasi» (Paid partnership) va partnership ads: bloger kontentini target reklamada ishlatish | Партнёрская реклама в Instagram: как запускать контент блогера в таргете
 - [biznes] Blogerlar va onlayn reklama markirovkasi: Soliq qo‘mitasi loyihasi qabul qilinganda biznes uchun nima o‘zgaradi (holatini tekshirib yozish) | Маркировка онлайн-рекламы и блогеры: что изменится для бизнеса
 - [biznes] Klinika va dorixona reklamasi: dori vositalari va BFQ reklamasiga talablar (Reklama to‘g‘risidagi qonun, 34–35-moddalar; lex.uz’da tekshirib yozish) | Реклама клиники и аптеки: требования к рекламе лекарств и БАД
 - [biznes] Tashqi reklama va peshlavha: reklama joyi pasporti va ruxsat tartibi (qonunning 23–26-moddalari, VMQ-428 2023) | Наружная реклама и вывеска: паспорт рекламного места и разрешения
+- [brend] Kreator bilan uzoq muddatli hamkorlik (elchi-bloger): shartnoma, kontent huquqi muddati va narxlash | Амбассадор бренда: долгосрочная работа с блогером, права на контент
+- [smm] Instagram jonli efirini reklama qilish: Live partnership ads va efirdan keyingi qisqa kliplar (Meta e’lonlari bo‘yicha tekshirib yozish) | Как рекламировать прямой эфир в Instagram
+- [target] Kreativ charchashi (creative fatigue): reklama qachon «yonib ketadi» va kreativlarni qanday almashtirish | Выгорание креативов: когда менять объявления
 - [brend] Mikroinfluenserlar: kichik blogerlar bilan tizimli ishlash | Микроинфлюенсеры: как системно работать с небольшими блогерами
 - [smm] Ramazon oyida kontent va reklama: nima mos, nimadan saqlanish kerak (2027 sanasi e’lon qilinganda yozish) | Контент и реклама в Рамадан
 - [target] Meta’da kampaniya tuzilmasi: nechta kampaniya va reklama to‘plami kerak, Advantage campaign budget qachon qulay | Структура кампаний в Meta: сколько кампаний и групп нужно

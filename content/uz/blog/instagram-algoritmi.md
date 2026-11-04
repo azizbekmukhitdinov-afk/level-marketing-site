@@ -115,4 +115,4 @@ Algoritm bilan kurashish emas, unga signal berish kerak: odamlar oxirigacha ko�
 
 - [SMM menejer nima qiladi va uni qanday tanlash kerak](/blog/smm-menejer-vazifalari/)
 - [UGC kontent: mijozlar videosi reklamadan yaxshiroq sotganda](/blog/ugc-kontent/)
-- [Internet-marketing orqali sotuvni qanday oshirish mumkin: O‘zbekistondagi biznes uchun xarita](/blog/internet-marketing-sotuvni-oshirish/)
+- [Instagram’da hamkorlik reklamasi: bloger kontenti targetda](/blog/hamkorlik-reklamasi-instagram/)

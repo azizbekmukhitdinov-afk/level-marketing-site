@@ -116,4 +116,4 @@ UGC is content that turns trust into sales. Ask customers regularly, give creato
 
 - [Handling comments and DMs: how replies turn into sales](/en/blog/handling-comments-and-dms/)
 - [YouTube for business: channel, Shorts and long videos](/en/blog/youtube-for-business/)
-- [How to grow sales with internet marketing: a map for businesses in Uzbekistan](/en/blog/internet-marketing-increase-sales/)
+- [Instagram partnership ads: running creator content as ads](/en/blog/instagram-partnership-ads/)

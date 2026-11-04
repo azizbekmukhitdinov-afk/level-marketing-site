@@ -116,4 +116,4 @@ UGC — ishonchni sotuvga aylantiradigan kontent. Mijozlardan muntazam so‘rang
 
 - [Izohlar va Direct bilan ishlash: javoblar qanday sotuvga aylanadi](/blog/izohlar-va-direct/)
 - [YouTube biznes uchun: kanal, Shorts va uzun videolar](/blog/youtube-biznes-uchun/)
-- [Internet-marketing orqali sotuvni qanday oshirish mumkin: O‘zbekistondagi biznes uchun xarita](/blog/internet-marketing-sotuvni-oshirish/)
+- [Instagram’da hamkorlik reklamasi: bloger kontenti targetda](/blog/hamkorlik-reklamasi-instagram/)

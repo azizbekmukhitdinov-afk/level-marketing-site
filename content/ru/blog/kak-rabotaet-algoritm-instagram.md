@@ -115,4 +115,4 @@ Reels показывают в основном тем, кто на вас не �
 
 - [Чем занимается SMM-менеджер и как его выбрать](/ru/blog/chem-zanimaetsya-smm-menedzher/)
 - [UGC-контент: когда видео клиентов продаёт лучше рекламы](/ru/blog/ugc-kontent/)
-- [Как увеличить продажи с помощью интернет-маркетинга: карта для бизнеса в Узбекистане](/ru/blog/internet-marketing-uvelichit-prodazhi/)
+- [Партнёрская реклама в Instagram: контент блогера в таргете](/ru/blog/partnerskaya-reklama-instagram/)

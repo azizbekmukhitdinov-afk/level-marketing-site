@@ -116,4 +116,4 @@ UGC — контент, который превращает доверие в п
 
 - [Работа с комментариями и Direct: как ответы превращаются в продажи](/ru/blog/rabota-s-kommentariyami-i-direct/)
 - [YouTube для бизнеса: канал, Shorts и длинные видео](/ru/blog/youtube-dlya-biznesa/)
-- [Как увеличить продажи с помощью интернет-маркетинга: карта для бизнеса в Узбекистане](/ru/blog/internet-marketing-uvelichit-prodazhi/)
+- [Партнёрская реклама в Instagram: контент блогера в таргете](/ru/blog/partnerskaya-reklama-instagram/)

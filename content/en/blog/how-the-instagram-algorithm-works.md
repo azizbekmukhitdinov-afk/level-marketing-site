@@ -115,4 +115,4 @@ Don't fight the algorithm — feed it signals: content people finish, save and s
 
 - [What an SMM manager does and how to choose one](/en/blog/what-an-smm-manager-does/)
 - [UGC content: when customer videos sell better than ads](/en/blog/ugc-content/)
-- [How to grow sales with internet marketing: a map for businesses in Uzbekistan](/en/blog/internet-marketing-increase-sales/)
+- [Instagram partnership ads: running creator content as ads](/en/blog/instagram-partnership-ads/)
