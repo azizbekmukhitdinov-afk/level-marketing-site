@@ -116,6 +116,6 @@ Learning limited doesn't mean your ads are bad — it means the algorithm is sho
 
 ## More on this topic
 
-- [December ad budget: a 5-step plan for the holiday season](/en/blog/december-ad-budget/)
+- [Creative fatigue: when ads burn out and how to replace them](/en/blog/creative-fatigue/)
 - [A/B testing ad creatives: how to run it](/en/blog/ab-testing-ad-creatives/)
 - [Lookalike audiences: how to find people like your customers](/en/blog/lookalike-audiences/)

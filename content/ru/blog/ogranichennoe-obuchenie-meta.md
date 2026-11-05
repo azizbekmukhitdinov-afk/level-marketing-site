@@ -116,6 +116,6 @@ weight: 1
 
 ## Ещё по теме
 
-- [Рекламный бюджет в декабре: план на праздничный сезон в 5 шагов](/ru/blog/reklamnyy-byudzhet-v-dekabre/)
+- [Выгорание креативов: когда реклама «выгорает» и как её менять](/ru/blog/vygoranie-kreativov/)
 - [A/B-тесты рекламных креативов: как проводить](/ru/blog/ab-test-kreativov/)
 - [Lookalike-аудитории: как найти людей, похожих на ваших клиентов](/ru/blog/lookalike-auditoriya/)

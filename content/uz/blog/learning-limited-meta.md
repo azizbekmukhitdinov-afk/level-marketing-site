@@ -116,6 +116,6 @@ Learning limited — bu reklamangiz yomon degani emas, balki algoritmga ma’lum
 
 ## Shu mavzuda yana
 
-- [Dekabrda reklama byudjeti: bayram mavsumiga 5 qadamli reja](/blog/dekabr-reklama-byudjeti/)
+- [Kreativ charchashi: reklama qachon «yonadi» va qanday almashtirish](/blog/kreativ-charchashi/)
 - [Reklama kreativlari uchun A/B test: qanday o‘tkaziladi](/blog/kreativlar-ab-test/)
 - [Lookalike auditoriya: mijozlaringizga o‘xshash odamlarni qanday topish](/blog/lookalike-auditoriya/)

@@ -16,7 +16,9 @@
 - [sotuv] Posilkadagi kartochka va QR-kod natijasini o‘lchash: promokod, UTM va takroriy buyurtmalar ulushi (onlayn do‘kon uchun oddiy jadval) | Как измерить отдачу карточки и QR-кода в посылке: промокоды, UTM, доля повторных заказов
 - [smm] Mijoz posilkani Stories’ga joylasa: repost, rozilik so‘rash va «Aktual»da yig‘ish | Покупатель выложил посылку в Stories: репост, согласие и подборка в «Актуальном»
 - [biznes] Onlayn do‘kon uchun qadoq ta’minotchisini tanlash: kichik partiya, namuna, muddat va narxni solishtirish | Как выбрать поставщика упаковки для интернет-магазина: малые партии, образцы, сроки
-- [target] Kreativ charchashi (creative fatigue): reklama qachon «yonib ketadi» va kreativlarni qanday almashtirish | Выгорание креативов: когда менять объявления
+- [target] Flexible format va Dynamic creative: bitta reklamaga bir nechta rasm va video — qachon foydali, qachon testga xalaqit beradi (Meta Business Help bo‘yicha tekshirib yozish) | Гибкий формат и динамический креатив в Meta: когда полезны
+- [target] Chastota va qamrov: retargetingda reklamani qancha ko‘rsatish, frequency cap va Reach maqsadi (kichik auditoriya uchun) | Частота и охват: сколько показывать рекламу в ретаргетинге
+- [video] Bitta suratga olishdan 10 ta reklama kreativi: hook, format va burchak bo‘yicha montaj rejasi | Из одной съёмки — 10 креативов: план монтажа
 - [brend] Mikroinfluenserlar: kichik blogerlar bilan tizimli ishlash | Микроинфлюенсеры: как системно работать с небольшими блогерами
 - [smm] Ramazon oyida kontent va reklama: nima mos, nimadan saqlanish kerak (2027 sanasi e’lon qilinganda yozish) | Контент и реклама в Рамадан
 - [target] Meta’da kampaniya tuzilmasi: nechta kampaniya va reklama to‘plami kerak, Advantage campaign budget qachon qulay | Структура кампаний в Meta: сколько кампаний и групп нужно

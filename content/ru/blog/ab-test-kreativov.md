@@ -122,4 +122,4 @@ A/B-тесты переводят рекламу из догадок в цифр
 
 - [Лид-форма или сообщения в Direct: что приносит больше продаж](/ru/blog/lid-forma-ili-soobshcheniya/)
 - [«Ограниченное обучение» в Meta: почему реклама нестабильна](/ru/blog/ogranichennoe-obuchenie-meta/)
-- [Как настроить таргет в Instagram: пошаговое руководство](/ru/blog/kak-nastroit-target-v-instagram/)
+- [Выгорание креативов: когда реклама «выгорает» и как её менять](/ru/blog/vygoranie-kreativov/)

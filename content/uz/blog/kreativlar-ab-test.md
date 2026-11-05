@@ -122,4 +122,4 @@ A/B test reklamani taxmindan raqamlarga o‘tkazadi. Har hafta kamida bitta test
 
 - [Instant forma yoki Direct'ga xabar: qaysi biri ko‘proq sotuv olib keladi](/blog/instant-forma-yoki-xabarlar/)
 - [Learning limited nima: Meta reklamasi nega beqaror ishlaydi](/blog/learning-limited-meta/)
-- [Instagram'da target reklama qanday sozlanadi: bosqichma-bosqich qo‘llanma](/blog/instagramda-target-reklama-sozlash/)
+- [Kreativ charchashi: reklama qachon «yonadi» va qanday almashtirish](/blog/kreativ-charchashi/)
