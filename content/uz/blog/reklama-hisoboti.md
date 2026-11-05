@@ -103,4 +103,4 @@ Yaxshi hisobot uchta savolga javob beradi: qancha pul sarflandi, qancha sotuv ke
 
 - [ROMI: marketing foyda keltiryaptimi, qanday hisoblash](/blog/romi-hisoblash/)
 - [UTM-belgilar: har bir mijoz qayerdan kelganini qanday bilish](/blog/utm-belgilar/)
-- [Lid narxi (CPL) nima va uni qanday kamaytirish mumkin: tadbirkor uchun qo‘llanma](/blog/lid-narxi-cpl-qanday-kamaytirish/)
+- [Kabinetdagi lidlar va CRM mos kelmasa: 7 sabab va tekshiruv](/blog/kabinet-va-crm-lidlar/)

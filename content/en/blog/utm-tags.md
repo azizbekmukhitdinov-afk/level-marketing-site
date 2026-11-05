@@ -112,5 +112,5 @@ UTM tags are the simplest way to know where each customer came from. Without the
 ## More on this topic
 
 - [Repeat sales and LTV: more revenue from existing customers](/en/blog/repeat-sales-and-ltv/)
-- [How to collect customer feedback and what to do with it](/en/blog/collecting-customer-feedback/)
+- [Ads Manager leads don't match your CRM: 7 causes and a check](/en/blog/ad-leads-vs-crm-mismatch/)
 - [Cost per lead (CPL): what it is and how to lower it](/en/blog/cost-per-lead-cpl-how-to-lower/)

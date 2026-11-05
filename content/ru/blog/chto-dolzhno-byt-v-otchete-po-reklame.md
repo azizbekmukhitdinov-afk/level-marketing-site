@@ -103,4 +103,4 @@ rubric: sotuv
 
 - [ROMI: окупается ли маркетинг и как это посчитать](/ru/blog/kak-poschitat-romi/)
 - [UTM-метки: как узнать, откуда пришёл каждый клиент](/ru/blog/utm-metki/)
-- [Цена лида (CPL): что это и как её снизить — гид для предпринимателя](/ru/blog/tsena-lida-cpl-kak-snizit/)
+- [Лиды в кабинете и в CRM не совпадают: 7 причин и сверка](/ru/blog/lidy-v-kabinete-i-crm-ne-sovpadayut/)

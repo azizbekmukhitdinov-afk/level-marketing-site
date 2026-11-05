@@ -112,5 +112,5 @@ UTM-belgilar — har bir mijoz qayerdan kelganini bilishning eng oddiy usuli. Ul
 ## Shu mavzuda yana
 
 - [Takroriy sotuv va LTV: mavjud mijozlardan ko‘proq daromad](/blog/takroriy-sotuv-ltv/)
-- [Mijozlardan fikr-mulohaza qanday yig‘iladi va undan qanday foydalaniladi](/blog/mijoz-fikrini-yigish/)
+- [Kabinetdagi lidlar va CRM mos kelmasa: 7 sabab va tekshiruv](/blog/kabinet-va-crm-lidlar/)
 - [Lid narxi (CPL) nima va uni qanday kamaytirish mumkin: tadbirkor uchun qo‘llanma](/blog/lid-narxi-cpl-qanday-kamaytirish/)

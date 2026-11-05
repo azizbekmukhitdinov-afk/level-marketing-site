@@ -16,13 +16,15 @@
 - [sotuv] Posilkadagi kartochka va QR-kod natijasini o‘lchash: promokod, UTM va takroriy buyurtmalar ulushi (onlayn do‘kon uchun oddiy jadval) | Как измерить отдачу карточки и QR-кода в посылке: промокоды, UTM, доля повторных заказов
 - [smm] Mijoz posilkani Stories’ga joylasa: repost, rozilik so‘rash va «Aktual»da yig‘ish | Покупатель выложил посылку в Stories: репост, согласие и подборка в «Актуальном»
 - [biznes] Onlayn do‘kon uchun qadoq ta’minotchisini tanlash: kichik partiya, namuna, muddat va narxni solishtirish | Как выбрать поставщика упаковки для интернет-магазина: малые партии, образцы, сроки
+- [sotuv] Lid formani CRM’ga ulash: Zapier/Make yoki CRM ulagichi — sozlash, maydonlarni bog‘lash va uzilishni sezish (Meta Leads Center bo‘yicha tekshirib yozish) | Как подключить лид-форму Meta к CRM и не терять заявки
+- [target] Atributsiya oynasi Meta’da: 7 kunlik bosish va 1 kunlik ko‘rish — hisobotdagi natijani qanday o‘qish (facebook.com/business/help/460276478298895) | Окно атрибуции в Meta: как читать результаты в отчёте
+- [sotuv] Ariza statuslari CRM’da: «yangi», «aloqa bo‘lmadi», «sifatsiz» — sotuv bo‘limi uchun yagona ro‘yxat va agentlikka haftalik fikr | Статусы заявок в CRM: единый список и обратная связь агентству
 - [target] Flexible format va Dynamic creative: bitta reklamaga bir nechta rasm va video — qachon foydali, qachon testga xalaqit beradi (Meta Business Help bo‘yicha tekshirib yozish) | Гибкий формат и динамический креатив в Meta: когда полезны
 - [target] Chastota va qamrov: retargetingda reklamani qancha ko‘rsatish, frequency cap va Reach maqsadi (kichik auditoriya uchun) | Частота и охват: сколько показывать рекламу в ретаргетинге
 - [video] Bitta suratga olishdan 10 ta reklama kreativi: hook, format va burchak bo‘yicha montaj rejasi | Из одной съёмки — 10 креативов: план монтажа
 - [brend] Mikroinfluenserlar: kichik blogerlar bilan tizimli ishlash | Микроинфлюенсеры: как системно работать с небольшими блогерами
 - [smm] Ramazon oyida kontent va reklama: nima mos, nimadan saqlanish kerak (2027 sanasi e’lon qilinganda yozish) | Контент и реклама в Рамадан
 - [target] Meta’da kampaniya tuzilmasi: nechta kampaniya va reklama to‘plami kerak, Advantage campaign budget qachon qulay | Структура кампаний в Meta: сколько кампаний и групп нужно
-- [sotuv] Kabinetdagi lidlar va CRM’dagi sonlar mos kelmasa: sabablari va haftalik tekshiruv | Лиды в кабинете и в CRM не совпадают: причины и проверка
 - [target] Meta’da stavka strategiyalari: eng past narx, cost cap va bid cap — kichik biznes uchun qaysi biri (Meta Business Help bo‘yicha tekshirib yozish) | Стратегии ставок в Meta: какую выбрать малому бизнесу
 - [target] Instagram Reels reklamasi uchun kreativ: xavfsiz zona, ovoz va subtitr — reklama hisobida tekshirish (Meta Ads Guide) | Креатив для рекламы в Reels: безопасная зона, звук и субтитры
 - [sotuv] Marketplace kartochkasi konversiyasi: rasm, video, sharhlar va savollarga javob (Uzum Market sotuvchilari uchun) | Конверсия карточки на маркетплейсе: фото, видео, отзывы

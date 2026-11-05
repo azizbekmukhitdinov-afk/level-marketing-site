@@ -103,4 +103,4 @@ A good report answers three questions: how much was spent, how many sales came i
 
 - [ROMI: is your marketing paying off, and how to calculate it](/en/blog/how-to-calculate-romi/)
 - [UTM tags: how to know where every customer came from](/en/blog/utm-tags/)
-- [Cost per lead (CPL): what it is and how to lower it](/en/blog/cost-per-lead-cpl-how-to-lower/)
+- [Ads Manager leads don't match your CRM: 7 causes and a check](/en/blog/ad-leads-vs-crm-mismatch/)
