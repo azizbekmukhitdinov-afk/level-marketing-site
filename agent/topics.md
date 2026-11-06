@@ -6,11 +6,13 @@
 
 - [sotuv] Bayramdan keyingi birinchi hafta: javobsiz arizalarni qayta ishlash va «sovigan» lidlarni qaytarish | Первая неделя после праздников: как вернуть остывшие заявки
 - [biznes] Bayram kunlari xodimlar ishi: navbatchilik, qo‘shimcha haq va dam olish kuni — tadbirkor uchun qisqa qo‘llanma (Mehnat kodeksi, 263-modda; manbani lex.uz’da tekshirish) | Работа сотрудников в праздники: что знать предпринимателю
+- [biznes] Toshkent dizayn-kodi: 10-dekabrgacha muhokama natijasi — peshlavha, vitrina va fasad uchun nima o‘zgaradi (qaror e’lon qilingandan keyin, 3 oylik muddat bilan yozish) | Дизайн-код Ташкента: что изменится для вывесок и витрин
+- [brend] Do‘kon vitrinasi: o‘tkinchini mijozga aylantiradigan 7 qoida (mahsulot, yorug‘lik, mavsumiy almashtirish; reklama emas — VMQ-563) | Витрина магазина: 7 правил, которые превращают прохожих в покупателей
+- [sotuv] Oflayn reklama natijasini o‘lchash: kompaniya mashinasi, peshlavha, banner — QR, promokod va «bizni qayerdan bildingiz» savoli CRM’da | Как измерить отдачу офлайн-рекламы: QR, промокоды и вопрос «откуда узнали»
 - [target] «Xabar yuborish» maqsadli reklamada salomlashuv matni va tayyor savollar: Direct’ga keladigan arizalarni saralash (Meta Ads Manager, message template) | Шаблон приветствия в рекламе на сообщения: как квалифицировать заявки
 - [sotuv] Direct va Messenger’dagi javobsiz suhbatlar: haftalik audit va menejer uchun javob standarti (kirish qutisi yorliqlari, mas’ullar) | Неотвеченные диалоги в Direct: еженедельный аудит и стандарт ответа
 - [biznes] Blogerlar va onlayn reklama markirovkasi: Soliq qo‘mitasi loyihasi qabul qilinganda biznes uchun nima o‘zgaradi (holatini tekshirib yozish) | Маркировка онлайн-рекламы и блогеры: что изменится для бизнеса
 - [biznes] Klinika va dorixona reklamasi: dori vositalari va BFQ reklamasiga talablar (Reklama to‘g‘risidagi qonun, 34–35-moddalar; lex.uz’da tekshirib yozish) | Реклама клиники и аптеки: требования к рекламе лекарств и БАД
-- [biznes] Tashqi reklama va peshlavha: reklama joyi pasporti va ruxsat tartibi (qonunning 23–26-moddalari, VMQ-428 2023) | Наружная реклама и вывеска: паспорт рекламного места и разрешения
 - [biznes] Ijtimoiy tarmoqda «reklama» belgisi: Reklama to‘g‘risidagi qonunning 5-moddasi — brend, bloger va kanal admini uchun amaliy qo‘llanma (Raqobat qo‘mitasi ogohlantirishi, UzA 03.09.2026) | Пометка «реклама» в соцсетях: статья 5 Закона о рекламе — памятка для бизнеса, блогеров и админов каналов
 - [brend] Kontent kimniki: fotograf, videograf va SMM-agentlik bilan shartnomada mualliflik huquqi (O‘RQ-42, lex.uz/acts/-1022944) | Кому принадлежит контент: авторские права в договоре с фотографом, видеографом и SMM-агентством
 - [smm] Instagram jonli efirini reklama qilish: Live partnership ads va efirdan keyingi qisqa kliplar (Meta e’lonlari bo‘yicha tekshirib yozish) | Как рекламировать прямой эфир в Instagram

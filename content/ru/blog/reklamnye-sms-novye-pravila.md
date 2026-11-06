@@ -145,6 +145,6 @@ rubric: biznes
 
 ## Ещё по теме
 
-- [7 маркетинговых ошибок начинающих предпринимателей](/ru/blog/oshibki-nachinayushchih-predprinimateley/)
+- [Вывеска и наружная реклама: когда нужен паспорт с 2026 года](/ru/blog/vyveska-naruzhnaya-reklama/)
 - [Закон о рекламе в Узбекистане: запреты и штрафы коротко](/ru/blog/zakon-o-reklame-uzbekistan/)
 - [База клиентов и персональные данные: что знать предпринимателю](/ru/blog/baza-klientov-personalnye-dannye/)
