@@ -122,5 +122,5 @@ A personal brand is one-sentence positioning, consistent useful content and hone
 ## More on this topic
 
 - [Visual identity: the minimum a small business needs](/en/blog/visual-identity-for-small-business/)
-- [From reseller to brand: building your own brand on Uzum Market](/en/blog/building-a-brand-on-uzum-market/)
+- [Brand ambassador: building a long-term partnership with a blogger](/en/blog/brand-ambassador-influencer/)
 - [Influencer advertising: choosing a blogger and measuring results](/en/blog/influencer-advertising-uzbekistan/)

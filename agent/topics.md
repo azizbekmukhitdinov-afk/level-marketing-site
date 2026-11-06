@@ -11,7 +11,8 @@
 - [biznes] Blogerlar va onlayn reklama markirovkasi: Soliq qo‘mitasi loyihasi qabul qilinganda biznes uchun nima o‘zgaradi (holatini tekshirib yozish) | Маркировка онлайн-рекламы и блогеры: что изменится для бизнеса
 - [biznes] Klinika va dorixona reklamasi: dori vositalari va BFQ reklamasiga talablar (Reklama to‘g‘risidagi qonun, 34–35-moddalar; lex.uz’da tekshirib yozish) | Реклама клиники и аптеки: требования к рекламе лекарств и БАД
 - [biznes] Tashqi reklama va peshlavha: reklama joyi pasporti va ruxsat tartibi (qonunning 23–26-moddalari, VMQ-428 2023) | Наружная реклама и вывеска: паспорт рекламного места и разрешения
-- [brend] Kreator bilan uzoq muddatli hamkorlik (elchi-bloger): shartnoma, kontent huquqi muddati va narxlash | Амбассадор бренда: долгосрочная работа с блогером, права на контент
+- [biznes] Ijtimoiy tarmoqda «reklama» belgisi: Reklama to‘g‘risidagi qonunning 5-moddasi — brend, bloger va kanal admini uchun amaliy qo‘llanma (Raqobat qo‘mitasi ogohlantirishi, UzA 03.09.2026) | Пометка «реклама» в соцсетях: статья 5 Закона о рекламе — памятка для бизнеса, блогеров и админов каналов
+- [brend] Kontent kimniki: fotograf, videograf va SMM-agentlik bilan shartnomada mualliflik huquqi (O‘RQ-42, lex.uz/acts/-1022944) | Кому принадлежит контент: авторские права в договоре с фотографом, видеографом и SMM-агентством
 - [smm] Instagram jonli efirini reklama qilish: Live partnership ads va efirdan keyingi qisqa kliplar (Meta e’lonlari bo‘yicha tekshirib yozish) | Как рекламировать прямой эфир в Instagram
 - [sotuv] Posilkadagi kartochka va QR-kod natijasini o‘lchash: promokod, UTM va takroriy buyurtmalar ulushi (onlayn do‘kon uchun oddiy jadval) | Как измерить отдачу карточки и QR-кода в посылке: промокоды, UTM, доля повторных заказов
 - [smm] Mijoz posilkani Stories’ga joylasa: repost, rozilik so‘rash va «Aktual»da yig‘ish | Покупатель выложил посылку в Stories: репост, согласие и подборка в «Актуальном»
@@ -51,3 +52,5 @@
 - [biznes] Mahalliy ishlab chiqaruvchilar uchun reklama xarajatlarini kompensatsiya qilish: kim oladi va qanday (anhor.uz, Savdoga ko‘maklashish jamg‘armasi — shartlarini tekshirib yozish) | Компенсация рекламы местным производителям
 - [smm] Yanvar sukunati: bayramdan keyingi oyda kontent va aksiya bilan sotuvni ushlab turish | Январское затишье: как продавать после праздников
 - [smm] Meta Business AI / biznes uchun AI-yordamchi Instagram va Messenger’da: nima qiladi, avtojavoblar bilan qanday ishlaydi (Meta rasmiy e’lonlari bo‘yicha tekshirib yozish) | AI-агент Meta для бизнеса в Instagram и Messenger: что умеет
+
+- [video] Elchi-bloger uchun oylik kontent reja: 3 oylik ssenariy seriyasi, «oldin-keyin» formati va qayta suratga olmaslik uchun kadrlar ro‘yxati | Контент-план для амбассадора на 3 месяца: серии, «до и после» и список кадров

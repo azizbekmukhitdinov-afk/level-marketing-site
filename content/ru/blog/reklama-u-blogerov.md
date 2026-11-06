@@ -155,4 +155,4 @@ Level Marketing планирует рекламу у блогеров вмест
 
 - [Личный бренд: с чего начать эксперту](/ru/blog/lichnyy-brend-s-chego-nachat/)
 - [Онлайн-репутация: как собирать отзывы и отвечать на негатив](/ru/blog/reputatsiya-i-otzyvy/)
-- [Уникальное торговое предложение (УТП): как выделиться среди конкурентов](/ru/blog/unikalnoe-torgovoe-predlozhenie/)
+- [Амбассадор бренда: как выстроить долгую работу с блогером](/ru/blog/ambassador-brenda-bloger/)

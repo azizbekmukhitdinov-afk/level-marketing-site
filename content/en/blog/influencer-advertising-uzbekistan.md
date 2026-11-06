@@ -155,4 +155,4 @@ Level Marketing plans influencer campaigns together with targeted ads and shows 
 
 - [Personal brand: where an expert should start](/en/blog/personal-brand-where-to-start/)
 - [Online reputation: how to collect reviews and respond to criticism](/en/blog/online-reputation-and-reviews/)
-- [Unique selling proposition (USP): how to stand out from competitors](/en/blog/unique-selling-proposition/)
+- [Brand ambassador: building a long-term partnership with a blogger](/en/blog/brand-ambassador-influencer/)

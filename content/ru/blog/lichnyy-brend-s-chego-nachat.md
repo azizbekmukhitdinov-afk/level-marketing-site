@@ -122,5 +122,5 @@ rubric: brend
 ## Ещё по теме
 
 - [Фирменный стиль: минимум для малого бизнеса](/ru/blog/firmennyy-stil-dlya-malogo-biznesa/)
-- [Из перекупа в бренд: как построить свой бренд на Uzum Market](/ru/blog/brend-na-uzum-market/)
+- [Амбассадор бренда: как выстроить долгую работу с блогером](/ru/blog/ambassador-brenda-bloger/)
 - [Реклама у блогеров: как выбрать блогера и измерить результат](/ru/blog/reklama-u-blogerov/)
