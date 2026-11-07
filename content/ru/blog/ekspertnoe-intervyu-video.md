@@ -110,4 +110,4 @@ rubric: video
 
 - [Как снимать Reels на телефон: свет, звук и кадр](/ru/blog/kak-snimat-reels-na-telefon/)
 - [Сценарий для Reels: 5 готовых шаблонов](/ru/blog/stsenariy-dlya-reels/)
-- [10 хуков для Reels: как удержать внимание в первые 3 секунды](/ru/blog/huki-dlya-reels/)
+- [Видео со стройки: контент доверия для застройщика](/ru/blog/video-so-stroyki/)

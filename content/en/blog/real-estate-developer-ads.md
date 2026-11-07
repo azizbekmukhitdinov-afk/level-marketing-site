@@ -127,6 +127,6 @@ Real estate developer ads come down to trust, segments and a fast sales team. Sh
 
 ## More on this topic
 
-- [Lookalike audiences: how to find people like your customers](/en/blog/lookalike-audiences/)
+- [Construction progress videos: trust content for developers](/en/blog/construction-progress-videos/)
 - [Retargeting: how to bring back people who didn't buy](/en/blog/how-retargeting-works/)
 - [Lead form or Direct messages: which brings more sales](/en/blog/lead-form-or-messages/)

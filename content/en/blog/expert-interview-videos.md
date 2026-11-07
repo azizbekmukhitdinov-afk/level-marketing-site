@@ -110,4 +110,4 @@ An expert interview is the most efficient content factory: one day of filming gi
 
 - [Shooting Reels on a phone: light, sound and framing](/en/blog/shooting-reels-on-a-phone/)
 - [Reels scripts: 5 ready-made templates](/en/blog/reels-script-templates/)
-- [10 Reels hooks: how to hold attention in the first 3 seconds](/en/blog/reels-hooks/)
+- [Construction progress videos: trust content for developers](/en/blog/construction-progress-videos/)

@@ -24,6 +24,9 @@
 - [sotuv] Ariza statuslari CRM’da: «yangi», «aloqa bo‘lmadi», «sifatsiz» — sotuv bo‘limi uchun yagona ro‘yxat va agentlikka haftalik fikr | Статусы заявок в CRM: единый список и обратная связь агентству
 - [target] Flexible format va Dynamic creative: bitta reklamaga bir nechta rasm va video — qachon foydali, qachon testga xalaqit beradi (Meta Business Help bo‘yicha tekshirib yozish) | Гибкий формат и динамический креатив в Meta: когда полезны
 - [target] Chastota va qamrov: retargetingda reklamani qancha ko‘rsatish, frequency cap va Reach maqsadi (kichik auditoriya uchun) | Частота и охват: сколько показывать рекламу в ретаргетинге
+- [video] Namuna kvartira bo‘ylab video-tur (walkthrough): zastroyshik va rieltor uchun ssenariy, kadr tartibi va reklamada ishlatish | Видео-тур по шоурум-квартире: сценарий и порядок кадров для застройщика
+- [biznes] Ulushli qurilish to‘g‘risidagi qonun va eskrou-hisoblar: qabul qilinganda zastroyshik reklamasi va sotuvida nima o‘zgaradi (holatini lex.uz va spot.uz’da tekshirib yozish) | Закон о долевом строительстве и эскроу: что изменится в рекламе застройщика
+- [video] Dron bilan reklama suratga olish: qaysi ruxsatlar kerak va dronsiz yuqori kadr olish usullari (gov.uz/oz/uzcaa/pages/dronlar-uua) | Съёмка с дрона для рекламы: какие нужны разрешения и как обойтись без дрона
 - [video] Bitta suratga olishdan 10 ta reklama kreativi: hook, format va burchak bo‘yicha montaj rejasi | Из одной съёмки — 10 креативов: план монтажа
 - [brend] Mikroinfluenserlar: kichik blogerlar bilan tizimli ishlash | Микроинфлюенсеры: как системно работать с небольшими блогерами
 - [smm] Ramazon oyida kontent va reklama: nima mos, nimadan saqlanish kerak (2027 sanasi e’lon qilinganda yozish) | Контент и реклама в Рамадан
@@ -33,7 +36,6 @@
 - [sotuv] Marketplace kartochkasi konversiyasi: rasm, video, sharhlar va savollarga javob (Uzum Market sotuvchilari uchun) | Конверсия карточки на маркетплейсе: фото, видео, отзывы
 - [sotuv] Onlayn do‘konda qaytarishlar: «rangi boshqa», «o‘lchami mos emas» — kartochka, video va javob shablonlari bilan qaytarishni kamaytirish | Возвраты в интернет-магазине: как снизить их описанием, видео и ответами
 - [video] Mijoz videolari (UGC) bilan ishlash: so‘rash, rozilik olish va reklamada ishlatish | Видео от клиентов (UGC): как просить, получать согласие и запускать в рекламу
-- [video] Qurilish jarayoni videolari: zastroyshik uchun ishonch kontenti (oylik hisobot-video, muhandis intervyusi) | Видео со стройки: контент доверия для застройщика
 - [target] Meta’ga mijozlar ro‘yxatini yuklash (Custom Audience): xeshlash, rozilik matni va o‘xshash auditoriya | Загрузка списка клиентов в Meta: хеширование, согласие, lookalike
 - [sotuv] Sayt va lid-forma uchun maxfiylik siyosati: nima yozish kerak (O‘RQ-547, 21-modda) | Политика конфиденциальности для сайта и лид-формы: что написать
 - [target] CRM’dan Meta’ga sifatli lid hodisalarini yuborish (Conversions API, offline konversiyalar) | Как передавать в Meta качественные лиды из CRM

@@ -127,6 +127,6 @@ Instagram создаёт спрос — человек видит комплек
 
 ## Ещё по теме
 
-- [Lookalike-аудитории: как найти людей, похожих на ваших клиентов](/ru/blog/lookalike-auditoriya/)
+- [Видео со стройки: контент доверия для застройщика](/ru/blog/video-so-stroyki/)
 - [Ретаргетинг: как вернуть тех, кто не купил](/ru/blog/retargeting-kak-rabotaet/)
 - [Лид-форма или сообщения в Direct: что приносит больше продаж](/ru/blog/lid-forma-ili-soobshcheniya/)

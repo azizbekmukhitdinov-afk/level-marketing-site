@@ -127,6 +127,6 @@ Zastroyshik uchun target reklama — bu ishonch, segmentlar va tez sotuv bo‘li
 
 ## Shu mavzuda yana
 
-- [Lookalike auditoriya: mijozlaringizga o‘xshash odamlarni qanday topish](/blog/lookalike-auditoriya/)
+- [Qurilish jarayoni videosi: zastroyshik uchun ishonch kontenti](/blog/qurilish-jarayoni-video/)
 - [Retargeting: sotib olmaganlarni qanday qaytarish mumkin](/blog/retargeting-qanday-ishlaydi/)
 - [Instant forma yoki Direct'ga xabar: qaysi biri ko‘proq sotuv olib keladi](/blog/instant-forma-yoki-xabarlar/)

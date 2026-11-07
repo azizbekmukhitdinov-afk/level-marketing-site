@@ -110,4 +110,4 @@ Ekspert intervyu — eng samarali «kontent zavodi»: bir kunlik suratga olish b
 
 - [Telefonda Reels suratga olish: yorug‘lik, ovoz va kadr](/blog/telefonda-reels-suratga-olish/)
 - [Reels uchun ssenariy: 5 ta tayyor shablon](/blog/reels-ssenariy-shablon/)
-- [Reels uchun 10 ta hook: birinchi 3 soniyada e'tiborni ushlash](/blog/reels-uchun-hooklar/)
+- [Qurilish jarayoni videosi: zastroyshik uchun ishonch kontenti](/blog/qurilish-jarayoni-video/)
