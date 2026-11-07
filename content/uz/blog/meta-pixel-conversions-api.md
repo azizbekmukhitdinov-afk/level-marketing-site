@@ -114,6 +114,6 @@ Pixel va Conversions API — reklamaning «ko‘zi». Ularsiz algoritm qorong‘
 
 ## Shu mavzuda yana
 
-- [Lookalike auditoriya: mijozlaringizga o‘xshash odamlarni qanday topish](/blog/lookalike-auditoriya/)
+- [Atributsiya oynasi Meta’da: hisobotdagi natijani qanday o‘qish](/blog/meta-atributsiya-oynasi/)
 - [Retargeting: sotib olmaganlarni qanday qaytarish mumkin](/blog/retargeting-qanday-ishlaydi/)
 - [Instagram'da target reklama qanday sozlanadi: bosqichma-bosqich qo‘llanma](/blog/instagramda-target-reklama-sozlash/)

@@ -20,8 +20,10 @@
 - [smm] Mijoz posilkani Stories’ga joylasa: repost, rozilik so‘rash va «Aktual»da yig‘ish | Покупатель выложил посылку в Stories: репост, согласие и подборка в «Актуальном»
 - [biznes] Onlayn do‘kon uchun qadoq ta’minotchisini tanlash: kichik partiya, namuna, muddat va narxni solishtirish | Как выбрать поставщика упаковки для интернет-магазина: малые партии, образцы, сроки
 - [sotuv] Lid formani CRM’ga ulash: Zapier/Make yoki CRM ulagichi — sozlash, maydonlarni bog‘lash va uzilishni sezish (Meta Leads Center bo‘yicha tekshirib yozish) | Как подключить лид-форму Meta к CRM и не терять заявки
-- [target] Atributsiya oynasi Meta’da: 7 kunlik bosish va 1 kunlik ko‘rish — hisobotdagi natijani qanday o‘qish (facebook.com/business/help/460276478298895) | Окно атрибуции в Meta: как читать результаты в отчёте
 - [sotuv] Ariza statuslari CRM’da: «yangi», «aloqa bo‘lmadi», «sifatsiz» — sotuv bo‘limi uchun yagona ro‘yxat va agentlikka haftalik fikr | Статусы заявок в CRM: единый список и обратная связь агентству
+- [target] Inkremental atributsiya Meta’da: standart model bilan farqi, qachon yoqish va hisobotda nima o‘zgaradi (Meta Business Help bo‘yicha tekshirib yozish) | Инкрементальная атрибуция в Meta: чем отличается от стандартной
+- [sotuv] Haftalik solishtirish jadvali: kabinet, CRM va kassa — bitta varaqda reklama natijasini tekshirish (Google Sheets shabloni) | Еженедельная сверка кабинета, CRM и кассы: шаблон таблицы
+- [target] Engage-through natijalari: layk va saqlashdan keyingi xaridlarni qanday baholash va qachon o‘chirish (2026-mart o‘zgarishi) | Engage-through в Meta: как оценивать продажи после лайков и сохранений
 - [target] Flexible format va Dynamic creative: bitta reklamaga bir nechta rasm va video — qachon foydali, qachon testga xalaqit beradi (Meta Business Help bo‘yicha tekshirib yozish) | Гибкий формат и динамический креатив в Meta: когда полезны
 - [target] Chastota va qamrov: retargetingda reklamani qancha ko‘rsatish, frequency cap va Reach maqsadi (kichik auditoriya uchun) | Частота и охват: сколько показывать рекламу в ретаргетинге
 - [video] Namuna kvartira bo‘ylab video-tur (walkthrough): zastroyshik va rieltor uchun ssenariy, kadr tartibi va reklamada ishlatish | Видео-тур по шоурум-квартире: сценарий и порядок кадров для застройщика

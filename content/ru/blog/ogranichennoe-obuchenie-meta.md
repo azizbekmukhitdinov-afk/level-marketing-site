@@ -118,4 +118,4 @@ weight: 1
 
 - [Выгорание креативов: когда реклама «выгорает» и как её менять](/ru/blog/vygoranie-kreativov/)
 - [A/B-тесты рекламных креативов: как проводить](/ru/blog/ab-test-kreativov/)
-- [Lookalike-аудитории: как найти людей, похожих на ваших клиентов](/ru/blog/lookalike-auditoriya/)
+- [Окно атрибуции в Meta: как читать результаты в отчёте](/ru/blog/okno-atributsii-meta/)

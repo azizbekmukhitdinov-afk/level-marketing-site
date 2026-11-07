@@ -114,6 +114,6 @@ The Pixel and the Conversions API are your advertising's eyes. Without them the 
 
 ## More on this topic
 
-- [Lookalike audiences: how to find people like your customers](/en/blog/lookalike-audiences/)
+- [Meta attribution window: how to read results in your report](/en/blog/meta-attribution-window/)
 - [Retargeting: how to bring back people who didn't buy](/en/blog/how-retargeting-works/)
 - [How to set up Instagram ads: a step-by-step guide](/en/blog/how-to-set-up-instagram-ads/)

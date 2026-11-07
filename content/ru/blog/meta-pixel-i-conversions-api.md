@@ -114,6 +114,6 @@ Pixel и Conversions API — «глаза» рекламы. Без них алг
 
 ## Ещё по теме
 
-- [Lookalike-аудитории: как найти людей, похожих на ваших клиентов](/ru/blog/lookalike-auditoriya/)
+- [Окно атрибуции в Meta: как читать результаты в отчёте](/ru/blog/okno-atributsii-meta/)
 - [Ретаргетинг: как вернуть тех, кто не купил](/ru/blog/retargeting-kak-rabotaet/)
 - [Как настроить таргет в Instagram: пошаговое руководство](/ru/blog/kak-nastroit-target-v-instagram/)
