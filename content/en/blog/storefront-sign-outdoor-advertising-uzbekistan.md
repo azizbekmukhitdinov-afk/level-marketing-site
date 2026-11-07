@@ -14,6 +14,8 @@ Since 15 October 2026, the sign above the door of a shop, café or salon in Uzbe
 
 > This is not legal advice. We explain the resolution in plain language. Check the specific rules in your city with the khokimiyat or a lawyer.
 
+![What changed: Resolution 563 in brief](/img/blog/illus/peshlavha-tashqi-reklama-1.jpg 1200x675)
+
 ## What changed: Resolution 563 in brief
 
 On 13 October 2026, the Cabinet of Ministers adopted Resolution No. 563. It took effect on 15 October and amended Resolution No. 104 of 2020 on regulating the outdoor advertising market ([lex.uz](https://lex.uz/docs/8537985)). The key changes:
@@ -60,6 +62,8 @@ Steps:
 
 The Tashkent design code is a separate matter: the khokimiyat must discuss it with businesses and the media by 10 December 2026, and changes take effect three months after official publication. If you are ordering a large structure now, follow the outcome of that discussion.
 
+![Vehicle advertising: a notice is now enough](/img/blog/illus/peshlavha-tashqi-reklama-2.jpg 1200x675)
+
 ## Vehicle advertising: a notice is now enough
 
 A legal entity that wants to put its trademark, type of business, products and services on its own vehicles (delivery van, service car, driving-school car) now only needs to send an electronic notice via my.gov.uz. The passport is generated in the system automatically and free of charge.
@@ -93,6 +97,8 @@ Even without a passport, some requirements remain:
 - **Visual identity.** When the sign repeats the logo, colours and font of your Instagram, people recognise you both on the street and in their feed. The minimum kit: [Visual Identity for a Small Business](/en/blog/visual-identity-for-small-business/).
 
 The sign ties into online marketing too: when the name and façade photo on your Google and Yandex Maps listing match the sign on the street, customers find the entrance easily. How to set that up: [Add Your Business to Maps](/en/blog/add-your-business-to-maps/).
+
+![One-day checklist](/img/blog/illus/peshlavha-tashqi-reklama-3.jpg 1200x675)
 
 ## One-day checklist
 

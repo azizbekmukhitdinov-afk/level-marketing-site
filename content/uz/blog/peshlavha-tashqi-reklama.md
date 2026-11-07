@@ -14,6 +14,8 @@ weight: 1
 
 > Bu maqola yuridik maslahat emas. Biz qaror matnini oddiy tilda tushuntiramiz. Shahringizdagi aniq talablarni hokimlik yoki yurist bilan tekshiring.
 
+![Nima o‘zgardi: VMQ-563 qisqacha](/img/blog/illus/peshlavha-tashqi-reklama-1.jpg 1200x675)
+
 ## Nima o‘zgardi: VMQ-563 qisqacha
 
 Vazirlar Mahkamasi 2026-yil 13-oktabrda 563-son qaror qabul qildi. U 15-oktabrdan kuchga kirdi va tashqi reklama bozorini tartibga solish haqidagi 2020-yilgi 104-son qarorga o‘zgartirish kiritdi ([lex.uz](https://lex.uz/docs/8537985)). Asosiy o‘zgarishlar:
@@ -60,6 +62,8 @@ Qadamlar:
 
 Toshkent dizayn-kodi bo‘yicha qaror alohida: hokimlik uni tadbirkorlar va OAV bilan 2026-yil 10-dekabrgacha muhokama qilishi kerak, o‘zgarishlar esa rasmiy e’lon qilingandan uch oy o‘tib kuchga kiradi. Ya’ni hozir katta konstruksiya buyurtma qilayotgan bo‘lsangiz, muhokama natijasini kuzatib boring.
 
+![Transportdagi reklama: endi xabarnoma yetarli](/img/blog/illus/peshlavha-tashqi-reklama-2.jpg 1200x675)
+
 ## Transportdagi reklama: endi xabarnoma yetarli
 
 Yuridik shaxs o‘z mashinasiga (yetkazib berish avtomobili, servis mashinasi, avtomaktab mashinasi) tovar belgisi, faoliyat turi, mahsulot va xizmatlari haqida yozuv qo‘ymoqchi bo‘lsa, endi my.gov.uz orqali elektron xabarnoma yuboradi. Pasport tizimda avtomatik va bepul shakllanadi.
@@ -93,6 +97,8 @@ Pasport kerak bo‘lmasa ham, peshlavhaga talablar qoladi:
 - **Vizual uslub.** Peshlavha logotip, rang va shriftni Instagram profilingiz bilan bir xil ko‘rsatsa, odam sizni ko‘chada ham, lentada ham taniydi. Minimum to‘plam — [Vizual uslub va aydentika](/blog/vizual-uslub-aydentika/) maqolasida.
 
 Peshlavha onlayn marketing bilan ham bog‘liq: Google va Yandex Xaritalardagi kartochkangizdagi nom va fasad surati ko‘chadagi peshlavhaga mos bo‘lsa, mijoz manzilni oson topadi. Buni qanday sozlash — [Biznesni Xaritalarga qo‘shish](/blog/biznesni-xaritalarga-qoshish/).
+
+![Bir kunlik chek-list](/img/blog/illus/peshlavha-tashqi-reklama-3.jpg 1200x675)
 
 ## Bir kunlik chek-list
 
