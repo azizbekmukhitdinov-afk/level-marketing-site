@@ -12,6 +12,8 @@ weight: 1
 
 Ads Manager says «32 purchases», but the till shows fewer customers from ads this week. Usually nobody is lying — the answer is the **attribution window**, the rule Meta uses to credit a sale to an ad. Here is how the attribution window works in Meta, what changed in 2026, and how to read your report without drawing the wrong conclusions.
 
+![What attribution is and where the «window» comes from](/img/blog/illus/meta-atributsiya-oynasi-1.jpg 1200x675)
+
 ## What attribution is and where the «window» comes from
 
 Attribution means linking a result (a purchase, a sign-up, an add-to-cart) to a specific ad. Someone sees your ad today, visits your site on their own tomorrow and buys three days later. Was that sale caused by the ad? Meta answers with a rule: if the person interacted with the ad within a certain **time span**, the result is credited to the ad. That time span is the attribution window.
@@ -44,6 +46,8 @@ If your numbers look lower than last year's reports, two changes may explain it.
 **2. «Click» got narrower.** In March 2026 Meta [announced that click-through attribution only counts link clicks](https://searchengineland.com/meta-introduces-click-and-engage-through-attribution-updates-470629): likes, saves and shares no longer count as a click. Link clicks include website visits, calls, messages, lead forms and similar buttons. Everything else moved into the new **engage-through** type, which replaced the old «engaged-view» (video views) and now applies to all formats.
 
 The practical takeaway: last year's and this year's «sales after click» do not measure the same thing. When you compare periods, note these dates in your report.
+
+![How to read your report: 5 steps](/img/blog/illus/meta-atributsiya-oynasi-2.jpg 1200x675)
 
 ## How to read your report: 5 steps
 
@@ -79,6 +83,8 @@ There is no single right answer — the window should match how fast your custom
 | Leads via instant form or Direct | Lead happens inside Meta | The window matters little; check lead quality in the CRM |
 
 *Illustrative example:* a furniture store in Tashkent advertises website purchases. With «7-day click + 1-day view», Ads Manager shows 30 purchases in a week. The comparison columns show 18 within a day of a click, 7 within 2–7 days of a click and 5 after a view only. So 25 purchases can be credited to ads with confidence, and 5 belong to the «ads may have helped» bucket. When [calculating ROMI](/en/blog/how-to-calculate-romi/), use 25 for the cautious scenario and 30 for the optimistic one.
+
+![5 common mistakes](/img/blog/illus/meta-atributsiya-oynasi-3.jpg 1200x675)
 
 ## 5 common mistakes
 

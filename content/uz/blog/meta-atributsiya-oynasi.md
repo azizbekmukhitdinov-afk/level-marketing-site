@@ -12,6 +12,8 @@ weight: 1
 
 Reklama kabinetida «32 ta sotuv» deyilgan, kassada esa bu haftada reklamadan kelgan xaridor kamroq. Ko‘pincha sabab yolg‘on emas, **atributsiya oynasi**da: Meta qaysi sotuvni reklamaga «yozish» qoidasi. Bu maqolada atributsiya oynasi Meta’da qanday ishlashini, 2026-yilda nima o‘zgarganini va hisobotni qanday o‘qish kerakligini oddiy tilda tushuntiramiz.
 
+![Atributsiya nima va «oyna» qayerdan keladi](/img/blog/illus/meta-atributsiya-oynasi-1.jpg 1200x675)
+
 ## Atributsiya nima va «oyna» qayerdan keladi
 
 Atributsiya — natijani (xarid, ro‘yxatdan o‘tish, savatga qo‘shish) qaysi reklamaga bog‘lash. Odam bugun reklamani ko‘radi, ertaga saytga o‘zi kiradi, uch kundan keyin xarid qiladi. Bu xarid reklama tufaylimi? Meta bunga qoida bilan javob beradi: agar odam reklama bilan ma’lum **vaqt oralig‘i** ichida aloqada bo‘lgan bo‘lsa, natija reklamaga yoziladi. Shu oraliq atributsiya oynasi deyiladi.
@@ -44,6 +46,8 @@ Agar kabinetingizdagi raqamlar o‘tgan yilgi hisobotlar bilan solishtirganda «
 **2. «Bosish» tor ma’noda tushuniladigan bo‘ldi.** 2026-yil mart oyida Meta [bosish atributsiyasini faqat havola bosishlari bilan cheklashini e’lon qildi](https://searchengineland.com/meta-introduces-click-and-engage-through-attribution-updates-470629): layk, saqlash yoki ulashish endi «bosish» hisoblanmaydi. Havola bosishiga sayt havolasi, qo‘ng‘iroq, xabar yozish, lid-forma kabi tugmalar kiradi. Qolgan aloqalar yangi **engage-through** turiga o‘tdi — u eski «engaged-view» (videoni ko‘rish) o‘rnini egalladi va endi barcha formatlarga tegishli.
 
 Amaliy xulosa: o‘tgan yilgi va bu yilgi «bosishdan keyingi sotuvlar»ni yonma-yon qo‘yganda ular bir xil narsani o‘lchamaydi. Taqqoslashda shu sanalarni hisobotga izoh qilib yozib qo‘ying.
+
+![Hisobotni qanday o‘qish: 5 qadam](/img/blog/illus/meta-atributsiya-oynasi-2.jpg 1200x675)
 
 ## Hisobotni qanday o‘qish: 5 qadam
 
@@ -79,6 +83,8 @@ Bitta to‘g‘ri javob yo‘q — oyna mijozning qaror qabul qilish tezligiga m
 | Ariza instant forma yoki Direct orqali | Ariza Meta ichida | Oyna kam ta’sir qiladi; ariza sifatini CRM’da tekshiring |
 
 *Shartli misol:* Toshkentdagi mebel do‘koni saytdan xarid qilish uchun reklama beradi. Kabinet 7 kunlik bosish + 1 kunlik ko‘rish bo‘yicha haftada 30 ta xarid ko‘rsatadi. Solishtirish ustunlarida ko‘rinadiki, 18 tasi 1 kunlik bosishdan, 7 tasi 2–7 kun ichidagi bosishdan, 5 tasi faqat ko‘rishdan. Demak, ishonch bilan reklamaga 25 ta xaridni bog‘lash mumkin, 5 tasi esa — «reklama ta’sir qilgan bo‘lishi mumkin» toifasi. [ROMI hisoblashda](/blog/romi-hisoblash/) ehtiyotkor variant uchun 25 ni, optimistik variant uchun 30 ni olish mumkin.
+
+![5 ta keng tarqalgan xato](/img/blog/illus/meta-atributsiya-oynasi-3.jpg 1200x675)
 
 ## 5 ta keng tarqalgan xato
 
