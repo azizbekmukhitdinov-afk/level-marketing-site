@@ -137,6 +137,6 @@ Level Marketing mijozlari bilan mavsumiy kampaniyalarni ham shu tartibda rejalas
 
 ## Shu mavzuda yana
 
-- [Instagram uchun kontent-reja: oyiga 30 ta post g‘oyasi](/blog/instagram-kontent-reja/)
+- [Instagram giveaway qoidalari: mexanika, qonun va 7 xato](/blog/instagram-giveaway-qoidalari/)
 - [Stories orqali sotuv: har kuni ishlaydigan formatlar](/blog/stories-orqali-sotuv/)
 - [UGC kontent: mijozlar videosi reklamadan yaxshiroq sotganda](/blog/ugc-kontent/)

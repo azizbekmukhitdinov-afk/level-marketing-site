@@ -137,6 +137,6 @@ Level Marketing планирует сезонные кампании клиен�
 
 ## Ещё по теме
 
-- [Контент-план для Instagram: 30 идей на месяц](/ru/blog/kontent-plan-dlya-instagram/)
+- [Розыгрыш в Instagram: правила, механика и 7 ошибок](/ru/blog/rozygrysh-v-instagram-pravila/)
 - [Продажи через Stories: форматы, которые работают каждый день](/ru/blog/prodazhi-cherez-stories/)
 - [UGC-контент: когда видео клиентов продаёт лучше рекламы](/ru/blog/ugc-kontent/)

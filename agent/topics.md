@@ -14,6 +14,9 @@
 - [biznes] Klinika va dorixona reklamasi: dori vositalari va BFQ reklamasiga talablar (Reklama to‘g‘risidagi qonun, 34–35-moddalar; lex.uz’da tekshirib yozish) | Реклама клиники и аптеки: требования к рекламе лекарств и БАД
 - [biznes] Ijtimoiy tarmoqda «reklama» belgisi: Reklama to‘g‘risidagi qonunning 5-moddasi — brend, bloger va kanal admini uchun amaliy qo‘llanma (Raqobat qo‘mitasi ogohlantirishi, UzA 03.09.2026) | Пометка «реклама» в соцсетях: статья 5 Закона о рекламе — памятка для бизнеса, блогеров и админов каналов
 - [brend] Kontent kimniki: fotograf, videograf va SMM-agentlik bilan shartnomada mualliflik huquqi (O‘RQ-42, lex.uz/acts/-1022944) | Кому принадлежит контент: авторские права в договоре с фотографом, видеографом и SMM-агентством
+- [smm] Bloger bilan birgalikda giveaway (loop): tashkilotchi kim, shartlarda kim nima uchun javob beradi va «reklama» belgisi (Reklama to‘g‘risidagi qonun, 18 va 21-moddalar) | Совместный розыгрыш с блогером: кто организатор и как обозначить рекламу
+- [biznes] Aksiya sovrini va soliq: g‘olibga berilgan sovrin buxgalteriyada qanday yuritiladi (Soliq kodeksi va soliq.uz bo‘yicha tekshirib yozish; ochiq manbalarda aniq javob topilmadi) | Приз в рекламной акции и налоги: как учесть и кто платит
+- [sotuv] Chek bo‘yicha aksiya: xaridorlar orasida sovrin o‘ynash, ro‘yxat yuritish va takroriy xaridni o‘lchash (do‘kon va restoran uchun) | Акция по чекам: розыгрыш среди покупателей, учёт и повторные покупки
 - [smm] Instagram jonli efirini reklama qilish: Live partnership ads va efirdan keyingi qisqa kliplar (Meta e’lonlari bo‘yicha tekshirib yozish) | Как рекламировать прямой эфир в Instagram
 - [sotuv] Posilkadagi kartochka va QR-kod natijasini o‘lchash: promokod, UTM va takroriy buyurtmalar ulushi (onlayn do‘kon uchun oddiy jadval) | Как измерить отдачу карточки и QR-кода в посылке: промокоды, UTM, доля повторных заказов
 - [smm] Mijoz posilkani Stories’ga joylasa: repost, rozilik so‘rash va «Aktual»da yig‘ish | Покупатель выложил посылку в Stories: репост, согласие и подборка в «Актуальном»
@@ -46,7 +49,6 @@
 - [target] Google Ads qidiruv reklamasi: birinchi kampaniyani sozlash | Google Ads: как настроить первую поисковую кампанию
 - [sotuv] Landing sahifa: ariza olib keladigan tuzilma | Лендинг, который приносит заявки: структура
 - [brend] Brendning ovoz ohangi (tone of voice) | Tone of voice бренда: как говорить с клиентами
-- [smm] Instagram'da giveaway: qoidalar, mexanika va xatolar (Reklama to‘g‘risidagi qonun, 21-modda: shartlarni oldindan e’lon qilish, 6 oy ochiq turishi) | Розыгрыш в Instagram: правила, механика и ошибки
 - [video] Instagram'da jonli efir: sotuv uchun qanday o‘tkazish | Прямые эфиры в Instagram для продаж
 - [sotuv] Muddatli to‘lov taklifi: qachon sotuvni oshiradi | Рассрочка как оффер: когда она увеличивает продажи
 - [sotuv] Muddatli to‘lov xizmati operatorlari reyestri (2027-yil 1-yanvardan, PQ-294): do‘kon hamkor-operatorni tanlashda nimani tekshiradi | Реестр операторов рассрочки с 2027 года: что проверить магазину при выборе партнёра

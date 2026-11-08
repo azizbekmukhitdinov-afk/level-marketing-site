@@ -137,6 +137,6 @@ Level Marketing plans clients' seasonal campaigns in the same order: content pla
 
 ## More on this topic
 
-- [Instagram content plan: 30 post ideas for a month](/en/blog/instagram-content-plan/)
+- [Instagram giveaway rules in Uzbekistan: mechanics and 7 mistakes](/en/blog/instagram-giveaway-rules-uzbekistan/)
 - [Selling with Stories: formats that work every day](/en/blog/selling-with-stories/)
 - [UGC content: when customer videos sell better than ads](/en/blog/ugc-content/)

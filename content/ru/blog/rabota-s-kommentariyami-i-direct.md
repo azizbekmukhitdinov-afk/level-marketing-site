@@ -117,4 +117,4 @@ rubric: smm
 
 - [Автоответы в Meta Business Suite: настройка для бизнеса](/ru/blog/avtootvety-meta-business-suite/)
 - [Контент-план для Instagram: 30 идей на месяц](/ru/blog/kontent-plan-dlya-instagram/)
-- [Как увеличить продажи с помощью интернет-маркетинга: карта для бизнеса в Узбекистане](/ru/blog/internet-marketing-uvelichit-prodazhi/)
+- [Розыгрыш в Instagram: правила, механика и 7 ошибок](/ru/blog/rozygrysh-v-instagram-pravila/)
