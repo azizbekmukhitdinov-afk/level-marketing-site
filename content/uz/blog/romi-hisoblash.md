@@ -117,5 +117,5 @@ ROMI — marketingni «xarajat» emas, investitsiya sifatida boshqarish vositasi
 ## Shu mavzuda yana
 
 - [UTM-belgilar: har bir mijoz qayerdan kelganini qanday bilish](/blog/utm-belgilar/)
-- [Takroriy sotuv va LTV: mavjud mijozlardan ko‘proq daromad](/blog/takroriy-sotuv-ltv/)
+- [Oflayn reklama natijasini o‘lchash: QR, promokod va CRM](/blog/oflayn-reklama-natijasi/)
 - [Lid narxi (CPL) nima va uni qanday kamaytirish mumkin: tadbirkor uchun qo‘llanma](/blog/lid-narxi-cpl-qanday-kamaytirish/)

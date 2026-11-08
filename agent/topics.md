@@ -8,7 +8,6 @@
 - [biznes] Bayram kunlari xodimlar ishi: navbatchilik, qo‘shimcha haq va dam olish kuni — tadbirkor uchun qisqa qo‘llanma (Mehnat kodeksi, 263-modda; manbani lex.uz’da tekshirish) | Работа сотрудников в праздники: что знать предпринимателю
 - [biznes] Toshkent dizayn-kodi: 10-dekabrgacha muhokama natijasi — peshlavha, vitrina va fasad uchun nima o‘zgaradi (qaror e’lon qilingandan keyin, 3 oylik muddat bilan yozish) | Дизайн-код Ташкента: что изменится для вывесок и витрин
 - [brend] Do‘kon vitrinasi: o‘tkinchini mijozga aylantiradigan 7 qoida (mahsulot, yorug‘lik, mavsumiy almashtirish; reklama emas — VMQ-563) | Витрина магазина: 7 правил, которые превращают прохожих в покупателей
-- [sotuv] Oflayn reklama natijasini o‘lchash: kompaniya mashinasi, peshlavha, banner — QR, promokod va «bizni qayerdan bildingiz» savoli CRM’da | Как измерить отдачу офлайн-рекламы: QR, промокоды и вопрос «откуда узнали»
 - [target] «Xabar yuborish» maqsadli reklamada salomlashuv matni va tayyor savollar: Direct’ga keladigan arizalarni saralash (Meta Ads Manager, message template) | Шаблон приветствия в рекламе на сообщения: как квалифицировать заявки
 - [sotuv] Direct va Messenger’dagi javobsiz suhbatlar: haftalik audit va menejer uchun javob standarti (kirish qutisi yorliqlari, mas’ullar) | Неотвеченные диалоги в Direct: еженедельный аудит и стандарт ответа
 - [biznes] Blogerlar va onlayn reklama markirovkasi: Soliq qo‘mitasi loyihasi qabul qilinganda biznes uchun nima o‘zgaradi (holatini tekshirib yozish) | Маркировка онлайн-рекламы и блогеры: что изменится для бизнеса
@@ -19,6 +18,9 @@
 - [sotuv] Posilkadagi kartochka va QR-kod natijasini o‘lchash: promokod, UTM va takroriy buyurtmalar ulushi (onlayn do‘kon uchun oddiy jadval) | Как измерить отдачу карточки и QR-кода в посылке: промокоды, UTM, доля повторных заказов
 - [smm] Mijoz posilkani Stories’ga joylasa: repost, rozilik so‘rash va «Aktual»da yig‘ish | Покупатель выложил посылку в Stories: репост, согласие и подборка в «Актуальном»
 - [biznes] Onlayn do‘kon uchun qadoq ta’minotchisini tanlash: kichik partiya, namuna, muddat va narxni solishtirish | Как выбрать поставщика упаковки для интернет-магазина: малые партии, образцы, сроки
+- [sotuv] «Bizni qayerdan bildingiz?» savoliga javoblarni tahlil qilish: oylik hisobot, «birinchi tanishuv» va «oxirgi turtki» farqi, tavsiyalar ulushi | Как анализировать ответы «откуда вы о нас узнали»: отчёт за месяц, первое касание и последний толчок
+- [target] Brend qidiruvining o‘sishi: oflayn va video reklamadan keyin Google/Yandex kartochka statistikasini qanday o‘qish | Рост брендовых запросов: как читать статистику карточки на картах после офлайн-рекламы
+- [biznes] Ko‘rgazmada qatnashish: stend, flayer va kontaktlarni yig‘ish — ko‘rgazmadan keyingi 7 kunlik reja | Участие в выставке: стенд, листовки, сбор контактов и план на 7 дней после
 - [sotuv] Lid formani CRM’ga ulash: Zapier/Make yoki CRM ulagichi — sozlash, maydonlarni bog‘lash va uzilishni sezish (Meta Leads Center bo‘yicha tekshirib yozish) | Как подключить лид-форму Meta к CRM и не терять заявки
 - [sotuv] Ariza statuslari CRM’da: «yangi», «aloqa bo‘lmadi», «sifatsiz» — sotuv bo‘limi uchun yagona ro‘yxat va agentlikka haftalik fikr | Статусы заявок в CRM: единый список и обратная связь агентству
 - [target] Inkremental atributsiya Meta’da: standart model bilan farqi, qachon yoqish va hisobotda nima o‘zgaradi (Meta Business Help bo‘yicha tekshirib yozish) | Инкрементальная атрибуция в Meta: чем отличается от стандартной

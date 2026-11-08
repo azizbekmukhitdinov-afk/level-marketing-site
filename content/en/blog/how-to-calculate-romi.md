@@ -117,5 +117,5 @@ ROMI lets you manage marketing as an investment rather than a cost. Calculate it
 ## More on this topic
 
 - [UTM tags: how to know where every customer came from](/en/blog/utm-tags/)
-- [Repeat sales and LTV: more revenue from existing customers](/en/blog/repeat-sales-and-ltv/)
+- [How to measure offline advertising: QR codes, promo codes, CRM](/en/blog/measure-offline-advertising/)
 - [Cost per lead (CPL): what it is and how to lower it](/en/blog/cost-per-lead-cpl-how-to-lower/)

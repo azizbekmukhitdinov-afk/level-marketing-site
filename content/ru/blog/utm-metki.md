@@ -111,6 +111,6 @@ UTM-метки — самый простой способ знать, откуд
 
 ## Ещё по теме
 
-- [Повторные продажи и LTV: больше дохода от текущих клиентов](/ru/blog/povtornye-prodazhi-i-ltv/)
+- [Как измерить отдачу офлайн-рекламы: QR, промокоды и CRM](/ru/blog/otdacha-oflayn-reklamy/)
 - [Лиды в кабинете и в CRM не совпадают: 7 причин и сверка](/ru/blog/lidy-v-kabinete-i-crm-ne-sovpadayut/)
 - [Цена лида (CPL): что это и как её снизить — гид для предпринимателя](/ru/blog/tsena-lida-cpl-kak-snizit/)
