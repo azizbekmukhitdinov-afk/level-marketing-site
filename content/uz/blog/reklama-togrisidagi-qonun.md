@@ -158,4 +158,4 @@ Level Marketing’da reklama kreativlarini ishga tushirishdan oldin shu ro‘yxa
 
 - [SMS reklama yangi qoidalari: 1-noyabr 2026 dan biznes nima qiladi](/blog/sms-reklama-yangi-qoidalar/)
 - [Mijozlar bazasi va shaxsga doir ma’lumotlar: tadbirkor uchun](/blog/mijozlar-bazasi-shaxsiy-malumotlar/)
-- [Peshlavha va tashqi reklama: 2026-yildan pasport qachon kerak](/blog/peshlavha-tashqi-reklama/)
+- [Dori va BFQ reklamasi: klinika va dorixona uchun qoidalar](/blog/dori-bfq-reklamasi/)

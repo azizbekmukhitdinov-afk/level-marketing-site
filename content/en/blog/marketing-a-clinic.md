@@ -135,4 +135,4 @@ The strongest marketing tool a clinic has is its doctors: their knowledge, openn
 
 - [How to validate a business idea before you advertise](/en/blog/validate-a-business-idea/)
 - [7 marketing mistakes new entrepreneurs make](/en/blog/marketing-mistakes-new-entrepreneurs/)
-- [Network marketing (MLM): can you make money, and how to spot a pyramid](/en/blog/network-marketing-mlm/)
+- [Medicine and supplement advertising in Uzbekistan: the rules](/en/blog/medicine-supplement-advertising-uzbekistan/)

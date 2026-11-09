@@ -158,4 +158,4 @@ rubric: biznes
 
 - [Рекламные SMS: новые правила с 1 ноября 2026 и что делать бизнесу](/ru/blog/reklamnye-sms-novye-pravila/)
 - [База клиентов и персональные данные: что знать предпринимателю](/ru/blog/baza-klientov-personalnye-dannye/)
-- [Вывеска и наружная реклама: когда нужен паспорт с 2026 года](/ru/blog/vyveska-naruzhnaya-reklama/)
+- [Реклама лекарств и БАД в Узбекистане: правила для клиник](/ru/blog/reklama-lekarstv-i-bad/)

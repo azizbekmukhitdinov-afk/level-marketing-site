@@ -135,4 +135,4 @@ Klinika marketingida eng kuchli vosita — shifokorlarning o‘zi: ularning bili
 
 - [Biznes g‘oyani reklamadan oldin qanday tekshirish mumkin](/blog/biznes-goyani-tekshirish/)
 - [Yangi tadbirkorlarning marketingdagi 7 ta xatosi](/blog/yangi-tadbirkor-xatolari/)
-- [Tarmoq marketingi (MLM): pul topish mumkinmi va piramidani qanday ajratish kerak](/blog/tarmoq-marketingi-mlm/)
+- [Dori va BFQ reklamasi: klinika va dorixona uchun qoidalar](/blog/dori-bfq-reklamasi/)

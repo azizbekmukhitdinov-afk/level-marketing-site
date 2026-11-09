@@ -135,4 +135,4 @@ Telegram-канал поддерживает связь с уже существ
 
 - [Как проверить бизнес-идею до запуска рекламы](/ru/blog/kak-proverit-biznes-ideyu/)
 - [7 маркетинговых ошибок начинающих предпринимателей](/ru/blog/oshibki-nachinayushchih-predprinimateley/)
-- [Сетевой маркетинг (MLM): можно ли заработать и как отличить его от пирамиды](/ru/blog/setevoy-marketing-mlm/)
+- [Реклама лекарств и БАД в Узбекистане: правила для клиник](/ru/blog/reklama-lekarstv-i-bad/)

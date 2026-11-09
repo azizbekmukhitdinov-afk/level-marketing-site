@@ -158,4 +158,4 @@ At Level Marketing we check creatives against this list before launch and agree 
 
 - [SMS advertising rules in Uzbekistan from 1 November 2026](/en/blog/sms-advertising-rules-uzbekistan/)
 - [Customer database and personal data in Uzbekistan: a guide](/en/blog/customer-database-personal-data-uzbekistan/)
-- [Storefront Signs and Outdoor Ads in Uzbekistan: 2026 Rules](/en/blog/storefront-sign-outdoor-advertising-uzbekistan/)
+- [Medicine and supplement advertising in Uzbekistan: the rules](/en/blog/medicine-supplement-advertising-uzbekistan/)
