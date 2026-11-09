@@ -11,6 +11,8 @@ rubric: video
 
 Reklama roligi uchun birinchi uch soniya hal qiluvchi: odam to‘xtaydimi yoki o‘tib ketadimi. Lekin «qanday rolik ishlaydi?» degan savolga umumiy maslahatlar emas, kuzatuvlar yaxshiroq javob beradi. Biz O‘zbekiston, Qirg‘iziston, Rossiya va AQShdagi marketing agentliklari va ekspertlarning 60 ga yaqin reklama Reels'ini ko‘rib chiqdik va har biri olgan reaksiyalarni — layklar, izohlar, ulashishlar va saqlashlarni — yozib oldik. Bu maqolada shu tahlildan chiqqan xulosalarni bo‘lishamiz: qaysi yondashuvlar ishlaydi va qaysilari deyarli e’tiborsiz qoladi.
 
+![Muhim ogohlantirish: reaksiya — sotuv emas](/img/blog/illus/reklama-roliklari-nima-ishlaydi-1.jpg 1200x675)
+
 ## Muhim ogohlantirish: reaksiya — sotuv emas
 
 Reklama roligidagi layklar ko‘pincha sotib olingan qamrovning natijasi. Izohlarning katta qismi esa «izohga so‘z yozing» degan mexanikadan keladi, haqiqiy muhokamadan emas. Shuning uchun reaksiyalar qaysi roliklar e’tiborni ushlashini ko‘rsatadi, lekin oxirgi baho — arizalar va sotuvlar. O‘z roliklaringizni doimo sotuv bo‘yicha solishtiring — [kreativlar uchun A/B test](/blog/kreativlar-ab-test/).
@@ -64,6 +66,8 @@ Natija hali yakunlanmagan, lekin raqamlar bor: «oyiga N ta rolik, shuncha ko‘
 
 Bu formatlar o‘nlab, ba’zan bir necha o‘nta layk oldi, eng yaxshi roliklar esa minglab.
 
+![Odamlarni nima qiziqtiradi: og‘riqlar](/img/blog/illus/reklama-roliklari-nima-ishlaydi-2.jpg 1200x675)
+
 ## Odamlarni nima qiziqtiradi: og‘riqlar
 
 Roliklar mavzulari va ularga bo‘lgan reaksiyalardan tadbirkorlarning asosiy og‘riqlari aniq ko‘rinadi:
@@ -89,6 +93,8 @@ Eng yaxshi reklama mavzusi — shu og‘riqlardan biri, sizning sohangiz tilida 
 - [ ] Ovozsiz ham tushunarlimi — subtitr va ekrandagi matn?
 
 Kreativlar qanday tayyorlanishi haqida — [reklama kreativlari qanday tayyorlanadi](/blog/kreativ-ishlab-chiqarish/).
+
+![Biz o‘zimiz uchun nimani olmaymiz](/img/blog/illus/reklama-roliklari-nima-ishlaydi-3.jpg 1200x675)
 
 ## Biz o‘zimiz uchun nimani olmaymiz
 

@@ -11,6 +11,8 @@ rubric: video
 
 For an ad video, the first three seconds decide everything: does the viewer stop or scroll on? But "which videos work?" is better answered by observation than by general advice. We reviewed about 60 ad Reels from marketing agencies and experts in Uzbekistan, Kyrgyzstan, Russia and the US, and recorded the reactions to each — likes, comments, shares and saves. This article shares what we found: which approaches work, and which get almost no attention.
 
+![An important caveat: reactions aren't sales](/img/blog/illus/reklama-roliklari-nima-ishlaydi-1.jpg 1200x675)
+
 ## An important caveat: reactions aren't sales
 
 Likes on an ad video are largely a product of paid reach. And most comments come from "write a word in the comments" mechanics rather than real discussion. So reactions show which videos hold attention, but the final verdict is leads and sales. Always compare your own videos by sales — [A/B testing ad creatives](/en/blog/ab-testing-ad-creatives/).
@@ -64,6 +66,8 @@ The result isn't final yet, but there are numbers: "N videos a month, this many 
 
 These formats got dozens of likes, sometimes single digits, while the best videos got thousands.
 
+![What people care about: their pains](/img/blog/illus/reklama-roliklari-nima-ishlaydi-2.jpg 1200x675)
+
 ## What people care about: their pains
 
 The topics of these videos and the reactions to them make business owners' main pains clear:
@@ -89,6 +93,8 @@ The best ad topic is one of these pains, said in the language of your niche.
 - [ ] Does it make sense without sound — subtitles and on-screen text?
 
 How creatives get made — [how ad creatives are produced](/en/blog/how-ad-creatives-are-produced/).
+
+![What we don't take for ourselves](/img/blog/illus/reklama-roliklari-nima-ishlaydi-3.jpg 1200x675)
 
 ## What we don't take for ourselves
 
