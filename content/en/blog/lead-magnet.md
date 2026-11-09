@@ -11,6 +11,8 @@ rubric: sotuv
 
 Most people who see your ad aren't ready to buy right now: they're still comparing, thinking it over, or the problem isn't pressing yet. An ad that says "leave a request" loses them. A lead magnet is a useful piece of material or a tool that people get in exchange for their contact details. That way you build a base of people who won't buy today but might tomorrow. This article covers how to choose a lead magnet, deliver it and turn it into sales.
 
+![Why you need a lead magnet](/img/blog/illus/lid-magnit-1.jpg 1200x675)
+
 ## Why you need a lead magnet
 
 In any market, people fall into three groups:
@@ -53,6 +55,8 @@ The handiest method is a Telegram bot:
 
 On Instagram, a DM auto-reply or a lead form also works — [Telegram bot for leads](/en/blog/telegram-bot-for-leads/), [lead form or messages](/en/blog/lead-form-or-messages/).
 
+![After the lead magnet: a message sequence](/img/blog/illus/lid-magnit-2.jpg 1200x675)
+
 ## After the lead magnet: a message sequence
 
 Sending the material isn't the end. A simple sequence:
@@ -88,6 +92,8 @@ A lead-magnet contact is cheaper than an ordinary lead but converts to a sale mo
 ## Personal data
 
 When collecting contacts, follow the law: explain why you're collecting them, get consent and store the base securely — [customer database and personal data](/en/blog/customer-database-personal-data-uzbekistan/).
+
+![Common mistakes](/img/blog/illus/lid-magnit-3.jpg 1200x675)
 
 ## Common mistakes
 

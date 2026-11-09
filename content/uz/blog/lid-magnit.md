@@ -11,6 +11,8 @@ rubric: sotuv
 
 Reklamani ko‘rgan odamlarning katta qismi hozir sotib olishga tayyor emas: ular hali taqqoslayapti, o‘ylayapti yoki muammosi hali o‘tkir emas. «Ariza qoldiring» degan reklama ularni yo‘qotadi. Lid-magnit — bu foydali material yoki vosita bo‘lib, odam uni olish uchun o‘z kontaktini qoldiradi. Shunday qilib siz bugun sotib olmaydigan, lekin ertaga sotib olishi mumkin bo‘lgan odamlar bazasini yig‘asiz. Bu maqolada lid-magnitni qanday tanlash, yetkazish va sotuvga aylantirishni ko‘rib chiqamiz.
 
+![Nega lid-magnit kerak](/img/blog/illus/lid-magnit-1.jpg 1200x675)
+
 ## Nega lid-magnit kerak
 
 Har qanday bozorda odamlar uch guruhga bo‘linadi:
@@ -53,6 +55,8 @@ Eng qulay usul — Telegram bot:
 
 Instagram'da Direct'ga avtomatik javob yoki instant forma ham ishlaydi — [Telegram bot orqali arizalar](/blog/telegram-bot-orqali-arizalar/), [instant forma yoki xabarlar](/blog/instant-forma-yoki-xabarlar/).
 
+![Lid-magnitdan keyin: xabarlar zanjiri](/img/blog/illus/lid-magnit-2.jpg 1200x675)
+
 ## Lid-magnitdan keyin: xabarlar zanjiri
 
 Material yuborildi — ish tugamadi. Oddiy zanjir:
@@ -88,6 +92,8 @@ Lid-magnit kontakti oddiy arizadan arzon, lekin sotuvga aylanishi sekinroq. Shun
 ## Shaxsiy ma’lumotlar
 
 Kontaktlarni yig‘ganda qonun talablariga rioya qiling: nima uchun yig‘ayotganingizni ayting, rozilik oling va bazani xavfsiz saqlang — [mijozlar bazasi va shaxsiy ma’lumotlar](/blog/mijozlar-bazasi-shaxsiy-malumotlar/).
+
+![Ko‘p uchraydigan xatolar](/img/blog/illus/lid-magnit-3.jpg 1200x675)
 
 ## Ko‘p uchraydigan xatolar
 
