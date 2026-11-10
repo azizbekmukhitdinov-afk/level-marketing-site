@@ -152,5 +152,5 @@ A strong creative is the result of a process: brief, insight, idea, script, shoo
 ## More on this topic
 
 - [Reels hooks: holding attention in the first 3 seconds](/en/blog/reels-hooks/)
-- [Reels script templates](/en/blog/reels-script-templates/)
+- [10 ad creatives from one video shoot: an editing plan](/en/blog/one-shoot-10-ad-creatives/)
 - [Types of video ads: which suits your business](/en/blog/types-of-video-ads/)

@@ -98,4 +98,4 @@ rubric: video
 
 - [Видео товара для маркетплейса и рекламы: 7 ошибок](/ru/blog/video-tovara/)
 - [Как снимать Reels на телефон: свет, звук и кадр](/ru/blog/kak-snimat-reels-na-telefon/)
-- [Видео распаковки для интернет-магазина: сценарий и съёмка](/ru/blog/video-raspakovki/)
+- [Из одной съёмки — 10 рекламных креативов: план монтажа](/ru/blog/iz-odnoy-semki-10-kreativov/)

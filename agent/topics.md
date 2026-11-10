@@ -39,7 +39,9 @@
 - [video] Namuna kvartira bo‘ylab video-tur (walkthrough): zastroyshik va rieltor uchun ssenariy, kadr tartibi va reklamada ishlatish | Видео-тур по шоурум-квартире: сценарий и порядок кадров для застройщика
 - [biznes] Ulushli qurilish to‘g‘risidagi qonun va eskrou-hisoblar: qabul qilinganda zastroyshik reklamasi va sotuvida nima o‘zgaradi (holatini lex.uz va spot.uz’da tekshirib yozish) | Закон о долевом строительстве и эскроу: что изменится в рекламе застройщика
 - [video] Dron bilan reklama suratga olish: qaysi ruxsatlar kerak va dronsiz yuqori kadr olish usullari (gov.uz/oz/uzcaa/pages/dronlar-uua) | Съёмка с дрона для рекламы: какие нужны разрешения и как обойтись без дрона
-- [video] Bitta suratga olishdan 10 ta reklama kreativi: hook, format va burchak bo‘yicha montaj rejasi | Из одной съёмки — 10 креативов: план монтажа
+- [video] Meta Design Check: Reels reklamasini ishga tushirishdan oldin xavfsiz zona, ovoz va formatni tekshirish (facebook.com/business/ads/facebook-instagram-reels-ads bo‘yicha tekshirib yozish) | Meta Design Check: как проверить Reels-рекламу до запуска
+- [video] Xizmat biznesi uchun suratga olish kuni: klinika va o‘quv markazi uchun kadrlar ro‘yxati, mijoz roziligi va 5 burchak | Съёмочный день для сферы услуг: список кадров, согласие клиентов, 5 углов
+- [target] Advantage+ creative’dagi avtomatik musiqa va 9:16 ga kengaytirish: qachon yoqish, qachon o‘chirish (Meta Reels ads sahifasi bo‘yicha tekshirib yozish) | Улучшения Advantage+ creative: музыка и расширение до 9:16 — когда включать
 - [brend] Mikroinfluenserlar: kichik blogerlar bilan tizimli ishlash | Микроинфлюенсеры: как системно работать с небольшими блогерами
 - [smm] Ramazon oyida kontent va reklama: nima mos, nimadan saqlanish kerak (2027 sanasi e’lon qilinganda yozish) | Контент и реклама в Рамадан
 - [target] Meta’da kampaniya tuzilmasi: nechta kampaniya va reklama to‘plami kerak, Advantage campaign budget qachon qulay | Структура кампаний в Meta: сколько кампаний и групп нужно

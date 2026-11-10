@@ -152,5 +152,5 @@ Kuchli kreativ — jarayon natijasi: brif, insayt, g‘oya, ssenariy, suratga ol
 ## Shu mavzuda yana
 
 - [Reels uchun hooklar: birinchi 3 soniyada e’tiborni ushlash](/blog/reels-uchun-hooklar/)
-- [Reels ssenariy shablonlari](/blog/reels-ssenariy-shablon/)
+- [Bitta suratga olishdan 10 ta reklama kreativi: montaj rejasi](/blog/bitta-suratga-olish-10-kreativ/)
 - [Video reklama turlari: qaysi biri sizning biznesingizga mos](/blog/video-reklama-turlari/)

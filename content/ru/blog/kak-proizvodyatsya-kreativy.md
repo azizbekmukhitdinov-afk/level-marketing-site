@@ -152,5 +152,5 @@ rubric: video
 ## Ещё по теме
 
 - [Хуки для Reels: как удержать внимание в первые 3 секунды](/ru/blog/huki-dlya-reels/)
-- [Сценарии для Reels: шаблоны](/ru/blog/stsenariy-dlya-reels/)
+- [Из одной съёмки — 10 рекламных креативов: план монтажа](/ru/blog/iz-odnoy-semki-10-kreativov/)
 - [Виды видеорекламы: какой подходит вашему бизнесу](/ru/blog/vidy-videoreklamy/)
