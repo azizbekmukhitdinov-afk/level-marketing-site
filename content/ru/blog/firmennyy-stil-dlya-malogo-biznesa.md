@@ -118,5 +118,5 @@ rubric: brend
 ## Ещё по теме
 
 - [Из перекупа в бренд: как построить свой бренд на Uzum Market](/ru/blog/brend-na-uzum-market/)
-- [Как выбрать название для бизнеса: 8 правил](/ru/blog/kak-vybrat-nazvanie-biznesa/)
+- [Витрина магазина: 7 правил, которые превращают прохожих в покупателей](/ru/blog/vitrina-magazina-pravila/)
 - [Упаковка для интернет-магазина: 7 правил для малого бизнеса](/ru/blog/upakovka-dlya-internet-magazina/)

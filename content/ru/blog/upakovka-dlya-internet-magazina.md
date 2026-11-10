@@ -141,4 +141,4 @@ weight: 1
 
 - [Фирменный стиль: минимум для малого бизнеса](/ru/blog/firmennyy-stil-dlya-malogo-biznesa/)
 - [Из перекупа в бренд: как построить свой бренд на Uzum Market](/ru/blog/brend-na-uzum-market/)
-- [Маркетинг бренда одежды: своя аудитория и повторные покупки](/ru/blog/marketing-brenda-odezhdy/)
+- [Витрина магазина: 7 правил, которые превращают прохожих в покупателей](/ru/blog/vitrina-magazina-pravila/)

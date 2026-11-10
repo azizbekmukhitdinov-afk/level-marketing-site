@@ -141,4 +141,4 @@ Level Marketing’da onlayn do‘konlar bilan ishlaganda qadoqni reklama va kont
 
 - [Vizual uslub va aydentika: kichik biznes uchun minimum](/blog/vizual-uslub-aydentika/)
 - [Qayta sotuvchidan brendga: Uzum Market'da o‘z brendingizni qurish](/blog/uzum-market-brend/)
-- [Kiyim brendi marketingi: o‘z auditoriyasi va takroriy xaridlar](/blog/kiyim-brendi-marketing/)
+- [Do‘kon vitrinasi: o‘tkinchini xaridorga aylantiradigan 7 qoida](/blog/dokon-vitrinasi-qoidalari/)

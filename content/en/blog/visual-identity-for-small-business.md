@@ -118,5 +118,5 @@ A visual identity makes your brand recognisable at every touchpoint. Start with 
 ## More on this topic
 
 - [From reseller to brand: building your own brand on Uzum Market](/en/blog/building-a-brand-on-uzum-market/)
-- [How to name a business: 8 rules](/en/blog/how-to-name-a-business/)
+- [Shop window display: 7 rules that turn passers-by into buyers](/en/blog/shop-window-display-rules/)
 - [Packaging for an online store: 7 rules for small businesses](/en/blog/packaging-for-online-store/)

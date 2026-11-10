@@ -141,4 +141,4 @@ At Level Marketing, when we work with online stores, we don't treat packaging se
 
 - [Visual identity: the minimum a small business needs](/en/blog/visual-identity-for-small-business/)
 - [From reseller to brand: building your own brand on Uzum Market](/en/blog/building-a-brand-on-uzum-market/)
-- [Clothing brand marketing: your own audience and repeat buyers](/en/blog/marketing-a-clothing-brand/)
+- [Shop window display: 7 rules that turn passers-by into buyers](/en/blog/shop-window-display-rules/)

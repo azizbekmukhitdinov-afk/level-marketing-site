@@ -7,7 +7,9 @@
 - [sotuv] Bayramdan keyingi birinchi hafta: javobsiz arizalarni qayta ishlash va «sovigan» lidlarni qaytarish | Первая неделя после праздников: как вернуть остывшие заявки
 - [biznes] Bayram kunlari xodimlar ishi: navbatchilik, qo‘shimcha haq va dam olish kuni — tadbirkor uchun qisqa qo‘llanma (Mehnat kodeksi, 263-modda; manbani lex.uz’da tekshirish) | Работа сотрудников в праздники: что знать предпринимателю
 - [biznes] Toshkent dizayn-kodi: 10-dekabrgacha muhokama natijasi — peshlavha, vitrina va fasad uchun nima o‘zgaradi (qaror e’lon qilingandan keyin, 3 oylik muddat bilan yozish) | Дизайн-код Ташкента: что изменится для вывесок и витрин
-- [brend] Do‘kon vitrinasi: o‘tkinchini mijozga aylantiradigan 7 qoida (mahsulot, yorug‘lik, mavsumiy almashtirish; reklama emas — VMQ-563) | Витрина магазина: 7 правил, которые превращают прохожих в покупателей
+- [brend] Yangi yil vitrinasi va do‘kon bezagi: noyabr oxiridan yanvargacha reja, bezakni qachon olib tashlash va Instagram bilan bog‘lash | Новогодняя витрина и оформление магазина: план с конца ноября до января
+- [sotuv] Do‘konga kirganlarni sanash: qo‘lda hisob, kassadagi cheklar soni va konversiya (kirgan → xarid) — kichik do‘kon uchun jadval | Как считать посетителей магазина и конверсию входа в покупку
+- [biznes] Savdo markazida do‘kon: ijara shartnomasida marketing to‘lovi, vitrina va bezak qoidalari — nimani oldindan kelishish kerak | Магазин в ТЦ: маркетинговый сбор, витрина и правила оформления в договоре аренды
 - [target] «Xabar yuborish» maqsadli reklamada salomlashuv matni va tayyor savollar: Direct’ga keladigan arizalarni saralash (Meta Ads Manager, message template) | Шаблон приветствия в рекламе на сообщения: как квалифицировать заявки
 - [sotuv] Direct va Messenger’dagi javobsiz suhbatlar: haftalik audit va menejer uchun javob standarti (kirish qutisi yorliqlari, mas’ullar) | Неотвеченные диалоги в Direct: еженедельный аудит и стандарт ответа
 - [biznes] Blogerlar va onlayn reklama markirovkasi: Soliq qo‘mitasi loyihasi qabul qilinganda biznes uchun nima o‘zgaradi (holatini tekshirib yozish) | Маркировка онлайн-рекламы и блогеры: что изменится для бизнеса
