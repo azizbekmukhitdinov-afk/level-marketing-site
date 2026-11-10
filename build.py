@@ -13,7 +13,7 @@ import sys
 from datetime import date, datetime
 from pathlib import Path
 
-from i18n import CLIENTS, LANG_NAMES, LANG_SHORT, LANGS, PREFIX, RUBRICS, T, TEAM
+from i18n import CLIENTS, LANG_NAMES, LANG_SHORT, LANGS, LEAD, PREFIX, PRIVACY, RUBRICS, T, TEAM
 
 RUBRIC_NAMES = dict(RUBRICS)
 
@@ -298,7 +298,7 @@ document.querySelectorAll('#menu a').forEach(function (a) {{
     <p>{t['address']}</p>
   </div>
   <div class="contacts">{footer_contacts(lang)}</div>
-  <p class="copy">© {date.today().year} {SITE['name']}</p>
+  <p class="copy">© {date.today().year} {SITE['name']} · <a href="{PREFIX[lang]}{PRIVACY[lang]['path']}">{PRIVACY[lang]['link']}</a></p>
 </div></footer>
 </body>
 </html>
@@ -461,6 +461,107 @@ def home(lang, posts):
                 og_image="/img/clients-wall.jpg")
 
 
+
+# ---------- lead form landing (search ads) and privacy policy ----------
+
+def lead_alts():
+    return {l: PREFIX[l] + LEAD[l]["path"] for l in LANGS}
+
+
+def privacy_alts():
+    return {l: PREFIX[l] + PRIVACY[l]["path"] for l in LANGS}
+
+
+LEAD_JS = """<script>
+(function () {
+  var f = document.getElementById('lead-form');
+  if (!f) return;
+  var q = new URLSearchParams(location.search), us = (q.get('utm_source') || '').toLowerCase(), src = '';
+  if (us.indexOf('yandex') > -1 || q.get('yclid')) src = 'Yandex';
+  else if (us.indexOf('google') > -1 || q.get('gclid') || q.get('gbraid') || q.get('wbraid')) src = 'Google';
+  var keep = {};
+  if (src) keep = {source: src, utm_source: us, utm_campaign: q.get('utm_campaign') || '', utm_term: q.get('utm_term') || ''};
+  try {
+    if (src) localStorage.setItem('lm_src', JSON.stringify(keep));
+    else keep = JSON.parse(localStorage.getItem('lm_src') || '{}') || {};
+  } catch (e) {}
+  var phone = f.querySelector('[name=phone]');
+  phone.addEventListener('input', function () { phone.setCustomValidity(''); });
+  f.addEventListener('submit', function (e) {
+    e.preventDefault();
+    if (phone.value.replace(/\\D/g, '').length < 9) { phone.setCustomValidity(f.dataset.phoneBad); phone.reportValidity(); return; }
+    var d = new URLSearchParams(new FormData(f));
+    d.set('source', keep.source || 'Sayt levelm.uz');
+    d.set('utm_source', keep.utm_source || '');
+    d.set('utm_campaign', keep.utm_campaign || '');
+    d.set('utm_term', keep.utm_term || '');
+    d.set('lang', f.dataset.lang);
+    d.set('page', location.origin + location.pathname);
+    var btn = f.querySelector('button');
+    btn.disabled = true; f.classList.remove('failed');
+    fetch(f.action, {method: 'POST', body: d}).then(function (r) {
+      if (!r.ok) throw new Error(r.status);
+      f.classList.add('sent');
+      try {
+        if (window.ym && window.LM_YM) ym(window.LM_YM, 'reachGoal', 'lead');
+        if (window.gtag && window.LM_GADS) gtag('event', 'conversion', {send_to: window.LM_GADS});
+      } catch (x) {}
+    }).catch(function () { f.classList.add('failed'); btn.disabled = false; });
+  });
+})();
+</script>"""
+
+
+def lead_page(lang):
+    t, L = T[lang], LEAD[lang]
+    c = SITE["contacts"]
+    tel = re.sub(r"[^\d+]", "", c["phone"])
+    privacy = PREFIX[lang] + PRIVACY[lang]["path"]
+    points = "".join(f"<li>{html.escape(x)}</li>" for x in L["points"])
+    steps = "".join(f"<li><b>{a}</b><span>{b}</span></li>" for a, b in t["process"])
+    why = "".join(f'<div class="why"><h3>{a}</h3><p>{b}</p></div>' for a, b in t["why"])
+    body = f"""
+<section class="hero lead-hero"><div class="wrap">
+  <div class="lead-copy">
+    <p class="kicker">{L['kicker']}</p>
+    <h1>{L['h1']}</h1>
+    <p class="lead">{L['p']}</p>
+    <ul class="ticks">{points}</ul>
+  </div>
+  <form id="lead-form" class="lead-form" action="{SITE['lead_webhook']}" method="post" data-lang="{lang}" data-phone-bad="{html.escape(L['phone_bad'])}">
+    <div class="lf-fields">
+      <h2>{L['form_h']}</h2>
+      <p class="muted">{L['form_p']}</p>
+      <label>{L['name']}<input name="name" required maxlength="80" autocomplete="name"></label>
+      <label>{L['phone']}<input name="phone" type="tel" required maxlength="25" autocomplete="tel" value="+998 " inputmode="tel"></label>
+      <label>{L['niche']}<input name="niche" required maxlength="200" placeholder="{html.escape(L['niche_ph'])}"></label>
+      <input class="hp" name="hp" tabindex="-1" autocomplete="off" aria-hidden="true">
+      <button class="btn" type="submit">{L['send']}</button>
+      <p class="consent">{L['consent'].format(privacy=privacy)}</p>
+      <p class="lf-err">{L['err']} <a href="tel:{tel}">{html.escape(c['phone'])}</a> · <a href="{tg_url()}" target="_blank" rel="noopener">@{c['telegram'].lstrip('@')}</a></p>
+    </div>
+    <div class="lf-ok"><h2>{L['ok_h']}</h2><p>{L['ok_p']}</p></div>
+  </form>
+</div></section>
+<section class="band"><div class="wrap block"><h2>{L['steps_h']}</h2><ol class="steps">{steps}</ol></div></section>
+<section class="wrap block"><h2>{t['why_h']}</h2><div class="grid3">{why}</div></section>
+{clients_block(lang)}
+{LEAD_JS}
+"""
+    return page(lang, L["title"], L["desc"], PREFIX[lang] + L["path"], body, lead_alts(), [org_schema(lang)],
+                og_image="/img/clients-wall.jpg")
+
+
+def privacy_page(lang):
+    P = PRIVACY[lang]
+    c = SITE["contacts"]
+    fill = dict(legal=html.escape(SITE.get("legal_name", SITE["name"])), address=html.escape(T[lang]["address"]),
+                phone=html.escape(c["phone"]), tg=c["telegram"].lstrip("@"))
+    secs = "".join(f"<h2>{a}</h2><p>{b.format(**fill)}</p>" for a, b in P["sections"])
+    body = f"""<section class="wrap block page-head privacy"><h1>{P['h1']}</h1><p class="muted">{P['updated']}</p>{secs}</section>"""
+    return page(lang, P["title"], P["desc"], PREFIX[lang] + P["path"], body, privacy_alts())
+
+
 def rubric_path(lang, slug):
     return f"{PREFIX[lang]}/rubric/{slug}/"
 
@@ -598,6 +699,8 @@ def sitemap(posts, by_key):
         (home_alts(), None),
         ({l: f"{PREFIX[l]}/blog/" for l in LANGS}, None),
         ({l: PREFIX[l] + T[l]["cases_path"] for l in LANGS}, None),
+        (lead_alts(), None),
+        (privacy_alts(), None),
     ]
     used = set.intersection(*({x.rubric for x in posts[l] if x.kind != "case"} for l in LANGS))
     groups += [({l: rubric_path(l, r) for l in LANGS}, None) for r, _ in RUBRICS if r in used]
@@ -652,6 +755,8 @@ def main():
             write(rubric_path(lang, r), listing(lang, posts[lang], "article", r))
         write(f"{p}{T[lang]['cases_path']}", listing(lang, posts[lang], "case"))
         write(f"{p}/rss.xml", rss(lang, posts[lang]))
+        write(p + LEAD[lang]["path"], lead_page(lang))
+        write(p + PRIVACY[lang]["path"], privacy_page(lang))
         for x in posts[lang]:
             write(x.path, article(x, by_key, posts[lang]))
             if not x.image:

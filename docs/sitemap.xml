@@ -45,6 +45,36 @@
 <xhtml:link rel="alternate" hreflang="ru" href="https://levelm.uz/ru/keysy/"/>
 <xhtml:link rel="alternate" hreflang="en" href="https://levelm.uz/en/cases/"/>
 </url>
+<url><loc>https://levelm.uz/ariza/</loc>
+<xhtml:link rel="alternate" hreflang="uz" href="https://levelm.uz/ariza/"/>
+<xhtml:link rel="alternate" hreflang="ru" href="https://levelm.uz/ru/zayavka/"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://levelm.uz/en/request/"/>
+</url>
+<url><loc>https://levelm.uz/ru/zayavka/</loc>
+<xhtml:link rel="alternate" hreflang="uz" href="https://levelm.uz/ariza/"/>
+<xhtml:link rel="alternate" hreflang="ru" href="https://levelm.uz/ru/zayavka/"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://levelm.uz/en/request/"/>
+</url>
+<url><loc>https://levelm.uz/en/request/</loc>
+<xhtml:link rel="alternate" hreflang="uz" href="https://levelm.uz/ariza/"/>
+<xhtml:link rel="alternate" hreflang="ru" href="https://levelm.uz/ru/zayavka/"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://levelm.uz/en/request/"/>
+</url>
+<url><loc>https://levelm.uz/maxfiylik/</loc>
+<xhtml:link rel="alternate" hreflang="uz" href="https://levelm.uz/maxfiylik/"/>
+<xhtml:link rel="alternate" hreflang="ru" href="https://levelm.uz/ru/konfidencialnost/"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://levelm.uz/en/privacy/"/>
+</url>
+<url><loc>https://levelm.uz/ru/konfidencialnost/</loc>
+<xhtml:link rel="alternate" hreflang="uz" href="https://levelm.uz/maxfiylik/"/>
+<xhtml:link rel="alternate" hreflang="ru" href="https://levelm.uz/ru/konfidencialnost/"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://levelm.uz/en/privacy/"/>
+</url>
+<url><loc>https://levelm.uz/en/privacy/</loc>
+<xhtml:link rel="alternate" hreflang="uz" href="https://levelm.uz/maxfiylik/"/>
+<xhtml:link rel="alternate" hreflang="ru" href="https://levelm.uz/ru/konfidencialnost/"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://levelm.uz/en/privacy/"/>
+</url>
 <url><loc>https://levelm.uz/rubric/target/</loc>
 <xhtml:link rel="alternate" hreflang="uz" href="https://levelm.uz/rubric/target/"/>
 <xhtml:link rel="alternate" hreflang="ru" href="https://levelm.uz/ru/rubric/target/"/>

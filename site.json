@@ -14,5 +14,6 @@
     "lat": 41.294498,
     "lon": 69.215248
   },
-  "street": "5-kvartal, 29"
+  "street": "5-kvartal, 29",
+  "lead_webhook": "https://hook.eu2.make.com/an8o5307xfa32qt9kxvrnjtibu878iyi"
 }
