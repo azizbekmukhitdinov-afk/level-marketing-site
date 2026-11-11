@@ -29,9 +29,9 @@ image: /img/cases/teh.jpg
 ## Nima qildik
 
 1. **Xaridga nima to‘sqinlik qilayotganini topdik.** Usta o‘ziga qaysi apparat kerakligini biladi — unda bugun butun summa yo‘q. Shuning uchun taklifning asosi boshlang‘ich to‘lovsiz muddatli to‘lov bo‘ldi: mijoz bir nechta variantni ulab berdi, biz esa ularni har bir rolik va har bir kartochkaga chiqardik.
-2. **Notanish brenddan qo‘rquvni olib tashlaydigan taklif yig‘dik:** 6 oy kafolat, o‘z servis markazi, Toshkent bo‘ylab bepul yetkazib berish va viloyatlarga yetkazish, keyinroq — xariddan oldin asbobni do‘konda sinab ko‘rish imkoniyati.
+2. **Notanish brenddan qo‘rquvni olib tashlaydigan taklif yig‘dik:** 6 oy kafolat, o‘z servis markazi, Toshkent bo‘ylab bepul yetkazib berish va viloyatlarga yetkazish, keyinroq — «avval sinab ko‘ring, keyin xarid qiling»: asbobni ustaning obyektiga olib borishadi va u uni haqiqiy ishda sinab ko‘radi.
 3. **Qizil-qora mahsulot kartochkalarini yasadik.** Kartochkada — model, rasm va yirik qilib narx emas, oylik to‘lov yozilgan, masalan «72 000 so‘m × 12 oy». Yonida ikkita belgi: «boshlang‘ich to‘lovsiz» va «6 oy kafolat». Lenta katalogga aylandi.
-4. **15 oyda 217 ta Reels suratga oldik.** Bitta asbob haqidagi obzorlardan boshladik, keyin «Bu asbob nimaga ishlatiladi?» topishmoq-seriyasi, ustalar uchun layfxaklar, «Avval sinab ko‘ring — keyin xarid qiling» seriyasi, asboblarni solishtirish va kasblar bo‘yicha to‘plamlarni qo‘shdik.
+4. **15 oyda 217 ta Reels suratga oldik.** Bitta asbob haqidagi obzorlardan boshladik, keyin «Bu asbob nimaga ishlatiladi?» topishmoq-seriyasi, ustalar uchun layfxaklar, ustalar obyektda asbobni ishlatib, fikrini aytadigan «Avval sinab ko‘ring — keyin xarid qiling» seriyasi, asboblarni solishtirish va kasblar bo‘yicha to‘plamlarni qo‘shdik.
 5. **Reklamani ikki vazifa uchun yuritdik.** Ariza kampaniyalari — lid-formalar va Direct'dagi yozishmalar; ularda kartochkalarni ham, videolarni ham sinadik. Alohida — qamrov kampaniyalari: har bir yangi rolik ko‘rishlar uchun bir necha dollar olardi.
 6. **Sotuvni mijoz bilan birga hisobladik,** arizalar soni bilan to‘xtab qolmadik va murojaatlar qanday qayta ishlanayotganini uning sotuv bo‘limi bilan tahlil qildik.
 

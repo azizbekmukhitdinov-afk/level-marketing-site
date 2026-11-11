@@ -29,9 +29,9 @@ image: /img/cases/teh.jpg
 ## What we did
 
 1. **Found what was stopping the purchase.** A tradesman knows which machine he needs — he just doesn't have the full amount today. So the core of the offer became instalments with no down payment: the client connected several options, and we put them into every video and every product card.
-2. **Built an offer that removes the fear of an unfamiliar brand:** a 6-month warranty, an in-house service centre, free delivery in Tashkent and delivery nationwide, and later the chance to try a tool in the store before buying.
+2. **Built an offer that removes the fear of an unfamiliar brand:** a 6-month warranty, an in-house service centre, free delivery in Tashkent and delivery nationwide, and later “try it first, then buy”: the tool is brought to the tradesman's site and he tests it on a real job.
 3. **Designed red-and-black product cards.** Each card shows the model, a photo and — in large type — not the price but the monthly payment, for example “72,000 soums × 12 months”. Next to it, two badges: “no down payment” and “6-month warranty”. The feed became a catalogue.
-4. **Shot 217 Reels in 15 months.** We started with single-tool reviews, then added a “What is this tool for?” guessing series, life hacks for tradesmen, a “Try it first, then buy” series, tool comparisons and kits by profession.
+4. **Shot 217 Reels in 15 months.** We started with single-tool reviews, then added a “What is this tool for?” guessing series, life hacks for tradesmen, a “Try it first, then buy” series where tradesmen use the tool on site and give their opinion, tool comparisons and kits by profession.
 5. **Ran ads for two jobs.** Lead campaigns — lead forms and Direct conversations — where we tested both cards and videos. And separate reach campaigns: every new Reel got a few dollars for views.
 6. **Counted sales together with the client** instead of stopping at the number of leads, and reviewed with their sales team how enquiries were handled.
 
