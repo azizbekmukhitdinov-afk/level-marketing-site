@@ -36,7 +36,7 @@ Mijoz do‘konga kirmaydi, profilingizni ochadi. Unda bo‘lishi kerak:
 - **Highlights:** katalog, narxlar, yetkazib berish, to‘lov, sharhlar, kafolat.
 - **Ishonch:** haqiqiy sharhlar, qadoqlash videolari, do‘kon yoki ombor manzili.
 
-Bu yondashuv qanday ishlashini TEH keysida ko‘rish mumkin: elektr asboblari do‘koni sahifasini yagona firma uslubida qayta qurdik, har bir asbob uchun xususiyatlar kartochkasini tushunarli vizual formatda berdik va lid hamda xabarlar maqsadidagi reklamani yuritdik — $7 000 reklama xarajatiga $40 000 dan ortiq onlayn sotuv bo‘ldi. Batafsil — [TEH keysi](/blog/keys-teh-elektr-asboblar/).
+Bu yondashuv qanday ishlashini TEH keysida ko‘rish mumkin: elektr asboblari do‘koni sahifasini yagona firma uslubida qayta qurdik, har bir asbob uchun xususiyatlar kartochkasini tushunarli vizual formatda berdik va lid hamda xabarlar maqsadidagi reklamani yuritdik — 12 oyda $8 000 lik reklama $0,49 dan 16 253 ta murojaat olib keldi, ilgari faqat ulgurji savdo bo‘lgan joyda onlayn sotuv paydo bo‘ldi. Batafsil — [TEH keysi](/blog/keys-teh-elektr-asboblar/).
 
 Profilni sotadigan qilish bo‘yicha batafsil — [sotadigan Instagram profil](/blog/instagram-profil-sotadigan/), vizual uslub — [vizual uslub va aydentika](/blog/vizual-uslub-aydentika/).
 
