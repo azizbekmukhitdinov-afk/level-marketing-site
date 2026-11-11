@@ -9,6 +9,9 @@
 - [biznes] Toshkent dizayn-kodi: 10-dekabrgacha muhokama natijasi — peshlavha, vitrina va fasad uchun nima o‘zgaradi (qaror e’lon qilingandan keyin, 3 oylik muddat bilan yozish) | Дизайн-код Ташкента: что изменится для вывесок и витрин
 - [sotuv] Kech javob berilgan mijozni qaytarish: uzr xabari, birinchi foydali javob va 3 ta shablon (Direct, Telegram, telefon) | Как вернуть клиента, которому ответили поздно: извинение и шаблоны
 - [target] Direct’ga yo‘naltiruvchi reklama: birinchi xabar uchun 7 kunlik oyna, salomlashuv va CRM/bot ulanishi (Meta messaging policy bo‘yicha tekshirib yozish) | Реклама с переходом в Direct: окно 7 дней для первого ответа и подключение CRM
+- [smm] Kanal obunachisini botga o‘tkazish: start-havola (deep link), botdagi birinchi xabar va rozilik tugmasi (core.telegram.org/bots/features bo‘yicha tekshirib yozish) | Как перевести подписчиков канала в бота: deep link, первое сообщение и согласие
+- [sotuv] Xizmat xabarlari botda: buyurtma holati, kafolat va servis eslatmalari — reklamadan ajratib, takroriy sotuvga ulash (mebel, maishiy texnika) | Служебные сообщения в боте: статус заказа, гарантия и напоминания о сервисе
+- [biznes] Telegram bot rassilkasi va «Reklama to‘g‘risida»gi qonunning 30-moddasi: bot telekommunikatsiya xizmatiga kiradimi (rasmiy tushuntirish chiqqanda yozish) | Рассылка в Telegram-боте и статья 30 Закона о рекламе: нужен ли официальный ответ
 - [sotuv] Meta Business Suite’da jamoa: suhbatlarni xodimlarga biriktirish, kirish huquqlari va ish smenalari (Meta Business Help bo‘yicha tekshirib yozish) | Команда во входящих Meta Business Suite: назначение диалогов и доступы
 - [brend] Yangi yil vitrinasi va do‘kon bezagi: noyabr oxiridan yanvargacha reja, bezakni qachon olib tashlash va Instagram bilan bog‘lash | Новогодняя витрина и оформление магазина: план с конца ноября до января
 - [sotuv] Do‘konga kirganlarni sanash: qo‘lda hisob, kassadagi cheklar soni va konversiya (kirgan → xarid) — kichik do‘kon uchun jadval | Как считать посетителей магазина и конверсию входа в покупку
@@ -66,7 +69,6 @@
 - [target] Meta’da moliyaviy xizmatlar reklamasi: maxsus kategoriya, cheklovlar va ogohlantirish matni (bank, mikromoliya, muddatli to‘lov) | Реклама финансовых услуг в Meta: спецкатегория и ограничения
 - [target] Meta Advantage+ kampaniyalari: qachon foydalanish kerak | Кампании Advantage+ от Meta: когда их использовать
 - [sotuv] Telegram mini app: do‘kon va onlayn yozilish uchun qachon kerak | Telegram Mini App для магазина и онлайн-записи: когда нужен
-- [smm] Telegram'da rozilik asosida xabarnoma: bot obunachilari bilan qanday ishlash | Рассылки в Telegram-боте по согласию: как работать с подписчиками
 - [sotuv] Arizadan sotuv ofisiga tashrifgacha: qimmat xaridlarda konversiyani oshirish (ko‘chmas mulk, avto, mebel) | От заявки до визита в офис: дорогие покупки
 - [biznes] Eskrou hisobvaraqlari va ulushli qurilish: qonun loyihasi qabul qilinganda zastroyshik marketingi nimani o‘zgartiradi (holatini tekshirib yozish) | Эскроу в долевом строительстве и маркетинг застройщика
 - [sotuv] Sovg‘a sertifikati: klinika, salon va o‘quv markazi uchun qanday sotish | Подарочный сертификат: как продавать клинике, салону, учебному центру

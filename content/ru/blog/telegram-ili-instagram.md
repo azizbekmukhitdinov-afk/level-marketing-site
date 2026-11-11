@@ -107,4 +107,4 @@ Instagram и Telegram — не конкуренты, а два звена одн
 
 - [Как раскрутить Telegram-канал с нуля](/ru/blog/kak-raskrutit-telegram-kanal/)
 - [Как работает алгоритм Instagram: что важно для охвата](/ru/blog/kak-rabotaet-algoritm-instagram/)
-- [YouTube для бизнеса: канал, Shorts и длинные видео](/ru/blog/youtube-dlya-biznesa/)
+- [Рассылка в Telegram-боте: 7 правил, чтобы клиенты не блокировали](/ru/blog/rassylka-v-telegram-bote-pravila/)

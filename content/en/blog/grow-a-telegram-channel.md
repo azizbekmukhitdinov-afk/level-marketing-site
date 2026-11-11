@@ -132,4 +132,4 @@ A Telegram channel is your own media outlet. Build the foundation, post useful c
 
 - [An Instagram profile that sells: bio, highlights and the first 9 posts](/en/blog/instagram-profile-that-sells/)
 - [Selling with Stories: formats that work every day](/en/blog/selling-with-stories/)
-- [How to grow sales with internet marketing: a map for businesses in Uzbekistan](/en/blog/internet-marketing-increase-sales/)
+- [Telegram bot broadcasts: 7 rules so customers don't block you](/en/blog/telegram-bot-broadcast-rules/)

@@ -132,4 +132,4 @@ Telegram kanal — sizning shaxsiy media'ngiz. Poydevorni tayyorlang, foydali ko
 
 - [Sotadigan Instagram profil: bio, highlights va birinchi 9 post](/blog/instagram-profil-sotadigan/)
 - [Stories orqali sotuv: har kuni ishlaydigan formatlar](/blog/stories-orqali-sotuv/)
-- [Internet-marketing orqali sotuvni qanday oshirish mumkin: O‘zbekistondagi biznes uchun xarita](/blog/internet-marketing-sotuvni-oshirish/)
+- [Telegram botda rassilka: mijoz bloklamasligi uchun 7 qoida](/blog/telegram-bot-rassilka-qoidalari/)

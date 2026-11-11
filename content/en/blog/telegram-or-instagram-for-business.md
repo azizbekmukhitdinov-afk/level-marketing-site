@@ -107,4 +107,4 @@ Instagram and Telegram aren't rivals but two links in one chain: one finds new p
 
 - [How to grow a Telegram channel from zero](/en/blog/grow-a-telegram-channel/)
 - [How the Instagram algorithm works: what matters for reach](/en/blog/how-the-instagram-algorithm-works/)
-- [YouTube for business: channel, Shorts and long videos](/en/blog/youtube-for-business/)
+- [Telegram bot broadcasts: 7 rules so customers don't block you](/en/blog/telegram-bot-broadcast-rules/)

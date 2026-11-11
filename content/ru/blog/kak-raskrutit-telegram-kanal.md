@@ -132,4 +132,4 @@ Telegram-канал — ваше собственное медиа. Подгот
 
 - [Продающий профиль Instagram: шапка, хайлайты и первые 9 постов](/ru/blog/prodayushchiy-profil-instagram/)
 - [Продажи через Stories: форматы, которые работают каждый день](/ru/blog/prodazhi-cherez-stories/)
-- [Как увеличить продажи с помощью интернет-маркетинга: карта для бизнеса в Узбекистане](/ru/blog/internet-marketing-uvelichit-prodazhi/)
+- [Рассылка в Telegram-боте: 7 правил, чтобы клиенты не блокировали](/ru/blog/rassylka-v-telegram-bote-pravila/)
