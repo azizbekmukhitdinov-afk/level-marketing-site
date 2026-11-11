@@ -15,5 +15,7 @@
     "lon": 69.215248
   },
   "street": "5-kvartal, 29",
-  "lead_webhook": "https://hook.eu2.make.com/an8o5307xfa32qt9kxvrnjtibu878iyi"
+  "lead_webhook": "https://hook.eu2.make.com/an8o5307xfa32qt9kxvrnjtibu878iyi",
+  "gads_id": "AW-300446964",
+  "gads_lead": "AW-300446964/h2TSCL_Im7YdEPTpoY8B"
 }

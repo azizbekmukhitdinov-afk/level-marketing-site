@@ -238,6 +238,12 @@ def page(lang, title, desc, path, body, alts=None, schema=None, og_type="website
         for l in LANGS
     )
     og_img = f'<meta property="og:image" content="{BASE}{og_image}">' if og_image else ""
+    gads = ""
+    if SITE.get("gads_id"):
+        gads = (f'<script async src="https://www.googletagmanager.com/gtag/js?id={SITE["gads_id"]}"></script>\n'
+                f"<script>window.dataLayer=window.dataLayer||[];function gtag(){{dataLayer.push(arguments);}}"
+                f"gtag('js',new Date());gtag('config','{SITE['gads_id']}');"
+                f"window.LM_GADS='{SITE.get('gads_lead', '')}';</script>")
     return f"""<!doctype html>
 <html lang="{t['html_lang']}">
 <head>
@@ -263,6 +269,7 @@ def page(lang, title, desc, path, body, alts=None, schema=None, og_type="website
 <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="/style.css?v={CSS_VERSION}">
 {schema_tag}
+{gads}
 </head>
 <body>
 <header class="top"><div class="wrap nav">
