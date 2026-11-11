@@ -107,4 +107,4 @@ rubric: sotuv
 
 - [Скрипт продаж: структура для звонков и Telegram](/ru/blog/skript-prodazh/)
 - [Что такое CRM и какая подойдёт малому бизнесу](/ru/blog/kakaya-crm-dlya-malogo-biznesa/)
-- [Отдел продаж в праздники: как не потерять заявки в Новый год](/ru/blog/otdel-prodazh-v-prazdniki/)
+- [Неотвеченные диалоги в Direct: еженедельный аудит и стандарт](/ru/blog/neotvechennye-dialogi-direct-audit/)

@@ -146,5 +146,5 @@ Telefon ko‘tarmaydigan lidlar — ko‘pincha reklama emas, jarayon muammosi: 
 ## Shu mavzuda yana
 
 - [Arizaga javob tezligi: nega daqiqalar muhim](/blog/arizaga-javob-tezligi/)
-- [Instant forma yoki xabarlar: qaysi biri yaxshiroq](/blog/instant-forma-yoki-xabarlar/)
+- [Direct’dagi javobsiz suhbatlar: haftalik audit va javob standarti](/blog/direct-javobsiz-suhbatlar-audit/)
 - [Sotuv skripti: menejerlar uchun tayyor tuzilma](/blog/sotuv-skripti/)

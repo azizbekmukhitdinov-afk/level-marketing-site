@@ -107,4 +107,4 @@ Javob tezligi — reklama byudjetini oshirmasdan sotuvni ko‘paytirishning eng 
 
 - [Sotuv skripti: telefon va Telegram uchun tuzilma](/blog/sotuv-skripti/)
 - [CRM nima va kichik biznesga qaysi biri mos](/blog/crm-tanlash/)
-- [Bayram kunlari sotuv bo‘limi: arizalarni yo‘qotmaslik rejasi](/blog/bayram-kunlari-sotuv-bolimi/)
+- [Direct’dagi javobsiz suhbatlar: haftalik audit va javob standarti](/blog/direct-javobsiz-suhbatlar-audit/)

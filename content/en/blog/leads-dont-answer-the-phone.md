@@ -146,5 +146,5 @@ Leads that won't pick up are usually a process problem, not an ads problem: a to
 ## More on this topic
 
 - [Lead response time: why minutes matter](/en/blog/lead-response-time/)
-- [Lead form or messages: which is better](/en/blog/lead-form-or-messages/)
+- [Unanswered Instagram DMs: a weekly audit and reply standard](/en/blog/unanswered-instagram-dm-audit/)
 - [Sales script: a ready-made structure for managers](/en/blog/sales-script/)

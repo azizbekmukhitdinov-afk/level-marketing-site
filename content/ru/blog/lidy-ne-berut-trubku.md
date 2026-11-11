@@ -146,5 +146,5 @@ rubric: sotuv
 ## Ещё по теме
 
 - [Скорость ответа на заявку: почему важны минуты](/ru/blog/skorost-otveta-na-zayavku/)
-- [Лид-форма или сообщения: что лучше](/ru/blog/lid-forma-ili-soobshcheniya/)
+- [Неотвеченные диалоги в Direct: еженедельный аудит и стандарт](/ru/blog/neotvechennye-dialogi-direct-audit/)
 - [Скрипт продаж: готовая структура для менеджеров](/ru/blog/skript-prodazh/)
