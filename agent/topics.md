@@ -61,7 +61,6 @@
 - [sotuv] Sayt va lid-forma uchun maxfiylik siyosati: nima yozish kerak (O‘RQ-547, 21-modda) | Политика конфиденциальности для сайта и лид-формы: что написать
 - [target] CRM’dan Meta’ga sifatli lid hodisalarini yuborish (Conversions API, offline konversiyalar) | Как передавать в Meta качественные лиды из CRM
 - [target] Google Ads qidiruv reklamasi: birinchi kampaniyani sozlash | Google Ads: как настроить первую поисковую кампанию
-- [sotuv] Landing sahifa: ariza olib keladigan tuzilma | Лендинг, который приносит заявки: структура
 - [brend] Brendning ovoz ohangi (tone of voice) | Tone of voice бренда: как говорить с клиентами
 - [video] Instagram'da jonli efir: sotuv uchun qanday o‘tkazish | Прямые эфиры в Instagram для продаж
 - [sotuv] Muddatli to‘lov taklifi: qachon sotuvni oshiradi | Рассрочка как оффер: когда она увеличивает продажи
