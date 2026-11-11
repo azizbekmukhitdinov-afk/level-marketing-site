@@ -1,6 +1,6 @@
 ---
-title: TEH case: a power tools wholesaler goes online — 16,253 enquiries at $0.49 each
-description: How the TEH power tools store started selling through Instagram: instalments with no down payment, 217 Reels and 16,253 ad enquiries in 12 months on an $8,000 budget.
+title: TEH case: a power tools wholesaler goes online — 14,967 enquiries at $0.51 each
+description: How the TEH power tools store started selling through Instagram: instalments with no down payment, 217 Reels and 14,967 ad enquiries in 12 months on a $7,700 budget.
 date: 2026-10-22
 updated: 2026-11-11
 slug: case-teh-power-tools
@@ -39,12 +39,12 @@ image: /img/cases/teh.jpg
 
 | Metric | Result |
 |---|---|
-| Ad budget over 12 months (November 2024 – October 2025) | $8,003 |
-| Enquiries from ads | **16,253** |
-| — lead form submissions | 13,356 |
-| — Direct conversations | 2,897 |
-| Cost per enquiry | **$0.49** |
-| Ad impressions | 15.5 million |
+| Ad budget over 12 months (November 2024 – October 2025) | $7,706 |
+| Enquiries from ads | **14,967** |
+| — lead form submissions | 12,972 |
+| — Direct conversations | 1,995 |
+| Cost per enquiry | **$0.51** |
+| Ad impressions | 15.2 million |
 | Reels during the partnership | 217 |
 | Reels views | 13.7 million |
 
@@ -62,7 +62,7 @@ Before we started there were no online sales. By our estimate, by the end of the
 
 What did not work: a plain review video with no specific offer. An enquiry from it cost $3.03 — six times the average.
 
-In lead campaigns, images and videos cost the same: $0.45 and $0.44 per enquiry. So in product niches it pays to test both formats rather than pick one in advance.
+In lead campaigns, images and videos cost almost the same: $0.46 and $0.44 per enquiry. So in product niches it pays to test both formats rather than pick one in advance.
 
 ![How to apply this approach](/img/blog/illus/keys-teh-2.jpg 1200x675)
 

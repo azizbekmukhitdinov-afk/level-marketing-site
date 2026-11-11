@@ -1,6 +1,6 @@
 ---
-title: TEH keysi: elektr asboblari ulgurjichisi onlayn savdoga chiqdi — $0,49 dan 16 253 ta murojaat
-description: TEH elektr asboblari do‘koni Instagram orqali sotishni qanday boshladi: boshlang‘ich to‘lovsiz muddatli to‘lov, 217 ta Reels va 12 oyda $8 000 byudjet bilan reklamadan 16 253 ta murojaat.
+title: TEH keysi: elektr asboblari ulgurjichisi onlayn savdoga chiqdi — $0,51 dan 14 967 ta murojaat
+description: TEH elektr asboblari do‘koni Instagram orqali sotishni qanday boshladi: boshlang‘ich to‘lovsiz muddatli to‘lov, 217 ta Reels va 12 oyda $7 700 byudjet bilan reklamadan 14 967 ta murojaat.
 date: 2026-10-22
 updated: 2026-11-11
 slug: keys-teh-elektr-asboblar
@@ -39,12 +39,12 @@ image: /img/cases/teh.jpg
 
 | Ko‘rsatkich | Natija |
 |---|---|
-| 12 oylik reklama byudjeti (2024-yil noyabr — 2025-yil oktabr) | $8 003 |
-| Reklamadan murojaatlar | **16 253** |
-| — forma orqali arizalar | 13 356 |
-| — Direct'dagi yozishmalar | 2 897 |
-| Bitta murojaat narxi | **$0,49** |
-| Reklama ko‘rsatishlari | 15,5 mln |
+| 12 oylik reklama byudjeti (2024-yil noyabr — 2025-yil oktabr) | $7 706 |
+| Reklamadan murojaatlar | **14 967** |
+| — forma orqali arizalar | 12 972 |
+| — Direct'dagi yozishmalar | 1 995 |
+| Bitta murojaat narxi | **$0,51** |
+| Reklama ko‘rsatishlari | 15,2 mln |
 | Hamkorlik davridagi Reels | 217 |
 | Reels ko‘rishlari | 13,7 mln |
 
@@ -62,7 +62,7 @@ Ish boshlanishidan oldin onlayn savdo yo‘q edi. Bizning bahomizga ko‘ra, ham
 
 Nima ishlamadi: aniq taklifsiz oddiy obzor video. Undan kelgan murojaat $3,03 turdi — o‘rtachadan olti barobar qimmat.
 
-Ariza kampaniyalarida rasm va video bir xil narx berdi: murojaat uchun $0,45 va $0,44. Shuning uchun mahsulot nishalarida bittasini oldindan tanlamay, ikkala formatni ham sinash kerak.
+Ariza kampaniyalarida rasm va video deyarli bir xil narx berdi: murojaat uchun $0,46 va $0,44. Shuning uchun mahsulot nishalarida bittasini oldindan tanlamay, ikkala formatni ham sinash kerak.
 
 ![Bu yondashuvni qanday qo‘llash](/img/blog/illus/keys-teh-2.jpg 1200x675)
 
