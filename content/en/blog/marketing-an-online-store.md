@@ -36,7 +36,7 @@ Customers don't walk into your store — they open your profile. It needs:
 - **Highlights:** catalogue, prices, delivery, payment, reviews, warranty.
 - **Trust:** real reviews, packing videos, the shop or warehouse address.
 
-The TEH case shows how this works: we rebuilt a power tools store's profile in one brand style, presented each tool's specs as clear visual cards and ran lead and message campaigns — in 12 months, $7,700 of ad spend brought 14,967 enquiries at $0.51 each, and online sales appeared where there had been only wholesale. Details — [TEH case](/en/blog/case-teh-power-tools/).
+The TEH case shows how this works: we rebuilt a power tools store's profile in one brand style, presented each tool's specs as clear visual cards and ran lead and message campaigns — in 15 months, $9,500 of ad spend brought 18,661 enquiries at $0.51 each, and online sales appeared where there had been only wholesale. Details — [TEH case](/en/blog/case-teh-power-tools/).
 
 More on profiles that sell — [Instagram profile that sells](/en/blog/instagram-profile-that-sells/); on visual style — [visual identity for small business](/en/blog/visual-identity-for-small-business/).
 

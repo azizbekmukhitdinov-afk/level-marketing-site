@@ -1,6 +1,6 @@
 ---
-title: TEH case: a power tools wholesaler goes online — 14,967 enquiries at $0.51 each
-description: How the TEH power tools store started selling through Instagram: instalments with no down payment, 217 Reels and 14,967 ad enquiries in 12 months on a $7,700 budget.
+title: TEH case: a power tools wholesaler goes online — 18,661 enquiries at $0.51 each
+description: How the TEH power tools store started selling through Instagram: instalments with no down payment, 217 Reels and 18,661 ad enquiries in 15 months on a $9,500 budget.
 date: 2026-10-22
 updated: 2026-11-11
 slug: case-teh-power-tools
@@ -39,12 +39,12 @@ image: /img/cases/teh.jpg
 
 | Metric | Result |
 |---|---|
-| Ad budget over 12 months (November 2024 – October 2025) | $7,706 |
-| Enquiries from ads | **14,967** |
-| — lead form submissions | 12,972 |
-| — Direct conversations | 1,995 |
+| Ad budget over 15 months (August 2024 – October 2025) | $9,473 |
+| Enquiries from ads | **18,661** |
+| — lead form submissions | 13,734 |
+| — Direct conversations | 4,927 |
 | Cost per enquiry | **$0.51** |
-| Ad impressions | 15.2 million |
+| Ad impressions | 17.7 million |
 | Reels during the partnership | 217 |
 | Reels views | 13.7 million |
 
@@ -56,13 +56,13 @@ Before we started there were no online sales. By our estimate, by the end of the
 
 - **A card with the payment instead of the price.** A static image — “Electric chainsaw: no down payment, 72,000 soums a month” — brought 895 enquiries at $0.24 each.
 - **A 30-second video with a promise in the first sentence:** “Watch to the end and I'll show you how to buy this pump for 100,000 soums a month.” 820 enquiries at $0.27.
-- **The product where it is actually used.** A video about a sheep-shearing machine, filmed right in a sheep pen, produced the cheapest lead of the whole project — $0.16.
+- **The product where it is actually used.** A video about a sheep-shearing machine, filmed right in a sheep pen, produced one of the cheapest leads of the whole project — $0.16.
 - **A question instead of a review.** The Reel “What is this tool for?” got 584,000 views and 624 comments: viewers would rather show they know the answer than listen to specifications.
 - **Instalments in Reels.** Two Reels — “no down payment, from 123,000 soums a month” — reached 2.1 and 1.6 million views.
 
 What did not work: a plain review video with no specific offer. An enquiry from it cost $3.03 — six times the average.
 
-In lead campaigns, images and videos cost almost the same: $0.46 and $0.44 per enquiry. So in product niches it pays to test both formats rather than pick one in advance.
+Cards and videos cost about the same: $0.43 and $0.36 per enquiry, with cards bringing almost half of the result. So in product niches it pays to test both formats rather than pick one in advance.
 
 ![How to apply this approach](/img/blog/illus/keys-teh-2.jpg 1200x675)
 
@@ -85,7 +85,7 @@ Wholesalers and manufacturers who want to enter retail; stores selling tools, ap
 
 ### Do technical products need video, or are photos enough?
 
-Both. In this project cards and videos produced the same cost per enquiry. A card helps people see the model and the payment quickly, while a video shows the tool in action and answers questions before they're asked.
+Both. In this project cards and videos produced a similar cost per enquiry. A card helps people see the model and the payment quickly, while a video shows the tool in action and answers questions before they're asked.
 
 ### We only sell wholesale. Is Instagram worth it?
 
@@ -93,7 +93,7 @@ TEH had no online sales at all before we started. Retail buyers already use your
 
 ### What ad budget is needed?
 
-In this project, $650–900 a month on average. The offer mattered more than the amount: the same instalment plan worked in an image, in a video and in Reels.
+In this project, about $630 a month on average. The offer mattered more than the amount: the same instalment plan worked in an image, in a video and in Reels.
 
 ### The buyers are male tradesmen. Are they on Instagram?
 

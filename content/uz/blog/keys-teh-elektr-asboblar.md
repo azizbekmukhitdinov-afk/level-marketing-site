@@ -1,6 +1,6 @@
 ---
-title: TEH keysi: elektr asboblari ulgurjichisi onlayn savdoga chiqdi — $0,51 dan 14 967 ta murojaat
-description: TEH elektr asboblari do‘koni Instagram orqali sotishni qanday boshladi: boshlang‘ich to‘lovsiz muddatli to‘lov, 217 ta Reels va 12 oyda $7 700 byudjet bilan reklamadan 14 967 ta murojaat.
+title: TEH keysi: elektr asboblari ulgurjichisi onlayn savdoga chiqdi — $0,51 dan 18 661 ta murojaat
+description: TEH elektr asboblari do‘koni Instagram orqali sotishni qanday boshladi: boshlang‘ich to‘lovsiz muddatli to‘lov, 217 ta Reels va 15 oyda $9 500 byudjet bilan reklamadan 18 661 ta murojaat.
 date: 2026-10-22
 updated: 2026-11-11
 slug: keys-teh-elektr-asboblar
@@ -39,12 +39,12 @@ image: /img/cases/teh.jpg
 
 | Ko‘rsatkich | Natija |
 |---|---|
-| 12 oylik reklama byudjeti (2024-yil noyabr — 2025-yil oktabr) | $7 706 |
-| Reklamadan murojaatlar | **14 967** |
-| — forma orqali arizalar | 12 972 |
-| — Direct'dagi yozishmalar | 1 995 |
+| 15 oylik reklama byudjeti (2024-yil avgust — 2025-yil oktabr) | $9 473 |
+| Reklamadan murojaatlar | **18 661** |
+| — forma orqali arizalar | 13 734 |
+| — Direct'dagi yozishmalar | 4 927 |
 | Bitta murojaat narxi | **$0,51** |
-| Reklama ko‘rsatishlari | 15,2 mln |
+| Reklama ko‘rsatishlari | 17,7 mln |
 | Hamkorlik davridagi Reels | 217 |
 | Reels ko‘rishlari | 13,7 mln |
 
@@ -56,13 +56,13 @@ Ish boshlanishidan oldin onlayn savdo yo‘q edi. Bizning bahomizga ko‘ra, ham
 
 - **Narx o‘rniga to‘lov yozilgan kartochka.** «Elektr arra — boshlang‘ich to‘lovsiz, oyiga 72 000 so‘m» degan oddiy rasm $0,24 dan 895 ta murojaat olib keldi.
 - **Birinchi jumlasida va’da bor 30 soniyali video:** «Oxirigacha ko‘ring — nasosni oyiga 100 000 so‘mdan to‘lab olishni o‘rgataman». $0,27 dan 820 ta murojaat.
-- **Mahsulot u ishlatiladigan joyda.** Qo‘y junini qirqish mashinkasi haqidagi to‘g‘ridan-to‘g‘ri qo‘yxonada olingan rolik butun loyihadagi eng arzon arizani berdi — $0,16.
+- **Mahsulot u ishlatiladigan joyda.** Qo‘y junini qirqish mashinkasi haqidagi to‘g‘ridan-to‘g‘ri qo‘yxonada olingan rolik butun loyihadagi eng arzon arizalardan birini berdi — $0,16.
 - **Obzor o‘rniga savol.** «Bu asbob nimaga ishlatiladi?» roligi 584 ming ko‘rish va 624 ta izoh yig‘di: tomoshabinga xususiyatlarni tinglashdan ko‘ra javobni bilishini ko‘rsatish qiziqroq.
 - **Reels'da muddatli to‘lov.** «Boshlang‘ich to‘lovsiz, oyiga 123 ming so‘mdan» degan ikkita rolik 2,1 va 1,6 mln ko‘rish to‘pladi.
 
 Nima ishlamadi: aniq taklifsiz oddiy obzor video. Undan kelgan murojaat $3,03 turdi — o‘rtachadan olti barobar qimmat.
 
-Ariza kampaniyalarida rasm va video deyarli bir xil narx berdi: murojaat uchun $0,46 va $0,44. Shuning uchun mahsulot nishalarida bittasini oldindan tanlamay, ikkala formatni ham sinash kerak.
+Kartochkalar va videolar yaqin narx berdi: murojaat uchun $0,43 va $0,36, bunda natijaning deyarli yarmini kartochkalar olib keldi. Shuning uchun mahsulot nishalarida bittasini oldindan tanlamay, ikkala formatni ham sinash kerak.
 
 ![Bu yondashuvni qanday qo‘llash](/img/blog/illus/keys-teh-2.jpg 1200x675)
 
@@ -85,7 +85,7 @@ Chakana savdoga chiqmoqchi bo‘lgan ulgurjichi va ishlab chiqaruvchilarga; asbo
 
 ### Texnik mahsulotlar uchun video kerakmi yoki rasm yetarlimi?
 
-Ikkalasi ham kerak. Bu loyihada kartochkalar va videolar murojaat uchun bir xil narx berdi. Kartochka model va to‘lovni tez ko‘rishga yordam beradi, video esa asbobni amalda ko‘rsatadi va savollarni kamaytiradi.
+Ikkalasi ham kerak. Bu loyihada kartochkalar va videolar murojaat uchun yaqin narx berdi. Kartochka model va to‘lovni tez ko‘rishga yordam beradi, video esa asbobni amalda ko‘rsatadi va savollarni kamaytiradi.
 
 ### Biz faqat ulgurji sotamiz. Instagram'ga chiqishning ma’nosi bormi?
 
@@ -93,7 +93,7 @@ TEH'da ish boshlanishidan oldin onlayn savdo umuman yo‘q edi. Chakana xaridor 
 
 ### Reklamaga qancha byudjet kerak?
 
-Bu loyihada — oyiga o‘rtacha 650–900 dollar. Summadan ko‘ra taklif muhimroq bo‘lib chiqdi: bir xil muddatli to‘lov rasmda ham, videoda ham, Reels'da ham ishladi.
+Bu loyihada — oyiga o‘rtacha 630 dollar atrofida. Summadan ko‘ra taklif muhimroq bo‘lib chiqdi: bir xil muddatli to‘lov rasmda ham, videoda ham, Reels'da ham ishladi.
 
 ### Xaridor — erkak ustalar. Ular Instagram'da bormi?
 
