@@ -148,4 +148,4 @@ rubric: target
 
 - [A/B-тесты рекламных креативов: как проводить](/ru/blog/ab-test-kreativov/)
 - [«Ограниченное обучение» в Meta: почему реклама нестабильна](/ru/blog/ogranichennoe-obuchenie-meta/)
-- [Цена лида (CPL): что это и как её снизить — гид для предпринимателя](/ru/blog/tsena-lida-cpl-kak-snizit/)
+- [Advantage+ creative: когда ИИ Meta меняет вашу рекламу](/ru/blog/advantage-creative-ii-menyaet-reklamu/)

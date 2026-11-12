@@ -148,4 +148,4 @@ Kreativ charchashi — har qanday reklamaning tabiiy bosqichi, uni oldini olib b
 
 - [Reklama kreativlari uchun A/B test: qanday o‘tkaziladi](/blog/kreativlar-ab-test/)
 - [Learning limited nima: Meta reklamasi nega beqaror ishlaydi](/blog/learning-limited-meta/)
-- [Lid narxi (CPL) nima va uni qanday kamaytirish mumkin: tadbirkor uchun qo‘llanma](/blog/lid-narxi-cpl-qanday-kamaytirish/)
+- [Advantage+ creative: Meta AI reklamangizni o‘zgartirsa](/blog/advantage-creative-ai-ozgartirishlari/)

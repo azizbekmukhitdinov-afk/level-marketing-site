@@ -120,6 +120,6 @@ A/B-тесты переводят рекламу из догадок в цифр
 
 ## Ещё по теме
 
-- [Лид-форма или сообщения в Direct: что приносит больше продаж](/ru/blog/lid-forma-ili-soobshcheniya/)
+- [Advantage+ creative: когда ИИ Meta меняет вашу рекламу](/ru/blog/advantage-creative-ii-menyaet-reklamu/)
 - [«Ограниченное обучение» в Meta: почему реклама нестабильна](/ru/blog/ogranichennoe-obuchenie-meta/)
 - [Выгорание креативов: когда реклама «выгорает» и как её менять](/ru/blog/vygoranie-kreativov/)

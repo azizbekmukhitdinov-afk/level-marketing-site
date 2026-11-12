@@ -148,4 +148,4 @@ Creative fatigue is a natural stage in the life of every ad: you can't avoid it,
 
 - [A/B testing ad creatives: how to run it](/en/blog/ab-testing-ad-creatives/)
 - [Learning limited in Meta ads: why results are unstable](/en/blog/meta-learning-limited/)
-- [Cost per lead (CPL): what it is and how to lower it](/en/blog/cost-per-lead-cpl-how-to-lower/)
+- [Advantage+ creative: when Meta's AI edits your ads](/en/blog/advantage-plus-creative-ai-edits/)

@@ -120,6 +120,6 @@ A/B testing moves your advertising from guesswork to numbers. At least one test 
 
 ## More on this topic
 
-- [Lead form or Direct messages: which brings more sales](/en/blog/lead-form-or-messages/)
+- [Advantage+ creative: when Meta's AI edits your ads](/en/blog/advantage-plus-creative-ai-edits/)
 - [Learning limited in Meta ads: why results are unstable](/en/blog/meta-learning-limited/)
 - [Creative fatigue: when ads burn out and how to replace them](/en/blog/creative-fatigue/)

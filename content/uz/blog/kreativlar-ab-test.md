@@ -120,6 +120,6 @@ A/B test reklamani taxmindan raqamlarga o‘tkazadi. Har hafta kamida bitta test
 
 ## Shu mavzuda yana
 
-- [Instant forma yoki Direct'ga xabar: qaysi biri ko‘proq sotuv olib keladi](/blog/instant-forma-yoki-xabarlar/)
+- [Advantage+ creative: Meta AI reklamangizni o‘zgartirsa](/blog/advantage-creative-ai-ozgartirishlari/)
 - [Learning limited nima: Meta reklamasi nega beqaror ishlaydi](/blog/learning-limited-meta/)
 - [Kreativ charchashi: reklama qachon «yonadi» va qanday almashtirish](/blog/kreativ-charchashi/)
