@@ -159,4 +159,4 @@ Level Marketing helps connect blogger and ambassador content to paid advertising
 
 - [Influencer advertising: choosing a blogger and measuring results](/en/blog/influencer-advertising-uzbekistan/)
 - [Personal brand: where an expert should start](/en/blog/personal-brand-where-to-start/)
-- [Online reputation: how to collect reviews and respond to criticism](/en/blog/online-reputation-and-reviews/)
+- [Content copyright: who owns the photos and videos you paid for](/en/blog/content-copyright-uzbekistan/)

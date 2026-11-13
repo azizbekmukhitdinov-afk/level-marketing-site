@@ -159,4 +159,4 @@ Level Marketing bloger va elchi kontentini target reklamaga ulashga yordam berad
 
 - [Blogerlar bilan reklama: qanday tanlash va natijani o‘lchash](/blog/blogerlar-bilan-reklama/)
 - [Shaxsiy brend: ekspert qayerdan boshlashi kerak](/blog/shaxsiy-brend-qayerdan-boshlash/)
-- [Onlayn obro‘: sharhlarni qanday yig‘ish va salbiy sharhga javob berish](/blog/onlayn-obro-sharhlar/)
+- [Kontentga mualliflik huquqi: foto va video kimniki bo‘ladi](/blog/kontent-mualliflik-huquqi/)
