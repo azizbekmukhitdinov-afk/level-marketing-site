@@ -157,5 +157,5 @@ B2B marketing is about trust and lowering risk: a precise ideal client, case stu
 ## More on this topic
 
 - [Competitor analysis: what you can learn in one day](/en/blog/competitor-analysis/)
-- [Target audience and customer persona: how to define them](/en/blog/target-audience-and-customer-persona/)
+- [Exhibiting at a trade show: stand, contacts and a 7-day plan](/en/blog/exhibiting-at-a-trade-show/)
 - [Planning a marketing budget](/en/blog/planning-a-marketing-budget/)

@@ -125,4 +125,4 @@ Marketing for manufacturers means working three audiences in parallel: profitabl
 
 - [Competitor analysis: what you can learn in one day](/en/blog/competitor-analysis/)
 - [Planning a marketing budget](/en/blog/planning-a-marketing-budget/)
-- [Target audience and customer persona: how to define them](/en/blog/target-audience-and-customer-persona/)
+- [Exhibiting at a trade show: stand, contacts and a 7-day plan](/en/blog/exhibiting-at-a-trade-show/)

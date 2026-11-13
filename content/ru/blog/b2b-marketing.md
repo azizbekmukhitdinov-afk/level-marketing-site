@@ -157,5 +157,5 @@ B2B-маркетинг — это доверие и снижение риска:
 ## Ещё по теме
 
 - [Анализ конкурентов: что можно узнать за 1 день](/ru/blog/analiz-konkurentov/)
-- [Целевая аудитория и портрет клиента: как определить](/ru/blog/tselevaya-auditoriya-i-portret-klienta/)
+- [Участие в выставке: стенд, контакты и план на 7 дней после](/ru/blog/uchastie-v-vystavke/)
 - [Как планировать маркетинговый бюджет](/ru/blog/kak-planirovat-marketingovyy-byudzhet/)

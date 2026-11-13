@@ -125,4 +125,4 @@ Ishlab chiqaruvchi uchun marketing — uch auditoriya bilan parallel ishlash: di
 
 - [Raqobatchilar tahlili: 1 kunda nimani bilib olish mumkin](/blog/raqobatchilar-tahlili/)
 - [Marketing byudjetini qanday rejalash: daromaddan foiz va maqsaddan hisob](/blog/marketing-byudjeti-rejasi/)
-- [Maqsadli auditoriya va mijoz portreti: qanday aniqlash](/blog/maqsadli-auditoriya/)
+- [Ko‘rgazmada qatnashish: stend, kontaktlar va 7 kunlik reja](/blog/korgazmada-qatnashish/)

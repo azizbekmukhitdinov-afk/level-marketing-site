@@ -157,5 +157,5 @@ B2B marketing — ishonch va xavfni kamaytirish: aniq ideal mijoz, keyslar va ti
 ## Shu mavzuda yana
 
 - [Raqobatchilar tahlili: 1 kunda nimani bilib olish mumkin](/blog/raqobatchilar-tahlili/)
-- [Maqsadli auditoriya va mijoz portreti: qanday aniqlash](/blog/maqsadli-auditoriya/)
+- [Ko‘rgazmada qatnashish: stend, kontaktlar va 7 kunlik reja](/blog/korgazmada-qatnashish/)
 - [Marketing byudjetini qanday rejalash: daromaddan foiz va maqsaddan hisob](/blog/marketing-byudjeti-rejasi/)
