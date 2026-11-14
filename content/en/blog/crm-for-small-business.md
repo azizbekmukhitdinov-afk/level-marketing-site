@@ -106,5 +106,5 @@ A CRM is the tool for not losing leads and managing sales by the numbers. Start 
 ## More on this topic
 
 - [What an advertising report should include](/en/blog/what-an-ad-report-should-include/)
-- [ROMI: is your marketing paying off, and how to calculate it](/en/blog/how-to-calculate-romi/)
+- [Connect a Meta lead form to your CRM: 4 ways and a checklist](/en/blog/connect-meta-lead-form-to-crm/)
 - [Collecting leads with a Telegram bot: a guide for business](/en/blog/telegram-bot-for-leads/)

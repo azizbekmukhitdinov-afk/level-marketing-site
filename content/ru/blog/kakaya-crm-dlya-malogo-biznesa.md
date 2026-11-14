@@ -106,5 +106,5 @@ CRM — инструмент, чтобы не терять заявки и уп�
 ## Ещё по теме
 
 - [Что должно быть в отчёте по рекламе](/ru/blog/chto-dolzhno-byt-v-otchete-po-reklame/)
-- [ROMI: окупается ли маркетинг и как это посчитать](/ru/blog/kak-poschitat-romi/)
+- [Как подключить лид-форму Meta к CRM: 4 способа и проверка](/ru/blog/podklyuchit-lid-formu-k-crm/)
 - [Сбор заявок через Telegram-бота: инструкция для бизнеса](/ru/blog/telegram-bot-dlya-zayavok/)

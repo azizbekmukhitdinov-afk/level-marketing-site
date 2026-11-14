@@ -106,5 +106,5 @@ CRM — arizalarni yo‘qotmaslik va sotuvni raqamlar bilan boshqarish vositasi.
 ## Shu mavzuda yana
 
 - [Reklama hisobotida qanday raqamlar bo‘lishi shart](/blog/reklama-hisoboti/)
-- [ROMI: marketing foyda keltiryaptimi, qanday hisoblash](/blog/romi-hisoblash/)
+- [Lid formani CRM’ga ulash: 4 usul va tekshiruv ro‘yxati](/blog/lid-formani-crmga-ulash/)
 - [Telegram bot orqali arizalarni yig‘ish: biznes uchun qo‘llanma](/blog/telegram-bot-orqali-arizalar/)

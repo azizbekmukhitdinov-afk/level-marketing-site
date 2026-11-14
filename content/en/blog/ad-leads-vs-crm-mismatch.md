@@ -121,6 +121,6 @@ Ads Manager and CRM numbers will never match exactly, and that's fine. What's no
 
 ## More on this topic
 
-- [What an advertising report should include](/en/blog/what-an-ad-report-should-include/)
+- [Connect a Meta lead form to your CRM: 4 ways and a checklist](/en/blog/connect-meta-lead-form-to-crm/)
 - [UTM tags: how to know where every customer came from](/en/blog/utm-tags/)
 - [What a CRM is and which one suits a small business](/en/blog/crm-for-small-business/)

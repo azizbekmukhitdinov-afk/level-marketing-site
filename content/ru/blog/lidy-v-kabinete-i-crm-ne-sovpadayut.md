@@ -121,6 +121,6 @@ weight: 1
 
 ## Ещё по теме
 
-- [Что должно быть в отчёте по рекламе](/ru/blog/chto-dolzhno-byt-v-otchete-po-reklame/)
+- [Как подключить лид-форму Meta к CRM: 4 способа и проверка](/ru/blog/podklyuchit-lid-formu-k-crm/)
 - [UTM-метки: как узнать, откуда пришёл каждый клиент](/ru/blog/utm-metki/)
 - [Что такое CRM и какая подойдёт малому бизнесу](/ru/blog/kakaya-crm-dlya-malogo-biznesa/)
