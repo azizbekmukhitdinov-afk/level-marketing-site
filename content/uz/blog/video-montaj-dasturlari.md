@@ -108,4 +108,4 @@ Boshlash uchun bitta telefon ilovasi yetarli — muhimi dastur emas, tartib va u
 
 - [Trendlardan biznes uchun qanday foydalanish kerak](/blog/trendlardan-foydalanish/)
 - [Video reklamaning 7 turi: qaysi biri sizning mahsulotingizni sotadi](/blog/video-reklama-turlari/)
-- [Reels uchun 10 ta hook: birinchi 3 soniyada e'tiborni ushlash](/blog/reels-uchun-hooklar/)
+- [Reklama videosi uchun musiqa: qayerdan olish va 5 ta xato](/blog/reklama-videosi-uchun-musiqa/)

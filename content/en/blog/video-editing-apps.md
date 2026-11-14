@@ -108,4 +108,4 @@ One phone app is enough to start — what matters is not the software but order 
 
 - [How to use Reels and TikTok trends for business](/en/blog/using-trends-for-business/)
 - [7 types of video ads: which one will sell your product](/en/blog/types-of-video-ads/)
-- [10 Reels hooks: how to hold attention in the first 3 seconds](/en/blog/reels-hooks/)
+- [Music for video ads: where to get it and 5 mistakes](/en/blog/music-for-video-ads/)

@@ -118,4 +118,4 @@ Sound is half the video. Live speech for services, voice-over or natural sound f
 
 - [7 types of video ads: which one will sell your product](/en/blog/types-of-video-ads/)
 - [Shooting Reels on a phone: light, sound and framing](/en/blog/shooting-reels-on-a-phone/)
-- [Which ad videos work: 9 takeaways from reviewing about 60 Reels](/en/blog/what-ad-videos-work/)
+- [Music for video ads: where to get it and 5 mistakes](/en/blog/music-for-video-ads/)

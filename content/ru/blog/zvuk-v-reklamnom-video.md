@@ -118,4 +118,4 @@ rubric: video
 
 - [7 видов видеорекламы: какой продаст ваш продукт](/ru/blog/vidy-videoreklamy/)
 - [Как снимать Reels на телефон: свет, звук и кадр](/ru/blog/kak-snimat-reels-na-telefon/)
-- [Какие рекламные ролики работают: 9 выводов из разбора около 60 Reels](/ru/blog/kakie-reklamnye-roliki-rabotayut/)
+- [Музыка для рекламного видео: где брать и 5 ошибок](/ru/blog/muzyka-dlya-reklamnogo-video/)

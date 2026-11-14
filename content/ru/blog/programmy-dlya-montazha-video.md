@@ -108,4 +108,4 @@ rubric: video
 
 - [Как использовать тренды в Reels и TikTok для бизнеса](/ru/blog/kak-ispolzovat-trendy/)
 - [7 видов видеорекламы: какой продаст ваш продукт](/ru/blog/vidy-videoreklamy/)
-- [10 хуков для Reels: как удержать внимание в первые 3 секунды](/ru/blog/huki-dlya-reels/)
+- [Музыка для рекламного видео: где брать и 5 ошибок](/ru/blog/muzyka-dlya-reklamnogo-video/)
