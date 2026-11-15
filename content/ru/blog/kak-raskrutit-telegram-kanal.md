@@ -130,6 +130,6 @@ Telegram-канал — ваше собственное медиа. Подгот
 
 ## Ещё по теме
 
-- [Продающий профиль Instagram: шапка, хайлайты и первые 9 постов](/ru/blog/prodayushchiy-profil-instagram/)
+- [Как перевести подписчиков канала в бота: пошаговый план](/ru/blog/podpischiki-kanala-v-bota/)
 - [Продажи через Stories: форматы, которые работают каждый день](/ru/blog/prodazhi-cherez-stories/)
 - [Рассылка в Telegram-боте: 7 правил, чтобы клиенты не блокировали](/ru/blog/rassylka-v-telegram-bote-pravila/)

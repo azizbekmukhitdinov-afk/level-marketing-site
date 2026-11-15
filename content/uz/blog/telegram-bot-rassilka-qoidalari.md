@@ -135,4 +135,4 @@ Telegram botda rassilka — bu sizning eng iliq auditoriyangiz bilan to‘g‘ri
 
 - [Telegram kanalni noldan qanday o‘stirish mumkin](/blog/telegram-kanal-osish/)
 - [Telegram kanal yoki Instagram: biznes uchun qaysi biri](/blog/telegram-yoki-instagram/)
-- [Yangi yil uchun kontent-reja: noyabrdan yanvargacha 8 hafta](/blog/yangi-yil-kontent-reja/)
+- [Kanal obunachilarini botga o‘tkazish: havola va birinchi xabar](/blog/kanal-obunachilarini-botga-otkazish/)

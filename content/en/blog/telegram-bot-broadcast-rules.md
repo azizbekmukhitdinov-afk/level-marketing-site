@@ -135,4 +135,4 @@ A Telegram bot broadcast is a direct line to your warmest audience. To keep it o
 
 - [How to grow a Telegram channel from zero](/en/blog/grow-a-telegram-channel/)
 - [Telegram channel or Instagram: where should a business invest?](/en/blog/telegram-or-instagram-for-business/)
-- [New Year content plan: 8 weeks from November to January](/en/blog/new-year-content-plan/)
+- [Moving Telegram channel subscribers into your bot: step by step](/en/blog/move-channel-subscribers-to-telegram-bot/)

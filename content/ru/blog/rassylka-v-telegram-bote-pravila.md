@@ -135,4 +135,4 @@ weight: 1
 
 - [Как раскрутить Telegram-канал с нуля](/ru/blog/kak-raskrutit-telegram-kanal/)
 - [Telegram-канал или Instagram: куда бизнесу вкладывать силы](/ru/blog/telegram-ili-instagram/)
-- [Новогодний контент-план: 8 недель с ноября по январь](/ru/blog/novogodniy-kontent-plan/)
+- [Как перевести подписчиков канала в бота: пошаговый план](/ru/blog/podpischiki-kanala-v-bota/)
