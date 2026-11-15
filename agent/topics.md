@@ -64,7 +64,9 @@
 - [brend] Mikroinfluenserlar: kichik blogerlar bilan tizimli ishlash | Микроинфлюенсеры: как системно работать с небольшими блогерами
 - [smm] Ramazon oyida kontent va reklama: nima mos, nimadan saqlanish kerak (2027 sanasi e’lon qilinganda yozish) | Контент и реклама в Рамадан
 - [target] Meta’da kampaniya tuzilmasi: nechta kampaniya va reklama to‘plami kerak, Advantage campaign budget qachon qulay | Структура кампаний в Meta: сколько кампаний и групп нужно
-- [target] Meta’da stavka strategiyalari: eng past narx, cost cap va bid cap — kichik biznes uchun qaysi biri (Meta Business Help bo‘yicha tekshirib yozish) | Стратегии ставок в Meta: какую выбрать малому бизнесу
+- [target] Cost per result goal bilan masshtablash: byudjetni qachon oshirish, maqsadni 5–10% ga qachon ko‘tarish yoki tushirish (Meta tavsiyalari: facebook.com/business/help/176339196621566) | Масштабирование с целью по цене за результат: когда повышать бюджет и цель
+- [target] ROAS goal onlayn do‘kon uchun: xarid qiymatini uzatish, boshlang‘ich maqsad va 5 xato (facebook.com/business/help/288309751798466 bo‘yicha tekshirib yozish) | Цель по ROAS для интернет-магазина: передача ценности покупок и стартовое значение
+- [target] Reklama byudjeti sarflanmayapti: 6 sabab — past narx maqsadi, tor auditoriya, rad etilgan e’lon, to‘lov muammosi (tekshiruv ro‘yxati) | Рекламный бюджет не расходуется: 6 причин и чек-лист проверки
 - [target] Instagram Reels reklamasi uchun kreativ: xavfsiz zona, ovoz va subtitr — reklama hisobida tekshirish (Meta Ads Guide) | Креатив для рекламы в Reels: безопасная зона, звук и субтитры
 - [sotuv] Marketplace kartochkasi konversiyasi: rasm, video, sharhlar va savollarga javob (Uzum Market sotuvchilari uchun) | Конверсия карточки на маркетплейсе: фото, видео, отзывы
 - [sotuv] Onlayn do‘konda qaytarishlar: «rangi boshqa», «o‘lchami mos emas» — kartochka, video va javob shablonlari bilan qaytarishni kamaytirish | Возвраты в интернет-магазине: как снизить их описанием, видео и ответами

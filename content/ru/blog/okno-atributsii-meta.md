@@ -118,4 +118,4 @@ weight: 1
 
 - [«Ограниченное обучение» в Meta: почему реклама нестабильна](/ru/blog/ogranichennoe-obuchenie-meta/)
 - [Ретаргетинг: как вернуть тех, кто не купил](/ru/blog/retargeting-kak-rabotaet/)
-- [Лид-форма или сообщения в Direct: что приносит больше продаж](/ru/blog/lid-forma-ili-soobshcheniya/)
+- [Стратегии ставок в Meta: какую выбрать малому бизнесу](/ru/blog/strategii-stavok-meta/)

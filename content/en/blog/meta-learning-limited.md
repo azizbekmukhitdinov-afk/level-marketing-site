@@ -117,5 +117,5 @@ Learning limited doesn't mean your ads are bad — it means the algorithm is sho
 ## More on this topic
 
 - [Creative fatigue: when ads burn out and how to replace them](/en/blog/creative-fatigue/)
-- [A/B testing ad creatives: how to run it](/en/blog/ab-testing-ad-creatives/)
+- [Meta bid strategies: which one should a small business pick](/en/blog/meta-bid-strategies/)
 - [Meta attribution window: how to read results in your report](/en/blog/meta-attribution-window/)

@@ -117,5 +117,5 @@ weight: 1
 ## Ещё по теме
 
 - [Выгорание креативов: когда реклама «выгорает» и как её менять](/ru/blog/vygoranie-kreativov/)
-- [A/B-тесты рекламных креативов: как проводить](/ru/blog/ab-test-kreativov/)
+- [Стратегии ставок в Meta: какую выбрать малому бизнесу](/ru/blog/strategii-stavok-meta/)
 - [Окно атрибуции в Meta: как читать результаты в отчёте](/ru/blog/okno-atributsii-meta/)

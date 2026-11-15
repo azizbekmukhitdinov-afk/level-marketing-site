@@ -118,4 +118,4 @@ If the numbers in Ads Manager and at the till do not add up, the Level Marketing
 
 - [Learning limited in Meta ads: why results are unstable](/en/blog/meta-learning-limited/)
 - [Retargeting: how to bring back people who didn't buy](/en/blog/how-retargeting-works/)
-- [Lead form or Direct messages: which brings more sales](/en/blog/lead-form-or-messages/)
+- [Meta bid strategies: which one should a small business pick](/en/blog/meta-bid-strategies/)

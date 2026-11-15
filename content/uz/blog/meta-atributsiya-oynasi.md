@@ -118,4 +118,4 @@ Kabinet va kassadagi raqamlar mos kelmasa, Level Marketing jamoasi reklama hisob
 
 - [Learning limited nima: Meta reklamasi nega beqaror ishlaydi](/blog/learning-limited-meta/)
 - [Retargeting: sotib olmaganlarni qanday qaytarish mumkin](/blog/retargeting-qanday-ishlaydi/)
-- [Instant forma yoki Direct'ga xabar: qaysi biri ko‘proq sotuv olib keladi](/blog/instant-forma-yoki-xabarlar/)
+- [Meta’da stavka strategiyalari: qaysi birini tanlash kerak](/blog/meta-stavka-strategiyalari/)

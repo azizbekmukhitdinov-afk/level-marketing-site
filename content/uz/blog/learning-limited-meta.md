@@ -117,5 +117,5 @@ Learning limited — bu reklamangiz yomon degani emas, balki algoritmga ma’lum
 ## Shu mavzuda yana
 
 - [Kreativ charchashi: reklama qachon «yonadi» va qanday almashtirish](/blog/kreativ-charchashi/)
-- [Reklama kreativlari uchun A/B test: qanday o‘tkaziladi](/blog/kreativlar-ab-test/)
+- [Meta’da stavka strategiyalari: qaysi birini tanlash kerak](/blog/meta-stavka-strategiyalari/)
 - [Atributsiya oynasi Meta’da: hisobotdagi natijani qanday o‘qish](/blog/meta-atributsiya-oynasi/)
