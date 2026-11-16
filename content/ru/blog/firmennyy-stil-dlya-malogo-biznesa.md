@@ -117,6 +117,6 @@ rubric: brend
 
 ## Ещё по теме
 
-- [Из перекупа в бренд: как построить свой бренд на Uzum Market](/ru/blog/brend-na-uzum-market/)
+- [Новогодняя витрина: план оформления магазина с ноября по январь](/ru/blog/novogodnyaya-vitrina-oformlenie-magazina/)
 - [Авторские права на контент: кому принадлежат фото и видео](/ru/blog/avtorskie-prava-na-kontent/)
 - [Упаковка для интернет-магазина: 7 правил для малого бизнеса](/ru/blog/upakovka-dlya-internet-magazina/)

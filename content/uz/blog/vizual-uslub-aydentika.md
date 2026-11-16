@@ -117,6 +117,6 @@ Vizual uslub — brendni har bir aloqada taniladigan qiladi. Minimal to‘plamda
 
 ## Shu mavzuda yana
 
-- [Qayta sotuvchidan brendga: Uzum Market'da o‘z brendingizni qurish](/blog/uzum-market-brend/)
+- [Yangi yil vitrinasi: do‘kon bezagi uchun noyabr–yanvar rejasi](/blog/yangi-yil-vitrinasi-dokon-bezagi/)
 - [Kontentga mualliflik huquqi: foto va video kimniki bo‘ladi](/blog/kontent-mualliflik-huquqi/)
 - [Qadoq dizayni: kichik onlayn do‘kon uchun 7 qoida](/blog/qadoq-dizayni-onlayn-dokon/)

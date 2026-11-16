@@ -138,4 +138,4 @@ weight: 1
 
 - [Фирменный стиль: минимум для малого бизнеса](/ru/blog/firmennyy-stil-dlya-malogo-biznesa/)
 - [Упаковка для интернет-магазина: 7 правил для малого бизнеса](/ru/blog/upakovka-dlya-internet-magazina/)
-- [Уникальное торговое предложение (УТП): как выделиться среди конкурентов](/ru/blog/unikalnoe-torgovoe-predlozhenie/)
+- [Новогодняя витрина: план оформления магазина с ноября по январь](/ru/blog/novogodnyaya-vitrina-oformlenie-magazina/)

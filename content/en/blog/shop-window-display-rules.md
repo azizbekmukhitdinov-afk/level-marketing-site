@@ -138,4 +138,4 @@ At Level Marketing, when we work with offline shops, we make sure the window, th
 
 - [Visual identity: the minimum a small business needs](/en/blog/visual-identity-for-small-business/)
 - [Packaging for an online store: 7 rules for small businesses](/en/blog/packaging-for-online-store/)
-- [Unique selling proposition (USP): how to stand out from competitors](/en/blog/unique-selling-proposition/)
+- [New Year shop window: a store decoration plan, Nov to Jan](/en/blog/new-year-shop-window-store-decoration/)

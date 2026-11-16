@@ -138,4 +138,4 @@ Level Marketing’da oflayn do‘konlar bilan ishlaganda vitrina, Instagram prof
 
 - [Vizual uslub va aydentika: kichik biznes uchun minimum](/blog/vizual-uslub-aydentika/)
 - [Qadoq dizayni: kichik onlayn do‘kon uchun 7 qoida](/blog/qadoq-dizayni-onlayn-dokon/)
-- [Unikal savdo taklifi (USP): raqobatchilardan qanday ajralish](/blog/unikal-savdo-taklifi/)
+- [Yangi yil vitrinasi: do‘kon bezagi uchun noyabr–yanvar rejasi](/blog/yangi-yil-vitrinasi-dokon-bezagi/)
