@@ -133,6 +133,6 @@ A giveaway is not a strategy on its own; it is one way to introduce a new audien
 
 ## More on this topic
 
-- [How the Instagram algorithm works: what matters for reach](/en/blog/how-the-instagram-algorithm-works/)
+- [The Instagram algorithm in 2026: what drives reach](/en/blog/how-the-instagram-algorithm-works/)
 - [Handling comments and DMs: how replies turn into sales](/en/blog/handling-comments-and-dms/)
 - [New Year content plan: 8 weeks from November to January](/en/blog/new-year-content-plan/)

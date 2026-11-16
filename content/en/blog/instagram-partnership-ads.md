@@ -141,6 +141,6 @@ At Level Marketing we plan creator work as one whole: which content goes into pa
 
 ## More on this topic
 
-- [How the Instagram algorithm works: what matters for reach](/en/blog/how-the-instagram-algorithm-works/)
+- [The Instagram algorithm in 2026: what drives reach](/en/blog/how-the-instagram-algorithm-works/)
 - [UGC content: when customer videos sell better than ads](/en/blog/ugc-content/)
 - [Selling with Stories: formats that work every day](/en/blog/selling-with-stories/)

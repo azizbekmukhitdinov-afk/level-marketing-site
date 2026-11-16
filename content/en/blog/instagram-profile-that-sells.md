@@ -138,5 +138,5 @@ A profile that sells is the cheapest booster for your ads: it lowers cost per le
 ## More on this topic
 
 - [Selling with Stories: formats that work every day](/en/blog/selling-with-stories/)
-- [How the Instagram algorithm works: what matters for reach](/en/blog/how-the-instagram-algorithm-works/)
+- [The Instagram algorithm in 2026: what drives reach](/en/blog/how-the-instagram-algorithm-works/)
 - [How to grow sales with internet marketing: a map for businesses in Uzbekistan](/en/blog/internet-marketing-increase-sales/)

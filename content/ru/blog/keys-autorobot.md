@@ -59,5 +59,5 @@ image: /img/cases/autorobot-logo.jpg
 ## Ещё по теме
 
 - [Контент-план для Instagram: 30 идей на месяц](/ru/blog/kontent-plan-dlya-instagram/)
-- [Как работает алгоритм Instagram: что важно для охвата](/ru/blog/kak-rabotaet-algoritm-instagram/)
+- [Алгоритм Instagram в 2026 году: что влияет на охват](/ru/blog/kak-rabotaet-algoritm-instagram/)
 - [Как снимать Reels на телефон: свет, звук и кадр](/ru/blog/kak-snimat-reels-na-telefon/)

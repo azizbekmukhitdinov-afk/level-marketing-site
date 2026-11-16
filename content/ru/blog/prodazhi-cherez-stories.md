@@ -123,6 +123,6 @@ Stories — продажи без рекламы: они каждый день �
 
 ## Ещё по теме
 
-- [Как работает алгоритм Instagram: что важно для охвата](/ru/blog/kak-rabotaet-algoritm-instagram/)
+- [Алгоритм Instagram в 2026 году: что влияет на охват](/ru/blog/kak-rabotaet-algoritm-instagram/)
 - [Автоответы в Meta Business Suite: настройка для бизнеса](/ru/blog/avtootvety-meta-business-suite/)
 - [Новогодний контент-план: 8 недель с ноября по январь](/ru/blog/novogodniy-kontent-plan/)

@@ -106,5 +106,5 @@ Instagram va Telegram — raqobatchilar emas, bir zanjirning ikki bo‘g‘ini: 
 ## Shu mavzuda yana
 
 - [Telegram kanalni noldan qanday o‘stirish mumkin](/blog/telegram-kanal-osish/)
-- [Instagram algoritmi qanday ishlaydi: qamrovni oshirish uchun nima muhim](/blog/instagram-algoritmi/)
+- [Instagram algoritmi 2026: qamrovga nima ta’sir qiladi](/blog/instagram-algoritmi/)
 - [Telegram botda rassilka: mijoz bloklamasligi uchun 7 qoida](/blog/telegram-bot-rassilka-qoidalari/)

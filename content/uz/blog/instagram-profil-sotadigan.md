@@ -138,5 +138,5 @@ Sotadigan profil — reklamaning eng arzon kuchaytirgichi: u ariza narxini pasay
 ## Shu mavzuda yana
 
 - [Stories orqali sotuv: har kuni ishlaydigan formatlar](/blog/stories-orqali-sotuv/)
-- [Instagram algoritmi qanday ishlaydi: qamrovni oshirish uchun nima muhim](/blog/instagram-algoritmi/)
+- [Instagram algoritmi 2026: qamrovga nima ta’sir qiladi](/blog/instagram-algoritmi/)
 - [Internet-marketing orqali sotuvni qanday oshirish mumkin: O‘zbekistondagi biznes uchun xarita](/blog/internet-marketing-sotuvni-oshirish/)

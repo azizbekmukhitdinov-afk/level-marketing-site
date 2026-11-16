@@ -56,6 +56,6 @@ To‘g‘ri formatdagi Reels reklama byudjetisiz ham millionlab odamga yetadi. B
 
 ## Shu mavzuda yana
 
-- [Instagram algoritmi qanday ishlaydi: qamrovni oshirish uchun nima muhim](/blog/instagram-algoritmi/)
+- [Instagram algoritmi 2026: qamrovga nima ta’sir qiladi](/blog/instagram-algoritmi/)
 - [Instagram uchun kontent-reja: oyiga 30 ta post g‘oyasi](/blog/instagram-kontent-reja/)
 - [SMM menejer nima qiladi va uni qanday tanlash kerak](/blog/smm-menejer-vazifalari/)

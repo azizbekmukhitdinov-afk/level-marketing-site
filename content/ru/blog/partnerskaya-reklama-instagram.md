@@ -141,6 +141,6 @@ Level Marketing планирует работу с блогерами как е�
 
 ## Ещё по теме
 
-- [Как работает алгоритм Instagram: что важно для охвата](/ru/blog/kak-rabotaet-algoritm-instagram/)
+- [Алгоритм Instagram в 2026 году: что влияет на охват](/ru/blog/kak-rabotaet-algoritm-instagram/)
 - [UGC-контент: когда видео клиентов продаёт лучше рекламы](/ru/blog/ugc-kontent/)
 - [Продажи через Stories: форматы, которые работают каждый день](/ru/blog/prodazhi-cherez-stories/)

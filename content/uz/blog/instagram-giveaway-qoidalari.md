@@ -133,6 +133,6 @@ Giveaway — mustaqil strategiya emas, balki yangi auditoriyani tanishtirishning
 
 ## Shu mavzuda yana
 
-- [Instagram algoritmi qanday ishlaydi: qamrovni oshirish uchun nima muhim](/blog/instagram-algoritmi/)
+- [Instagram algoritmi 2026: qamrovga nima ta’sir qiladi](/blog/instagram-algoritmi/)
 - [Izohlar va Direct bilan ishlash: javoblar qanday sotuvga aylanadi](/blog/izohlar-va-direct/)
 - [Yangi yil uchun kontent-reja: noyabrdan yanvargacha 8 hafta](/blog/yangi-yil-kontent-reja/)

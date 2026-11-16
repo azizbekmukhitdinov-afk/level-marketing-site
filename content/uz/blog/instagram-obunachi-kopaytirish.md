@@ -106,6 +106,6 @@ Obunachilar soni — maqsad emas. To‘g‘ri obunachilar tayyor profil, Reels, 
 
 ## Shu mavzuda yana
 
-- [Instagram algoritmi qanday ishlaydi: qamrovni oshirish uchun nima muhim](/blog/instagram-algoritmi/)
+- [Instagram algoritmi 2026: qamrovga nima ta’sir qiladi](/blog/instagram-algoritmi/)
 - [SMM nima: oddiy so‘zlar bilan biznes uchun](/blog/smm-nima/)
 - [AutoRobot keysi: targetsiz 11 ming obunachi](/blog/keys-autorobot/)

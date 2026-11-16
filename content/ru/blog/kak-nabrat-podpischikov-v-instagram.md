@@ -106,6 +106,6 @@ Reels показываются и тем, кто не подписан. Перв
 
 ## Ещё по теме
 
-- [Как работает алгоритм Instagram: что важно для охвата](/ru/blog/kak-rabotaet-algoritm-instagram/)
+- [Алгоритм Instagram в 2026 году: что влияет на охват](/ru/blog/kak-rabotaet-algoritm-instagram/)
 - [Что такое SMM: простыми словами для бизнеса](/ru/blog/chto-takoe-smm/)
 - [Кейс AutoRobot: 11 тысяч подписчиков без таргета](/ru/blog/keys-autorobot/)

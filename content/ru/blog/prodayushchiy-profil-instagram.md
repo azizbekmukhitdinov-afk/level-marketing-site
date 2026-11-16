@@ -138,5 +138,5 @@ Instagram позволяет менять поле «Имя» только дв�
 ## Ещё по теме
 
 - [Продажи через Stories: форматы, которые работают каждый день](/ru/blog/prodazhi-cherez-stories/)
-- [Как работает алгоритм Instagram: что важно для охвата](/ru/blog/kak-rabotaet-algoritm-instagram/)
+- [Алгоритм Instagram в 2026 году: что влияет на охват](/ru/blog/kak-rabotaet-algoritm-instagram/)
 - [Как увеличить продажи с помощью интернет-маркетинга: карта для бизнеса в Узбекистане](/ru/blog/internet-marketing-uvelichit-prodazhi/)

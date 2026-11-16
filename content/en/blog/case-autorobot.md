@@ -59,5 +59,5 @@ When quality can be shown, systematic content becomes the advertising. A content
 ## More on this topic
 
 - [Instagram content plan: 30 post ideas for a month](/en/blog/instagram-content-plan/)
-- [How the Instagram algorithm works: what matters for reach](/en/blog/how-the-instagram-algorithm-works/)
+- [The Instagram algorithm in 2026: what drives reach](/en/blog/how-the-instagram-algorithm-works/)
 - [Shooting Reels on a phone: light, sound and framing](/en/blog/shooting-reels-on-a-phone/)

@@ -106,6 +106,6 @@ Follower count isn't the goal. The right followers come from a ready profile, Re
 
 ## More on this topic
 
-- [How the Instagram algorithm works: what matters for reach](/en/blog/how-the-instagram-algorithm-works/)
+- [The Instagram algorithm in 2026: what drives reach](/en/blog/how-the-instagram-algorithm-works/)
 - [What is SMM? Social media marketing explained for business](/en/blog/what-is-smm/)
 - [AutoRobot case: 11,000 followers without paid ads](/en/blog/case-autorobot/)

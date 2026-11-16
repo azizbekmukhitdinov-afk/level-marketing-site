@@ -56,6 +56,6 @@ Reels в правильном формате доходят до миллион�
 
 ## Ещё по теме
 
-- [Как работает алгоритм Instagram: что важно для охвата](/ru/blog/kak-rabotaet-algoritm-instagram/)
+- [Алгоритм Instagram в 2026 году: что влияет на охват](/ru/blog/kak-rabotaet-algoritm-instagram/)
 - [Контент-план для Instagram: 30 идей на месяц](/ru/blog/kontent-plan-dlya-instagram/)
 - [Чем занимается SMM-менеджер и как его выбрать](/ru/blog/chem-zanimaetsya-smm-menedzher/)

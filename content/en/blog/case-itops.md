@@ -56,6 +56,6 @@ Reels in the right format reach millions of people even without an ad budget. Th
 
 ## More on this topic
 
-- [How the Instagram algorithm works: what matters for reach](/en/blog/how-the-instagram-algorithm-works/)
+- [The Instagram algorithm in 2026: what drives reach](/en/blog/how-the-instagram-algorithm-works/)
 - [Instagram content plan: 30 post ideas for a month](/en/blog/instagram-content-plan/)
 - [What an SMM manager does and how to choose one](/en/blog/what-an-smm-manager-does/)

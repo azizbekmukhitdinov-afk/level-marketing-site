@@ -123,6 +123,6 @@ Stories — reklamasiz sotuv: auditoriyani har kuni isitib, iliq odamlarni suhba
 
 ## Shu mavzuda yana
 
-- [Instagram algoritmi qanday ishlaydi: qamrovni oshirish uchun nima muhim](/blog/instagram-algoritmi/)
+- [Instagram algoritmi 2026: qamrovga nima ta’sir qiladi](/blog/instagram-algoritmi/)
 - [Meta Business Suite’da avtomatik javoblar: biznes uchun sozlash](/blog/meta-business-suite-avtomatik-javoblar/)
 - [Yangi yil uchun kontent-reja: noyabrdan yanvargacha 8 hafta](/blog/yangi-yil-kontent-reja/)
