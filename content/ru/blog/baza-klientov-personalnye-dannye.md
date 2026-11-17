@@ -150,4 +150,4 @@ rubric: biznes
 
 - [Рекламные SMS: новые правила с 1 ноября 2026 и что делать бизнесу](/ru/blog/reklamnye-sms-novye-pravila/)
 - [7 маркетинговых ошибок начинающих предпринимателей](/ru/blog/oshibki-nachinayushchih-predprinimateley/)
-- [Как планировать маркетинговый бюджет: процент от выручки и расчёт от цели](/ru/blog/kak-planirovat-marketingovyy-byudzhet/)
+- [Согласие на съёмку для рекламы: сотрудник и клиент в кадре](/ru/blog/soglasie-na-semku-dlya-reklamy/)

@@ -150,4 +150,4 @@ Level Marketing’da reklama kampaniyalarini sozlashda arizalar qayerga tushishi
 
 - [SMS reklama yangi qoidalari: 1-noyabr 2026 dan biznes nima qiladi](/blog/sms-reklama-yangi-qoidalar/)
 - [Yangi tadbirkorlarning marketingdagi 7 ta xatosi](/blog/yangi-tadbirkor-xatolari/)
-- [Marketing byudjetini qanday rejalash: daromaddan foiz va maqsaddan hisob](/blog/marketing-byudjeti-rejasi/)
+- [Suratga olishga rozilik: xodim va mijoz reklamada chiqsa](/blog/suratga-olishga-rozilik/)

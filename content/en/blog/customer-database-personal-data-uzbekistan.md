@@ -150,4 +150,4 @@ At Level Marketing, when we set up ad campaigns, we plan in advance where leads 
 
 - [SMS advertising rules in Uzbekistan from 1 November 2026](/en/blog/sms-advertising-rules-uzbekistan/)
 - [7 marketing mistakes new entrepreneurs make](/en/blog/marketing-mistakes-new-entrepreneurs/)
-- [How to plan a marketing budget: share of revenue vs goal-based](/en/blog/planning-a-marketing-budget/)
+- [Photo and video consent for advertising: staff and customers](/en/blog/photo-video-consent-for-advertising/)
