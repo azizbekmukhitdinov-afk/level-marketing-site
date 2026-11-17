@@ -122,6 +122,6 @@ Good light, clean sound, a stable shot and a script turn a phone into a studio. 
 
 ## More on this topic
 
-- [Product video for marketplaces and ads: 7 mistakes](/en/blog/product-video-mistakes/)
+- [Timelapse video on a phone: before–after and 3 shop scripts](/en/blog/timelapse-video-for-shops/)
 - [Video editing apps: for phone and computer](/en/blog/video-editing-apps/)
 - [10 Reels hooks: how to hold attention in the first 3 seconds](/en/blog/reels-hooks/)

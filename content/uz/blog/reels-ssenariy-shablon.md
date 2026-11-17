@@ -119,5 +119,5 @@ Ssenariy — Reels'ning skeleti: hook, foyda, isbot va harakatga chaqiruv. Besht
 ## Shu mavzuda yana
 
 - [Video montaj uchun dasturlar: telefon va kompyuter uchun](/blog/video-montaj-dasturlari/)
-- [Trendlardan biznes uchun qanday foydalanish kerak](/blog/trendlardan-foydalanish/)
+- [Taymlaps video: do‘kon uchun «oldin–keyin» va 3 ssenariy](/blog/taymlaps-video-dokon-uchun/)
 - [Reels uchun 10 ta hook: birinchi 3 soniyada e'tiborni ushlash](/blog/reels-uchun-hooklar/)

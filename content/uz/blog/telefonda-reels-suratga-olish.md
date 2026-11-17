@@ -122,6 +122,6 @@ Yaxshi yorug‘lik, toza ovoz, barqaror kadr va ssenariy — telefonni prodakshn
 
 ## Shu mavzuda yana
 
-- [Mahsulot videosi: marketplace va reklama uchun 7 xato](/blog/mahsulot-videosi/)
+- [Taymlaps video: do‘kon uchun «oldin–keyin» va 3 ssenariy](/blog/taymlaps-video-dokon-uchun/)
 - [Video montaj uchun dasturlar: telefon va kompyuter uchun](/blog/video-montaj-dasturlari/)
 - [Reels uchun 10 ta hook: birinchi 3 soniyada e'tiborni ushlash](/blog/reels-uchun-hooklar/)

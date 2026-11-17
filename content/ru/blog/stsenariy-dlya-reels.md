@@ -119,5 +119,5 @@ rubric: video
 ## Ещё по теме
 
 - [Программы для монтажа видео: для телефона и компьютера](/ru/blog/programmy-dlya-montazha-video/)
-- [Как использовать тренды в Reels и TikTok для бизнеса](/ru/blog/kak-ispolzovat-trendy/)
+- [Таймлапс на телефон: «до–после» и 3 сценария для магазина](/ru/blog/taymlaps-na-telefon-dlya-magazina/)
 - [10 хуков для Reels: как удержать внимание в первые 3 секунды](/ru/blog/huki-dlya-reels/)
