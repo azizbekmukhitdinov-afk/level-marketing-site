@@ -29,6 +29,23 @@ CSS_VERSION = __import__("hashlib").md5((ROOT / "static" / "style.css").read_byt
 # The leVel wordmark traced from the original logo file (810×240 units), reused on the generated covers.
 LOGO_PATH = re.search(r' d="([^"]+)"', (ROOT / "static" / "logo.svg").read_text()).group(1)
 
+# Handwritten accents next to section headings, as in the client portfolio deck (uz/ru wording from the deck).
+SCRIPT = {
+    "services": {"uz": "to‘liq sikl", "ru": "под ключ", "en": "end to end"},
+    "cases": {"uz": "raqamlar bilan", "ru": "в цифрах", "en": "in numbers"},
+    "clients": {"uz": "30+ brend", "ru": "30+ брендов", "en": "30+ brands"},
+    "why": {"uz": "3 sabab", "ru": "3 причины", "en": "3 reasons"},
+    "process": {"uz": "A nuqtadan B nuqtagacha", "ru": "от точки А до точки Б", "en": "from point A to point B"},
+    "team": {"uz": "25+ mutaxassis", "ru": "25+ специалистов", "en": "25+ specialists"},
+    "final": {"uz": "pul qayerga ketyapti?", "ru": "где утекают деньги?", "en": "where is the money leaking?"},
+}
+
+
+def h2s(text, key, lang, cls=""):
+    """Section heading with a handwritten accent after it."""
+    return f'<div class="h2row{(" " + cls) if cls else ""}"><h2>{text}</h2><span class="scr">{SCRIPT[key][lang]}</span></div>'
+
+
 # ---------- markdown ----------
 
 def inline(text):
@@ -261,19 +278,19 @@ def page(lang, title, desc, path, body, alts=None, schema=None, og_type="website
 <meta property="og:locale" content="{t['og_locale']}">
 {og_img}
 <meta name="twitter:card" content="{'summary_large_image' if og_image else 'summary'}">
-<meta name="theme-color" content="#0c2549">
+<meta name="theme-color" content="#F6F4EE">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="alternate" type="application/rss+xml" title="{SITE['name']}" href="{p}/rss.xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Caveat:wght@700&family=Inter+Tight:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="/style.css?v={CSS_VERSION}">
 {schema_tag}
 {gads}
 </head>
 <body>
 <header class="top"><div class="wrap nav">
-  <a class="logo" href="{p}/" aria-label="{SITE['name']}"><img class="mark" src="/logo.svg" alt="" width="95" height="28"><span class="tag">marketing</span></a>
+  <a class="logo" href="{p}/" aria-label="{SITE['name']}"><img class="mark" src="/logo-ink.svg" alt="" width="95" height="28"><span class="tag">marketing</span></a>
   <div class="langs">{langs}</div>
   <button class="burger" type="button" aria-label="{t['menu']}" aria-expanded="false" aria-controls="menu"><span></span><span></span><span></span></button>
   <nav id="menu">
@@ -300,7 +317,7 @@ document.querySelectorAll('#menu a').forEach(function (a) {{
 </main>
 <footer class="foot"><div class="wrap">
   <div>
-    <a class="logo" href="{p}/" aria-label="{SITE['name']}"><img class="mark" src="/logo.svg" alt="" width="95" height="28"><span class="tag">marketing</span></a>
+    <a class="logo" href="{p}/" aria-label="{SITE['name']}"><img class="mark" src="/logo-paper.svg" alt="" width="95" height="28"><span class="tag">marketing</span></a>
     <p>{t['footer']}</p>
     <p>{t['address']}</p>
   </div>
@@ -407,7 +424,7 @@ def team_block(lang):
     )
     return f"""<section class="wrap block" id="team">
 <h2>{t['about_h']}</h2><p class="lead about-p">{t['about_p']}</p>
-<h2 class="team-h">{t['team_h']}</h2>
+{h2s(t['team_h'], "team", lang, "team-h")}
 <div class="team">{members}<div class="member more"><span>{t['team_more']}</span></div></div>
 </section>"""
 
@@ -416,10 +433,17 @@ def clients_block(lang):
     t = T[lang]
     names = " · ".join(html.escape(n) for n in CLIENTS)
     return f"""<section class="band clients"><div class="wrap block">
-<h2>{t['clients_h']}</h2>
+{h2s(t['clients_h'], "clients", lang)}
 <img class="logos" src="/img/clients-wall.jpg" alt="{html.escape(t['clients_h'])}: {names}" loading="lazy" width="1480" height="1250">
 <p class="client-names">{names}</p>
 </div></section>"""
+
+
+def why_rows(t):
+    """Reasons as numbered rows with handwritten numbers, like the deck's «why Level» slide."""
+    return '<div class="rows">' + "".join(
+        f'<div class="rw"><span class="rw-n">{i}</span><h3>{a}</h3><p>{b}</p></div>' for i, (a, b) in enumerate(t["why"], 1)
+    ) + "</div>"
 
 
 def home(lang, posts):
@@ -431,7 +455,7 @@ def home(lang, posts):
     stats = "".join(f'<div class="stat"><b>{a}</b><span>{b}</span></div>' for a, b in t["stats"])
     services = "".join(f'<div class="svc"><h3>{a}</h3><p>{b}</p></div>' for a, b in t["services"])
     steps = "".join(f'<li><b>{a}</b><span>{b}</span></li>' for a, b in t["process"])
-    why = "".join(f'<div class="why"><h3>{a}</h3><p>{b}</p></div>' for a, b in t["why"])
+    why = why_rows(t)
     faq = "".join(f"<details><summary>{q}</summary><p>{a}</p></details>" for q, a in t["faq"])
     cases_html = (f'<div class="cards">{"".join(card(c) for c in cases)}</div>' if cases
                   else f'<p class="muted">{t["cases_empty"]}</p>')
@@ -441,23 +465,26 @@ def home(lang, posts):
 <a href="{p}/blog/">{t['blog_all']} →</a></div><div class="cards">{"".join(card(a) for a in articles)}</div></section>"""
     body = f"""
 <section class="hero"><div class="wrap">
+  <span class="sq sq-o" aria-hidden="true"></span><span class="sq sq-l" aria-hidden="true"></span>
+  <div class="hero-copy">
   <p class="kicker">{t['hero_kicker']}</p>
   <h1>{t['hero_h1']}</h1>
   <p class="lead">{t['hero_p']}</p>
   <div class="actions"><a class="btn" href="{cta}"{ext_attr(cta)}>{t['cta']}</a><a class="btn ghost" href="{p}{t['cases_path']}">{t['hero_cta2']}</a></div>
+  </div>
   <div class="stats">{stats}</div>
 </div></section>
-<section class="wrap block" id="services"><h2>{t['services_h']}</h2><div class="grid3">{services}</div></section>
-<section class="wrap block" id="cases"><div class="head"><h2>{t['cases_h']}</h2>{f'<a href="{p}{t["cases_path"]}">{t["cases_all"]} →</a>' if cases else ''}</div>{cases_html}</section>
+<section class="wrap block" id="services">{h2s(t['services_h'], "services", lang)}<div class="grid3 svcs">{services}</div></section>
+<section class="wrap block" id="cases"><div class="head">{h2s(t['cases_h'], "cases", lang)}{f'<a href="{p}{t["cases_path"]}">{t["cases_all"]} →</a>' if cases else ''}</div>{cases_html}</section>
 {clients_block(lang)}
-<section class="wrap block"><h2>{t['why_h']}</h2><div class="grid3">{why}</div></section>
-<section class="band"><div class="wrap block" id="process"><h2>{t['process_h']}</h2><ol class="steps">{steps}</ol></div></section>
+<section class="wrap block">{h2s(t['why_h'], "why", lang)}{why}</section>
+<section class="band"><div class="wrap block" id="process">{h2s(t['process_h'], "process", lang)}<ol class="steps">{steps}</ol></div></section>
 {team_block(lang)}
 {blog_html}
 {contact_block(lang)}
 {location_block(lang)}
 <section class="wrap block faq"><h2>{t['faq_h']}</h2>{faq}</section>
-<section class="final"><div class="wrap"><h2>{t['final_h']}</h2><p>{t['final_p']}</p><a class="btn" href="{cta}"{ext_attr(cta)}>{t['cta']}</a></div></section>
+<section class="final"><div class="wrap"><h2>{t['final_h']}</h2><p class="scr">{SCRIPT["final"][lang]}</p><p>{t['final_p']}</p><a class="btn" href="{cta}"{ext_attr(cta)}>{t['cta']}</a></div></section>
 """
     faq_schema = {
         "@context": "https://schema.org",
@@ -526,7 +553,7 @@ def lead_page(lang):
     privacy = PREFIX[lang] + PRIVACY[lang]["path"]
     points = "".join(f"<li>{html.escape(x)}</li>" for x in L["points"])
     steps = "".join(f"<li><b>{a}</b><span>{b}</span></li>" for a, b in t["process"])
-    why = "".join(f'<div class="why"><h3>{a}</h3><p>{b}</p></div>' for a, b in t["why"])
+    why = why_rows(t)
     body = f"""
 <section class="hero lead-hero"><div class="wrap">
   <div class="lead-copy">
@@ -550,8 +577,8 @@ def lead_page(lang):
     <div class="lf-ok"><h2>{L['ok_h']}</h2><p>{L['ok_p']}</p></div>
   </form>
 </div></section>
-<section class="band"><div class="wrap block"><h2>{L['steps_h']}</h2><ol class="steps">{steps}</ol></div></section>
-<section class="wrap block"><h2>{t['why_h']}</h2><div class="grid3">{why}</div></section>
+<section class="band"><div class="wrap block">{h2s(L['steps_h'], "process", lang)}<ol class="steps">{steps}</ol></div></section>
+<section class="wrap block">{h2s(t['why_h'], "why", lang)}{why}</section>
 {clients_block(lang)}
 {LEAD_JS}
 """
@@ -656,8 +683,17 @@ def article(post, by_key, posts):
                 post_alts(post, by_key), [schema], "article", og)
 
 
+COVER_THEMES = [
+    # background, title, pill bg, pill text, logo, big square, small square
+    ("#F6F4EE", "#1C1C1E", "#1C1C1E", "#F6F4EE", "#1C1C1E", "#FF4D2A", "#C9F25E"),
+    ("#1C1C1E", "#F6F4EE", "#C9F25E", "#1C1C1E", "#F6F4EE", "#FF4D2A", "#C9F25E"),
+    ("#FF4D2A", "#1C1C1E", "#1C1C1E", "#F6F4EE", "#1C1C1E", "#C9F25E", "#F6F4EE"),
+    ("#C9F25E", "#1C1C1E", "#1C1C1E", "#F6F4EE", "#1C1C1E", "#FF4D2A", "#1C1C1E"),
+]
+
+
 def cover_svg(post):
-    """Branded cover for posts without a photo: title on the agency's navy-to-blue background."""
+    """Branded cover for posts without a photo, in the style of the client portfolio deck."""
     words, lines, line = post.title.split(), [], ""
     for w in words:
         if len(line) + len(w) + 1 > 26 and line:
@@ -669,22 +705,26 @@ def cover_svg(post):
     if len(lines) > 4:
         lines = lines[:4]
         lines[-1] = lines[-1].rstrip(".,:;") + "…"
-    label = (T[post.lang]["case_label"] if post.kind == "case" else T[post.lang]["article_label"]).upper()
-    size = 64 if len(lines) <= 3 else 56
-    y0 = 330 - (len(lines) - 1) * size * 0.6
+    label = (T[post.lang]["case_label"] if post.kind == "case" else RUBRIC_NAMES[post.rubric][post.lang]).upper()
+    bg, ink, pill, pill_t, logo, sq1, sq2 = COVER_THEMES[int(__import__("hashlib").md5(post.key.encode()).hexdigest(), 16) % len(COVER_THEMES)]
+    size = 66 if len(lines) <= 3 else 58
+    y0 = 340 - (len(lines) - 1) * size * 0.6
+    font = "'Inter Tight', 'Helvetica Neue', Arial, Helvetica, sans-serif"
     text = "".join(
-        f'<text x="80" y="{y0 + i * size * 1.18:.0f}" font-size="{size}" font-weight="800" fill="#fff">{html.escape(l)}</text>'
+        f'<text x="80" y="{y0 + i * size * 1.12:.0f}" font-size="{size}" font-weight="800" letter-spacing="-1.5" fill="{ink}">{html.escape(l)}</text>'
         for i, l in enumerate(lines)
     )
+    pw = round(len(label) * 15.5 + 36)
     return f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
-<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0c2549"/><stop offset=".55" stop-color="#174c7f"/><stop offset="1" stop-color="#2a74c9"/></linearGradient></defs>
-<rect width="1200" height="630" fill="url(#g)"/>
-<circle cx="1080" cy="120" r="260" fill="#62a7d5" opacity=".22"/>
-<rect x="80" y="80" width="90" height="8" rx="4" fill="#62a7d5"/>
-<text x="80" y="140" font-size="26" font-weight="700" letter-spacing="6" fill="#9dd1f5" font-family="Manrope, Arial, Helvetica, sans-serif">{label}</text>
-<g font-family="Manrope, Arial, Helvetica, sans-serif">{text}</g>
-<path transform="translate(80 521) scale(.19)" fill="#fff" fill-rule="evenodd" d="{LOGO_PATH}"/>
-<text x="252" y="566" font-size="20" font-weight="700" letter-spacing="5" fill="#9dd1f5" font-family="Manrope, Arial, Helvetica, sans-serif">MARKETING</text>
+<rect width="1200" height="630" fill="{bg}"/>
+<rect x="1010" y="70" width="120" height="120" fill="{sq1}"/>
+<rect x="1060" y="480" width="70" height="70" fill="{sq2}"/>
+<g font-family="{font}">
+<rect x="80" y="96" width="{pw}" height="46" fill="{pill}"/>
+<text x="98" y="128" font-size="22" font-weight="800" letter-spacing="2" fill="{pill_t}">{html.escape(label)}</text>
+{text}
+</g>
+<path transform="translate(80 521) scale(.19)" fill="{logo}" fill-rule="evenodd" d="{LOGO_PATH}"/>
 </svg>"""
 
 
