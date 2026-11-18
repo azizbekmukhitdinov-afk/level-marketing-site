@@ -111,4 +111,4 @@ Konversiya — bir bosqichdan keyingisiga o‘tganlar ulushi. Voronkaning har bi
 
 - [Sotuv voronkasi nima: oddiy so‘zlar bilan](/blog/sotuv-voronkasi/)
 - [Lid narxi (CPL) nima va uni qanday kamaytirish mumkin: tadbirkor uchun qo‘llanma](/blog/lid-narxi-cpl-qanday-kamaytirish/)
-- [ROMI: marketing foyda keltiryaptimi, qanday hisoblash](/blog/romi-hisoblash/)
+- [Do‘konga kirganlarni sanash: tashrif va konversiya jadvali](/blog/dokonga-kirganlarni-sanash/)

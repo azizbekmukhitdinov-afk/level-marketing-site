@@ -111,4 +111,4 @@ Conversion is the share of people moving from one stage to the next. Measure eac
 
 - [What a sales funnel is, in plain words](/en/blog/what-is-a-sales-funnel/)
 - [Cost per lead (CPL): what it is and how to lower it](/en/blog/cost-per-lead-cpl-how-to-lower/)
-- [ROMI: is your marketing paying off, and how to calculate it](/en/blog/how-to-calculate-romi/)
+- [Store foot traffic: how to count visitors and conversion](/en/blog/store-foot-traffic-counting/)

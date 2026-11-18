@@ -114,5 +114,5 @@ Do‘kon sotuvi — to‘rt ko‘rsatkichning ko‘paytmasi: tashriflar, konvers
 ## Shu mavzuda yana
 
 - [Do‘kon vitrinasi: o‘tkinchini xaridorga aylantiradigan 7 qoida](/blog/dokon-vitrinasi-qoidalari/)
-- [Takroriy sotuv va LTV: mavjud mijozlardan ko‘proq daromad](/blog/takroriy-sotuv-ltv/)
+- [Do‘konga kirganlarni sanash: tashrif va konversiya jadvali](/blog/dokonga-kirganlarni-sanash/)
 - [Oflayn reklama natijasini o‘lchash: QR, promokod va CRM](/blog/oflayn-reklama-natijasi/)

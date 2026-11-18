@@ -114,5 +114,5 @@ Store sales are the product of four metrics: visitors, conversion, average order
 ## More on this topic
 
 - [Shop window display: 7 rules that turn passers-by into buyers](/en/blog/shop-window-display-rules/)
-- [Repeat sales and LTV: more revenue from existing customers](/en/blog/repeat-sales-and-ltv/)
+- [Store foot traffic: how to count visitors and conversion](/en/blog/store-foot-traffic-counting/)
 - [How to measure offline advertising: QR codes, promo codes, CRM](/en/blog/measure-offline-advertising/)

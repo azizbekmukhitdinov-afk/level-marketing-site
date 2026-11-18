@@ -114,5 +114,5 @@ rubric: sotuv
 ## Ещё по теме
 
 - [Витрина магазина: 7 правил, которые превращают прохожих в покупателей](/ru/blog/vitrina-magazina-pravila/)
-- [Повторные продажи и LTV: больше дохода от текущих клиентов](/ru/blog/povtornye-prodazhi-i-ltv/)
+- [Как считать посетителей магазина и конверсию в покупку](/ru/blog/kak-schitat-posetiteley-magazina/)
 - [Как измерить отдачу офлайн-рекламы: QR, промокоды и CRM](/ru/blog/otdacha-oflayn-reklamy/)

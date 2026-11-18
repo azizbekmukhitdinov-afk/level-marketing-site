@@ -111,4 +111,4 @@ CTR — один из видов конверсии: из показа в кли
 
 - [Что такое воронка продаж: простыми словами](/ru/blog/chto-takoe-voronka-prodazh/)
 - [Цена лида (CPL): что это и как её снизить — гид для предпринимателя](/ru/blog/tsena-lida-cpl-kak-snizit/)
-- [ROMI: окупается ли маркетинг и как это посчитать](/ru/blog/kak-poschitat-romi/)
+- [Как считать посетителей магазина и конверсию в покупку](/ru/blog/kak-schitat-posetiteley-magazina/)
