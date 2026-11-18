@@ -149,6 +149,6 @@ A content plan turns a page of random posts into a systematic sales channel. Rot
 
 ## More on this topic
 
-- [How to grow a Telegram channel from zero](/en/blog/grow-a-telegram-channel/)
+- [Before–after carousel: shooting rules and a 5-slide structure](/en/blog/before-after-carousel/)
 - [An Instagram profile that sells: bio, highlights and the first 9 posts](/en/blog/instagram-profile-that-sells/)
 - [New Year content plan: 8 weeks from November to January](/en/blog/new-year-content-plan/)

@@ -149,6 +149,6 @@ Reels дают охват новой аудитории, а карусели ч�
 
 ## Ещё по теме
 
-- [Как раскрутить Telegram-канал с нуля](/ru/blog/kak-raskrutit-telegram-kanal/)
+- [Карусель «до–после»: правила съёмки и структура из 5 слайдов](/ru/blog/karusel-do-posle/)
 - [Продающий профиль Instagram: шапка, хайлайты и первые 9 постов](/ru/blog/prodayushchiy-profil-instagram/)
 - [Новогодний контент-план: 8 недель с ноября по январь](/ru/blog/novogodniy-kontent-plan/)

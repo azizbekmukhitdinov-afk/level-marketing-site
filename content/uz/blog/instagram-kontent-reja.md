@@ -149,6 +149,6 @@ Kontent-reja — sahifani tasodifiy postlardan tizimli sotuv kanaliga aylantirad
 
 ## Shu mavzuda yana
 
-- [Telegram kanalni noldan qanday o‘stirish mumkin](/blog/telegram-kanal-osish/)
+- [«Oldin–keyin» karuseli: surat qoidalari va 5 slayd tuzilmasi](/blog/oldin-keyin-karuseli/)
 - [Sotadigan Instagram profil: bio, highlights va birinchi 9 post](/blog/instagram-profil-sotadigan/)
 - [Yangi yil uchun kontent-reja: noyabrdan yanvargacha 8 hafta](/blog/yangi-yil-kontent-reja/)
