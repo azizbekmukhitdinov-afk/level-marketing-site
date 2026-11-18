@@ -108,7 +108,7 @@ Eng arzon — bitta mijoz narxi eng past bo‘lgani, bitta ko‘rish narxi emas.
 
 ## Xulosa
 
-Reklama turlari bir-biri bilan raqobatlashmaydi — har biri mijoz yo‘lining boshqa bosqichida ishlaydi. Mijozlaringiz sizni qanday topishidan kelib chiqib 1–2 kanal tanlang, natijani sotuv bo‘yicha o‘lchang va keyin kengaytiring. Level Marketing jamoasi 200 000 dollardan ortiq reklama byudjetini boshqargan — bepul auditda sizning biznesingiz uchun qaysi kanallar mos ekanini muhokama qilamiz.
+Reklama turlari bir-biri bilan raqobatlashmaydi — har biri mijoz yo‘lining boshqa bosqichida ishlaydi. Mijozlaringiz sizni qanday topishidan kelib chiqib 1–2 kanal tanlang, natijani sotuv bo‘yicha o‘lchang va keyin kengaytiring. Level Marketing jamoasi 600 000 dollardan ortiq reklama byudjetini boshqargan — bepul auditda sizning biznesingiz uchun qaysi kanallar mos ekanini muhokama qilamiz.
 
 ## Shu mavzuda yana
 

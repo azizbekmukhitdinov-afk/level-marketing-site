@@ -106,7 +106,7 @@ First leads can arrive quickly, but tuning keywords and negatives takes 2–4 we
 
 ## Conclusion
 
-Search ads work where demand already exists: people search, you answer. They're especially strong for urgent services, actively searched services and B2B. Keywords in two languages and three scripts, negative keywords, a precise landing page and fast replies are the foundation. The Level Marketing team has managed more than $200,000 in ad budgets — in a free audit, we'll assess whether search ads make sense in your niche.
+Search ads work where demand already exists: people search, you answer. They're especially strong for urgent services, actively searched services and B2B. Keywords in two languages and three scripts, negative keywords, a precise landing page and fast replies are the foundation. The Level Marketing team has managed more than $600,000 in ad budgets — in a free audit, we'll assess whether search ads make sense in your niche.
 
 ## More on this topic
 

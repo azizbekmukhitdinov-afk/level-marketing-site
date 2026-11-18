@@ -82,7 +82,7 @@ Judge by **sales**, not cost per lead — which means working together with your
 
 - a team of more than 25 specialists;
 - more than 30 brands worked with;
-- more than $200,000 in ad budgets managed;
+- more than $600,000 in ad budgets managed;
 - a monthly report in your office;
 - specialists' bonuses tied to clients renewing their contracts;
 - Reels within 48 hours;

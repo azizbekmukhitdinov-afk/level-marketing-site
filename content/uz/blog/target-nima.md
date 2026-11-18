@@ -100,7 +100,7 @@ Bu nisha va maqsadga bog‘liq. Kichik byudjet bilan ham boshlash mumkin, lekin 
 
 ## Xulosa
 
-Target — reklamani aniq tanlangan odamlarga ko‘rsatish: maqsad, auditoriya, kreativ va byudjet. U kuchli kreativ, aniq taklif, ishonchli profil va tez javob bilan ishlaydi — va sotuv bo‘yicha o‘lchanadi. Level Marketing jamoasi 200 000 dollardan ortiq reklama byudjetini boshqargan — bepul auditda sizning kabinetingiz va kreativlaringizni ko‘rib chiqamiz.
+Target — reklamani aniq tanlangan odamlarga ko‘rsatish: maqsad, auditoriya, kreativ va byudjet. U kuchli kreativ, aniq taklif, ishonchli profil va tez javob bilan ishlaydi — va sotuv bo‘yicha o‘lchanadi. Level Marketing jamoasi 600 000 dollardan ortiq reklama byudjetini boshqargan — bepul auditda sizning kabinetingiz va kreativlaringizni ko‘rib chiqamiz.
 
 ## Shu mavzuda yana
 

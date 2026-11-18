@@ -106,7 +106,7 @@ Birinchi arizalar tez kelishi mumkin, lekin kalit so‘zlar va minus so‘zlarni
 
 ## Xulosa
 
-Kontekst reklama — talab allaqachon bor joyda ishlaydigan kanal: odam qidiradi, siz javob berasiz. U shoshilinch xizmatlar, faol qidiriladigan xizmatlar va B2B uchun ayniqsa kuchli. Ikki til va uch yozuvdagi kalit so‘zlar, minus so‘zlar, aniq sahifa va tez javob — muvaffaqiyat asosi. Level Marketing jamoasi 200 000 dollardan ortiq reklama byudjetini boshqargan — bepul auditda sizning nishangizda kontekst reklama kerakmi, ko‘rib chiqamiz.
+Kontekst reklama — talab allaqachon bor joyda ishlaydigan kanal: odam qidiradi, siz javob berasiz. U shoshilinch xizmatlar, faol qidiriladigan xizmatlar va B2B uchun ayniqsa kuchli. Ikki til va uch yozuvdagi kalit so‘zlar, minus so‘zlar, aniq sahifa va tez javob — muvaffaqiyat asosi. Level Marketing jamoasi 600 000 dollardan ortiq reklama byudjetini boshqargan — bepul auditda sizning nishangizda kontekst reklama kerakmi, ko‘rib chiqamiz.
 
 ## Shu mavzuda yana
 

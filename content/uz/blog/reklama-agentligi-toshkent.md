@@ -82,7 +82,7 @@ Baholash ariza narxi bo‘yicha emas, **sotuv** bo‘yicha bo‘lishi kerak — 
 
 - 25 dan ortiq mutaxassisdan iborat jamoa;
 - 30 dan ortiq brend bilan ishlagan;
-- boshqarilgan reklama byudjeti — 200 000 dollardan ortiq;
+- boshqarilgan reklama byudjeti — 600 000 dollardan ortiq;
 - har oy ofisingizda hisobot;
 - mutaxassislar bonusi mijoz shartnomani uzaytirishiga bog‘langan;
 - Reels — 48 soatda;

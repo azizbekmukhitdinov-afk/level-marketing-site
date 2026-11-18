@@ -108,7 +108,7 @@ The one with the lowest cost per customer — not the lowest cost per impression
 
 ## Conclusion
 
-Ad types don't compete with each other — each works at a different stage of the customer journey. Choose one or two channels based on how customers find you, measure results by sales, and only then expand. The Level Marketing team has managed more than $200,000 in ad budgets — in a free audit, we'll discuss which channels suit your business.
+Ad types don't compete with each other — each works at a different stage of the customer journey. Choose one or two channels based on how customers find you, measure results by sales, and only then expand. The Level Marketing team has managed more than $600,000 in ad budgets — in a free audit, we'll discuss which channels suit your business.
 
 ## More on this topic
 

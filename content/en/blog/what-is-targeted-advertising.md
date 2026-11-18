@@ -100,7 +100,7 @@ It depends on the niche and goal. You can start small, but the budget must be en
 
 ## Conclusion
 
-Targeted advertising means showing ads to specifically chosen people: objective, audience, creative and budget. It works with a strong creative, a clear offer, a trustworthy profile and fast replies — and it's measured by sales. The Level Marketing team has managed more than $200,000 in ad budgets — in a free audit, we'll review your ad account and creatives.
+Targeted advertising means showing ads to specifically chosen people: objective, audience, creative and budget. It works with a strong creative, a clear offer, a trustworthy profile and fast replies — and it's measured by sales. The Level Marketing team has managed more than $600,000 in ad budgets — in a free audit, we'll review your ad account and creatives.
 
 ## More on this topic
 
