@@ -11,6 +11,8 @@ rubric: sotuv
 
 Most shop owners know yesterday's takings by heart but have no idea how many people walked through the door. So when sales drop, the cause stays unclear: did fewer people come, or did the people who came not buy? Counting store foot traffic answers that question, and it does not take expensive equipment. Below are three methods, a simple table and a way to read the numbers.
 
+![What counting store foot traffic gives you](/img/blog/illus/dokonga-kirganlarni-sanash-1.jpg 1200x675)
+
 ## What counting store foot traffic gives you
 
 A shop's sales are made of three numbers: how many people came in, what share of them bought, and how much they spent on average. We covered that formula in detail in our article on [how to increase sales in a store](/en/blog/increase-retail-store-sales/). The till gives you the last two. Nobody writes down the first.
@@ -53,6 +55,8 @@ The second rule matters most. An automatic counter does not recognise groups and
 **Counters** come in three kinds: an infrared beam at the door, a ceiling sensor, and software running on a CCTV camera you already have. An infrared beam is cheap, but it can register two people walking in side by side as one. A ceiling sensor is more accurate and costs more. Manufacturers usually quote accuracy of around 95%, yet industry commentary notes this is often a lab result; in practice accuracy depends on the shape of the entrance, ceiling height and displays near the door ([Teledyne overview](https://teledynevisionsolutions.com/learn/learning-center/people-counting/an-effective-store-traffic-and-conversion-program-starts-with-accurate-data)). So even after installation, stand next to it for a few hours and compare it with a manual count.
 
 Do not rush to buy hardware. Count by hand for two weeks first. That will show whether you need these numbers and whether you actually make decisions from them.
+
+![Counting by hand: a two-week routine](/img/blog/illus/dokonga-kirganlarni-sanash-2.jpg 1200x675)
 
 ## Counting by hand: a two-week routine
 
@@ -101,6 +105,8 @@ After two weeks, ask the table three questions.
 **How do visits change from week to week?** Mark in the table the date you launched an ad, a new sign or [festive decoration](/en/blog/new-year-shop-window-store-decoration/). Compare the two weeks before with the two weeks after, and you will see whether outdoor advertising and decoration pay for themselves. For a sharper measurement, add [QR codes and promo codes](/en/blog/measure-offline-advertising/).
 
 In December this table is especially useful. Pre-holiday flow builds, and last week's hourly numbers become the basis for next week's shift schedule. And a December you counted this year becomes the one reliable reference when you plan the season next year.
+
+![Common mistakes](/img/blog/illus/dokonga-kirganlarni-sanash-3.jpg 1200x675)
 
 ## Common mistakes
 

@@ -11,6 +11,8 @@ rubric: sotuv
 
 Ko‘p do‘kon egasi kunlik tushumni yoddan biladi, lekin bugun eshikdan necha kishi kirganini bilmaydi. Shu sababli savdo tushganda nima aybdorligi noma’lum qoladi: odam kam keldimi yoki kelganlar sotib olmadimi. Do‘konga kirganlarni sanash bu savolga javob beradi va buning uchun qimmat uskuna shart emas. Quyida — uch usul, oddiy jadval va raqamlarni o‘qish tartibi.
 
+![Do‘konga kirganlarni sanash nima beradi](/img/blog/illus/dokonga-kirganlarni-sanash-1.jpg 1200x675)
+
 ## Do‘konga kirganlarni sanash nima beradi
 
 Do‘kon savdosi uch sondan iborat: nechta odam kirdi, ularning qanchasi xarid qildi va o‘rtacha qanchaga. Bu formulani [do‘konda sotuvni oshirish haqidagi maqolada](/blog/dokonda-sotuvni-oshirish/) batafsil yozganmiz. Kassa oxirgi ikki sonni o‘zi ko‘rsatadi. Birinchi sonni esa hech kim yozmaydi.
@@ -53,6 +55,8 @@ Ikkinchi qoida eng muhimi. Avtomatik hisoblagich guruhni ajratmaydi va har bir b
 **Hisoblagich** uch xil bo‘ladi: eshik yonidagi infraqizil nur, shiftdagi sensor va mavjud kuzatuv kamerasi ustidagi dastur. Infraqizil nur arzon, lekin yonma-yon kirgan ikki kishini bitta deb o‘tkazishi mumkin. Shiftdagi sensor aniqroq va qimmatroq. Ishlab chiqaruvchilar odatda 95% atrofidagi aniqlikni aytadi, lekin sohadagi sharhlarga ko‘ra bu ko‘pincha laboratoriya natijasi; amalda aniqlik kirish joyining shakli, shift balandligi va eshik oldidagi tovar stendlariga bog‘liq ([Teledyne sharhi](https://teledynevisionsolutions.com/learn/learning-center/people-counting/an-effective-store-traffic-and-conversion-program-starts-with-accurate-data)). Shu sababli uskuna o‘rnatgandan keyin ham bir necha soat yonida turib, qo‘lda sanab solishtiring.
 
 Uskuna sotib olishga shoshilmang. Avval ikki hafta qo‘lda sanang: raqamlar sizga kerakmi va ular asosida qaror qabul qilasizmi — shunda ma’lum bo‘ladi.
+
+![Qo‘lda sanash: ikki haftalik tartib](/img/blog/illus/dokonga-kirganlarni-sanash-2.jpg 1200x675)
 
 ## Qo‘lda sanash: ikki haftalik tartib
 
@@ -101,6 +105,8 @@ Ikki haftadan keyin jadvalga uchta savol bering.
 **Tashriflar haftadan haftaga qanday o‘zgaryapti?** Reklama, yangi peshlavha yoki [bayram bezagi](/blog/yangi-yil-vitrinasi-dokon-bezagi/) qo‘yilgan sanani jadvalga belgilab qo‘ying. O‘zgarishdan oldingi va keyingi ikki haftani solishtiring — shunda tashqi reklama va bezak pulini oqlayaptimi, ko‘rasiz. Aniqroq o‘lchash uchun [QR-kod va promokod usullarini](/blog/oflayn-reklama-natijasi/) qo‘shing.
 
 Dekabrda bu jadval ayniqsa foydali. Bayram oldi oqimi kuchayadi, va o‘tgan haftadagi soatlik raqamlar keyingi hafta uchun smena jadvalini tuzishga asos bo‘ladi. Yil oxirida sanab qo‘yilgan dekabr esa kelasi yili mavsumni rejalashtirishda yagona ishonchli tayanchga aylanadi.
+
+![Ko‘p uchraydigan xatolar](/img/blog/illus/dokonga-kirganlarni-sanash-3.jpg 1200x675)
 
 ## Ko‘p uchraydigan xatolar
 
