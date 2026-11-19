@@ -140,4 +140,4 @@ Meta’da stavka strategiyalari — sehrli tugma emas, balki tizimga beriladigan
 
 - [Learning limited nima: Meta reklamasi nega beqaror ishlaydi](/blog/learning-limited-meta/)
 - [Atributsiya oynasi Meta’da: hisobotdagi natijani qanday o‘qish](/blog/meta-atributsiya-oynasi/)
-- [Dekabrda reklama byudjeti: bayram mavsumiga 5 qadamli reja](/blog/dekabr-reklama-byudjeti/)
+- [Reklama byudjeti sarflanmayapti: 6 sabab va tekshiruv ro‘yxati](/blog/reklama-byudjeti-sarflanmayapti/)

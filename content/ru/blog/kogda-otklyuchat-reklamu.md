@@ -113,4 +113,4 @@ rubric: target
 
 - [«Ограниченное обучение» в Meta: почему реклама нестабильна](/ru/blog/ogranichennoe-obuchenie-meta/)
 - [Выгорание креативов: когда реклама «выгорает» и как её менять](/ru/blog/vygoranie-kreativov/)
-- [Окно атрибуции в Meta: как читать результаты в отчёте](/ru/blog/okno-atributsii-meta/)
+- [Реклама не откручивается: 6 причин, почему бюджет не расходуется](/ru/blog/reklamnyy-byudzhet-ne-raskhoduetsya/)

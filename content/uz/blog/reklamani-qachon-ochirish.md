@@ -113,4 +113,4 @@ Reklamani o‘chirish — oldindan yozilgan qoidalar bo‘yicha qaror. Maqsadli 
 
 - [Learning limited nima: Meta reklamasi nega beqaror ishlaydi](/blog/learning-limited-meta/)
 - [Kreativ charchashi: reklama qachon «yonadi» va qanday almashtirish](/blog/kreativ-charchashi/)
-- [Atributsiya oynasi Meta’da: hisobotdagi natijani qanday o‘qish](/blog/meta-atributsiya-oynasi/)
+- [Reklama byudjeti sarflanmayapti: 6 sabab va tekshiruv ro‘yxati](/blog/reklama-byudjeti-sarflanmayapti/)

@@ -140,4 +140,4 @@ Meta сама пишет: если вы хотите контролироват�
 
 - [«Ограниченное обучение» в Meta: почему реклама нестабильна](/ru/blog/ogranichennoe-obuchenie-meta/)
 - [Окно атрибуции в Meta: как читать результаты в отчёте](/ru/blog/okno-atributsii-meta/)
-- [Рекламный бюджет в декабре: план на праздничный сезон в 5 шагов](/ru/blog/reklamnyy-byudzhet-v-dekabre/)
+- [Реклама не откручивается: 6 причин, почему бюджет не расходуется](/ru/blog/reklamnyy-byudzhet-ne-raskhoduetsya/)

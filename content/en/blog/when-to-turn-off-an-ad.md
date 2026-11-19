@@ -113,4 +113,4 @@ Turning off an ad is a decision made by rules written in advance. With a target 
 
 - [Learning limited in Meta ads: why results are unstable](/en/blog/meta-learning-limited/)
 - [Creative fatigue: when ads burn out and how to replace them](/en/blog/creative-fatigue/)
-- [Meta attribution window: how to read results in your report](/en/blog/meta-attribution-window/)
+- [Meta ads not spending: 6 reasons your budget isn't delivered](/en/blog/ad-budget-not-spending/)

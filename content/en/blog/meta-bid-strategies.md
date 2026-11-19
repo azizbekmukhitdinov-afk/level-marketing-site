@@ -140,4 +140,4 @@ Meta bid strategies are not a magic button but an instruction to the system. For
 
 - [Learning limited in Meta ads: why results are unstable](/en/blog/meta-learning-limited/)
 - [Meta attribution window: how to read results in your report](/en/blog/meta-attribution-window/)
-- [December ad budget: a 5-step plan for the holiday season](/en/blog/december-ad-budget/)
+- [Meta ads not spending: 6 reasons your budget isn't delivered](/en/blog/ad-budget-not-spending/)
