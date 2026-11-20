@@ -103,4 +103,4 @@ rubric: brend
 
 - [Фирменный стиль: минимум для малого бизнеса](/ru/blog/firmennyy-stil-dlya-malogo-biznesa/)
 - [Что такое бренд и чем он отличается от логотипа](/ru/blog/chto-takoe-brend/)
-- [Логотип нейросетью: когда хватит ИИ, а когда нужен дизайнер](/ru/blog/logotip-neyrosetyu/)
+- [Смена агентства или SMM-менеджера: чек-лист передачи дел](/ru/blog/smena-agentstva-chek-list-peredachi/)

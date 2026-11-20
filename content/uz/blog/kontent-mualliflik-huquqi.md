@@ -134,5 +134,5 @@ Level Marketing mijozlar uchun suratga olgan Reels va reklama kreativlaridan foy
 ## Shu mavzuda yana
 
 - [Brend elchisi: bloger bilan uzoq muddatli hamkorlikni qurish](/blog/brend-elchisi-bloger/)
-- [Vizual uslub va aydentika: kichik biznes uchun minimum](/blog/vizual-uslub-aydentika/)
+- [Agentlikni almashtirish: aktivlarni qabul qilish chek-listi](/blog/agentlikni-almashtirish/)
 - [Brendbuk nima: kichik biznes uchun minimal brendbuk tarkibi](/blog/brendbuk-nima/)

@@ -134,5 +134,5 @@ Level Marketing agrees the terms of use for the Reels and ad creatives it shoots
 ## More on this topic
 
 - [Brand ambassador: building a long-term partnership with a blogger](/en/blog/brand-ambassador-influencer/)
-- [Visual identity: the minimum a small business needs](/en/blog/visual-identity-for-small-business/)
+- [Switching marketing agencies: a handover checklist](/en/blog/switching-marketing-agency-handover-checklist/)
 - [What is a brand book? A minimal brand book for small businesses](/en/blog/what-is-a-brand-book/)

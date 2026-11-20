@@ -134,5 +134,5 @@ Level Marketing договаривается об условиях исполь�
 ## Ещё по теме
 
 - [Амбассадор бренда: как выстроить долгую работу с блогером](/ru/blog/ambassador-brenda-bloger/)
-- [Фирменный стиль: минимум для малого бизнеса](/ru/blog/firmennyy-stil-dlya-malogo-biznesa/)
+- [Смена агентства или SMM-менеджера: чек-лист передачи дел](/ru/blog/smena-agentstva-chek-list-peredachi/)
 - [Что такое брендбук: минимальный брендбук для малого бизнеса](/ru/blog/chto-takoe-brendbuk/)
