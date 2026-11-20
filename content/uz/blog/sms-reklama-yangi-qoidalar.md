@@ -145,6 +145,6 @@ Level Marketing'da reklama kampaniyalarini sozlashda arizalar va rozilik qayerda
 
 ## Shu mavzuda yana
 
-- [Peshlavha va tashqi reklama: 2026-yildan pasport qachon kerak](/blog/peshlavha-tashqi-reklama/)
+- [Kredit reklamasida ogohlantirish: 10 foiz qoidasi va muddat](/blog/kredit-reklamasida-ogohlantirish/)
 - [Reklama to‘g‘risidagi qonun: taqiqlar va jarimalar qisqacha](/blog/reklama-togrisidagi-qonun/)
 - [Mijozlar bazasi va shaxsga doir ma’lumotlar: tadbirkor uchun](/blog/mijozlar-bazasi-shaxsiy-malumotlar/)

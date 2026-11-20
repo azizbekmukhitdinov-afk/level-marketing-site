@@ -157,5 +157,5 @@ At Level Marketing we check creatives against this list before launch and agree 
 ## More on this topic
 
 - [SMS advertising rules in Uzbekistan from 1 November 2026](/en/blog/sms-advertising-rules-uzbekistan/)
-- [Customer database and personal data in Uzbekistan: a guide](/en/blog/customer-database-personal-data-uzbekistan/)
+- [Loan advertising risk warning in Uzbekistan: the 10% rule](/en/blog/loan-advertising-risk-warning-uzbekistan/)
 - [Photo and video consent for advertising: staff and customers](/en/blog/photo-video-consent-for-advertising/)

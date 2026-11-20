@@ -157,5 +157,5 @@ rubric: biznes
 ## Ещё по теме
 
 - [Рекламные SMS: новые правила с 1 ноября 2026 и что делать бизнесу](/ru/blog/reklamnye-sms-novye-pravila/)
-- [База клиентов и персональные данные: что знать предпринимателю](/ru/blog/baza-klientov-personalnye-dannye/)
+- [Предупреждение в рекламе кредитов: правило 10% и сроки](/ru/blog/preduprezhdenie-v-reklame-kreditov/)
 - [Согласие на съёмку для рекламы: сотрудник и клиент в кадре](/ru/blog/soglasie-na-semku-dlya-reklamy/)

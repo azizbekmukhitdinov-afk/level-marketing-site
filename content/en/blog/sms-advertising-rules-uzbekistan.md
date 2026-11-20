@@ -145,6 +145,6 @@ At Level Marketing, when we set up ad campaigns, we plan in advance where leads 
 
 ## More on this topic
 
-- [Storefront Signs and Outdoor Ads in Uzbekistan: 2026 Rules](/en/blog/storefront-sign-outdoor-advertising-uzbekistan/)
+- [Loan advertising risk warning in Uzbekistan: the 10% rule](/en/blog/loan-advertising-risk-warning-uzbekistan/)
 - [Advertising law in Uzbekistan: bans and fines in brief](/en/blog/advertising-law-uzbekistan/)
 - [Customer database and personal data in Uzbekistan: a guide](/en/blog/customer-database-personal-data-uzbekistan/)

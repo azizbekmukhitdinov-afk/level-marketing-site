@@ -145,6 +145,6 @@ rubric: biznes
 
 ## Ещё по теме
 
-- [Вывеска и наружная реклама: когда нужен паспорт с 2026 года](/ru/blog/vyveska-naruzhnaya-reklama/)
+- [Предупреждение в рекламе кредитов: правило 10% и сроки](/ru/blog/preduprezhdenie-v-reklame-kreditov/)
 - [Закон о рекламе в Узбекистане: запреты и штрафы коротко](/ru/blog/zakon-o-reklame-uzbekistan/)
 - [База клиентов и персональные данные: что знать предпринимателю](/ru/blog/baza-klientov-personalnye-dannye/)

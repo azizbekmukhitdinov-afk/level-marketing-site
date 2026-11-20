@@ -4,6 +4,10 @@
 Можете сами вписывать темы в начало списка — агент возьмёт их первыми.
 22.10.2026 на сайт вышел пакет из 50 статей — перед выбором темы проверь `ls content/uz/blog`, чтобы не повторяться.
 
+- [target] Bank yoki MMT bilan hamkorlikdagi reklama: do‘kon va avtosalon uchun maketni kelishish tartibi, kim nima uchun javob beradi (O‘RQ-1187 va Markaziy bank talablari; rasmiy matnni lex.uz’da tekshirib yozish) | Совместная реклама с банком: как согласовать макет и кто за что отвечает
+- [video] Majburiy ogohlantirish bilan reklama roligi ssenariysi: 15, 20 va 30 soniyali rolikda taklif, shart, ogohlantirish va chaqiriqni joylash (kredit, dori reklamasi misolida) | Сценарий ролика с обязательным предупреждением: как уложить оффер, условия и дисклеймер в 15–30 секунд
+- [biznes] Onlayn reklamani AI bilan monitoring qilish: Raqobat qo‘mitasi mexanizmi ishga tushganda biznes nimani tekshiradi (rasmiy e’lon chiqqanda yozish; Gazeta.uz 13.08.2026 da reja sifatida aytilgan) | ИИ-мониторинг онлайн-рекламы Комитетом по конкуренции: что проверить бизнесу
+- [biznes] Kredit reklamasidagi ogohlantirish 11-fevraldan: kuchga kirgandan keyingi birinchi tekshiruvlar va rasmiy tushuntirishlar (fevral 2027 da yangilab yozish yoki kredit-reklamasida-ogohlantirish maqolasini yangilash) | Предупреждение в рекламе кредитов после 11 февраля: первые проверки и разъяснения
 - [sotuv] Bayramdan keyingi birinchi hafta: javobsiz arizalarni qayta ishlash va «sovigan» lidlarni qaytarish | Первая неделя после праздников: как вернуть остывшие заявки
 - [biznes] Bayram kunlari xodimlar ishi: navbatchilik, qo‘shimcha haq va dam olish kuni — tadbirkor uchun qisqa qo‘llanma (Mehnat kodeksi, 263-modda; manbani lex.uz’da tekshirish) | Работа сотрудников в праздники: что знать предпринимателю
 - [biznes] Toshkent dizayn-kodi: 10-dekabrgacha muhokama natijasi — peshlavha, vitrina va fasad uchun nima o‘zgaradi (qaror e’lon qilingandan keyin, 3 oylik muddat bilan yozish) | Дизайн-код Ташкента: что изменится для вывесок и витрин

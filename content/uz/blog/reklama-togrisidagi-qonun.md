@@ -157,5 +157,5 @@ Level Marketing’da reklama kreativlarini ishga tushirishdan oldin shu ro‘yxa
 ## Shu mavzuda yana
 
 - [SMS reklama yangi qoidalari: 1-noyabr 2026 dan biznes nima qiladi](/blog/sms-reklama-yangi-qoidalar/)
-- [Mijozlar bazasi va shaxsga doir ma’lumotlar: tadbirkor uchun](/blog/mijozlar-bazasi-shaxsiy-malumotlar/)
+- [Kredit reklamasida ogohlantirish: 10 foiz qoidasi va muddat](/blog/kredit-reklamasida-ogohlantirish/)
 - [Suratga olishga rozilik: xodim va mijoz reklamada chiqsa](/blog/suratga-olishga-rozilik/)
