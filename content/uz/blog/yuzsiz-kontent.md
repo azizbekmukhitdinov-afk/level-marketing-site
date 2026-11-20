@@ -11,6 +11,8 @@ rubric: smm
 
 «Kamerada chiqishni xohlamayman» — ko‘p tadbirkor va xodimlarning eng keng tarqalgan e’tirozi. Natijada sahifa yo faqat rasmlar bilan, yo umuman bo‘sh qoladi. Lekin «yuzsiz kontent» (faceless content) — alohida va ishlaydigan format: qo‘llar, jarayon, ekran, ovoz va matn. Kamerada chiqmasdan qanday ishonchli kontent qilishni ko‘rib chiqamiz.
 
+![Yuzsiz kontent nima uchun ishlaydi](/img/blog/illus/yuzsiz-kontent-1.jpg 1200x675)
+
 ## Yuzsiz kontent nima uchun ishlaydi
 
 - **Tomoshabin natijaga qaraydi**: mahsulot, jarayon va o‘zgarish — odamdan ko‘ra qiziqroq bo‘lishi mumkin.
@@ -33,6 +35,8 @@ rubric: smm
 
 Yuz bo‘lmasa, ovoz ishonch quradi: iliq, aniq, shoshilmasdan. Doim bitta ovoz — brendning «yuzi». Yaxshi mikrofon kameradan muhimroq — [reklama videosida ovoz](/blog/reklama-videosida-ovoz/). AI ovozdan foydalansangiz — qoidalarni biling — [AI ovoz reklamada](/blog/ai-ovoz-reklamada/).
 
+![Brendni qanday tanitish](/img/blog/illus/yuzsiz-kontent-2.jpg 1200x675)
+
 ## Brendni qanday tanitish
 
 - Bir xil muqova uslubi, shrift va rang — [vizual uslub va aydentika](/blog/vizual-uslub-aydentika/).
@@ -47,6 +51,8 @@ Yuz bo‘lmasa, ovoz ishonch quradi: iliq, aniq, shoshilmasdan. Doim bitta ovoz 
 - **Mijoz sharhlari**: haqiqiy odam — kuchliroq dalil.
 
 Ko‘p bizneslar uchun eng yaxshi variant — aralash: asosiy kontent yuzsiz, haftada 1 ta video odam bilan.
+
+![Natijani o‘lchash](/img/blog/illus/yuzsiz-kontent-3.jpg 1200x675)
 
 ## Natijani o‘lchash
 

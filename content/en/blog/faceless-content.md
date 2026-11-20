@@ -11,6 +11,8 @@ rubric: smm
 
 "I don't want to be on camera" is the most common objection from business owners and staff. As a result, the page ends up as nothing but images, or empty. But faceless content is a format of its own, and it works: hands, process, screens, voice and text. Here's how to make convincing content without appearing on camera.
 
+![Why faceless content works](/img/blog/illus/yuzsiz-kontent-1.jpg 1200x675)
+
 ## Why faceless content works
 
 - **Viewers watch the result**: the product, the process and the transformation can be more interesting than a person.
@@ -33,6 +35,8 @@ rubric: smm
 
 Without a face, the voice builds trust: warm, clear and unhurried. Always use the same voice — it becomes the brand's "face". A good microphone matters more than the camera — [sound in video ads](/en/blog/sound-in-video-ads/). If you use an AI voice, know the rules — [AI voiceover in ads](/en/blog/ai-voiceover-ads/).
 
+![Making the brand recognisable](/img/blog/illus/yuzsiz-kontent-2.jpg 1200x675)
+
 ## Making the brand recognisable
 
 - A consistent cover style, font and colours — [visual identity for small business](/en/blog/visual-identity-for-small-business/).
@@ -47,6 +51,8 @@ Without a face, the voice builds trust: warm, clear and unhurried. Always use th
 - **Customer reviews**: a real person is stronger proof.
 
 For many businesses, the best option is a mix: mainly faceless content, with one video featuring a person each week.
+
+![Measuring results](/img/blog/illus/yuzsiz-kontent-3.jpg 1200x675)
 
 ## Measuring results
 
