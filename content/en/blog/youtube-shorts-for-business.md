@@ -11,6 +11,8 @@ rubric: video
 
 Many businesses post vertical videos only to Instagram Reels. But the same video can work on YouTube Shorts too — at no extra cost. Since October 2024, Shorts can be up to 3 minutes long ([YouTube blog](https://blog.youtube/news-and-events/tall-updates-coming-to-shorts/)). YouTube has another advantage: it's part of Google's ecosystem, and videos stay discoverable for a long time. Here's how to use YouTube Shorts in a business.
 
+![Shorts vs Reels vs TikTok](/img/blog/illus/youtube-shorts-biznes-1.jpg 1200x675)
+
 ## Shorts vs Reels vs TikTok
 
 | | Instagram Reels | TikTok | YouTube Shorts |
@@ -37,6 +39,8 @@ Many businesses post vertical videos only to Instagram Reels. But the same video
 4. **Related video**: link the Short to a long video, if your channel has one.
 5. **Channel profile**: description, links, contacts.
 
+![A content plan: 3 segments](/img/blog/illus/youtube-shorts-biznes-2.jpg 1200x675)
+
 ## A content plan: 3 segments
 
 - **Q&A**: customers' real questions — twice a week.
@@ -53,6 +57,8 @@ The option to go up to 3 minutes doesn't mean everything should be long. A longe
 
 - YouTube Studio: views, average view duration, subscribers, traffic sources (search or the Shorts feed).
 - The business metric: clicks from the channel to your site, and leads — [UTM tags](/en/blog/utm-tags/).
+
+![Common mistakes](/img/blog/illus/youtube-shorts-biznes-3.jpg 1200x675)
 
 ## Common mistakes
 

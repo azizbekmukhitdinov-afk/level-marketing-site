@@ -11,6 +11,8 @@ rubric: video
 
 Ko‘p bizneslar vertikal videolarni faqat Instagram Reels’ga joylaydi. Lekin xuddi shu video YouTube Shorts’da ham ishlashi mumkin — qo‘shimcha xarajatsiz. 2024-yil oktyabridan Shorts 3 daqiqagacha bo‘lishi mumkin ([YouTube blog](https://blog.youtube/news-and-events/tall-updates-coming-to-shorts/)). YouTube’ning yana bir ustunligi bor: u Google ekotizimining bir qismi va videolar uzoq vaqt «yashaydi». YouTube Shorts’dan biznesda qanday foydalanishni ko‘rib chiqamiz.
 
+![Shorts, Reels va TikTok farqi](/img/blog/illus/youtube-shorts-biznes-1.jpg 1200x675)
+
 ## Shorts, Reels va TikTok farqi
 
 | | Instagram Reels | TikTok | YouTube Shorts |
@@ -37,6 +39,8 @@ Ko‘p bizneslar vertikal videolarni faqat Instagram Reels’ga joylaydi. Lekin 
 4. **Bog‘liq video**: Shorts’dan uzun videoga havola — agar kanalingizda bo‘lsa.
 5. **Kanal profili**: tavsif, havolalar, kontaktlar.
 
+![Kontent rejasi: 3 ta rubrika](/img/blog/illus/youtube-shorts-biznes-2.jpg 1200x675)
+
 ## Kontent rejasi: 3 ta rubrika
 
 - **Savol-javob**: mijozlar haqiqiy savollari — haftasiga 2 ta.
@@ -53,6 +57,8 @@ Bitta suratga olish kunidan bir necha video — [bitta suratga olishdan 10 kreat
 
 - YouTube Studio: ko‘rishlar, o‘rtacha ko‘rish vaqti, obunachi, trafik manbalari (qidiruv yoki Shorts lentasi).
 - Biznes ko‘rsatkichi: kanaldan saytga o‘tishlar va arizalar — [UTM belgilar](/blog/utm-belgilar/).
+
+![Ko‘p uchraydigan xatolar](/img/blog/illus/youtube-shorts-biznes-3.jpg 1200x675)
 
 ## Ko‘p uchraydigan xatolar
 

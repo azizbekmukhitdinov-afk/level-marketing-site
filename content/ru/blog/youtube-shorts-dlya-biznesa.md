@@ -11,6 +11,8 @@ rubric: video
 
 Многие бизнесы выкладывают вертикальные видео только в Instagram Reels. Но то же видео может работать и в YouTube Shorts — без дополнительных затрат. С октября 2024 года Shorts могут длиться до 3 минут ([блог YouTube](https://blog.youtube/news-and-events/tall-updates-coming-to-shorts/)). У YouTube есть и другое преимущество: он часть экосистемы Google, и видео «живут» долго. Разберём, как использовать YouTube Shorts в бизнесе.
 
+![Shorts, Reels и TikTok: разница](/img/blog/illus/youtube-shorts-biznes-1.jpg 1200x675)
+
 ## Shorts, Reels и TikTok: разница
 
 | | Instagram Reels | TikTok | YouTube Shorts |
@@ -37,6 +39,8 @@ rubric: video
 4. **Связанное видео**: ссылка из Shorts на длинное видео — если оно есть на канале.
 5. **Профиль канала**: описание, ссылки, контакты.
 
+![Контент-план: 3 рубрики](/img/blog/illus/youtube-shorts-biznes-2.jpg 1200x675)
+
 ## Контент-план: 3 рубрики
 
 - **Вопрос-ответ**: реальные вопросы клиентов — 2 в неделю.
@@ -53,6 +57,8 @@ rubric: video
 
 - YouTube Studio: просмотры, среднее время просмотра, подписчики, источники трафика (поиск или лента Shorts).
 - Бизнес-показатель: переходы с канала на сайт и заявки — [UTM-метки](/ru/blog/utm-metki/).
+
+![Частые ошибки](/img/blog/illus/youtube-shorts-biznes-3.jpg 1200x675)
 
 ## Частые ошибки
 
