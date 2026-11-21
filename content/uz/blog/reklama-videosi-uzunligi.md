@@ -113,4 +113,4 @@ Reklama videosining to‘g‘ri uzunligi — bu vazifaga mos uzunlik. Qisqa vide
 
 - [Reels uchun ssenariy: 5 ta tayyor shablon](/blog/reels-ssenariy-shablon/)
 - [Video reklamaning 7 turi: qaysi biri sizning mahsulotingizni sotadi](/blog/video-reklama-turlari/)
-- [Kreativ charchashi: reklama qachon «yonadi» va qanday almashtirish](/blog/kreativ-charchashi/)
+- [Reklama roligida ogohlantirish: 15, 20 va 30 soniyalik ssenariy](/blog/reklama-roligida-ogohlantirish/)

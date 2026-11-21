@@ -113,4 +113,4 @@ The right video ad length is the one that fits the job. Short for attention and 
 
 - [Reels scripts: 5 ready-made templates](/en/blog/reels-script-templates/)
 - [7 types of video ads: which one will sell your product](/en/blog/types-of-video-ads/)
-- [Creative fatigue: when ads burn out and how to replace them](/en/blog/creative-fatigue/)
+- [Disclaimer in a video ad: scripts for 15, 20 and 30 seconds](/en/blog/video-ad-disclaimer-script/)

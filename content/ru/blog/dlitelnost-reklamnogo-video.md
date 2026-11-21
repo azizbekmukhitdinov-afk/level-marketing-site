@@ -113,4 +113,4 @@ rubric: video
 
 - [Сценарий для Reels: 5 готовых шаблонов](/ru/blog/stsenariy-dlya-reels/)
 - [7 видов видеорекламы: какой продаст ваш продукт](/ru/blog/vidy-videoreklamy/)
-- [Выгорание креативов: когда реклама «выгорает» и как её менять](/ru/blog/vygoranie-kreativov/)
+- [Предупреждение в рекламном ролике: сценарий на 15–30 секунд](/ru/blog/preduprezhdenie-v-reklamnom-rolike/)

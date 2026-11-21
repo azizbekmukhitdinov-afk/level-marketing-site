@@ -116,6 +116,6 @@ rubric: video
 
 ## Ещё по теме
 
-- [7 видов видеорекламы: какой продаст ваш продукт](/ru/blog/vidy-videoreklamy/)
+- [Предупреждение в рекламном ролике: сценарий на 15–30 секунд](/ru/blog/preduprezhdenie-v-reklamnom-rolike/)
 - [Как снимать Reels на телефон: свет, звук и кадр](/ru/blog/kak-snimat-reels-na-telefon/)
 - [Музыка для рекламного видео: где брать и 5 ошибок](/ru/blog/muzyka-dlya-reklamnogo-video/)
