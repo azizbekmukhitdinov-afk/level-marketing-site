@@ -122,5 +122,5 @@ weight: 1
 ## Ещё по теме
 
 - [Как подключить лид-форму Meta к CRM: 4 способа и проверка](/ru/blog/podklyuchit-lid-formu-k-crm/)
-- [UTM-метки: как узнать, откуда пришёл каждый клиент](/ru/blog/utm-metki/)
+- [Дубли в CRM: что делать, если клиент оставил две заявки](/ru/blog/dubli-v-crm/)
 - [Что такое CRM и какая подойдёт малому бизнесу](/ru/blog/kakaya-crm-dlya-malogo-biznesa/)

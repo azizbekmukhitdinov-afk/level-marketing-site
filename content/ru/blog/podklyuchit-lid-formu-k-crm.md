@@ -146,4 +146,4 @@ weight: 1
 
 - [Лиды в кабинете и в CRM не совпадают: 7 причин и сверка](/ru/blog/lidy-v-kabinete-i-crm-ne-sovpadayut/)
 - [Что такое CRM и какая подойдёт малому бизнесу](/ru/blog/kakaya-crm-dlya-malogo-biznesa/)
-- [Скорость ответа на заявку: как она влияет на продажи](/ru/blog/skorost-otveta-na-zayavku/)
+- [Дубли в CRM: что делать, если клиент оставил две заявки](/ru/blog/dubli-v-crm/)

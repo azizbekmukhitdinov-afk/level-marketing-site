@@ -122,5 +122,5 @@ Kabinet va CRM raqamlari hech qachon bir xil bo‘lmaydi, va bu normal. Normal e
 ## Shu mavzuda yana
 
 - [Lid formani CRM’ga ulash: 4 usul va tekshiruv ro‘yxati](/blog/lid-formani-crmga-ulash/)
-- [UTM-belgilar: har bir mijoz qayerdan kelganini qanday bilish](/blog/utm-belgilar/)
+- [CRM’da dubllar: bitta mijoz ikki marta ariza qoldirsa](/blog/crmda-dubllar/)
 - [CRM nima va kichik biznesga qaysi biri mos](/blog/crm-tanlash/)

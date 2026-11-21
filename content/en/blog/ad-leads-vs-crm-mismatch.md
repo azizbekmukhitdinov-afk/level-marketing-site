@@ -122,5 +122,5 @@ Ads Manager and CRM numbers will never match exactly, and that's fine. What's no
 ## More on this topic
 
 - [Connect a Meta lead form to your CRM: 4 ways and a checklist](/en/blog/connect-meta-lead-form-to-crm/)
-- [UTM tags: how to know where every customer came from](/en/blog/utm-tags/)
+- [Duplicate leads in your CRM: when one client applies twice](/en/blog/duplicate-leads-in-crm/)
 - [What a CRM is and which one suits a small business](/en/blog/crm-for-small-business/)

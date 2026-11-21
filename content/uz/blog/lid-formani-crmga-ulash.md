@@ -146,4 +146,4 @@ Lid formani CRM’ga ulash — bir soatlik texnik ish, lekin u arizadan birinchi
 
 - [Kabinetdagi lidlar va CRM mos kelmasa: 7 sabab va tekshiruv](/blog/kabinet-va-crm-lidlar/)
 - [CRM nima va kichik biznesga qaysi biri mos](/blog/crm-tanlash/)
-- [Arizaga javob berish tezligi sotuvga qanday ta'sir qiladi](/blog/arizaga-javob-tezligi/)
+- [CRM’da dubllar: bitta mijoz ikki marta ariza qoldirsa](/blog/crmda-dubllar/)

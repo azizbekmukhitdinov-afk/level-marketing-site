@@ -146,4 +146,4 @@ Connecting a Meta lead form to your CRM is about an hour of technical work, yet 
 
 - [Ads Manager leads don't match your CRM: 7 causes and a check](/en/blog/ad-leads-vs-crm-mismatch/)
 - [What a CRM is and which one suits a small business](/en/blog/crm-for-small-business/)
-- [Lead response time: how it affects sales](/en/blog/lead-response-time/)
+- [Duplicate leads in your CRM: when one client applies twice](/en/blog/duplicate-leads-in-crm/)
