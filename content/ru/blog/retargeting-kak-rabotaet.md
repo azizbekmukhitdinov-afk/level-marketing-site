@@ -101,5 +101,5 @@ rubric: target
 ## Ещё по теме
 
 - [Рекламный бюджет в декабре: план на праздничный сезон в 5 шагов](/ru/blog/reklamnyy-byudzhet-v-dekabre/)
-- [A/B-тесты рекламных креативов: как проводить](/ru/blog/ab-test-kreativov/)
+- [Реклама с переходом в Direct: окно 7 дней и план ответов](/ru/blog/reklama-v-direct-okno-7-dney/)
 - [Как настроить таргет в Instagram: пошаговое руководство](/ru/blog/kak-nastroit-target-v-instagram/)

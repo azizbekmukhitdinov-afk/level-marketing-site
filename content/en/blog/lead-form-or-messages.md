@@ -117,5 +117,5 @@ Forms bring fast, cheap leads; messages bring warmer conversations. The right ch
 ## More on this topic
 
 - [Ad account blocked: what to do and how to prevent it](/en/blog/ad-account-blocked/)
-- [Real estate developer ads: 7 mistakes and how to fix them](/en/blog/real-estate-developer-ads/)
+- [Click-to-Direct ads: the 7-day window and a follow-up plan](/en/blog/click-to-direct-ads-7-day-window/)
 - [How to set up Instagram ads: a step-by-step guide](/en/blog/how-to-set-up-instagram-ads/)

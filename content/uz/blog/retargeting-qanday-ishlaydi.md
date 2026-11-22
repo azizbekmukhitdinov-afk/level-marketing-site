@@ -101,5 +101,5 @@ Retargeting qiziqqan, lekin qaror qilmagan odamlarni sotuvga qaytaradi. To‘g�
 ## Shu mavzuda yana
 
 - [Dekabrda reklama byudjeti: bayram mavsumiga 5 qadamli reja](/blog/dekabr-reklama-byudjeti/)
-- [Reklama kreativlari uchun A/B test: qanday o‘tkaziladi](/blog/kreativlar-ab-test/)
+- [Direct’ga yo‘naltiruvchi reklama: 7 kunlik oyna va javob rejasi](/blog/directga-reklama-7-kunlik-oyna/)
 - [Instagram'da target reklama qanday sozlanadi: bosqichma-bosqich qo‘llanma](/blog/instagramda-target-reklama-sozlash/)

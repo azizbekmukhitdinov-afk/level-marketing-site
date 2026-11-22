@@ -117,5 +117,5 @@ rubric: target
 ## Ещё по теме
 
 - [Рекламный кабинет заблокирован: что делать и как не допустить](/ru/blog/reklamnyy-kabinet-zablokirovan/)
-- [Таргет для застройщика: 7 ошибок и как их исправить](/ru/blog/target-dlya-zastroyshchika/)
+- [Реклама с переходом в Direct: окно 7 дней и план ответов](/ru/blog/reklama-v-direct-okno-7-dney/)
 - [Как настроить таргет в Instagram: пошаговое руководство](/ru/blog/kak-nastroit-target-v-instagram/)
