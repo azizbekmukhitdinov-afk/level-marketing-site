@@ -153,4 +153,4 @@ Moving channel subscribers into a bot is not a technical trick but a simple sequ
 
 - [Telegram bot broadcasts: 7 rules so customers don't block you](/en/blog/telegram-bot-broadcast-rules/)
 - [How to grow a Telegram channel from zero](/en/blog/grow-a-telegram-channel/)
-- [Telegram channel or Instagram: where should a business invest?](/en/blog/telegram-or-instagram-for-business/)
+- [Telegram channel post with a button: bot setup and click counts](/en/blog/telegram-channel-post-with-button/)

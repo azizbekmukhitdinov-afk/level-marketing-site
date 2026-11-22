@@ -153,4 +153,4 @@ rubric: smm
 
 - [Рассылка в Telegram-боте: 7 правил, чтобы клиенты не блокировали](/ru/blog/rassylka-v-telegram-bote-pravila/)
 - [Как раскрутить Telegram-канал с нуля](/ru/blog/kak-raskrutit-telegram-kanal/)
-- [Telegram-канал или Instagram: куда бизнесу вкладывать силы](/ru/blog/telegram-ili-instagram/)
+- [Пост с кнопкой в Telegram-канале: бот, текст и подсчёт нажатий](/ru/blog/post-s-knopkoy-v-telegram-kanale/)

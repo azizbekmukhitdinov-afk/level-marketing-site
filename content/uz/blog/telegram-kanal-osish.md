@@ -131,5 +131,5 @@ Telegram kanal — sizning shaxsiy media'ngiz. Poydevorni tayyorlang, foydali ko
 ## Shu mavzuda yana
 
 - [Kanal obunachilarini botga o‘tkazish: havola va birinchi xabar](/blog/kanal-obunachilarini-botga-otkazish/)
-- [Stories orqali sotuv: har kuni ishlaydigan formatlar](/blog/stories-orqali-sotuv/)
+- [Kanaldagi tugmali post: bot orqali joylash va bosishni sanash](/blog/kanalda-tugmali-post/)
 - [Telegram botda rassilka: mijoz bloklamasligi uchun 7 qoida](/blog/telegram-bot-rassilka-qoidalari/)

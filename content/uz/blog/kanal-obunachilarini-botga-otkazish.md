@@ -153,4 +153,4 @@ Kanal obunachilarini botga o‘tkazish — bu texnik hiyla emas, oddiy ketma-ket
 
 - [Telegram botda rassilka: mijoz bloklamasligi uchun 7 qoida](/blog/telegram-bot-rassilka-qoidalari/)
 - [Telegram kanalni noldan qanday o‘stirish mumkin](/blog/telegram-kanal-osish/)
-- [Telegram kanal yoki Instagram: biznes uchun qaysi biri](/blog/telegram-yoki-instagram/)
+- [Kanaldagi tugmali post: bot orqali joylash va bosishni sanash](/blog/kanalda-tugmali-post/)
