@@ -1,8 +1,8 @@
 ---
-title: Target reklama narxi O‘zbekistonda: byudjet qanday hisoblanadi
-description: Target reklama qancha turadi: reklama byudjeti, targetolog xizmati va kontent xarajatlari. Oylik byudjetni ariza narxidan kelib chiqib hisoblash usuli.
+title: Target reklama narxi O‘zbekistonda 2026: byudjet hisobi
+description: Target reklama qancha turadi: reklama byudjeti, targetolog xizmati va kontent. Oylik byudjetni ariza narxidan hisoblash va test byudjetini topish usuli.
 date: 2026-10-22
-updated: 2026-10-23
+updated: 2026-11-23
 slug: target-reklama-narxi-ozbekistonda
 type: article
 tags: target reklama, byudjet, meta ads
@@ -56,6 +56,18 @@ Bir xil byudjet turli bizneslarda butunlay boshqa natija beradi. Asosiy omillar:
 ## Minimal byudjet bilan boshlash mumkinmi
 
 Ha, lekin test uchun yetarli ma'lumot to‘planishi kerak. Juda kichik byudjetda algoritm o‘rganishga ulgurmaydi va xulosa chiqarib bo‘lmaydi. Amaliy qoida: test bosqichida har bir kreativ yoki auditoriya bir necha o‘nlab natija (bosish, xabar yoki ariza) to‘plaguncha ishlasin. Shundan keyingina yaxshi variantlarga byudjet qo‘shing.
+
+## Platforma minimumi va test byudjeti: ikki xil raqam
+
+Meta reklama kabinetida har bir reklama guruhi uchun eng kam kunlik byudjet bor. U valyutaga, tanlangan maqsadga va stavka usuliga qarab o‘zgaradi: aniq raqamni Meta [Marketing API hujjatidagi minimum byudjetlar](https://developers.facebook.com/documentation/ads-commerce/marketing-api/reference/ad-account/minimum_budgets.md) bo‘limidan yoki kabinetning o‘zidan ko‘rasiz. Internetdagi maqolalarda “kuniga 1 yoki 5 dollar” deb yoziladi, ular bir-biriga mos kelmaydi — o‘z kabinetingizdagi raqamga tayaning.
+
+Muhim farq: bu minimum — reklama **ko‘rsatila boshlashi** uchun chegara, **o‘rganish** uchun yetarli summa emas. Test byudjetini boshqacha hisoblang:
+
+> Test byudjeti = kutilayotgan ariza narxi × har bir variantga kerakli natijalar soni × variantlar soni
+
+**Shartli misol:** ariza narxi 3 dollar, har bir kreativga 20 ta ariza kerak, 3 ta kreativ sinaladi. 3 × 20 × 3 = 180 dollar. Bu summani bir-ikki haftaga bo‘lib sarflaysiz. Agar byudjet bundan ancha kam bo‘lsa, kreativlar sonini kamaytiring (3 o‘rniga 2), auditoriyani kengaytirmang.
+
+Byudjet yetmaganda kabinet “Cheklangan o‘rganish” holatiga tushishi mumkin — sababi va yechimi [Learning limited maqolasida](/blog/learning-limited-meta/). Byudjet umuman sarflanmasa — [bu tekshiruv ro‘yxati](/blog/reklama-byudjeti-sarflanmayapti/) yordam beradi. Natijani baholayotganda [atributsiya oynasini](/blog/meta-atributsiya-oynasi/) hisobga oling: ariza bir necha kundan keyin ham hisobga tushishi mumkin.
 
 ## Targetolog xizmati narxi qanday shakllanadi
 

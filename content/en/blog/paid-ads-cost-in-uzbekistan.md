@@ -1,8 +1,8 @@
 ---
-title: How much paid advertising costs in Uzbekistan and how to plan the budget
-description: What makes up the cost of paid ads — ad budget, specialist fees and content — and how to calculate a monthly budget from cost per lead and the customers you need.
+title: Paid ads cost in Uzbekistan in 2026 and how to plan a budget
+description: What makes up the cost of paid ads: ad budget, specialist fees and content. How to calculate a monthly budget from cost per lead and size a test budget.
 date: 2026-10-22
-updated: 2026-10-23
+updated: 2026-11-23
 slug: paid-ads-cost-in-uzbekistan
 type: article
 tags: paid ads, budget, meta ads
@@ -56,6 +56,18 @@ The same budget gives very different results in different businesses. The main f
 ## Can you start with a minimal budget?
 
 Yes, but the test needs enough data. On a tiny budget the algorithm does not have time to learn and you cannot draw conclusions. A practical rule: in the test phase, let each creative or audience collect at least a few dozen results (clicks, messages or leads) before adding budget to the winners.
+
+## Platform minimum vs. test budget: two different numbers
+
+Every ad set in a Meta ad account has a minimum daily budget. It depends on the currency, the objective and the bidding method; look up the exact value in [Meta's Marketing API reference on minimum budgets](https://developers.facebook.com/documentation/ads-commerce/marketing-api/reference/ad-account/minimum_budgets.md) or in your own account. Guides online say “$1 or $5 a day”, but they disagree with each other, so trust the figure in your account.
+
+The key difference: the minimum is the threshold for ads to **start delivering**, not an amount big enough for the system to **learn**. Size the test budget differently:
+
+> Test budget = expected cost per lead × results needed per variant × number of variants
+
+**Illustrative example:** cost per lead is $3, each creative needs 20 leads, and you test 3 creatives. 3 × 20 × 3 = $180, spent over one to two weeks. If your budget is clearly smaller, cut the number of creatives (2 instead of 3) rather than widening the audience.
+
+When the budget is too thin, the account can drop into “Learning limited” — causes and fixes are in [our Learning limited guide](/en/blog/meta-learning-limited/). If the budget isn't spending at all, use [this checklist](/en/blog/ad-budget-not-spending/). And when you judge results, remember the [attribution window](/en/blog/meta-attribution-window/): a lead can be credited several days later.
 
 ## How specialist fees are structured
 
