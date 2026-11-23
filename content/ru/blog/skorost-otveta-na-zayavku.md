@@ -106,5 +106,5 @@ rubric: sotuv
 ## Ещё по теме
 
 - [Скрипт продаж: структура для звонков и Telegram](/ru/blog/skript-prodazh/)
-- [Что такое CRM и какая подойдёт малому бизнесу](/ru/blog/kakaya-crm-dlya-malogo-biznesa/)
+- [Как вернуть клиента, которому ответили поздно: 3 шаблона](/ru/blog/kak-vernut-klienta-kotoromu-otvetili-pozdno/)
 - [Неотвеченные диалоги в Direct: еженедельный аудит и стандарт](/ru/blog/neotvechennye-dialogi-direct-audit/)

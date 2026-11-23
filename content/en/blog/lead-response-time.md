@@ -106,5 +106,5 @@ Response speed is the cheapest way to grow sales without raising the ad budget. 
 ## More on this topic
 
 - [Sales script: a structure for calls and Telegram](/en/blog/sales-script/)
-- [What a CRM is and which one suits a small business](/en/blog/crm-for-small-business/)
+- [Winning back a customer you replied to late: 3 templates](/en/blog/win-back-customer-after-late-reply/)
 - [Unanswered Instagram DMs: a weekly audit and reply standard](/en/blog/unanswered-instagram-dm-audit/)

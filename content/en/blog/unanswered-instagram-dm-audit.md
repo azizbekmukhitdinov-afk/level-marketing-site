@@ -144,4 +144,4 @@ Unanswered Instagram DMs are money quietly leaking from your ad budget. You don'
 
 - [Lead response time: how it affects sales](/en/blog/lead-response-time/)
 - [Leads don't answer the phone: 7 reasons for "empty" leads and what to do](/en/blog/leads-dont-answer-the-phone/)
-- [Replying to "How much?": 5 steps that turn a chat into a sale](/en/blog/replying-to-how-much/)
+- [Winning back a customer you replied to late: 3 templates](/en/blog/win-back-customer-after-late-reply/)

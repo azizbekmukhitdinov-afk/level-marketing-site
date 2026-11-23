@@ -106,5 +106,5 @@ Javob tezligi — reklama byudjetini oshirmasdan sotuvni ko‘paytirishning eng 
 ## Shu mavzuda yana
 
 - [Sotuv skripti: telefon va Telegram uchun tuzilma](/blog/sotuv-skripti/)
-- [CRM nima va kichik biznesga qaysi biri mos](/blog/crm-tanlash/)
+- [Kech javob berilgan mijozni qaytarish: uzr va 3 shablon](/blog/kech-javob-berilgan-mijozni-qaytarish/)
 - [Direct’dagi javobsiz suhbatlar: haftalik audit va javob standarti](/blog/direct-javobsiz-suhbatlar-audit/)

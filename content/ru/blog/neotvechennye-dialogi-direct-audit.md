@@ -144,4 +144,4 @@ rubric: sotuv
 
 - [Скорость ответа на заявку: как она влияет на продажи](/ru/blog/skorost-otveta-na-zayavku/)
 - [Лиды не берут трубку: 7 причин «пустых» заявок и что с этим делать](/ru/blog/lidy-ne-berut-trubku/)
-- [Ответ на «Сколько стоит?»: 5 шагов от вопроса к продаже](/ru/blog/otvet-na-skolko-stoit/)
+- [Как вернуть клиента, которому ответили поздно: 3 шаблона](/ru/blog/kak-vernut-klienta-kotoromu-otvetili-pozdno/)

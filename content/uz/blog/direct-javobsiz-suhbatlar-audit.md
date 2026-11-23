@@ -144,4 +144,4 @@ Direct’dagi javobsiz suhbatlar — reklama byudjetidan sezdirmay oqib ketadiga
 
 - [Arizaga javob berish tezligi sotuvga qanday ta'sir qiladi](/blog/arizaga-javob-tezligi/)
 - [Lidlar telefon ko‘tarmaydi: «bo‘sh» arizalarning 7 sababi va nima qilish kerak](/blog/lidlar-telefon-kotarmaydi/)
-- [«Narxi qancha?» xabariga javob: sotuvga olib boradigan 5 qadam](/blog/narxi-qancha-javob/)
+- [Kech javob berilgan mijozni qaytarish: uzr va 3 shablon](/blog/kech-javob-berilgan-mijozni-qaytarish/)
