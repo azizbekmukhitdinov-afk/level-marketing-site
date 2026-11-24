@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>How to create a Telegram bot: from BotFather to your first lead — Level Marketing</title>
+<meta name="description" content="How to create a Telegram bot for business: BotFather setup, token security, builder or developer, menus and a lead flow, CRM connection, mistakes.">
+<link rel="canonical" href="https://levelm.uz/en/blog/create-a-telegram-bot/">
+<link rel="alternate" hreflang="uz" href="https://levelm.uz/blog/telegram-bot-yaratish/"><link rel="alternate" hreflang="ru" href="https://levelm.uz/ru/blog/kak-sozdat-telegram-bota/"><link rel="alternate" hreflang="en" href="https://levelm.uz/en/blog/create-a-telegram-bot/"><link rel="alternate" hreflang="x-default" href="https://levelm.uz/blog/telegram-bot-yaratish/">
+<meta property="og:type" content="article">
+<meta property="og:title" content="How to create a Telegram bot: from BotFather to your first lead — Level Marketing">
+<meta property="og:description" content="How to create a Telegram bot for business: BotFather setup, token security, builder or developer, menus and a lead flow, CRM connection, mistakes.">
+<meta property="og:url" content="https://levelm.uz/en/blog/create-a-telegram-bot/">
+<meta property="og:site_name" content="Level Marketing">
+<meta property="og:locale" content="en_US">
+
+<meta name="twitter:card" content="summary">
+<meta name="theme-color" content="#0c2549">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="alternate" type="application/rss+xml" title="Level Marketing" href="/en/rss.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/style.css?v=78e85ab4">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BlogPosting", "headline": "How to create a Telegram bot: from BotFather to your first lead", "description": "How to create a Telegram bot for business: BotFather setup, token security, builder or developer, menus and a lead flow, CRM connection, mistakes.", "image": "https://levelm.uz/covers/en-create-a-telegram-bot.svg", "datePublished": "2026-11-24", "dateModified": "2026-11-24", "inLanguage": "en", "mainEntityOfPage": "https://levelm.uz/en/blog/create-a-telegram-bot/", "author": {"@type": "Organization", "name": "Level Marketing", "url": "https://levelm.uz/"}, "publisher": {"@type": "Organization", "name": "Level Marketing", "url": "https://levelm.uz/"}}</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-300446964"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','AW-300446964');window.LM_GADS='AW-300446964/h2TSCL_Im7YdEPTpoY8B';</script>
+</head>
+<body>
+<header class="top"><div class="wrap nav">
+  <a class="logo" href="/en/" aria-label="Level Marketing"><img class="mark" src="/logo.svg" alt="" width="95" height="28"><span class="tag">marketing</span></a>
+  <div class="langs"><a class="lang" href="/blog/telegram-bot-yaratish/" hreflang="uz" title="O‘zbekcha">UZ</a><a class="lang" href="/ru/blog/kak-sozdat-telegram-bota/" hreflang="ru" title="Русский">RU</a><a class="lang on" href="/en/blog/create-a-telegram-bot/" hreflang="en" title="English">EN</a></div>
+  <button class="burger" type="button" aria-label="Menu" aria-expanded="false" aria-controls="menu"><span></span><span></span><span></span></button>
+  <nav id="menu">
+    <a href="/en/#services">Services</a>
+    <a href="/en/cases/">Cases</a>
+    <a href="/en/#team">Team</a>
+    <a href="/en/blog/">Articles</a>
+    <a href="/en/#location">Location</a>
+    <a href="/en/#contact">Contact</a>
+    <a class="btn small" href="https://t.me/levelhr" target="_blank" rel="noopener">Get a free audit</a>
+  </nav>
+</div></header>
+<script>
+document.querySelector('.burger').addEventListener('click', function () {
+  var open = document.body.classList.toggle('menu-open');
+  this.setAttribute('aria-expanded', open);
+});
+document.querySelectorAll('#menu a').forEach(function (a) {
+  a.addEventListener('click', function () { document.body.classList.remove('menu-open'); });
+});
+</script>
+<main>
+
+<article class="wrap post">
+  <p class="crumbs"><a href="/en/">Level Marketing</a> / <a href="/en/blog/">Articles</a> / <a href="/en/rubric/biznes/">Running a business</a></p>
+  <h1>How to create a Telegram bot: from BotFather to your first lead</h1>
+  <p class="meta">November 24, 2026 · 3 min read</p>
+  <img class="cover" src="/covers/en-create-a-telegram-bot.svg" alt="How to create a Telegram bot: from BotFather to your first lead" width="1200" height="630">
+  <nav class="toc"><ol><li><a href="#step-1-create-the-bot-with-botfather">Step 1: create the bot with BotFather</a></li><li><a href="#step-2-protect-the-token">Step 2: protect the token</a></li><li><a href="#step-3-a-bot-builder-or-a-developer">Step 3: a bot builder or a developer</a></li><li><a href="#step-4-the-lead-flow">Step 4: the lead flow</a></li><li><a href="#step-5-menus-and-buttons">Step 5: menus and buttons</a></li><li><a href="#step-6-connect-to-a-crm-and-your-team">Step 6: connect to a CRM and your team</a></li><li><a href="#the-law-and-privacy">The law and privacy</a></li><li><a href="#questions-and-answers">Questions and answers</a></li><li><a href="#conclusion">Conclusion</a></li><li><a href="#more-on-this-topic">More on this topic</a></li></ol></nav>
+  <div class="prose"><p>A Telegram bot is a 24-hour assistant for your business: it takes enquiries, sends price lists, reports order status and alerts a salesperson. Creating a bot takes minutes; making it useful is a matter of the right flow and integrations. Here's the step-by-step. How bots work for lead generation — <a href="/en/blog/telegram-bot-for-leads/">a Telegram bot for leads</a>.</p>
+<h2 id="step-1-create-the-bot-with-botfather">Step 1: create the bot with BotFather</h2>
+<ol><li>Find the official <strong>@BotFather</strong> in Telegram (it has a blue tick).</li><li>Send the <code>/newbot</code> command.</li><li>Enter the bot's name — e.g. "Zamon Mebel Assistant" (an illustrative example).</li><li>Enter a username, which must end in "bot": @zamonmebel_bot.</li><li>BotFather gives you a <strong>token</strong> — the key to the bot.</li></ol>
+<h2 id="step-2-protect-the-token">Step 2: protect the token</h2>
+<p>The token gives full control of the bot. So:</p>
+<ul><li>share it only with a trusted developer or bot builder;</li><li>never keep it in chats, screenshots or public places;</li><li>if it leaks, regenerate it in BotFather immediately.</li></ul>
+<h2 id="step-3-a-bot-builder-or-a-developer">Step 3: a bot builder or a developer</h2>
+<div class="table"><table><thead><tr><th></th><th>Bot builder</th><th>Developer</th></tr></thead><tbody><tr><td>Timeline</td><td>Hours to days</td><td>Days to weeks</td></tr><tr><td>Cost</td><td>Cheap, monthly fee</td><td>Higher</td></tr><tr><td>Capabilities</td><td>Template flows</td><td>Any logic, CRM, payments</td></tr><tr><td>Best for</td><td>Leads, FAQs, a simple catalogue</td><td>Complex processes</td></tr></tbody></table></div>
+<p>You can also build a simple prototype with AI — <a href="/en/blog/vibe-coding-for-business/">vibe coding for business</a>.</p>
+<h2 id="step-4-the-lead-flow">Step 4: the lead flow</h2>
+<p>A good bot is short:</p>
+<ol><li><strong>Greeting</strong>: "Hello! We'll price your kitchen in 1 minute."</li><li><strong>2–3 questions</strong>: what's needed, size or budget, district.</li><li><strong>Phone number</strong> via a "Share number" button.</li><li><strong>Finish</strong>: "A salesperson will call within 15 minutes" — and keep that promise.</li></ol>
+<p>More questions mean fewer leads. On questions — <a href="/en/blog/lead-form-questions/">lead form questions</a>.</p>
+<h2 id="step-5-menus-and-buttons">Step 5: menus and buttons</h2>
+<ul><li>A main menu: "Prices", "Catalogue", "Order", "Contact a salesperson".</li><li>Buttons are easier than typing, especially on a phone.</li></ul>
+<h2 id="step-6-connect-to-a-crm-and-your-team">Step 6: connect to a CRM and your team</h2>
+<p>Leads mustn't get stuck in the bot:</p>
+<ul><li>send every lead to the CRM or a sales team group;</li><li>tag the source: a parameter in the bot link shows which ad the person came from — <a href="/en/blog/utm-tags/">UTM tags</a>;</li><li>monitor response speed — <a href="/en/blog/lead-response-time/">lead response time</a>.</li></ul>
+<h2 id="the-law-and-privacy">The law and privacy</h2>
+<p>If the bot collects names and phone numbers, that's personal data. You need consent wording and a privacy policy — <a href="/en/blog/customer-database-personal-data-uzbekistan/">customer database and personal data</a>. Rules for promotional broadcasts via bots — <a href="/en/blog/telegram-bot-broadcast-rules/">Telegram bot broadcast rules</a>.</p>
+<h2 id="questions-and-answers">Questions and answers</h2>
+<h3 id="is-a-bot-free">Is a bot free?</h3>
+<p>Creating a bot is free. A builder, hosting or developer work may cost money.</p>
+<h3 id="can-i-connect-ai-to-the-bot">Can I connect AI to the bot?</h3>
+<p>Yes, to answer questions — but prices and complex questions should go to a salesperson — <a href="/en/blog/telegram-ai-assistant/">a Telegram AI assistant</a>.</p>
+<h3 id="how-is-a-bot-different-from-telegram-business">How is a bot different from Telegram Business?</h3>
+<p>A bot is a separate, automated account. Telegram Business adds business features to a personal account — <a href="/en/blog/telegram-business-features/">Telegram Business features</a>.</p>
+<h2 id="conclusion">Conclusion</h2>
+<p>Creating a Telegram bot takes 5 minutes in BotFather, but results depend on the flow: short questions, a phone button, a CRM connection and fast replies. Protect the token and follow personal data rules. Level Marketing replies to leads within 30 minutes — in a free audit, we'll review your lead-handling process.</p>
+<h2 id="more-on-this-topic">More on this topic</h2>
+<ul><li><a href="/en/blog/telegram-bot-for-leads/">Collecting leads with a Telegram bot: a guide for business</a></li><li><a href="/en/blog/telegram-ai-assistant/">A Telegram AI assistant: replying to leads 24/7</a></li><li><a href="/en/blog/create-a-telegram-channel/">How to create a Telegram channel for business: step by step</a></li></ul></div>
+  <aside class="post-cta"><h2>Want results like this for your business?</h2><p>Message us for a free audit — we will review your marketing and give concrete recommendations.</p><a class="btn" href="https://t.me/levelhr" target="_blank" rel="noopener">Get a free audit</a></aside>
+</article>
+<section class="wrap block"><h2>Read next</h2><div class="cards"><a class="card" href="/en/blog/qualified-lead/">
+  <span class="thumb"><img src="/covers/en-qualified-lead.svg" alt="Qualified leads: what MQL and SQL mean and how to qualify leads" loading="lazy" width="600" height="315"></span>
+  <span class="card-body">
+  <span class="meta"><b>Sales and analytics</b> · November 24, 2026 · 3 min read</span>
+  <h3>Qualified leads: what MQL and SQL mean and how to qualify leads</h3>
+  <p>What a qualified lead is: MQL vs SQL, qualification criteria, lead form questions, CRM statuses, a marketing–sales agreement and measuring lead quality.</p>
+  <span class="more">Read →</span>
+  </span>
+</a><a class="card" href="/en/blog/meta-business-portfolio-setup/">
+  <span class="thumb"><img src="/covers/en-meta-business-portfolio-setup.svg" alt="Meta business portfolio (Business Manager): setup guide" loading="lazy" width="600" height="315"></span>
+  <span class="card-body">
+  <span class="meta"><b>Paid ads</b> · November 24, 2026 · 3 min read</span>
+  <h3>Meta business portfolio (Business Manager): setup guide</h3>
+  <p>How to create a Meta business portfolio: connecting your Facebook Page, Instagram and ad account, giving staff and agencies access, payments, security and common mistakes.</p>
+  <span class="more">Read →</span>
+  </span>
+</a><a class="card" href="/en/blog/how-to-set-up-google-ads/">
+  <span class="thumb"><img src="/covers/en-how-to-set-up-google-ads.svg" alt="How to set up Google Ads: a step-by-step search campaign" loading="lazy" width="600" height="315"></span>
+  <span class="card-body">
+  <span class="meta"><b>Paid ads</b> · November 24, 2026 · 3 min read</span>
+  <h3>How to set up Google Ads: a step-by-step search campaign</h3>
+  <p>How to set up a Google Ads search campaign: the account, conversion tracking, keywords and match types, negative keywords, ad copy, budget and first-week checks.</p>
+  <span class="more">Read →</span>
+  </span>
+</a></div></section>
+
+</main>
+<footer class="foot"><div class="wrap">
+  <div>
+    <a class="logo" href="/en/" aria-label="Level Marketing"><img class="mark" src="/logo.svg" alt="" width="95" height="28"><span class="tag">marketing</span></a>
+    <p>Marketing agency in Tashkent, Uzbekistan</p>
+    <p>29, 5th Kvartal, Tashkent, Uzbekistan</p>
+  </div>
+  <div class="contacts"><a href="https://t.me/levelhr" target="_blank" rel="noopener">Telegram</a><a href="https://instagram.com/levelmarketing.uz" target="_blank" rel="noopener">Instagram</a><a href="tel:+998874259090">+998 87 425 90 90</a></div>
+  <p class="copy">© 2026 Level Marketing · <a href="/en/privacy/">Privacy policy</a></p>
+</div></footer>
+</body>
+</html>

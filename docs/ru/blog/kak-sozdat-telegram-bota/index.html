@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Как создать Telegram-бота: от BotFather до первой заявки — Level Marketing</title>
+<meta name="description" content="Как создать Telegram-бота для бизнеса: бот через BotFather, безопасность токена, конструктор или разработчик, меню и сценарий заявки, связь с CRM и ошибки.">
+<link rel="canonical" href="https://levelm.uz/ru/blog/kak-sozdat-telegram-bota/">
+<link rel="alternate" hreflang="uz" href="https://levelm.uz/blog/telegram-bot-yaratish/"><link rel="alternate" hreflang="ru" href="https://levelm.uz/ru/blog/kak-sozdat-telegram-bota/"><link rel="alternate" hreflang="en" href="https://levelm.uz/en/blog/create-a-telegram-bot/"><link rel="alternate" hreflang="x-default" href="https://levelm.uz/blog/telegram-bot-yaratish/">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Как создать Telegram-бота: от BotFather до первой заявки — Level Marketing">
+<meta property="og:description" content="Как создать Telegram-бота для бизнеса: бот через BotFather, безопасность токена, конструктор или разработчик, меню и сценарий заявки, связь с CRM и ошибки.">
+<meta property="og:url" content="https://levelm.uz/ru/blog/kak-sozdat-telegram-bota/">
+<meta property="og:site_name" content="Level Marketing">
+<meta property="og:locale" content="ru_RU">
+
+<meta name="twitter:card" content="summary">
+<meta name="theme-color" content="#0c2549">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="alternate" type="application/rss+xml" title="Level Marketing" href="/ru/rss.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/style.css?v=78e85ab4">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BlogPosting", "headline": "Как создать Telegram-бота: от BotFather до первой заявки", "description": "Как создать Telegram-бота для бизнеса: бот через BotFather, безопасность токена, конструктор или разработчик, меню и сценарий заявки, связь с CRM и ошибки.", "image": "https://levelm.uz/covers/ru-kak-sozdat-telegram-bota.svg", "datePublished": "2026-11-24", "dateModified": "2026-11-24", "inLanguage": "ru", "mainEntityOfPage": "https://levelm.uz/ru/blog/kak-sozdat-telegram-bota/", "author": {"@type": "Organization", "name": "Level Marketing", "url": "https://levelm.uz/"}, "publisher": {"@type": "Organization", "name": "Level Marketing", "url": "https://levelm.uz/"}}</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-300446964"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','AW-300446964');window.LM_GADS='AW-300446964/h2TSCL_Im7YdEPTpoY8B';</script>
+</head>
+<body>
+<header class="top"><div class="wrap nav">
+  <a class="logo" href="/ru/" aria-label="Level Marketing"><img class="mark" src="/logo.svg" alt="" width="95" height="28"><span class="tag">marketing</span></a>
+  <div class="langs"><a class="lang" href="/blog/telegram-bot-yaratish/" hreflang="uz" title="O‘zbekcha">UZ</a><a class="lang on" href="/ru/blog/kak-sozdat-telegram-bota/" hreflang="ru" title="Русский">RU</a><a class="lang" href="/en/blog/create-a-telegram-bot/" hreflang="en" title="English">EN</a></div>
+  <button class="burger" type="button" aria-label="Меню" aria-expanded="false" aria-controls="menu"><span></span><span></span><span></span></button>
+  <nav id="menu">
+    <a href="/ru/#services">Услуги</a>
+    <a href="/ru/keysy/">Кейсы</a>
+    <a href="/ru/#team">Команда</a>
+    <a href="/ru/blog/">Статьи</a>
+    <a href="/ru/#location">Локация</a>
+    <a href="/ru/#contact">Связаться</a>
+    <a class="btn small" href="https://t.me/levelhr" target="_blank" rel="noopener">Получить бесплатный аудит</a>
+  </nav>
+</div></header>
+<script>
+document.querySelector('.burger').addEventListener('click', function () {
+  var open = document.body.classList.toggle('menu-open');
+  this.setAttribute('aria-expanded', open);
+});
+document.querySelectorAll('#menu a').forEach(function (a) {
+  a.addEventListener('click', function () { document.body.classList.remove('menu-open'); });
+});
+</script>
+<main>
+
+<article class="wrap post">
+  <p class="crumbs"><a href="/ru/">Level Marketing</a> / <a href="/ru/blog/">Статьи</a> / <a href="/ru/rubric/biznes/">Своё дело</a></p>
+  <h1>Как создать Telegram-бота: от BotFather до первой заявки</h1>
+  <p class="meta">24 ноября 2026 · 2 мин чтения</p>
+  <img class="cover" src="/covers/ru-kak-sozdat-telegram-bota.svg" alt="Как создать Telegram-бота: от BotFather до первой заявки" width="1200" height="630">
+  <nav class="toc"><ol><li><a href="#шаг-1-создать-бота-через-botfather">Шаг 1: создать бота через BotFather</a></li><li><a href="#шаг-2-защитите-токен">Шаг 2: защитите токен</a></li><li><a href="#шаг-3-как-запустить-конструктор-или-разработчик">Шаг 3: как запустить — конструктор или разработчик</a></li><li><a href="#шаг-4-сценарий-заявки">Шаг 4: сценарий заявки</a></li><li><a href="#шаг-5-меню-и-кнопки">Шаг 5: меню и кнопки</a></li><li><a href="#шаг-6-связь-с-crm-и-менеджером">Шаг 6: связь с CRM и менеджером</a></li><li><a href="#закон-и-конфиденциальность">Закон и конфиденциальность</a></li><li><a href="#вопросы-и-ответы">Вопросы и ответы</a></li><li><a href="#вывод">Вывод</a></li><li><a href="#ещё-по-теме">Ещё по теме</a></li></ol></nav>
+  <div class="prose"><p>Telegram-бот — помощник бизнеса, работающий 24 часа: принимает заявки, присылает прайс, сообщает статус заказа, уведомляет менеджера. Создать бота — несколько минут, а сделать его полезным — вопрос правильного сценария и интеграции. Разберём по шагам. Как боты работают на заявки — <a href="/ru/blog/telegram-bot-dlya-zayavok/">Telegram-бот для заявок</a>.</p>
+<h2 id="шаг-1-создать-бота-через-botfather">Шаг 1: создать бота через BotFather</h2>
+<ol><li>Найдите в Telegram официального <strong>@BotFather</strong> (с синей галочкой).</li><li>Отправьте команду <code>/newbot</code>.</li><li>Введите имя бота — например, «Помощник Zamon Mebel» (условный пример).</li><li>Введите username — он обязательно заканчивается на «bot»: @zamonmebel_bot.</li><li>BotFather выдаст <strong>токен</strong> — это ключ от бота.</li></ol>
+<h2 id="шаг-2-защитите-токен">Шаг 2: защитите токен</h2>
+<p>Токен — полный контроль над ботом. Его:</p>
+<ul><li>давайте только надёжному разработчику или конструктору;</li><li>не храните в чатах, на скриншотах и в открытых местах;</li><li>если утёк — сразу обновите в BotFather.</li></ul>
+<h2 id="шаг-3-как-запустить-конструктор-или-разработчик">Шаг 3: как запустить — конструктор или разработчик</h2>
+<div class="table"><table><thead><tr><th></th><th>Конструктор ботов</th><th>Разработчик</th></tr></thead><tbody><tr><td>Срок</td><td>Несколько часов–дней</td><td>Несколько дней–недель</td></tr><tr><td>Цена</td><td>Недорого, ежемесячная оплата</td><td>Выше</td></tr><tr><td>Возможности</td><td>Шаблонные сценарии</td><td>Любая логика, CRM, оплата</td></tr><tr><td>Для чего</td><td>Заявки, FAQ, простой каталог</td><td>Сложные процессы</td></tr></tbody></table></div>
+<p>Простой прототип можно собрать и с ИИ — <a href="/ru/blog/vayb-koding-dlya-biznesa/">вайб-кодинг для бизнеса</a>.</p>
+<h2 id="шаг-4-сценарий-заявки">Шаг 4: сценарий заявки</h2>
+<p>Хороший бот — короткий:</p>
+<ol><li><strong>Приветствие</strong>: «Здравствуйте! Посчитаем цену кухни за 1 минуту».</li><li><strong>2–3 вопроса</strong>: что нужно, размер или бюджет, район.</li><li><strong>Телефон</strong>: кнопкой «Поделиться номером».</li><li><strong>Финал</strong>: «Менеджер позвонит в течение 15 минут» — и выполните обещание.</li></ol>
+<p>Больше вопросов — меньше заявок. О вопросах — <a href="/ru/blog/voprosy-v-lid-forme/">вопросы в лид-форме</a>.</p>
+<h2 id="шаг-5-меню-и-кнопки">Шаг 5: меню и кнопки</h2>
+<ul><li>Главное меню: «Цены», «Каталог», «Заказать», «Связаться с менеджером».</li><li>Кнопки проще, чем писать текст, — особенно с телефона.</li></ul>
+<h2 id="шаг-6-связь-с-crm-и-менеджером">Шаг 6: связь с CRM и менеджером</h2>
+<p>Заявка не должна застрять в боте:</p>
+<ul><li>каждая заявка — в CRM или в группу менеджеров;</li><li>метка источника: параметр в ссылке на бота показывает, из какой рекламы пришёл человек — <a href="/ru/blog/utm-metki/">UTM-метки</a>;</li><li>следите за скоростью ответа — <a href="/ru/blog/skorost-otveta-na-zayavku/">скорость ответа на заявку</a>.</li></ul>
+<h2 id="закон-и-конфиденциальность">Закон и конфиденциальность</h2>
+<p>Если бот собирает телефон и имя — это персональные данные. Нужны текст согласия и политика конфиденциальности — <a href="/ru/blog/baza-klientov-personalnye-dannye/">база клиентов и персональные данные</a>. Правила рекламных рассылок через бота — <a href="/ru/blog/rassylka-v-telegram-bote-pravila/">рассылка в Telegram-боте: правила</a>.</p>
+<h2 id="вопросы-и-ответы">Вопросы и ответы</h2>
+<h3 id="бот-бесплатный">Бот бесплатный?</h3>
+<p>Создать бота бесплатно. Конструктор или сервер и работа разработчика могут быть платными.</p>
+<h3 id="можно-ли-подключить-к-боту-ии">Можно ли подключить к боту ИИ?</h3>
+<p>Да, чтобы отвечать на вопросы, — но цена и сложные вопросы уходят менеджеру — <a href="/ru/blog/ii-bot-v-telegram/">ИИ-бот в Telegram</a>.</p>
+<h3 id="чем-бот-отличается-от-telegram-business">Чем бот отличается от Telegram Business?</h3>
+<p>Бот — отдельный аккаунт и автомат. Telegram Business — бизнес-функции для личного аккаунта — <a href="/ru/blog/telegram-business-dlya-kompanii/">Telegram Business</a>.</p>
+<h2 id="вывод">Вывод</h2>
+<p>Создать Telegram-бота — 5 минут в BotFather, но результат зависит от сценария: короткие вопросы, кнопка телефона, связь с CRM и быстрый ответ. Берегите токен и соблюдайте правила работы с персональными данными. Level Marketing отвечает на заявки за 30 минут — на бесплатном аудите проверим ваш процесс обработки заявок.</p>
+<h2 id="ещё-по-теме">Ещё по теме</h2>
+<ul><li><a href="/ru/blog/telegram-bot-dlya-zayavok/">Сбор заявок через Telegram-бота: инструкция для бизнеса</a></li><li><a href="/ru/blog/ii-bot-v-telegram/">ИИ-бот в Telegram: ответы на заявки 24/7</a></li><li><a href="/ru/blog/kak-sozdat-telegram-kanal/">Как создать Telegram-канал для бизнеса: пошаговое руководство</a></li></ul></div>
+  <aside class="post-cta"><h2>Нужен такой же результат для вашего бизнеса?</h2><p>Напишите для бесплатного аудита — разберём ваш маркетинг и дадим конкретные рекомендации.</p><a class="btn" href="https://t.me/levelhr" target="_blank" rel="noopener">Получить бесплатный аудит</a></aside>
+</article>
+<section class="wrap block"><h2>Читайте также</h2><div class="cards"><a class="card" href="/ru/blog/kak-sozdat-telegram-kanal/">
+  <span class="thumb"><img src="/covers/ru-kak-sozdat-telegram-kanal.svg" alt="Как создать Telegram-канал для бизнеса: пошаговое руководство" loading="lazy" width="600" height="315"></span>
+  <span class="card-body">
+  <span class="meta"><b>SMM</b> · 24 ноября 2026 · 2 мин чтения</span>
+  <h3>Как создать Telegram-канал для бизнеса: пошаговое руководство</h3>
+  <p>Как открыть Telegram-канал для бизнеса: публичный или закрытый, название и ссылка, описание, админы, группа для обсуждения, первые 10 постов и связка с продажами.</p>
+  <span class="more">Читать →</span>
+  </span>
+</a><a class="card" href="/ru/blog/kak-sozdat-biznes-portfolio-meta/">
+  <span class="thumb"><img src="/covers/ru-kak-sozdat-biznes-portfolio-meta.svg" alt="Бизнес-портфолио Meta (Business Manager): создание и настройка" loading="lazy" width="600" height="315"></span>
+  <span class="card-body">
+  <span class="meta"><b>Таргет и реклама</b> · 24 ноября 2026 · 2 мин чтения</span>
+  <h3>Бизнес-портфолио Meta (Business Manager): создание и настройка</h3>
+  <p>Как создать бизнес-портфолио Meta: подключить страницу Facebook, Instagram и рекламный кабинет, дать доступ сотрудникам и агентству, оплата, безопасность и частые ошибки.</p>
+  <span class="more">Читать →</span>
+  </span>
+</a><a class="card" href="/ru/blog/kak-sozdat-biznes-akkaunt-instagram/">
+  <span class="thumb"><img src="/covers/ru-kak-sozdat-biznes-akkaunt-instagram.svg" alt="Как создать бизнес-аккаунт в Instagram: настройка по шагам" loading="lazy" width="600" height="315"></span>
+  <span class="card-body">
+  <span class="meta"><b>SMM</b> · 24 ноября 2026 · 2 мин чтения</span>
+  <h3>Как создать бизнес-аккаунт в Instagram: настройка по шагам</h3>
+  <p>Как открыть бизнес-аккаунт в Instagram: переход на профессиональный аккаунт, бизнес или автор, категория и контакты, связь со страницей Facebook, безопасность и первые посты.</p>
+  <span class="more">Читать →</span>
+  </span>
+</a></div></section>
+
+</main>
+<footer class="foot"><div class="wrap">
+  <div>
+    <a class="logo" href="/ru/" aria-label="Level Marketing"><img class="mark" src="/logo.svg" alt="" width="95" height="28"><span class="tag">marketing</span></a>
+    <p>Маркетинговое агентство в Ташкенте</p>
+    <p>г. Ташкент, 5-й квартал, 29</p>
+  </div>
+  <div class="contacts"><a href="https://t.me/levelhr" target="_blank" rel="noopener">Telegram</a><a href="https://instagram.com/levelmarketing.uz" target="_blank" rel="noopener">Instagram</a><a href="tel:+998874259090">+998 87 425 90 90</a></div>
+  <p class="copy">© 2026 Level Marketing · <a href="/ru/konfidencialnost/">Политика конфиденциальности</a></p>
+</div></footer>
+</body>
+</html>
