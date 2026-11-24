@@ -13,6 +13,7 @@ import sys
 from datetime import date, datetime
 from pathlib import Path
 
+import home_deck
 from i18n import CLIENTS, LANG_NAMES, LANG_SHORT, LANGS, LEAD, PREFIX, PRIVACY, RUBRICS, T, TEAM
 
 RUBRIC_NAMES = dict(RUBRICS)
@@ -220,7 +221,7 @@ def home_alts():
     return {l: PREFIX[l] + "/" for l in LANGS}
 
 
-def page(lang, title, desc, path, body, alts=None, schema=None, og_type="website", og_image=""):
+def page(lang, title, desc, path, body, alts=None, schema=None, og_type="website", og_image="", extra_head="", body_class=""):
     t = T[lang]
     alts = alts if alts is not None else home_alts()
     hreflang = ""
@@ -267,11 +268,11 @@ def page(lang, title, desc, path, body, alts=None, schema=None, og_type="website
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="/style.css?v={CSS_VERSION}">
+<link rel="stylesheet" href="/style.css?v={CSS_VERSION}">{extra_head}
 {schema_tag}
 {gads}
 </head>
-<body>
+<body{f' class="{body_class}"' if body_class else ""}>
 <header class="top"><div class="wrap nav">
   <a class="logo" href="{p}/" aria-label="{SITE['name']}"><img class="mark" src="/logo.svg" alt="" width="95" height="28"><span class="tag">marketing</span></a>
   <div class="langs">{langs}</div>
@@ -422,50 +423,31 @@ def clients_block(lang):
 </div></section>"""
 
 
+# Home page in the style of the client portfolio deck: content and layout in home_deck.py, styles in static/home.css.
+HOME_CSS_VERSION = __import__("hashlib").md5((ROOT / "static" / "home.css").read_bytes()).hexdigest()[:8]
+HOME_HEAD = ('\n<link href="https://fonts.googleapis.com/css2?family=Caveat:wght@700&family=Inter+Tight:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">\n'
+             f'<link rel="stylesheet" href="/home.css?v={HOME_CSS_VERSION}">')
+
+
 def home(lang, posts):
     t = T[lang]
     p = PREFIX[lang]
-    cta = contact_link(lang)
-    cases = [x for x in posts if x.kind == "case"][:6]
-    articles = [x for x in posts if x.kind != "case"][:3]
-    stats = "".join(f'<div class="stat"><b>{a}</b><span>{b}</span></div>' for a, b in t["stats"])
-    services = "".join(f'<div class="svc"><h3>{a}</h3><p>{b}</p></div>' for a, b in t["services"])
-    steps = "".join(f'<li><b>{a}</b><span>{b}</span></li>' for a, b in t["process"])
-    why = "".join(f'<div class="why"><h3>{a}</h3><p>{b}</p></div>' for a, b in t["why"])
-    faq = "".join(f"<details><summary>{q}</summary><p>{a}</p></details>" for q, a in t["faq"])
-    cases_html = (f'<div class="cards">{"".join(card(c) for c in cases)}</div>' if cases
-                  else f'<p class="muted">{t["cases_empty"]}</p>')
-    blog_html = ""
-    if articles:
-        blog_html = f"""<section class="wrap block"><div class="head"><h2>{t['blog_h']}</h2>
-<a href="{p}/blog/">{t['blog_all']} →</a></div><div class="cards">{"".join(card(a) for a in articles)}</div></section>"""
-    body = f"""
-<section class="hero"><div class="wrap">
-  <p class="kicker">{t['hero_kicker']}</p>
-  <h1>{t['hero_h1']}</h1>
-  <p class="lead">{t['hero_p']}</p>
-  <div class="actions"><a class="btn" href="{cta}"{ext_attr(cta)}>{t['cta']}</a><a class="btn ghost" href="{p}{t['cases_path']}">{t['hero_cta2']}</a></div>
-  <div class="stats">{stats}</div>
-</div></section>
-<section class="wrap block" id="services"><h2>{t['services_h']}</h2><div class="grid3">{services}</div></section>
-<section class="wrap block" id="cases"><div class="head"><h2>{t['cases_h']}</h2>{f'<a href="{p}{t["cases_path"]}">{t["cases_all"]} →</a>' if cases else ''}</div>{cases_html}</section>
-{clients_block(lang)}
-<section class="wrap block"><h2>{t['why_h']}</h2><div class="grid3">{why}</div></section>
-<section class="band"><div class="wrap block" id="process"><h2>{t['process_h']}</h2><ol class="steps">{steps}</ol></div></section>
-{team_block(lang)}
-{blog_html}
-{contact_block(lang)}
-{location_block(lang)}
-<section class="wrap block faq"><h2>{t['faq_h']}</h2>{faq}</section>
-<section class="final"><div class="wrap"><h2>{t['final_h']}</h2><p>{t['final_p']}</p><a class="btn" href="{cta}"{ext_attr(cta)}>{t['cta']}</a></div></section>
-"""
+    c = SITE["contacts"]
+    ctx = {
+        "t": t, "p": p, "cta": contact_link(lang), "ext": ext_attr, "card": card, "team": TEAM,
+        "by_key": {x.key: x for x in posts},
+        "contacts": {"phone": c["phone"], "tel": re.sub(r"[^\d+]", "", c["phone"]), "telegram": c["telegram"].lstrip("@"),
+                     "tg_url": tg_url(), "instagram": c["instagram"].lstrip("@")},
+        "location": location_block(lang),
+    }
+    body = home_deck.render(lang, posts, ctx)
     faq_schema = {
         "@context": "https://schema.org",
         "@type": "FAQPage",
         "mainEntity": [{"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": a}} for q, a in t["faq"]],
     }
     return page(lang, t["home_title"], t["home_desc"], f"{p}/", body, home_alts(), [org_schema(lang), faq_schema],
-                og_image="/img/clients-wall.jpg")
+                og_image="/img/clients-wall.jpg", extra_head=HOME_HEAD, body_class="deck")
 
 
 
