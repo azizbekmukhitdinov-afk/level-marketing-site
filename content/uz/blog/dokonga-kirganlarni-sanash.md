@@ -142,4 +142,4 @@ Do‘konga kirganlarni sanash — savdo tushganda sababni topishning eng arzon u
 
 - [Do‘konda sotuvni oshirish: kiyim, oziq-ovqat va dorixona uchun](/blog/dokonda-sotuvni-oshirish/)
 - [Konversiya nima: qanday hisoblash va qanday oshirish](/blog/konversiya-nima/)
-- [Oflayn reklama natijasini o‘lchash: QR, promokod va CRM](/blog/oflayn-reklama-natijasi/)
+- [Chekdagi tovarlar soni (UPT): kassa hisobotidan hisoblash](/blog/chekdagi-tovarlar-soni-upt/)

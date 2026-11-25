@@ -142,4 +142,4 @@ Counting store foot traffic is the cheapest way to find the cause when sales fal
 
 - [How to increase sales in a store: clothing, grocery, pharmacy](/en/blog/increase-retail-store-sales/)
 - [What is conversion rate? How to calculate and improve it](/en/blog/what-is-conversion-rate/)
-- [How to measure offline advertising: QR codes, promo codes, CRM](/en/blog/measure-offline-advertising/)
+- [Units per transaction (UPT): how to calculate it from the till](/en/blog/units-per-transaction-upt/)

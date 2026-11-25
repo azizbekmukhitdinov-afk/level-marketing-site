@@ -86,4 +86,4 @@ rubric: sotuv
 
 - [Повторные продажи и LTV: больше дохода от текущих клиентов](/ru/blog/povtornye-prodazhi-i-ltv/)
 - [Скрипт продаж: структура для звонков и Telegram](/ru/blog/skript-prodazh/)
-- [Как установить цену на товар или услугу: методы ценообразования](/ru/blog/kak-ustanovit-tsenu/)
+- [Количество товаров в чеке (UPT): как считать по кассовому отчёту](/ru/blog/kolichestvo-tovarov-v-cheke-upt/)

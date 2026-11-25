@@ -86,4 +86,4 @@ Upselling and cross-selling are the cheapest way to raise order value — as lon
 
 - [Repeat sales and LTV: more revenue from existing customers](/en/blog/repeat-sales-and-ltv/)
 - [Sales script: a structure for calls and Telegram](/en/blog/sales-script/)
-- [How to set prices for a product or service: pricing methods](/en/blog/how-to-set-prices/)
+- [Units per transaction (UPT): how to calculate it from the till](/en/blog/units-per-transaction-upt/)

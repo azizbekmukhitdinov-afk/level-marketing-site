@@ -142,4 +142,4 @@ rubric: sotuv
 
 - [Как увеличить продажи в магазине: одежда, продукты, аптека](/ru/blog/kak-uvelichit-prodazhi-v-magazine/)
 - [Что такое конверсия: как посчитать и как повысить](/ru/blog/chto-takoe-konversiya/)
-- [Как измерить отдачу офлайн-рекламы: QR, промокоды и CRM](/ru/blog/otdacha-oflayn-reklamy/)
+- [Количество товаров в чеке (UPT): как считать по кассовому отчёту](/ru/blog/kolichestvo-tovarov-v-cheke-upt/)

@@ -86,4 +86,4 @@ Upsell va cross-sell — o‘rtacha chekni oshirishning eng arzon usuli, agar ta
 
 - [Takroriy sotuv va LTV: mavjud mijozlardan ko‘proq daromad](/blog/takroriy-sotuv-ltv/)
 - [Sotuv skripti: telefon va Telegram uchun tuzilma](/blog/sotuv-skripti/)
-- [Narx belgilash: mahsulot va xizmatga to‘g‘ri narx qo‘yish](/blog/narx-belgilash/)
+- [Chekdagi tovarlar soni (UPT): kassa hisobotidan hisoblash](/blog/chekdagi-tovarlar-soni-upt/)
