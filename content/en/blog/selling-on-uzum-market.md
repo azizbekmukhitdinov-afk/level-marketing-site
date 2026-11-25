@@ -11,6 +11,8 @@ rubric: biznes
 
 "Uzum seller" is one of the most searched phrases among business owners. The marketplace gives access to millions of shoppers, but success there comes not from "listing the product" but from doing the maths, listing quality and ratings. Here are the first steps to start selling on Uzum Market. On building a brand on the marketplace — [building a brand on Uzum Market](/en/blog/building-a-brand-on-uzum-market/).
 
+![Step 1: registration](/img/blog/illus/uzum-market-sotuvchi-1.jpg 1200x675)
+
 ## Step 1: registration
 
 - Apply via the seller page (seller.uzum.uz).
@@ -41,6 +43,8 @@ If no margin remains after all costs, change the price or the range — [unit ec
 
 Speeding up listings with AI — [AI product listings on Uzum](/en/blog/ai-product-listing-uzum/).
 
+![Step 4: pricing](/img/blog/illus/uzum-market-sotuvchi-2.jpg 1200x675)
+
 ## Step 4: pricing
 
 - Watch competitors, but don't compete on price alone.
@@ -55,6 +59,8 @@ Uzum offers different fulfilment models — handing goods to its warehouse or sh
 - Good packaging and accurate descriptions prevent negative reviews.
 - Answer questions and reviews quickly.
 - Respond to negative reviews calmly, with a solution — [online reputation and reviews](/en/blog/online-reputation-and-reviews/).
+
+![A plan for the first 30 days](/img/blog/illus/uzum-market-sotuvchi-3.jpg 1200x675)
 
 ## A plan for the first 30 days
 

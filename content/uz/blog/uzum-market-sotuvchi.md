@@ -11,6 +11,8 @@ rubric: biznes
 
 «Uzum seller» — tadbirkorlar orasida eng ko‘p qidiriladigan so‘rovlardan. Marketplace millionlab xaridorga kirish beradi, lekin u yerda muvaffaqiyat «mahsulotni joylash» bilan emas, hisob-kitob, kartochka sifati va reyting bilan keladi. Uzum Market’da sotishni boshlashning birinchi qadamlarini ko‘rib chiqamiz. Marketplace’da brend qurish haqida — [Uzum Market’da brend](/blog/uzum-market-brend/).
 
+![1-qadam: ro‘yxatdan o‘tish](/img/blog/illus/uzum-market-sotuvchi-1.jpg 1200x675)
+
 ## 1-qadam: ro‘yxatdan o‘tish
 
 - Sotuvchilar uchun sahifa (seller.uzum.uz) orqali ariza.
@@ -41,6 +43,8 @@ Agar barcha xarajatlardan keyin marja qolmasa — narxni yoki assortimentni o‘
 
 Kartochkani AI bilan tezlashtirish — [Uzum kartochka va AI](/blog/uzum-kartochka-ai/).
 
+![4-qadam: narx](/img/blog/illus/uzum-market-sotuvchi-2.jpg 1200x675)
+
 ## 4-qadam: narx
 
 - Raqobatchilarni ko‘ring, lekin faqat narx bilan raqobatlashmang.
@@ -55,6 +59,8 @@ Uzum turli ishlash modellarini taklif qiladi — mahsulotni ularning omboriga to
 - Sifatli qadoq va to‘g‘ri tavsif — salbiy sharhlarning oldini oladi.
 - Savollar va sharhlarga tez javob.
 - Salbiy sharhga — xotirjam yechim bilan — [onlayn obro‘ va sharhlar](/blog/onlayn-obro-sharhlar/).
+
+![Birinchi 30 kun rejasi](/img/blog/illus/uzum-market-sotuvchi-3.jpg 1200x675)
 
 ## Birinchi 30 kun rejasi
 
