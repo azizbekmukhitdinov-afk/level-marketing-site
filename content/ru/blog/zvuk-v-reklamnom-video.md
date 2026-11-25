@@ -117,5 +117,5 @@ rubric: video
 ## Ещё по теме
 
 - [Предупреждение в рекламном ролике: сценарий на 15–30 секунд](/ru/blog/preduprezhdenie-v-reklamnom-rolike/)
-- [Как снимать Reels на телефон: свет, звук и кадр](/ru/blog/kak-snimat-reels-na-telefon/)
+- [Дикторский текст: сколько слов в ролик на 15 и 30 секунд](/ru/blog/diktorskiy-tekst-khronometrazh/)
 - [Музыка для рекламного видео: где брать и 5 ошибок](/ru/blog/muzyka-dlya-reklamnogo-video/)

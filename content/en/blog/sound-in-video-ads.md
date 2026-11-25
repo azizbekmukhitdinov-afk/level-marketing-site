@@ -117,5 +117,5 @@ Sound is half the video. Live speech for services, voice-over or natural sound f
 ## More on this topic
 
 - [Disclaimer in a video ad: scripts for 15, 20 and 30 seconds](/en/blog/video-ad-disclaimer-script/)
-- [Shooting Reels on a phone: light, sound and framing](/en/blog/shooting-reels-on-a-phone/)
+- [Voiceover script: how many words fit in 15 and 30 seconds](/en/blog/voiceover-script-word-count/)
 - [Music for video ads: where to get it and 5 mistakes](/en/blog/music-for-video-ads/)

@@ -106,4 +106,4 @@ rubric: video
 
 - [Звук в рекламном видео: диктор, живая речь или музыка](/ru/blog/zvuk-v-reklamnom-video/)
 - [Рекламное видео с помощью ИИ: инструменты и границы](/ru/blog/reklamnoe-video-s-ii/)
-- [Программы для монтажа видео: для телефона и компьютера](/ru/blog/programmy-dlya-montazha-video/)
+- [Дикторский текст: сколько слов в ролик на 15 и 30 секунд](/ru/blog/diktorskiy-tekst-khronometrazh/)

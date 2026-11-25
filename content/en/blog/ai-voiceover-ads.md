@@ -106,4 +106,4 @@ AI voices speed up ad production: drafts, variations, dubbing. In Uzbek, though,
 
 - [Sound in video ads: voice-over, live speech or music](/en/blog/sound-in-video-ads/)
 - [Making video ads with AI: tools and limits](/en/blog/ai-video-ads/)
-- [Video editing apps: for phone and computer](/en/blog/video-editing-apps/)
+- [Voiceover script: how many words fit in 15 and 30 seconds](/en/blog/voiceover-script-word-count/)

@@ -106,4 +106,4 @@ AI ovoz reklama ishlab chiqarishini tezlashtiradi: qoralama, variantlar, dublyaj
 
 - [Reklama videosida ovoz: diktor, jonli nutq yoki musiqa](/blog/reklama-videosida-ovoz/)
 - [AI bilan reklama videosi yasash: vositalar va chegaralar](/blog/ai-bilan-reklama-videosi/)
-- [Video montaj uchun dasturlar: telefon va kompyuter uchun](/blog/video-montaj-dasturlari/)
+- [Diktor matni: 15 va 30 soniyaga nechta so‘z sig‘adi](/blog/diktor-matni-xronometraj/)

@@ -117,5 +117,5 @@ Ovoz — videoning yarmi. Xizmatlar uchun jonli nutq, mahsulot uchun diktor yoki
 ## Shu mavzuda yana
 
 - [Reklama roligida ogohlantirish: 15, 20 va 30 soniyalik ssenariy](/blog/reklama-roligida-ogohlantirish/)
-- [Telefonda Reels suratga olish: yorug‘lik, ovoz va kadr](/blog/telefonda-reels-suratga-olish/)
+- [Diktor matni: 15 va 30 soniyaga nechta so‘z sig‘adi](/blog/diktor-matni-xronometraj/)
 - [Reklama videosi uchun musiqa: qayerdan olish va 5 ta xato](/blog/reklama-videosi-uchun-musiqa/)
