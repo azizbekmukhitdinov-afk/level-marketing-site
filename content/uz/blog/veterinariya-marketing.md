@@ -11,6 +11,8 @@ rubric: biznes
 
 Uy hayvonlari egalari — eng sodiq mijozlardan: bir marta ishongan veterinarga yillar davomida qaytib keladi va do‘stlariga tavsiya qiladi. Lekin birinchi tanlov ko‘pincha shoshilinch vaziyatda bo‘ladi: «mushugim kasal, hozir qayerga boraman?». Veterinariya klinikasi va zoodo‘kon marketingini shu ikki holat — shoshilinch va doimiy — atrofida qurish kerak.
 
+![Shoshilinch holat: topilish](/img/blog/illus/veterinariya-marketing-1.jpg 1200x675)
+
 ## Shoshilinch holat: topilish
 
 Hayvon kasal bo‘lganda egasi xaritada qidiradi:
@@ -36,6 +38,8 @@ Uy hayvonlari kontenti tabiiy ravishda ko‘p ko‘riladi va ulashiladi:
 - «Qachon shoshilinch veterinarga borish kerak: 5 belgi» — saqlanadigan kontent;
 - davolangan hayvon «oldin/keyin» hikoyasi.
 
+![Profilaktika — doimiy daromad](/img/blog/illus/veterinariya-marketing-2.jpg 1200x675)
+
 ## Profilaktika — doimiy daromad
 
 Emlash, parazitlarga qarshi ishlov, ko‘rik — muntazam xizmatlar. Tizim:
@@ -49,6 +53,8 @@ Emlash, parazitlarga qarshi ishlov, ko‘rik — muntazam xizmatlar. Tizim:
 - Ovqat va to‘ldiruvchilar — muntazam xarid: yetkazib berish va obuna.
 - Veterinar maslahati bilan bog‘lash: «Shifokor tavsiya qilgan ovqat do‘konimizda bor».
 - Telegram orqali tez buyurtma — [Telegram Business](/blog/telegram-business/).
+
+![Reklama](/img/blog/illus/veterinariya-marketing-3.jpg 1200x675)
 
 ## Reklama
 

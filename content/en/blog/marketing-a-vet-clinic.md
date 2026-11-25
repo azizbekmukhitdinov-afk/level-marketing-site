@@ -11,6 +11,8 @@ rubric: biznes
 
 Pet owners are among the most loyal customers: once they trust a vet, they come back for years and recommend them to friends. But the first choice usually happens in an emergency: "My cat is ill — where do I go right now?". Marketing for a vet clinic or pet shop should be built around those two situations: emergencies and ongoing care.
 
+![Emergencies: being found](/img/blog/illus/veterinariya-marketing-1.jpg 1200x675)
+
 ## Emergencies: being found
 
 When a pet falls ill, the owner searches the map:
@@ -36,6 +38,8 @@ Pet content naturally gets lots of views and shares:
 - "When to see a vet urgently: 5 signs" — content people save;
 - before/after stories of treated pets.
 
+![Prevention: steady income](/img/blog/illus/veterinariya-marketing-2.jpg 1200x675)
+
 ## Prevention: steady income
 
 Vaccinations, parasite treatments and check-ups are recurring services. The system:
@@ -49,6 +53,8 @@ Vaccinations, parasite treatments and check-ups are recurring services. The syst
 - Food and litter are regular purchases: offer delivery and subscriptions.
 - Link to vet advice: "The food your vet recommended is in our shop."
 - Fast ordering via Telegram — [Telegram Business features](/en/blog/telegram-business-features/).
+
+![Advertising](/img/blog/illus/veterinariya-marketing-3.jpg 1200x675)
 
 ## Advertising
 
