@@ -1,5 +1,6 @@
 # Журнал смен (новые записи сверху)
 
+2026-11-26 день — шаг 10: догнаны иллюстрации статьи virusli-marketing (3 шт., uz/ru/en, из пакета CEO от 26.11); Canva без пауз
 2026-11-26 день — пост дня по telegram-kanalda-sorovnoma — daily-20261126 передан боту
 2026-11-26 день — новая статья (рубрика smm, кластер «Telegram-маркетинг / опросы в канале», формат «4 типа опросов (таблица) + 7 идей с нишевыми примерами + 6 правил вопроса + чтение итога через долю голосов от просмотров (условный пример) + таблица «итог → действие» + 5 ошибок»; источники telegram.org/blog/polls-2-0-vmq, core.telegram.org/api/poll; sotuv пропущен — 3 статьи за 7 дней; ссылка на новую статью добавлена в «Ещё по теме» kanalda-tugmali-post и telegram-kanal-osish) — telegram-kanalda-sorovnoma / opros-v-telegram-kanale / telegram-channel-polls — «Telegram kanalda so‘rovnoma», «опрос в Telegram-канале» — rasmlar: 3 — push: ok
 2026-11-26 утро — шаг 10: догнаны иллюстрации статьи usta-xizmatlari-marketing (3 шт., uz/ru/en); Canva без пауз

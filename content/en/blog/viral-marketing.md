@@ -11,6 +11,8 @@ rubric: smm
 
 "We need a viral video" is many business owners' dream. **Viral marketing** means spreading without paid ads, through content people share themselves. A single video can reach millions. But the honest answer is that virality can't be guaranteed — only made more likely. Here's why people share content and how businesses can use it.
 
+![Why people share](/img/blog/illus/virusli-marketing-1.jpg 1200x675)
+
 ## Why people share
 
 People share content to say something about themselves:
@@ -39,6 +41,8 @@ People share content to say something about themselves:
 - **Trends** — suitable ones, in your brand's style — [using trends for business](/en/blog/using-trends-for-business/).
 - **Micro-dramas** — people wait for the next episode — [micro-drama Reels](/en/blog/micro-drama-reels/).
 
+![An honest warning: going viral isn't a strategy](/img/blog/illus/virusli-marketing-2.jpg 1200x675)
+
 ## An honest warning: going viral isn't a strategy
 
 - Nobody can guarantee virality — be wary of promises to "sell viral videos".
@@ -51,6 +55,8 @@ People share content to say something about themselves:
 - **Hype for hype's sake** — provocation can damage your reputation.
 - **The law** — offensive, misleading or rights-infringing content is prohibited — [advertising law in Uzbekistan](/en/blog/advertising-law-uzbekistan/).
 - **Copyright** — music and other people's content — [music for video ads](/en/blog/music-for-video-ads/).
+
+![Turning virality into sales](/img/blog/illus/virusli-marketing-3.jpg 1200x675)
 
 ## Turning virality into sales
 

@@ -11,6 +11,8 @@ rubric: smm
 
 «Bizga virusli video kerak» — ko‘p tadbirkorlarning orzusi. **Virusli marketing** — odamlar o‘zlari ulashadigan kontent orqali reklamasiz tarqalish. Bitta video millionlab ko‘rish olishi mumkin. Lekin halol javob shuki: viruslikni kafolatlab bo‘lmaydi. Uning ehtimolini oshirish mumkin. Odamlar kontentni nega ulashishini va biznes buni qanday ishlatishini ko‘rib chiqamiz.
 
+![Odamlar nega ulashadi](/img/blog/illus/virusli-marketing-1.jpg 1200x675)
+
 ## Odamlar nega ulashadi
 
 Odamlar kontentni o‘zlari haqida nimadir aytish uchun ulashadi:
@@ -39,6 +41,8 @@ Odamlar kontentni o‘zlari haqida nimadir aytish uchun ulashadi:
 - **Trendlar** — mosini brend uslubida — [trendlardan foydalanish](/blog/trendlardan-foydalanish/).
 - **Mini-seriallar** — davomini kutish — [mini-serial Reels](/blog/mini-serial-reels/).
 
+![Halol ogohlantirish: virus — strategiya emas](/img/blog/illus/virusli-marketing-2.jpg 1200x675)
+
 ## Halol ogohlantirish: virus — strategiya emas
 
 - Hech kim viruslikni kafolatlay olmaydi — «virus video sotamiz» degan va’dalarga ehtiyot bo‘ling.
@@ -51,6 +55,8 @@ Odamlar kontentni o‘zlari haqida nimadir aytish uchun ulashadi:
 - **Shov-shuv uchun shov-shuv** — provokatsiya obro‘ni buzishi mumkin.
 - **Qonun** — haqoratli, chalg‘ituvchi yoki boshqalar huquqini buzuvchi kontent taqiqlangan — [reklama to‘g‘risidagi qonun](/blog/reklama-togrisidagi-qonun/).
 - **Mualliflik huquqi** — musiqa va boshqa kontent — [reklama videosi uchun musiqa](/blog/reklama-videosi-uchun-musiqa/).
+
+![Viruslikni sotuvga aylantirish](/img/blog/illus/virusli-marketing-3.jpg 1200x675)
 
 ## Viruslikni sotuvga aylantirish
 
