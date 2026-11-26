@@ -132,4 +132,4 @@ Telegram-канал — ваше собственное медиа. Подгот
 
 - [Как перевести подписчиков канала в бота: пошаговый план](/ru/blog/podpischiki-kanala-v-bota/)
 - [Пост с кнопкой в Telegram-канале: бот, текст и подсчёт нажатий](/ru/blog/post-s-knopkoy-v-telegram-kanale/)
-- [Рассылка в Telegram-боте: 7 правил, чтобы клиенты не блокировали](/ru/blog/rassylka-v-telegram-bote-pravila/)
+- [Опрос в Telegram-канале: 7 идей и как использовать результат](/ru/blog/opros-v-telegram-kanale/)

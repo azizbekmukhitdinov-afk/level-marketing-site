@@ -132,4 +132,4 @@ A Telegram channel is your own media outlet. Build the foundation, post useful c
 
 - [Moving Telegram channel subscribers into your bot: step by step](/en/blog/move-channel-subscribers-to-telegram-bot/)
 - [Telegram channel post with a button: bot setup and click counts](/en/blog/telegram-channel-post-with-button/)
-- [Telegram bot broadcasts: 7 rules so customers don't block you](/en/blog/telegram-bot-broadcast-rules/)
+- [Telegram channel polls: 7 ideas and how to use the results](/en/blog/telegram-channel-polls/)

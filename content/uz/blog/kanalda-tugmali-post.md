@@ -140,4 +140,4 @@ Kanaldagi tugmali post murakkab emas: bot kanalga administrator bo‘ladi, postg
 
 - [Kanal obunachilarini botga o‘tkazish: havola va birinchi xabar](/blog/kanal-obunachilarini-botga-otkazish/)
 - [Telegram kanalni noldan qanday o‘stirish mumkin](/blog/telegram-kanal-osish/)
-- [Telegram botda rassilka: mijoz bloklamasligi uchun 7 qoida](/blog/telegram-bot-rassilka-qoidalari/)
+- [Telegram kanalda so‘rovnoma: 7 g‘oya va natijadan foydalanish](/blog/telegram-kanalda-sorovnoma/)

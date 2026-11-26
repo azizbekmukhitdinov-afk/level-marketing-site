@@ -140,4 +140,4 @@ A channel post with a button is not complicated: the bot becomes an administrato
 
 - [Moving Telegram channel subscribers into your bot: step by step](/en/blog/move-channel-subscribers-to-telegram-bot/)
 - [How to grow a Telegram channel from zero](/en/blog/grow-a-telegram-channel/)
-- [Telegram bot broadcasts: 7 rules so customers don't block you](/en/blog/telegram-bot-broadcast-rules/)
+- [Telegram channel polls: 7 ideas and how to use the results](/en/blog/telegram-channel-polls/)

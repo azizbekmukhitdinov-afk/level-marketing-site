@@ -140,4 +140,4 @@ weight: 1
 
 - [Как перевести подписчиков канала в бота: пошаговый план](/ru/blog/podpischiki-kanala-v-bota/)
 - [Как раскрутить Telegram-канал с нуля](/ru/blog/kak-raskrutit-telegram-kanal/)
-- [Рассылка в Telegram-боте: 7 правил, чтобы клиенты не блокировали](/ru/blog/rassylka-v-telegram-bote-pravila/)
+- [Опрос в Telegram-канале: 7 идей и как использовать результат](/ru/blog/opros-v-telegram-kanale/)
