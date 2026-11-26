@@ -11,6 +11,8 @@ rubric: biznes
 
 Quvur oqsa, elektr o‘chsa yoki konditsioner ishlamay qolsa, odam reklama ko‘rib o‘tirmaydi — u shu zahoti qidiradi va birinchi javob bergan ustani chaqiradi. Santexnik, elektrik, konditsioner ustasi, tozalash xizmatlari uchun marketing — topilish, tez javob va ishonch. Ularni qanday qurishni ko‘rib chiqamiz.
 
+![Mijoz qanday qidiradi](/img/blog/illus/usta-xizmatlari-marketing-1.jpg 1200x675)
+
 ## Mijoz qanday qidiradi
 
 - «Santexnik chaqirish Chilonzor»
@@ -34,6 +36,8 @@ Mijozning eng katta qo‘rquvi — «kelib, ikki baravar narx aytadi». Yechim:
 - chaqiruv narxi oldindan ma’lum;
 - ishdan oldin yakuniy narxni kelishish.
 
+![3. Ishonch](/img/blog/illus/usta-xizmatlari-marketing-2.jpg 1200x675)
+
 ## 3. Ishonch
 
 - **Usta kim**: ism, surat, tajriba — notanish odamni uyga kiritish qo‘rqinchli.
@@ -50,6 +54,8 @@ Mijozning eng katta qo‘rquvi — «kelib, ikki baravar narx aytadi». Yechim:
 ## 5. Takroriy buyurtma
 
 Konditsioner har yili xizmat talab qiladi, tozalash — muntazam. Mijoz kartasini (rozilik bilan) saqlang va mavsumda eslatma yuboring: «Konditsioneringizni yozga tayyorlash vaqti keldi» — [takroriy sotuv va LTV](/blog/takroriy-sotuv-ltv/).
+
+![Mavsumlar](/img/blog/illus/usta-xizmatlari-marketing-3.jpg 1200x675)
 
 ## Mavsumlar
 

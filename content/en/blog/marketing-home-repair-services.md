@@ -11,6 +11,8 @@ rubric: biznes
 
 When a pipe leaks, the power goes off or the air conditioner breaks, nobody watches ads — they search straight away and call whichever tradesperson answers first. For plumbers, electricians, air-conditioner technicians and cleaning services, marketing means being found, replying fast and earning trust. Here's how to build all three.
 
+![How customers search](/img/blog/illus/usta-xizmatlari-marketing-1.jpg 1200x675)
+
 ## How customers search
 
 - "Plumber call-out Chilanzar"
@@ -34,6 +36,8 @@ The customer's biggest fear: "they'll turn up and quote double". The fix:
 - a call-out fee known in advance;
 - agreeing the final price before work starts.
 
+![3. Trust](/img/blog/illus/usta-xizmatlari-marketing-2.jpg 1200x675)
+
 ## 3. Trust
 
 - **Who the tradesperson is**: name, photo, experience — letting a stranger into your home is scary.
@@ -50,6 +54,8 @@ The customer's biggest fear: "they'll turn up and quote double". The fix:
 ## 5. Repeat orders
 
 Air conditioners need servicing every year, and cleaning is regular. Keep a customer record (with consent) and send seasonal reminders: "Time to get your air conditioner ready for summer" — [repeat sales and LTV](/en/blog/repeat-sales-and-ltv/).
+
+![Seasons](/img/blog/illus/usta-xizmatlari-marketing-3.jpg 1200x675)
 
 ## Seasons
 
