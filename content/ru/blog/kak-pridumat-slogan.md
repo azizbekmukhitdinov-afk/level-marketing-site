@@ -92,4 +92,4 @@ rubric: brend
 
 - [Позиционирование бренда: как занять своё место в голове клиента](/ru/blog/pozitsionirovanie-brenda/)
 - [Как выбрать название для бизнеса: 8 правил](/ru/blog/kak-vybrat-nazvanie-biznesa/)
-- [Как написать рекламный текст: формулы продающего текста](/ru/blog/kak-napisat-reklamnyy-tekst/)
+- [Tone of voice бренда: как описать голос компании на 1 странице](/ru/blog/ton-golosa-brenda/)

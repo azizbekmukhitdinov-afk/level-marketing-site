@@ -92,4 +92,4 @@ A good slogan is a short, true and memorable expression of your positioning. Cre
 
 - [Brand positioning: owning a place in the customer's mind](/en/blog/brand-positioning/)
 - [How to name a business: 8 rules](/en/blog/how-to-name-a-business/)
-- [How to write ad copy: formulas for copy that sells](/en/blog/how-to-write-ad-copy/)
+- [Brand tone of voice: a one-page guide for small businesses](/en/blog/brand-tone-of-voice/)

@@ -165,6 +165,12 @@
 <xhtml:link rel="alternate" hreflang="ru" href="https://levelm.uz/ru/rubric/biznes/"/>
 <xhtml:link rel="alternate" hreflang="en" href="https://levelm.uz/en/rubric/biznes/"/>
 </url>
+<url><loc>https://levelm.uz/blog/brend-ovoz-ohangi/</loc>
+<lastmod>2026-11-26</lastmod>
+<xhtml:link rel="alternate" hreflang="uz" href="https://levelm.uz/blog/brend-ovoz-ohangi/"/>
+<xhtml:link rel="alternate" hreflang="ru" href="https://levelm.uz/ru/blog/ton-golosa-brenda/"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://levelm.uz/en/blog/brand-tone-of-voice/"/>
+</url>
 <url><loc>https://levelm.uz/blog/chekdagi-tovarlar-soni-upt/</loc>
 <lastmod>2026-11-25</lastmod>
 <xhtml:link rel="alternate" hreflang="uz" href="https://levelm.uz/blog/chekdagi-tovarlar-soni-upt/"/>
@@ -2031,6 +2037,12 @@
 <xhtml:link rel="alternate" hreflang="ru" href="https://levelm.uz/ru/blog/skorost-otveta-na-zayavku/"/>
 <xhtml:link rel="alternate" hreflang="en" href="https://levelm.uz/en/blog/lead-response-time/"/>
 </url>
+<url><loc>https://levelm.uz/ru/blog/ton-golosa-brenda/</loc>
+<lastmod>2026-11-26</lastmod>
+<xhtml:link rel="alternate" hreflang="uz" href="https://levelm.uz/blog/brend-ovoz-ohangi/"/>
+<xhtml:link rel="alternate" hreflang="ru" href="https://levelm.uz/ru/blog/ton-golosa-brenda/"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://levelm.uz/en/blog/brand-tone-of-voice/"/>
+</url>
 <url><loc>https://levelm.uz/ru/blog/kolichestvo-tovarov-v-cheke-upt/</loc>
 <lastmod>2026-11-25</lastmod>
 <xhtml:link rel="alternate" hreflang="uz" href="https://levelm.uz/blog/chekdagi-tovarlar-soni-upt/"/>
@@ -3896,6 +3908,12 @@
 <xhtml:link rel="alternate" hreflang="uz" href="https://levelm.uz/blog/kreativlar-ab-test/"/>
 <xhtml:link rel="alternate" hreflang="ru" href="https://levelm.uz/ru/blog/ab-test-kreativov/"/>
 <xhtml:link rel="alternate" hreflang="en" href="https://levelm.uz/en/blog/ab-testing-ad-creatives/"/>
+</url>
+<url><loc>https://levelm.uz/en/blog/brand-tone-of-voice/</loc>
+<lastmod>2026-11-26</lastmod>
+<xhtml:link rel="alternate" hreflang="uz" href="https://levelm.uz/blog/brend-ovoz-ohangi/"/>
+<xhtml:link rel="alternate" hreflang="ru" href="https://levelm.uz/ru/blog/ton-golosa-brenda/"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://levelm.uz/en/blog/brand-tone-of-voice/"/>
 </url>
 <url><loc>https://levelm.uz/en/blog/units-per-transaction-upt/</loc>
 <lastmod>2026-11-25</lastmod>

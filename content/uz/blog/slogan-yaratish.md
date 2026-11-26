@@ -92,4 +92,4 @@ Yaxshi slogan — pozitsiyaning qisqa, haqiqiy va eslab qolinadigan ifodasi. Ko�
 
 - [Brend pozitsiyalash: mijoz ongida o‘z o‘rningizni egallash](/blog/brend-pozitsiyalash/)
 - [Biznes uchun nom qanday tanlanadi: 8 ta qoida](/blog/biznes-uchun-nom-tanlash/)
-- [Reklama matni qanday yoziladi: sotadigan matn formulalari](/blog/reklama-matni/)
+- [Brendning ovoz ohangi (tone of voice): 1 sahifalik qo‘llanma](/blog/brend-ovoz-ohangi/)

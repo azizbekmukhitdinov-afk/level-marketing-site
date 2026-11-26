@@ -4,6 +4,8 @@
 Можете сами вписывать темы в начало списка — агент возьмёт их первыми.
 22.10.2026 на сайт вышел пакет из 50 статей — перед выбором темы проверь `ls content/uz/blog`, чтобы не повторяться.
 
+- [brend] Direct va telefon uchun javoblar kitobi: 15 ta tez-tez beriladigan savolga brend ovozida tayyor javob, yangilash tartibi (brend-ovoz-ohangi va meta-business-suite-avtomatik-javoblar bilan kesishmasin — faqat jamoa uchun skript-kitob) | Книга ответов для Direct и телефона: 15 частых вопросов в тоне бренда
+- [smm] Ikki tilli post va karusel: o‘zbek va rus matnini bitta postda joylash — qaysi til birinchi, uzunlik va dizayn (brend-ovoz-ohangi takrorlanmasin) | Двуязычный пост: как разместить узбекский и русский текст в одном посте
 - [sotuv] Tovarning o‘rtacha narxi va assortiment ulushi: kassa hisobotidan «qimmat / o‘rta / arzon» segmentlarni ajratish va narx o‘sishini UPT’dan ajratib o‘qish (chekdagi-tovarlar-soni-upt bilan kesishmasin) | Средняя цена товара и доли ценовых сегментов по кассовому отчёту
 - [sotuv] Sotuvchi bo‘yicha savdo hisoboti: kassada chekni sotuvchiga biriktirish, haftalik jadval va 10 daqiqalik yig‘ilish tartibi | Отчёт продаж по продавцам: привязка чека к продавцу и недельная планёрка
 - [target] Bank yoki MMT bilan hamkorlikdagi reklama: do‘kon va avtosalon uchun maketni kelishish tartibi, kim nima uchun javob beradi (O‘RQ-1187 va Markaziy bank talablari; rasmiy matnni lex.uz’da tekshirib yozish) | Совместная реклама с банком: как согласовать макет и кто за что отвечает
@@ -111,7 +113,6 @@
 - [sotuv] Sayt va lid-forma uchun maxfiylik siyosati: nima yozish kerak (O‘RQ-547, 21-modda) | Политика конфиденциальности для сайта и лид-формы: что написать
 - [target] CRM’dan Meta’ga sifatli lid hodisalarini yuborish (Conversions API, offline konversiyalar) | Как передавать в Meta качественные лиды из CRM
 - [target] Google Ads qidiruv reklamasi: birinchi kampaniyani sozlash | Google Ads: как настроить первую поисковую кампанию
-- [brend] Brendning ovoz ohangi (tone of voice) | Tone of voice бренда: как говорить с клиентами
 - [video] Instagram'da jonli efir: sotuv uchun qanday o‘tkazish | Прямые эфиры в Instagram для продаж
 - [sotuv] Muddatli to‘lov taklifi: qachon sotuvni oshiradi | Рассрочка как оффер: когда она увеличивает продажи
 - [sotuv] Muddatli to‘lov xizmati operatorlari reyestri (2027-yil 1-yanvardan, PQ-294): do‘kon hamkor-operatorni tanlashda nimani tekshiradi | Реестр операторов рассрочки с 2027 года: что проверить магазину при выборе партнёра

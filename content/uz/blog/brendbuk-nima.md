@@ -103,4 +103,4 @@ Brendbuk — brendingizdan bir xil foydalanish qoidalari: logotip, ranglar, shri
 
 - [Vizual uslub va aydentika: kichik biznes uchun minimum](/blog/vizual-uslub-aydentika/)
 - [Brend nima va u logotipdan nimasi bilan farq qiladi](/blog/brend-nima/)
-- [Agentlikni almashtirish: aktivlarni qabul qilish chek-listi](/blog/agentlikni-almashtirish/)
+- [Brendning ovoz ohangi (tone of voice): 1 sahifalik qo‘llanma](/blog/brend-ovoz-ohangi/)

@@ -103,4 +103,4 @@ rubric: brend
 
 - [Фирменный стиль: минимум для малого бизнеса](/ru/blog/firmennyy-stil-dlya-malogo-biznesa/)
 - [Что такое бренд и чем он отличается от логотипа](/ru/blog/chto-takoe-brend/)
-- [Смена агентства или SMM-менеджера: чек-лист передачи дел](/ru/blog/smena-agentstva-chek-list-peredachi/)
+- [Tone of voice бренда: как описать голос компании на 1 странице](/ru/blog/ton-golosa-brenda/)
