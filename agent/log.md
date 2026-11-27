@@ -1,5 +1,6 @@
 # Журнал смен (новые записи сверху)
 
+2026-11-27 утро — шаг 10: догнаны иллюстрации статьи tadbir-marketingi (3 шт., uz/ru/en); Canva без пауз
 2026-11-27 утро — новая статья (рубрика biznes, кластер «своё дело / сотрудники: работа и оплата в праздники», формат «ликбез: таблица календаря 8.12–1.01 (указ от 24.12.2025: 12.12 рабочая суббота на пятидневке, 31.12 выходной) + 3 случая привлечения + таблица оплаты по ст. 263 (сдельно / ставка / оклад) + условный пример расчёта + другой день отдыха + порядок дежурств из 5 шагов + 5 ошибок»; источники gov.uz/oz/advice/554/document/2215, gov.uz/oz/advice/673/document/2928, president.uz/lists/view/8832; sotuv пропущен — 3 статьи за 7 дней, biznes — 0 за 7 дней; не пересекается с bayram-kunlari-sotuv-bolimi (там отдел продаж, здесь трудовое право); ссылка на новую статью добавлена в «Ещё по теме» suratga-olishga-rozilik и yanvar-savdo-pasayishi) — bayram-kunlari-ishlash-haqi / oplata-raboty-v-prazdnichnye-dni / holiday-pay-uzbekistan — «bayram kunlari ishlash haqi», «оплата работы в праздничные дни» — rasmlar: 3 — push: ok
 2026-11-26 день — шаг 10: догнаны иллюстрации статьи virusli-marketing (3 шт., uz/ru/en, из пакета CEO от 26.11); Canva без пауз
 2026-11-26 день — пост дня по telegram-kanalda-sorovnoma — daily-20261126 передан боту

@@ -11,6 +11,8 @@ rubric: brend
 
 Ko‘p tadbirlar chiroyli o‘tadi: zal to‘la, rasmlar zo‘r. Bir oydan keyin esa «natija qani?» degan savol tug‘iladi. **Tadbir marketingi** (event marketing) — mijoz bilan jonli uchrashuv orqali ishonch va sotuv yaratish. Sir tadbirning o‘zida emas: undan oldin va keyin nima qilinishida.
 
+![Tadbir turlari](/img/blog/illus/tadbir-marketingi-1.jpg 1200x675)
+
 ## Tadbir turlari
 
 - **Ochiq dars yoki master-klass** — mutaxassislikni ko‘rsatish (ta’lim, go‘zallik, oshxona).
@@ -45,6 +47,8 @@ Keyin: auditoriya kim, qanday taklif, tadbirdan keyin mehmon nima qiladi.
 - Aniq keyingi qadam: bepul konsultatsiya, maxsus taklif, uchrashuv.
 - Kontent tayyorlash: video, rasm — keyin Reels va postlar uchun.
 
+![Tadbirdan keyin — eng muhim qism](/img/blog/illus/tadbir-marketingi-2.jpg 1200x675)
+
 ## Tadbirdan keyin — eng muhim qism
 
 - **24–48 soat ichida** har bir mehmonga yozing yoki qo‘ng‘iroq qiling.
@@ -67,6 +71,8 @@ Jami 10,5 mln so‘m. Agar 5 ta uchrashuvdan 2 ta shartnoma chiqsa, bir mijoz na
 - ro‘yxatdan o‘tganlar → kelganlar → lidlar → uchrashuvlar → sotuvlar;
 - bir lid va bir mijoz narxi;
 - tadbirdan keyingi 30–60 kundagi sotuvlar.
+
+![Keng tarqalgan xatolar](/img/blog/illus/tadbir-marketingi-3.jpg 1200x675)
 
 ## Keng tarqalgan xatolar
 

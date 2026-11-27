@@ -11,6 +11,8 @@ rubric: brend
 
 Many events go beautifully: a full room, great photos. A month later, someone asks: "So where are the results?" **Event marketing** means building trust and sales through meeting customers in person. The secret isn't the event itself — it's what you do before and after it.
 
+![Types of events](/img/blog/illus/tadbir-marketingi-1.jpg 1200x675)
+
 ## Types of events
 
 - **Open classes or masterclasses** — showcase expertise (education, beauty, cooking).
@@ -45,6 +47,8 @@ Then decide who the audience is, what the offer is and what guests should do aft
 - A clear next step: a free consultation, a special offer, a meeting.
 - Film and photograph it — for Reels and posts later.
 
+![After the event — the most important part](/img/blog/illus/tadbir-marketingi-2.jpg 1200x675)
+
 ## After the event — the most important part
 
 - **Within 24–48 hours**, message or call every guest.
@@ -67,6 +71,8 @@ That's 10.5 million soums in total. If 5 meetings lead to 2 contracts, each clie
 - registered → attended → leads → meetings → sales;
 - cost per lead and per client;
 - sales in the 30–60 days after the event.
+
+![Common mistakes](/img/blog/illus/tadbir-marketingi-3.jpg 1200x675)
 
 ## Common mistakes
 
