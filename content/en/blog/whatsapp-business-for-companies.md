@@ -11,6 +11,8 @@ rubric: sotuv
 
 In Uzbekistan customers mostly write on Telegram, so many business owners never think about **WhatsApp Business**. But if your customer is in Kazakhstan, Turkey, Europe or the Gulf, they will message you on WhatsApp, not Telegram. Here is who needs WhatsApp Business, how to set it up and how to stop losing leads in it.
 
+![When you need WhatsApp Business and when you don't](/img/blog/illus/whatsapp-business-1.jpg 1200x675)
+
 ## When you need WhatsApp Business and when you don't
 
 You don't have to give up Telegram. The real question is whether some of your customers are on WhatsApp. If they are, they need a separate, well-organised channel.
@@ -79,6 +81,8 @@ Prepare 8–12 **quick replies**:
 
 How to answer "How much?" is covered in [a separate article](/en/blog/replying-to-how-much/) — turn those 5 steps into quick replies. Automatic replies for Instagram and Facebook are set up in Meta Business Suite; keep the WhatsApp Business texts in the same tone.
 
+![Labels: so chats don't get lost](/img/blog/illus/whatsapp-business-2.jpg 1200x675)
+
 ## Labels: so chats don't get lost
 
 With 20–30 conversations a day it's hard to remember who asked what. Labels work as a simple funnel:
@@ -122,6 +126,8 @@ Put both buttons on your website and Instagram profile: "Message us on Telegram"
 In June 2026 Meta announced [Business Agent](/en/blog/meta-business-agent/): an AI that answers customers on WhatsApp, Messenger and Instagram, recommends catalogue products and books appointments, while the business decides when a human takes over. Meta said more than 1 million businesses had already used business AIs on WhatsApp and Messenger ([US News / Reuters](https://money.usnews.com/investing/news/articles/2026-06-03/meta-launches-enterprise-focused-ai-business-agent-to-automate-daily-operations)).
 
 There is no reliable information on availability or pricing in Uzbekistan — check in your WhatsApp Business app and Meta Business Suite. But you can prepare now: a complete catalogue, written-down FAQs and answers, and clear rules for when a manager steps in. A similar solution for Telegram is described in [A Telegram AI assistant](/en/blog/telegram-ai-assistant/).
+
+![Common mistakes](/img/blog/illus/whatsapp-business-3.jpg 1200x675)
 
 ## Common mistakes
 

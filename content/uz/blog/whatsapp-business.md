@@ -11,6 +11,8 @@ rubric: sotuv
 
 O‘zbekistonda mijozlar asosan Telegram’da yozadi, shuning uchun ko‘p tadbirkor **WhatsApp Business** haqida o‘ylamaydi ham. Lekin mijozingiz Qozog‘istonda, Turkiyada, Yevropada yoki Fors ko‘rfazi mamlakatlarida bo‘lsa, u sizga Telegram’da emas, WhatsApp’da yozadi. Bu maqolada WhatsApp Business kimga kerakligi, uni qanday sozlash va arizalarni yo‘qotmaslik haqida gaplashamiz.
 
+![WhatsApp Business qachon kerak, qachon emas](/img/blog/illus/whatsapp-business-1.jpg 1200x675)
+
 ## WhatsApp Business qachon kerak, qachon emas
 
 Telegram’dan voz kechish shart emas. Savol boshqa: mijozlaringizning bir qismi WhatsApp’dami? Agar ha bo‘lsa, ular uchun alohida, tartibli kanal kerak.
@@ -79,6 +81,8 @@ Masalan: «Assalomu alaykum! Bu — Toshkentdagi mebel fabrikasi. Menejer 15 daq
 
 «Narxi qancha?» savoliga qanday javob berish [alohida maqolada](/blog/narxi-qancha-javob/) batafsil yozilgan — o‘sha 5 qadamni tezkor javoblarga aylantiring. Instagram va Facebook uchun avtomatik javoblar Meta Business Suite orqali sozlanadi, WhatsApp Business’dagi matnlarni ular bilan bir xil ohangda yozing.
 
+![Yorliqlar: suhbatlarni yo‘qotmaslik](/img/blog/illus/whatsapp-business-2.jpg 1200x675)
+
 ## Yorliqlar: suhbatlarni yo‘qotmaslik
 
 Kuniga 20–30 ta suhbat bo‘lganda, kim nima so‘raganini eslab qolish qiyin. Yorliqlar oddiy voronka vazifasini bajaradi:
@@ -122,6 +126,8 @@ Saytda va Instagram profilida ikkala tugmani ham qo‘ying: «Telegram’da yozi
 Meta 2026-yil iyunida [Business Agent’ni](/blog/meta-business-agent/) e’lon qildi: AI WhatsApp, Messenger va Instagram’da mijoz savollariga javob beradi, katalogdan mahsulot taklif qiladi, yozilishni qabul qiladi va qachon jonli odam ulanishini biznes o‘zi belgilaydi. Meta ma’lumotiga ko‘ra, 1 milliondan ortiq biznes allaqachon WhatsApp va Messenger’da biznes AI ishlatgan ([US News / Reuters](https://money.usnews.com/investing/news/articles/2026-06-03/meta-launches-enterprise-focused-ai-business-agent-to-automate-daily-operations)).
 
 O‘zbekistonda mavjudligi va narxi haqida ishonchli ma’lumot yo‘q — WhatsApp Business ilovangiz va Meta Business Suite’da tekshiring. Lekin tayyorgarlikni hozir boshlash mumkin: katalog to‘liq bo‘lsin, tez-tez beriladigan savollar va javoblar yozilgan bo‘lsin, qaysi holatda menejer ulanishi aniq bo‘lsin. Telegram uchun shunga o‘xshash yechim [Telegram’da AI-javobchi](/blog/telegram-ai-javobchi/) maqolasida.
+
+![Ko‘p uchraydigan xatolar](/img/blog/illus/whatsapp-business-3.jpg 1200x675)
 
 ## Ko‘p uchraydigan xatolar
 

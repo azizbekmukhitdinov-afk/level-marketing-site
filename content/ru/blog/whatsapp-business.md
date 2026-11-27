@@ -11,6 +11,8 @@ rubric: sotuv
 
 В Узбекистане клиенты пишут в основном в Telegram, поэтому многие предприниматели о **WhatsApp Business** даже не думают. Но если ваш клиент в Казахстане, Турции, Европе или странах Персидского залива, он напишет не в Telegram, а в WhatsApp. Разберём, кому нужен WhatsApp Business, как его настроить и как не терять в нём заявки.
 
+![Когда WhatsApp Business нужен, а когда нет](/img/blog/illus/whatsapp-business-1.jpg 1200x675)
+
 ## Когда WhatsApp Business нужен, а когда нет
 
 Отказываться от Telegram не нужно. Вопрос в другом: есть ли часть ваших клиентов в WhatsApp? Если да, им нужен отдельный упорядоченный канал.
@@ -79,6 +81,8 @@ WhatsApp Business — отдельное бесплатное приложени
 
 Как отвечать на «Сколько стоит?», подробно разобрано в [отдельной статье](/ru/blog/otvet-na-skolko-stoit/) — превратите эти 5 шагов в быстрые ответы. Автоответы для Instagram и Facebook настраиваются в Meta Business Suite, пишите тексты в WhatsApp Business в том же тоне.
 
+![Ярлыки: чтобы переписки не терялись](/img/blog/illus/whatsapp-business-2.jpg 1200x675)
+
 ## Ярлыки: чтобы переписки не терялись
 
 Когда в день 20–30 диалогов, трудно помнить, кто что спрашивал. Ярлыки работают как простая воронка:
@@ -122,6 +126,8 @@ WhatsApp Business — отдельное бесплатное приложени
 В июне 2026 года Meta представила [Business Agent](/ru/blog/meta-business-agent/): ИИ отвечает клиентам в WhatsApp, Messenger и Instagram, рекомендует товары из каталога, записывает на услуги, а момент подключения живого человека бизнес определяет сам. По данным Meta, более 1 млн компаний уже пользовались бизнес-ИИ в WhatsApp и Messenger ([US News / Reuters](https://money.usnews.com/investing/news/articles/2026-06-03/meta-launches-enterprise-focused-ai-business-agent-to-automate-daily-operations)).
 
 Надёжных данных о доступности и цене в Узбекистане нет — проверьте в приложении WhatsApp Business и в Meta Business Suite. Но готовиться можно уже сейчас: заполненный каталог, записанные частые вопросы и ответы, понятные правила, когда подключается менеджер. Похожее решение для Telegram — в статье [об ИИ-боте в Telegram](/ru/blog/ii-bot-v-telegram/).
+
+![Частые ошибки](/img/blog/illus/whatsapp-business-3.jpg 1200x675)
 
 ## Частые ошибки
 
