@@ -125,4 +125,4 @@ Diktor matni xronometrajdan boshlanadi: avval diktoringiz soniyasiga nechta soâ€
 
 - [Reklama videosida ovoz: diktor, jonli nutq yoki musiqa](/blog/reklama-videosida-ovoz/)
 - [Reklama videosi uzunligi: 6, 15, 30 yoki 60 soniya](/blog/reklama-videosi-uzunligi/)
-- [AI ovoz va dublyaj reklamada: oâ€˜zbek tilida nima ishlaydi](/blog/ai-ovoz-reklamada/)
+- [Reklama videosiga subtitr: qator uzunligi, vaqt va 7 qoida](/blog/videoga-subtitr-qoidalari/)

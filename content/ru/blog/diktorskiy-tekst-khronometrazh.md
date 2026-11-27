@@ -125,4 +125,4 @@ rubric: video
 
 - [Звук в рекламном видео: диктор, живая речь или музыка](/ru/blog/zvuk-v-reklamnom-video/)
 - [Длительность рекламного видео: 6, 15, 30 или 60 секунд](/ru/blog/dlitelnost-reklamnogo-video/)
-- [ИИ-озвучка и дубляж в рекламе: что работает на узбекском](/ru/blog/ii-ozvuchka-reklamy/)
+- [Субтитры в рекламном ролике: длина строки, время и 7 правил](/ru/blog/subtitry-v-reklamnom-rolike/)

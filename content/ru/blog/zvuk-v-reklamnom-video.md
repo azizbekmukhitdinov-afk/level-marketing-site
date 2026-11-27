@@ -116,6 +116,6 @@ rubric: video
 
 ## Ещё по теме
 
-- [Предупреждение в рекламном ролике: сценарий на 15–30 секунд](/ru/blog/preduprezhdenie-v-reklamnom-rolike/)
+- [Субтитры в рекламном ролике: длина строки, время и 7 правил](/ru/blog/subtitry-v-reklamnom-rolike/)
 - [Дикторский текст: сколько слов в ролик на 15 и 30 секунд](/ru/blog/diktorskiy-tekst-khronometrazh/)
 - [Музыка для рекламного видео: где брать и 5 ошибок](/ru/blog/muzyka-dlya-reklamnogo-video/)

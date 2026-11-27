@@ -125,4 +125,4 @@ A voiceover script starts with timing: first measure how many words per second y
 
 - [Sound in video ads: voice-over, live speech or music](/en/blog/sound-in-video-ads/)
 - [Video ad length: 6, 15, 30 or 60 seconds?](/en/blog/video-ad-length/)
-- [AI voice-over and dubbing in ads: what works in Uzbek](/en/blog/ai-voiceover-ads/)
+- [Subtitles for video ads: line length, timing and 7 rules](/en/blog/subtitles-for-video-ads/)
