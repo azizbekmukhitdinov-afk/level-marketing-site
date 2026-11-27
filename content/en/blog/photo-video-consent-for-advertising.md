@@ -165,4 +165,4 @@ At Level Marketing, before a shoot day we go through the list of who will be in 
 
 - [Advertising law in Uzbekistan: bans and fines in brief](/en/blog/advertising-law-uzbekistan/)
 - [Customer database and personal data in Uzbekistan: a guide](/en/blog/customer-database-personal-data-uzbekistan/)
-- [Storefront Signs and Outdoor Ads in Uzbekistan: 2026 Rules](/en/blog/storefront-sign-outdoor-advertising-uzbekistan/)
+- [Holiday pay in Uzbekistan: a short guide for employers](/en/blog/holiday-pay-uzbekistan/)

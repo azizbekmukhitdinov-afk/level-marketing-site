@@ -79,4 +79,4 @@ The January lull is a known season. Work out which group your business is in, th
 
 - [Advertising in the low season: stop or keep going?](/en/blog/advertising-in-low-season/)
 - [December ad budget: a 5-step plan for the holiday season](/en/blog/december-ad-budget/)
-- [Repeat sales and LTV: more revenue from existing customers](/en/blog/repeat-sales-and-ltv/)
+- [Holiday pay in Uzbekistan: a short guide for employers](/en/blog/holiday-pay-uzbekistan/)

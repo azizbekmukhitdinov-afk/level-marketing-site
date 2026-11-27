@@ -79,4 +79,4 @@ Yanvar sukunati — oldindan ma’lum mavsum. Biznesingiz qaysi guruhda ekanini 
 
 - [Past mavsumda reklama: to‘xtatish kerakmi yoki davom ettirish](/blog/past-mavsumda-reklama/)
 - [Dekabrda reklama byudjeti: bayram mavsumiga 5 qadamli reja](/blog/dekabr-reklama-byudjeti/)
-- [Takroriy sotuv va LTV: mavjud mijozlardan ko‘proq daromad](/blog/takroriy-sotuv-ltv/)
+- [Bayram kunlari ishlash haqi: tadbirkor uchun qisqa qo‘llanma](/blog/bayram-kunlari-ishlash-haqi/)

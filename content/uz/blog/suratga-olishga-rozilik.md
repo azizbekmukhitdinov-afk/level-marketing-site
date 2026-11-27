@@ -165,4 +165,4 @@ Level Marketing’da suratga olish kunidan oldin kadrda kimlar bo‘lishini mijo
 
 - [Reklama to‘g‘risidagi qonun: taqiqlar va jarimalar qisqacha](/blog/reklama-togrisidagi-qonun/)
 - [Mijozlar bazasi va shaxsga doir ma’lumotlar: tadbirkor uchun](/blog/mijozlar-bazasi-shaxsiy-malumotlar/)
-- [Peshlavha va tashqi reklama: 2026-yildan pasport qachon kerak](/blog/peshlavha-tashqi-reklama/)
+- [Bayram kunlari ishlash haqi: tadbirkor uchun qisqa qo‘llanma](/blog/bayram-kunlari-ishlash-haqi/)

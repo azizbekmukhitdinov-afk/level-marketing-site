@@ -79,4 +79,4 @@ rubric: biznes
 
 - [Реклама в низкий сезон: останавливать или продолжать](/ru/blog/reklama-v-nizkiy-sezon/)
 - [Рекламный бюджет в декабре: план на праздничный сезон в 5 шагов](/ru/blog/reklamnyy-byudzhet-v-dekabre/)
-- [Повторные продажи и LTV: больше дохода от текущих клиентов](/ru/blog/povtornye-prodazhi-i-ltv/)
+- [Оплата работы в праздничные дни: памятка предпринимателю](/ru/blog/oplata-raboty-v-prazdnichnye-dni/)

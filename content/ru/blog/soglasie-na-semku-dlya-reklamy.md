@@ -165,4 +165,4 @@ rubric: biznes
 
 - [Закон о рекламе в Узбекистане: запреты и штрафы коротко](/ru/blog/zakon-o-reklame-uzbekistan/)
 - [База клиентов и персональные данные: что знать предпринимателю](/ru/blog/baza-klientov-personalnye-dannye/)
-- [Вывеска и наружная реклама: когда нужен паспорт с 2026 года](/ru/blog/vyveska-naruzhnaya-reklama/)
+- [Оплата работы в праздничные дни: памятка предпринимателю](/ru/blog/oplata-raboty-v-prazdnichnye-dni/)
