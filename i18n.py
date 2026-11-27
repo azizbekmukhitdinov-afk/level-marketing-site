@@ -366,6 +366,8 @@ LEAD = {
         "err": "Yuborib bo‘lmadi. Iltimos, qo‘ng‘iroq qiling yoki Telegram’da yozing:",
         "phone_bad": "Telefon raqamini to‘liq kiriting",
         "steps_h": "Audit va ish qanday o‘tadi",
+        "need": "Sizga nima kerak?",
+        "need_opts": ["Target reklama", "SMM va kontent", "Reels / video", "Hammasi — kompleks"],
     },
     "ru": {
         "path": "/zayavka/",
@@ -394,6 +396,8 @@ LEAD = {
         "err": "Не получилось отправить. Позвоните или напишите нам в Telegram:",
         "phone_bad": "Введите номер телефона полностью",
         "steps_h": "Как проходит аудит и работа",
+        "need": "Что вам нужно?",
+        "need_opts": ["Таргетированная реклама", "SMM и контент", "Reels / видео", "Всё вместе"],
     },
     "en": {
         "path": "/request/",
@@ -422,6 +426,8 @@ LEAD = {
         "err": "Could not send. Please call us or write on Telegram:",
         "phone_bad": "Please enter the full phone number",
         "steps_h": "How the audit and the work go",
+        "need": "What do you need?",
+        "need_opts": ["Paid social ads", "SMM and content", "Reels / video", "All of it"],
     },
 }
 

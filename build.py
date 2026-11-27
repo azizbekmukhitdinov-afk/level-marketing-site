@@ -204,12 +204,8 @@ def tg_url():
 
 
 def contact_link(lang):
-    c = SITE["contacts"]
-    if c.get("telegram"):
-        return tg_url()
-    if c.get("phone"):
-        return "tel:" + re.sub(r"[^\d+]", "", c["phone"])
-    return f"{PREFIX[lang]}/#contact"
+    """Every «free audit» button: the lead page (works without JS); with JS it opens the popup form."""
+    return PREFIX[lang] + LEAD[lang]["path"]
 
 
 def ext_attr(url):
@@ -283,7 +279,7 @@ def page(lang, title, desc, path, body, alts=None, schema=None, og_type="website
     <a href="{p}/blog/">{t['nav_blog']}</a>
     <a href="{p}/#location">{t['nav_location']}</a>
     <a href="{p}/#contact">{t['nav_contact']}</a>
-    <a class="btn small" href="{cta}"{ext_attr(cta)}>{t['cta']}</a>
+    <a class="btn small" href="{cta}" data-lead>{t['cta']}</a>
   </nav>
 </div></header>
 <script>
@@ -298,6 +294,7 @@ document.querySelectorAll('#menu a').forEach(function (a) {{
 <main>
 {body}
 </main>
+{lead_modal(lang)}
 <footer class="foot"><div class="wrap">
   <div>
     <a class="logo" href="{p}/" aria-label="{SITE['name']}"><img class="mark" src="/logo.svg" alt="" width="95" height="28"><span class="tag">marketing</span></a>
@@ -444,7 +441,7 @@ def home(lang, posts):
   <p class="kicker">{t['hero_kicker']}</p>
   <h1>{t['hero_h1']}</h1>
   <p class="lead">{t['hero_p']}</p>
-  <div class="actions"><a class="btn" href="{cta}"{ext_attr(cta)}>{t['cta']}</a><a class="btn ghost" href="{p}{t['cases_path']}">{t['hero_cta2']}</a></div>
+  <div class="actions"><a class="btn" href="{cta}" data-lead>{t['cta']}</a><a class="btn ghost" href="{p}{t['cases_path']}">{t['hero_cta2']}</a></div>
   <div class="stats">{stats}</div>
 </div></section>
 <section class="wrap block" id="services"><h2>{t['services_h']}</h2><div class="grid3">{services}</div></section>
@@ -457,7 +454,7 @@ def home(lang, posts):
 {contact_block(lang)}
 {location_block(lang)}
 <section class="wrap block faq"><h2>{t['faq_h']}</h2>{faq}</section>
-<section class="final"><div class="wrap"><h2>{t['final_h']}</h2><p>{t['final_p']}</p><a class="btn" href="{cta}"{ext_attr(cta)}>{t['cta']}</a></div></section>
+<section class="final"><div class="wrap"><h2>{t['final_h']}</h2><p>{t['final_p']}</p><a class="btn" href="{cta}" data-lead>{t['cta']}</a></div></section>
 """
     faq_schema = {
         "@context": "https://schema.org",
@@ -481,8 +478,6 @@ def privacy_alts():
 
 LEAD_JS = """<script>
 (function () {
-  var f = document.getElementById('lead-form');
-  if (!f) return;
   var q = new URLSearchParams(location.search), us = (q.get('utm_source') || '').toLowerCase(), src = '';
   if (us.indexOf('yandex') > -1 || q.get('yclid')) src = 'Yandex';
   else if (us.indexOf('google') > -1 || q.get('gclid') || q.get('gbraid') || q.get('wbraid')) src = 'Google';
@@ -492,31 +487,86 @@ LEAD_JS = """<script>
     if (src) localStorage.setItem('lm_src', JSON.stringify(keep));
     else keep = JSON.parse(localStorage.getItem('lm_src') || '{}') || {};
   } catch (e) {}
-  var phone = f.querySelector('[name=phone]');
-  phone.addEventListener('input', function () { phone.setCustomValidity(''); });
-  f.addEventListener('submit', function (e) {
-    e.preventDefault();
-    if (phone.value.replace(/\\D/g, '').length < 9) { phone.setCustomValidity(f.dataset.phoneBad); phone.reportValidity(); return; }
-    var d = new URLSearchParams(new FormData(f));
-    d.set('source', keep.source || 'Sayt levelm.uz');
-    d.set('utm_source', keep.utm_source || '');
-    d.set('utm_campaign', keep.utm_campaign || '');
-    d.set('utm_term', keep.utm_term || '');
-    d.set('lang', f.dataset.lang);
-    d.set('page', location.origin + location.pathname);
-    var btn = f.querySelector('button');
-    btn.disabled = true; f.classList.remove('failed');
-    fetch(f.action, {method: 'POST', body: d}).then(function (r) {
-      if (!r.ok) throw new Error(r.status);
-      f.classList.add('sent');
-      try {
-        if (window.ym && window.LM_YM) ym(window.LM_YM, 'reachGoal', 'lead');
-        if (window.gtag && window.LM_GADS) gtag('event', 'conversion', {send_to: window.LM_GADS});
-      } catch (x) {}
-    }).catch(function () { f.classList.add('failed'); btn.disabled = false; });
+  document.querySelectorAll('form.lead-form').forEach(function (f) {
+    var phone = f.querySelector('[name=phone]');
+    phone.addEventListener('input', function () { phone.setCustomValidity(''); });
+    f.addEventListener('submit', function (e) {
+      e.preventDefault();
+      if (phone.value.replace(/\\D/g, '').length < 9) { phone.setCustomValidity(f.dataset.phoneBad); phone.reportValidity(); return; }
+      var d = new URLSearchParams(new FormData(f));
+      var need = f.querySelector('[name=need]:checked');
+      if (need) d.set('niche', (d.get('niche') || '') + ' | ' + f.dataset.needLabel + ': ' + need.value);
+      d.delete('need');
+      d.set('source', keep.source || 'Sayt levelm.uz');
+      d.set('utm_source', keep.utm_source || '');
+      d.set('utm_campaign', keep.utm_campaign || '');
+      d.set('utm_term', keep.utm_term || '');
+      d.set('lang', f.dataset.lang);
+      d.set('page', location.origin + location.pathname);
+      var btn = f.querySelector('button[type=submit]');
+      btn.disabled = true; f.classList.remove('failed');
+      fetch(f.action, {method: 'POST', body: d}).then(function (r) {
+        if (!r.ok) throw new Error(r.status);
+        f.classList.add('sent');
+        try {
+          if (window.ym && window.LM_YM) ym(window.LM_YM, 'reachGoal', 'lead');
+          if (window.gtag && window.LM_GADS) gtag('event', 'conversion', {send_to: window.LM_GADS});
+        } catch (x) {}
+      }).catch(function () { f.classList.add('failed'); btn.disabled = false; });
+    });
   });
+  var m = document.getElementById('lead-modal');
+  if (!m) return;
+  function close() { m.hidden = true; document.body.classList.remove('lm-open'); }
+  document.querySelectorAll('a[data-lead]').forEach(function (a) {
+    a.addEventListener('click', function (e) {
+      e.preventDefault();
+      var own = document.querySelector('.lead-hero .lead-form input[name=name]');
+      if (own) { own.scrollIntoView({behavior: 'smooth', block: 'center'}); own.focus(); return; }
+      m.hidden = false; document.body.classList.add('lm-open');
+      var first = m.querySelector('input[name=name]'); if (first) setTimeout(function () { first.focus(); }, 50);
+    });
+  });
+  m.addEventListener('click', function (e) { if (e.target === m || e.target.closest('.lm-x')) close(); });
+  document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && !m.hidden) close(); });
 })();
 </script>"""
+
+
+def lead_fields(lang, popup=False):
+    """Form body shared by the lead page and the popup: name, phone, business + (popup) what is needed."""
+    L, c = LEAD[lang], SITE["contacts"]
+    tel = re.sub(r"[^\d+]", "", c["phone"])
+    privacy = PREFIX[lang] + PRIVACY[lang]["path"]
+    need = ""
+    if popup:
+        opts = "".join(f'<label class="opt"><input type="radio" name="need" value="{html.escape(o)}"{" required" if i == 0 else ""}><span>{html.escape(o)}</span></label>'
+                       for i, o in enumerate(L["need_opts"]))
+        need = f'<fieldset class="need"><legend>{L["need"]}</legend>{opts}</fieldset>'
+    return f"""<div class="lf-fields">
+      <h2>{L['form_h']}</h2>
+      <p class="muted">{L['form_p']}</p>
+      <label>{L['name']}<input name="name" required maxlength="80" autocomplete="name"></label>
+      <label>{L['phone']}<input name="phone" type="tel" required maxlength="25" autocomplete="tel" value="+998 " inputmode="tel"></label>
+      <label>{L['niche']}<input name="niche" required maxlength="200" placeholder="{html.escape(L['niche_ph'])}"></label>
+      {need}
+      <input class="hp" name="hp" tabindex="-1" autocomplete="off" aria-hidden="true">
+      <button class="btn" type="submit">{L['send']}</button>
+      <p class="consent">{L['consent'].format(privacy=privacy)}</p>
+      <p class="lf-err">{L['err']} <a href="tel:{tel}">{html.escape(c['phone'])}</a> · <a href="{tg_url()}" target="_blank" rel="noopener">@{c['telegram'].lstrip('@')}</a></p>
+    </div>
+    <div class="lf-ok"><h2>{L['ok_h']}</h2><p>{L['ok_p']}</p></div>"""
+
+
+def lead_modal(lang):
+    L = LEAD[lang]
+    return f"""<div class="lm-modal" id="lead-modal" hidden role="dialog" aria-modal="true" aria-label="{html.escape(L['form_h'])}">
+  <form class="lead-form lm-box" action="{SITE['lead_webhook']}" method="post" data-lang="{lang}" data-phone-bad="{html.escape(L['phone_bad'])}" data-need-label="{html.escape(L['need'])}">
+    <button class="lm-x" type="button" aria-label="×">×</button>
+    {lead_fields(lang, popup=True)}
+  </form>
+</div>
+{LEAD_JS}"""
 
 
 def lead_page(lang):
@@ -535,25 +585,13 @@ def lead_page(lang):
     <p class="lead">{L['p']}</p>
     <ul class="ticks">{points}</ul>
   </div>
-  <form id="lead-form" class="lead-form" action="{SITE['lead_webhook']}" method="post" data-lang="{lang}" data-phone-bad="{html.escape(L['phone_bad'])}">
-    <div class="lf-fields">
-      <h2>{L['form_h']}</h2>
-      <p class="muted">{L['form_p']}</p>
-      <label>{L['name']}<input name="name" required maxlength="80" autocomplete="name"></label>
-      <label>{L['phone']}<input name="phone" type="tel" required maxlength="25" autocomplete="tel" value="+998 " inputmode="tel"></label>
-      <label>{L['niche']}<input name="niche" required maxlength="200" placeholder="{html.escape(L['niche_ph'])}"></label>
-      <input class="hp" name="hp" tabindex="-1" autocomplete="off" aria-hidden="true">
-      <button class="btn" type="submit">{L['send']}</button>
-      <p class="consent">{L['consent'].format(privacy=privacy)}</p>
-      <p class="lf-err">{L['err']} <a href="tel:{tel}">{html.escape(c['phone'])}</a> · <a href="{tg_url()}" target="_blank" rel="noopener">@{c['telegram'].lstrip('@')}</a></p>
-    </div>
-    <div class="lf-ok"><h2>{L['ok_h']}</h2><p>{L['ok_p']}</p></div>
+  <form id="lead-form" class="lead-form" action="{SITE['lead_webhook']}" method="post" data-lang="{lang}" data-phone-bad="{html.escape(L['phone_bad'])}" data-need-label="{html.escape(L['need'])}">
+    {lead_fields(lang)}
   </form>
 </div></section>
 <section class="band"><div class="wrap block"><h2>{L['steps_h']}</h2><ol class="steps">{steps}</ol></div></section>
 <section class="wrap block"><h2>{t['why_h']}</h2><div class="grid3">{why}</div></section>
 {clients_block(lang)}
-{LEAD_JS}
 """
     return page(lang, L["title"], L["desc"], PREFIX[lang] + L["path"], body, lead_alts(), [org_schema(lang)],
                 og_image="/img/clients-wall.jpg")
@@ -634,7 +672,7 @@ def article(post, by_key, posts):
   <img class="cover" src="{post.cover}" alt="{html.escape(post.title)}" width="1200" height="630">
   {toc}
   <div class="prose">{post.body}</div>
-  <aside class="post-cta"><h2>{t['post_cta_h']}</h2><p>{t['post_cta_p']}</p><a class="btn" href="{cta}"{ext_attr(cta)}>{t['cta']}</a></aside>
+  <aside class="post-cta"><h2>{t['post_cta_h']}</h2><p>{t['post_cta_p']}</p><a class="btn" href="{cta}" data-lead>{t['cta']}</a></aside>
 </article>
 {f'<section class="wrap block"><h2>{t["related"]}</h2><div class="cards">{"".join(card(r) for r in related)}</div></section>' if related else ''}
 """
