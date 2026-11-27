@@ -1,0 +1,229 @@
+<!doctype html>
+<html lang="uz">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Google Analytics 4: kichik biznes sayti uchun sozlash qo‘llanmasi — Level Marketing</title>
+<meta name="description" content="Google Analytics 4 ni kichik biznes saytiga o‘rnatish: asosiy hodisalar, UTM, Google Ads bilan ulash, kerakli hisobotlar va ko‘p uchraydigan xatolar.">
+<link rel="canonical" href="https://levelm.uz/blog/google-analytics-4/">
+<link rel="alternate" hreflang="uz" href="https://levelm.uz/blog/google-analytics-4/"><link rel="alternate" hreflang="ru" href="https://levelm.uz/ru/blog/google-analytics-4/"><link rel="alternate" hreflang="en" href="https://levelm.uz/en/blog/google-analytics-4-basics/"><link rel="alternate" hreflang="x-default" href="https://levelm.uz/blog/google-analytics-4/">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Google Analytics 4: kichik biznes sayti uchun sozlash qo‘llanmasi — Level Marketing">
+<meta property="og:description" content="Google Analytics 4 ni kichik biznes saytiga o‘rnatish: asosiy hodisalar, UTM, Google Ads bilan ulash, kerakli hisobotlar va ko‘p uchraydigan xatolar.">
+<meta property="og:url" content="https://levelm.uz/blog/google-analytics-4/">
+<meta property="og:site_name" content="Level Marketing">
+<meta property="og:locale" content="uz_UZ">
+
+<meta name="twitter:card" content="summary">
+<meta name="theme-color" content="#0c2549">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="alternate" type="application/rss+xml" title="Level Marketing" href="/rss.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/style.css?v=9b26672b">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BlogPosting", "headline": "Google Analytics 4: kichik biznes sayti uchun sozlash qo‘llanmasi", "description": "Google Analytics 4 ni kichik biznes saytiga o‘rnatish: asosiy hodisalar, UTM, Google Ads bilan ulash, kerakli hisobotlar va ko‘p uchraydigan xatolar.", "image": "https://levelm.uz/covers/uz-google-analytics-4.svg", "datePublished": "2026-11-27", "dateModified": "2026-11-27", "inLanguage": "uz", "mainEntityOfPage": "https://levelm.uz/blog/google-analytics-4/", "author": {"@type": "Organization", "name": "Level Marketing", "url": "https://levelm.uz/"}, "publisher": {"@type": "Organization", "name": "Level Marketing", "url": "https://levelm.uz/"}}</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-300446964"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','AW-300446964');window.LM_GADS='AW-300446964/h2TSCL_Im7YdEPTpoY8B';</script>
+</head>
+<body>
+<header class="top"><div class="wrap nav">
+  <a class="logo" href="/" aria-label="Level Marketing"><img class="mark" src="/logo.svg" alt="" width="95" height="28"><span class="tag">marketing</span></a>
+  <div class="langs"><a class="lang on" href="/blog/google-analytics-4/" hreflang="uz" title="O‘zbekcha">UZ</a><a class="lang" href="/ru/blog/google-analytics-4/" hreflang="ru" title="Русский">RU</a><a class="lang" href="/en/blog/google-analytics-4-basics/" hreflang="en" title="English">EN</a></div>
+  <button class="burger" type="button" aria-label="Menyu" aria-expanded="false" aria-controls="menu"><span></span><span></span><span></span></button>
+  <nav id="menu">
+    <a href="/#services">Xizmatlar</a>
+    <a href="/keyslar/">Keyslar</a>
+    <a href="/#team">Jamoa</a>
+    <a href="/blog/">Maqolalar</a>
+    <a href="/#location">Lokatsiya</a>
+    <a href="/#contact">Bog‘lanish</a>
+    <a class="btn small" href="/ariza/" data-lead>Bepul audit olish</a>
+  </nav>
+</div></header>
+<script>
+document.querySelector('.burger').addEventListener('click', function () {
+  var open = document.body.classList.toggle('menu-open');
+  this.setAttribute('aria-expanded', open);
+});
+document.querySelectorAll('#menu a').forEach(function (a) {
+  a.addEventListener('click', function () { document.body.classList.remove('menu-open'); });
+});
+</script>
+<main>
+
+<article class="wrap post">
+  <p class="crumbs"><a href="/">Level Marketing</a> / <a href="/blog/">Maqolalar</a> / <a href="/rubric/target/">Target reklama</a></p>
+  <h1>Google Analytics 4: kichik biznes sayti uchun sozlash qo‘llanmasi</h1>
+  <p class="meta">27 noyabr 2026 · 6 daqiqa o‘qish</p>
+  <img class="cover" src="/covers/uz-google-analytics-4.svg" alt="Google Analytics 4: kichik biznes sayti uchun sozlash qo‘llanmasi" width="1200" height="630">
+  <nav class="toc"><ol><li><a href="#ga4-nima-va-biznesga-nima-beradi">GA4 nima va biznesga nima beradi</a></li><li><a href="#1-qadam-hisob-resurs-va-malumotlar-oqimi">1-qadam: hisob, resurs va ma’lumotlar oqimi</a></li><li><a href="#2-qadam-saytga-ornatish">2-qadam: saytga o‘rnatish</a></li><li><a href="#3-qadam-dastlabki-sozlamalar">3-qadam: dastlabki sozlamalar</a></li><li><a href="#4-qadam-asosiy-hodisalar-key-events">4-qadam: asosiy hodisalar (key events)</a></li><li><a href="#5-qadam-utm-va-google-ads-bilan-ulash">5-qadam: UTM va Google Ads bilan ulash</a></li><li><a href="#qaysi-hisobotlarni-kuzatish-kerak">Qaysi hisobotlarni kuzatish kerak</a></li><li><a href="#kop-uchraydigan-xatolar">Ko‘p uchraydigan xatolar</a></li><li><a href="#chek-list-ga4-tayyormi">Chek-list: GA4 tayyormi</a></li><li><a href="#savol-javob">Savol-javob</a></li><li><a href="#xulosa">Xulosa</a></li><li><a href="#shu-mavzuda-yana">Shu mavzuda yana</a></li></ol></nav>
+  <div class="prose"><p>Saytga reklama tushyapti, lekin qaysi kanal ariza olib kelayotganini hech kim aniq aytolmaydi — bu holat juda ko‘p uchraydi. <strong>Google Analytics 4</strong> (GA4) aynan shu savolga javob beradi: odamlar qayerdan keldi, saytda nima qildi va qaysi biri ariza qoldirdi. Bu maqolada kichik biznes sayti uchun GA4 ni noldan sozlash, kerakli hisobotlar va xatolarni ko‘rib chiqamiz.</p>
+<h2 id="ga4-nima-va-biznesga-nima-beradi">GA4 nima va biznesga nima beradi</h2>
+<p>GA4 — Google’ning bepul veb-analitika xizmati. U saytdagi har bir harakatni «hodisa» (event) sifatida yozadi: sahifa ochildi, tugma bosildi, forma yuborildi. Tadbirkor uchun bundan uchta aniq foyda bor:</p>
+<ul><li><strong>trafik manbalari</strong> — Google, Instagram, Telegram, reklama yoki to‘g‘ridan-to‘g‘ri kirish;</li><li><strong>asosiy hodisalar</strong> — ariza, qo‘ng‘iroq tugmasi, Telegram’ga o‘tish qaysi kanaldan qancha;</li><li><strong>sahifalar</strong> — qaysi sahifa ishlayapti, qaysi biridan odam darhol chiqib ketyapti.</li></ul>
+<p>GA4 sotuvni o‘zi ko‘rsatmaydi — u saytdagi harakatni ko‘rsatadi. Ariza haqiqiy mijozga aylandimi, buni CRM biladi. Shuning uchun GA4 va CRM raqamlari ba’zan farq qiladi, bu normal; sabablari <a href="/blog/kabinet-va-crm-lidlar/">kabinet va CRM lidlari mos kelmasligi</a> haqidagi maqolada.</p>
+<h2 id="1-qadam-hisob-resurs-va-malumotlar-oqimi">1-qadam: hisob, resurs va ma’lumotlar oqimi</h2>
+<p>Sozlash tartibi:</p>
+<ol><li>analytics.google.com saytiga kompaniya Google akkaunti bilan kiring (xodimning shaxsiy pochtasi bilan emas).</li><li><strong>Account</strong> (hisob) yarating — kompaniya nomi.</li><li><strong>Property</strong> (resurs) yarating — sayt nomi, vaqt zonasi «Uzbekistan», valyuta «UZS» yoki siz ishlaydigan valyuta.</li><li><strong>Data stream</strong> (ma’lumotlar oqimi) — «Web», sayt manzilini kiriting.</li><li>Measurement ID (G- bilan boshlanadi) ni oling.</li></ol>
+<p>Hisob egasi kompaniya bo‘lsin, dasturchi yoki agentlik esa foydalanuvchi sifatida qo‘shilsin. Aks holda hamkorlik tugaganda statistika ham ketib qoladi.</p>
+<h2 id="2-qadam-saytga-ornatish">2-qadam: saytga o‘rnatish</h2>
+<p>Uchta yo‘l bor, saytingizga qarab tanlang:</p>
+<div class="table"><table><thead><tr><th>Usul</th><th>Kimga mos</th><th>Qiyinligi</th></tr></thead><tbody><tr><td>Konstruktor maydoni (Tilda, WordPress plagini va h.k.)</td><td>Tayyor platformadagi sayt</td><td>Oson</td></tr><tr><td>Google tag (gtag.js) kodini sahifaga qo‘yish</td><td>Oddiy sayt, dasturchi bor</td><td>O‘rtacha</td></tr><tr><td>Google Tag Manager</td><td>Ko‘p tugma, forma va reklama pikseli</td><td>O‘rtacha, lekin moslashuvchan</td></tr></tbody></table></div>
+<p>Agar saytda Meta Pixel ham bo‘lsa, Tag Manager orqali hammasini bir joyda boshqarish qulay. Pixel sozlamalari haqidagi maqola havolasi sahifa oxirida.</p>
+<p>O‘rnatgandan keyin tekshiring: saytni telefoningizdan oching va GA4 da <strong>Reports → Realtime</strong> hisobotida o‘zingizni ko‘ring. Ko‘rinmasa, kod noto‘g‘ri joyda yoki boshqa ID qo‘yilgan.</p>
+<h2 id="3-qadam-dastlabki-sozlamalar">3-qadam: dastlabki sozlamalar</h2>
+<p>Bu to‘rt sozlamani birinchi kuniyoq qiling — keyin kech bo‘ladi.</p>
+<p><strong>Ma’lumotlarni saqlash muddati.</strong> Google yordam sahifasiga ko‘ra, foydalanuvchi darajasidagi ma’lumotlar uchun 2 yoki 14 oy tanlash mumkin (<a href="https://support.google.com/analytics/answer/7667196" target="_blank" rel="noopener">Google Analytics yordam</a>). Ko‘p resursda boshlang‘ich qiymat 2 oy turadi — uni 14 oyga o‘zgartiring: Admin → Data collection and modification → Data retention. O‘zgarish faqat oldinga ishlaydi, o‘chgan ma’lumot qaytmaydi.</p>
+<p><strong>Kengaytirilgan o‘lchov (Enhanced measurement).</strong> Data stream sozlamalarida yoqilgan bo‘lsin: u sahifa ko‘rishlar, aylantirish, tashqi havolalarga bosish, sayt ichidagi qidiruv, fayl yuklab olish va forma bilan ishlashni qo‘shimcha kodsiz yozadi.</p>
+<p><strong>Ichki trafikni ajratish.</strong> Ofis IP manzilini «internal traffic» deb belgilang va filtrni faollashtiring. Aks holda xodimlarning saytga kirishi statistikani buzadi.</p>
+<p><strong>Kirish huquqlari.</strong> Kim admin, kim faqat ko‘radi — ro‘yxat qiling.</p>
+<h2 id="4-qadam-asosiy-hodisalar-key-events">4-qadam: asosiy hodisalar (key events)</h2>
+<p>GA4 da avval «konversiyalar» deb atalgan narsa endi <strong>key events</strong> (asosiy hodisalar) deyiladi. Google tushuntirishicha, bu Google Ads’dagi konversiyalar bilan adashtirmaslik uchun qilingan; Google Ads’da esa «konversiya» nomi qolgan (<a href="https://support.google.com/analytics/answer/13965727" target="_blank" rel="noopener">Google Analytics yordam</a>).</p>
+<p>Kichik biznes sayti uchun odatda 3–5 ta asosiy hodisa yetarli:</p>
+<div class="table"><table><thead><tr><th>Hodisa</th><th>Nima</th><th>Qanday sozlanadi</th></tr></thead><tbody><tr><td>generate_lead</td><td>Ariza formasi yuborildi</td><td>«Rahmat» sahifasi ochilishi yoki forma yuborilishi orqali</td></tr><tr><td>Telefon bosildi</td><td>tel: havolasiga bosish</td><td>Tag Manager orqali alohida hodisa</td></tr><tr><td>Telegram’ga o‘tish</td><td>t.me havolasiga bosish</td><td>click hodisasidan link_domain = t.me sharti bilan yangi hodisa</td></tr><tr><td>WhatsApp’ga o‘tish</td><td>wa.me havolasiga bosish</td><td>Xuddi shunday, wa.me bilan</td></tr><tr><td>purchase</td><td>Onlayn to‘lov (agar bo‘lsa)</td><td>Sayt yoki platforma orqali</td></tr></tbody></table></div>
+<p>Hodisani asosiy deb belgilash: Admin → Events (yoki Key events) → kerakli hodisa yonidagi belgini yoqing.</p>
+<p>Shartli misol: Toshkentdagi stomatologiya klinikasi saytida uchta asosiy hodisa bor: forma, qo‘ng‘iroq tugmasi va Telegram. Bir oydan keyin ko‘rinadiki, Google’dan kelganlar ko‘proq qo‘ng‘iroq qiladi, Instagram’dan kelganlar esa Telegram’ga yozadi. Bu raqamlar tushuntirish uchun olingan, lekin xulosa amaliy: har kanal uchun turli aloqa tugmasini birinchi o‘ringa qo‘yish mumkin.</p>
+<p>Har bir sahifa ko‘rishni yoki 10 soniya qolishni asosiy hodisa qilmang — bu ko‘rsatkichni ma’nosiz qiladi. <a href="/blog/konversiya-nima/">Konversiya nima</a> maqolasidagi qoida bu yerda ham amal qiladi: konversiya — biznes uchun pulga yaqin harakat.</p>
+<h2 id="5-qadam-utm-va-google-ads-bilan-ulash">5-qadam: UTM va Google Ads bilan ulash</h2>
+<p><strong>UTM-belgilar.</strong> GA4 manbani o‘zi aniqlaydi, lekin Instagram bio, Telegram post yoki SMS havolalarida u ko‘pincha adashadi — masalan, messenjerlardan kelgan o‘tishlar «direct» bo‘lib tushishi mumkin. Har bir reklama va post havolasiga utm_source, utm_medium va utm_campaign qo‘shing. Batafsil qoidalar <a href="/blog/utm-belgilar/">UTM-belgilar</a> haqidagi maqolada. Muhim: utm_medium uchun «cpc», «social», «email» kabi standart qiymatlardan foydalaning, aks holda GA4 trafikni «Unassigned» guruhiga tashlaydi.</p>
+<p><strong>Google Ads bilan ulash.</strong> Admin → Product links → Google Ads links. Ulangandan keyin:</p>
+<ul><li>Google Ads kampaniyalari GA4 hisobotlarida alohida ko‘rinadi;</li><li>GA4 dagi asosiy hodisalarni Google Ads’ga konversiya sifatida import qilish mumkin;</li><li>saytga kirganlardan remarketing auditoriyalari yig‘iladi.</li></ul>
+<p><strong>Search Console bilan ulash.</strong> Shu bo‘limda Search Console’ni ham ulang — organik qidiruvdagi so‘rovlar va sahifalar GA4 ichida ko‘rinadi.</p>
+<h2 id="qaysi-hisobotlarni-kuzatish-kerak">Qaysi hisobotlarni kuzatish kerak</h2>
+<p>GA4 da hisobot ko‘p, lekin tadbirkor uchun to‘rttasi yetarli:</p>
+<ol><li><strong>Acquisition → Traffic acquisition.</strong> Qaysi kanal (Organic Search, Paid Search, Organic Social, Direct, Referral) qancha sessiya va qancha asosiy hodisa berdi.</li><li><strong>Engagement → Landing page.</strong> Odamlar qaysi sahifaga birinchi tushdi va u yerdan ariza bo‘ldimi. Reklama sahifasi zaif bo‘lsa, shu yerda ko‘rinadi.</li><li><strong>Engagement → Events / Key events.</strong> Har bir asosiy hodisa soni va o‘zgarishi.</li><li><strong>Realtime.</strong> Yangi kampaniya yoki post chiqqanda trafik kelyaptimi, darhol tekshirish uchun.</li></ol>
+<p>ChatGPT, Gemini kabi AI xizmatlaridan o‘tishlar ham Referral’da ko‘rinishi mumkin — ularni alohida kuzatish foydali, bu mavzu <a href="/blog/google-ai-mode/">Google AI Mode</a> haqidagi maqolada bor.</p>
+<p>Haftada bir marta 15 daqiqa yetarli: kanal bo‘yicha asosiy hodisalar, eng yaxshi va eng yomon kirish sahifasi, o‘tgan hafta bilan farq. Oylik <a href="/blog/reklama-hisoboti/">reklama hisobotiga</a> GA4 dan shu raqamlarni qo‘shing.</p>
+<h2 id="kop-uchraydigan-xatolar">Ko‘p uchraydigan xatolar</h2>
+<ul><li><strong>Hisob xodim yoki agentlik nomida</strong> — hamkorlik tugasa, tarix yo‘qoladi.</li><li><strong>Saqlash muddati 2 oyda qolgan</strong> — o‘tgan yilni solishtirish imkoni yo‘q.</li><li><strong>Asosiy hodisa yo‘q</strong> — trafik ko‘rinadi, natija ko‘rinmaydi.</li><li><strong>Hamma narsa asosiy hodisa</strong> — aylantirish va sahifa ko‘rish ham «konversiya» bo‘lib qolgan.</li><li><strong>Kod ikki marta o‘rnatilgan</strong> — konstruktor maydoni va Tag Manager birga, hamma raqam ikki barobar.</li><li><strong>UTM yo‘q</strong> — Instagram va Telegram trafigi «direct» ichida yo‘qoladi.</li><li><strong>Ichki trafik filtrlanmagan</strong> — kichik saytda xodimlar statistikaning katta qismi bo‘lishi mumkin.</li></ul>
+<h2 id="chek-list-ga4-tayyormi">Chek-list: GA4 tayyormi</h2>
+<ul><li>Hisob egasi — kompaniya Google akkaunti</li><li>Vaqt zonasi Toshkent, valyuta to‘g‘ri tanlangan</li><li>Kod bitta usulda o‘rnatilgan, Realtime’da tashrif ko‘rinadi</li><li>Saqlash muddati 14 oy</li><li>Ichki trafik filtri faol</li><li>3–5 ta asosiy hodisa belgilangan va test ariza bilan tekshirilgan</li><li>Barcha reklama va post havolalarida UTM bor</li><li>Google Ads va Search Console ulangan</li><li>Haftalik 15 daqiqalik ko‘rib chiqish taqvimda</li></ul>
+<p>Test ariza yuborishni unutmang: formani o‘zingiz to‘ldiring va bir necha daqiqadan keyin Realtime’da generate_lead hodisasi chiqqanini ko‘ring.</p>
+<h2 id="savol-javob">Savol-javob</h2>
+<h3 id="ga4-pullikmi">GA4 pullikmi?</h3>
+<p>Yo‘q, kichik va o‘rta biznes uchun oddiy GA4 bepul. Yirik kompaniyalar uchun Google Analytics 360 pullik versiyasi bor, lekin kichik sayt uchun u kerak emas.</p>
+<h3 id="ga4-dagi-lidlar-crm-bilan-nega-mos-kelmaydi">GA4 dagi lidlar CRM bilan nega mos kelmaydi?</h3>
+<p>Sabablar ko‘p: odam formani ikki marta yuboradi, reklama blokeri GA4 kodini to‘sadi, cookie roziligi berilmaydi, ariza telefon orqali keladi. GA4 trend va kanallarni solishtirish uchun, aniq lidlar soni uchun esa CRM asosiy manba.</p>
+<h3 id="konstruktordagi-statistika-yetmaydimi">Konstruktordagi statistika yetmaydimi?</h3>
+<p>Tilda yoki boshqa konstruktor statistikasi asosiy raqamlarni ko‘rsatadi, lekin kanallar, asosiy hodisalar va Google Ads bilan bog‘lanish GA4 da ancha to‘liq. Ikkalasi bir-biriga xalaqit bermaydi.</p>
+<h3 id="natija-qachon-korinadi">Natija qachon ko‘rinadi?</h3>
+<p>Realtime hisobotida — darhol. Oddiy hisobotlarda ma’lumot bir necha soatdan bir kungacha kechikishi mumkin. Xulosa qilish uchun kamida 2–4 hafta ma’lumot to‘plang.</p>
+<h2 id="xulosa">Xulosa</h2>
+<p>Google Analytics 4 ni sozlash bir kunlik ish: kompaniya nomida hisob, to‘g‘ri o‘rnatilgan kod, 14 oylik saqlash muddati, ichki trafik filtri va 3–5 ta asosiy hodisa. Keyin UTM-belgilar, Google Ads va Search Console bilan ulash, haftasiga 15 daqiqa to‘rt hisobotga qarash. Shunda «qaysi reklama ishlayapti» degan savolga taxmin emas, raqam bilan javob berasiz.</p>
+<p>Level Marketing bepul audit davomida saytingizdagi GA4 sozlamalari va asosiy hodisalar to‘g‘ri yozilayotganini tekshirib berishi mumkin.</p>
+<h2 id="shu-mavzuda-yana">Shu mavzuda yana</h2>
+<ul><li><a href="/blog/google-ads-sozlash/">Google Ads sozlash: qidiruv reklamasini ishga tushirish</a></li><li><a href="/blog/meta-pixel-conversions-api/">Meta Pixel va Conversions API: 2026 uchun o‘rnatish qo‘llanmasi</a></li><li><a href="/blog/landing-sahifa/">Landing sahifa: ariza olib keladigan tuzilma</a></li></ul></div>
+  <aside class="post-cta"><h2>Biznesingiz uchun shunday natija kerakmi?</h2><p>Bepul audit uchun yozing — marketingingizni ko‘rib chiqib, aniq tavsiyalar beramiz.</p><a class="btn" href="/ariza/" data-lead>Bepul audit olish</a></aside>
+</article>
+<section class="wrap block"><h2>Yana o‘qing</h2><div class="cards"><a class="card" href="/blog/trafik-turlari/">
+  <span class="thumb"><img src="/covers/uz-trafik-turlari.svg" alt="Trafik turlari: organik, pullik, to‘g‘ridan-to‘g‘ri va AI trafik" loading="lazy" width="600" height="315"></span>
+  <span class="card-body">
+  <span class="meta"><b>Target reklama</b> · 27 noyabr 2026 · 6 daqiqa o‘qish</span>
+  <h3>Trafik turlari: organik, pullik, to‘g‘ridan-to‘g‘ri va AI trafik</h3>
+  <p>Trafik turlari nima: organik, pullik, to‘g‘ridan-to‘g‘ri, referal, ijtimoiy va AI trafik. GA4’da qayerdan ko‘rish va kichik biznes qaysi birini birinchi o‘stirishi kerak.</p>
+  <span class="more">O‘qish →</span>
+  </span>
+</a><a class="card" href="/blog/qora-juma-ai-trafik/">
+  <span class="thumb"><img src="/covers/uz-qora-juma-ai-trafik.svg" alt="Qora juma va AI trafik: xaridor ChatGPT’dan so‘rab kelganda" loading="lazy" width="600" height="315"></span>
+  <span class="card-body">
+  <span class="meta"><b>O‘z biznesingiz</b> · 27 noyabr 2026 · 6 daqiqa o‘qish</span>
+  <h3>Qora juma va AI trafik: xaridor ChatGPT’dan so‘rab kelganda</h3>
+  <p>Qora juma 2026 da AI trafik AQShda keskin o‘sdi. Do‘kon sahifasini ChatGPT va Gemini’dan kelgan xaridorga tayyorlash: fakt, narx, sharh, GA4 kuzatuv.</p>
+  <span class="more">O‘qish →</span>
+  </span>
+</a><a class="card" href="/blog/vibe-coding-biznes/">
+  <span class="thumb"><img src="/covers/uz-vibe-coding-biznes.svg" alt="Vibe coding biznes uchun: AI bilan dasturchisiz vosita yasash" loading="lazy" width="600" height="315"></span>
+  <span class="card-body">
+  <span class="meta"><b>O‘z biznesingiz</b> · 17 noyabr 2026 · 2 daqiqa o‘qish</span>
+  <h3>Vibe coding biznes uchun: AI bilan dasturchisiz vosita yasash</h3>
+  <p>Vibe coding nima: AI’ga oddiy so‘zlar bilan aytib sahifa, kalkulyator va ichki vosita yasash, qaysi vazifalarga mos, xavflar, xavfsizlik va qachon dasturchi kerak.</p>
+  <span class="more">O‘qish →</span>
+  </span>
+</a></div></section>
+
+</main>
+<div class="lm-modal" id="lead-modal" hidden role="dialog" aria-modal="true" aria-label="Bepul auditga yozilish">
+  <form class="lead-form lm-box" action="https://hook.eu2.make.com/an8o5307xfa32qt9kxvrnjtibu878iyi" method="post" data-lang="uz" data-phone-bad="Telefon raqamini to‘liq kiriting" data-need-label="Sizga nima kerak?">
+    <button class="lm-x" type="button" aria-label="×">×</button>
+    <div class="lf-fields">
+      <h2>Bepul auditga yozilish</h2>
+      <p class="muted">30 daqiqa ichida qo‘ng‘iroq qilamiz</p>
+      <label>Ismingiz<input name="name" required maxlength="80" autocomplete="name"></label>
+      <label>Telefon raqamingiz<input name="phone" type="tel" required maxlength="25" autocomplete="tel" value="+998 " inputmode="tel"></label>
+      <label>Biznesingiz va vazifangiz<input name="niche" required maxlength="200" placeholder="Masalan: restoran, Instagram’dan ko‘proq ariza kerak"></label>
+      <fieldset class="need"><legend>Sizga nima kerak?</legend><label class="opt"><input type="radio" name="need" value="Target reklama" required><span>Target reklama</span></label><label class="opt"><input type="radio" name="need" value="SMM va kontent"><span>SMM va kontent</span></label><label class="opt"><input type="radio" name="need" value="Reels / video"><span>Reels / video</span></label><label class="opt"><input type="radio" name="need" value="Hammasi — kompleks"><span>Hammasi — kompleks</span></label></fieldset>
+      <input class="hp" name="hp" tabindex="-1" autocomplete="off" aria-hidden="true">
+      <button class="btn" type="submit">Ariza yuborish</button>
+      <p class="consent">Tugmani bosib, <a href="/maxfiylik/">maxfiylik siyosati</a>ga rozilik bildirasiz.</p>
+      <p class="lf-err">Yuborib bo‘lmadi. Iltimos, qo‘ng‘iroq qiling yoki Telegram’da yozing: <a href="tel:+998874259090">+998 87 425 90 90</a> · <a href="https://t.me/levelhr" target="_blank" rel="noopener">@levelhr</a></p>
+    </div>
+    <div class="lf-ok"><h2>Rahmat, arizangiz qabul qilindi!</h2><p>Marketologimiz ish vaqtida 30 daqiqa ichida bog‘lanadi.</p></div>
+  </form>
+</div>
+<script>
+(function () {
+  var q = new URLSearchParams(location.search), us = (q.get('utm_source') || '').toLowerCase(), src = '';
+  if (us.indexOf('yandex') > -1 || q.get('yclid')) src = 'Yandex';
+  else if (us.indexOf('google') > -1 || q.get('gclid') || q.get('gbraid') || q.get('wbraid')) src = 'Google';
+  var keep = {};
+  if (src) keep = {source: src, utm_source: us, utm_campaign: q.get('utm_campaign') || '', utm_term: q.get('utm_term') || ''};
+  try {
+    if (src) localStorage.setItem('lm_src', JSON.stringify(keep));
+    else keep = JSON.parse(localStorage.getItem('lm_src') || '{}') || {};
+  } catch (e) {}
+  document.querySelectorAll('form.lead-form').forEach(function (f) {
+    var phone = f.querySelector('[name=phone]');
+    phone.addEventListener('input', function () { phone.setCustomValidity(''); });
+    f.addEventListener('submit', function (e) {
+      e.preventDefault();
+      if (phone.value.replace(/\D/g, '').length < 9) { phone.setCustomValidity(f.dataset.phoneBad); phone.reportValidity(); return; }
+      var d = new URLSearchParams(new FormData(f));
+      var need = f.querySelector('[name=need]:checked');
+      if (need) d.set('niche', (d.get('niche') || '') + ' | ' + f.dataset.needLabel + ': ' + need.value);
+      d.delete('need');
+      d.set('source', keep.source || 'Sayt levelm.uz');
+      d.set('utm_source', keep.utm_source || '');
+      d.set('utm_campaign', keep.utm_campaign || '');
+      d.set('utm_term', keep.utm_term || '');
+      d.set('lang', f.dataset.lang);
+      d.set('page', location.origin + location.pathname);
+      var btn = f.querySelector('button[type=submit]');
+      btn.disabled = true; f.classList.remove('failed');
+      fetch(f.action, {method: 'POST', body: d}).then(function (r) {
+        if (!r.ok) throw new Error(r.status);
+        f.classList.add('sent');
+        try {
+          if (window.ym && window.LM_YM) ym(window.LM_YM, 'reachGoal', 'lead');
+          if (window.gtag && window.LM_GADS) gtag('event', 'conversion', {send_to: window.LM_GADS});
+        } catch (x) {}
+      }).catch(function () { f.classList.add('failed'); btn.disabled = false; });
+    });
+  });
+  var m = document.getElementById('lead-modal');
+  if (!m) return;
+  function close() { m.hidden = true; document.body.classList.remove('lm-open'); }
+  document.querySelectorAll('a[data-lead]').forEach(function (a) {
+    a.addEventListener('click', function (e) {
+      e.preventDefault();
+      var own = document.querySelector('.lead-hero .lead-form input[name=name]');
+      if (own) { own.scrollIntoView({behavior: 'smooth', block: 'center'}); own.focus(); return; }
+      m.hidden = false; document.body.classList.add('lm-open');
+      var first = m.querySelector('input[name=name]'); if (first) setTimeout(function () { first.focus(); }, 50);
+    });
+  });
+  m.addEventListener('click', function (e) { if (e.target === m || e.target.closest('.lm-x')) close(); });
+  document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && !m.hidden) close(); });
+})();
+</script>
+<footer class="foot"><div class="wrap">
+  <div>
+    <a class="logo" href="/" aria-label="Level Marketing"><img class="mark" src="/logo.svg" alt="" width="95" height="28"><span class="tag">marketing</span></a>
+    <p>Toshkentdagi marketing agentligi</p>
+    <p>Toshkent sh., 5-kvartal, 29-uy</p>
+  </div>
+  <div class="contacts"><a href="https://t.me/levelhr" target="_blank" rel="noopener">Telegram</a><a href="https://instagram.com/levelmarketing.uz" target="_blank" rel="noopener">Instagram</a><a href="tel:+998874259090">+998 87 425 90 90</a></div>
+  <p class="copy">© 2026 Level Marketing · <a href="/maxfiylik/">Maxfiylik siyosati</a></p>
+</div></footer>
+</body>
+</html>
