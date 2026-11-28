@@ -162,4 +162,4 @@ A brand tone of voice is a one-page rulebook on how the company speaks: who the 
 
 - [What is a brand book? A minimal brand book for small businesses](/en/blog/what-is-a-brand-book/)
 - [Brand positioning: owning a place in the customer's mind](/en/blog/brand-positioning/)
-- [How to create a slogan for your business: a memorable line](/en/blog/how-to-create-a-slogan/)
+- [Saved replies library: answers to 15 questions for DMs and calls](/en/blog/saved-replies-library/)

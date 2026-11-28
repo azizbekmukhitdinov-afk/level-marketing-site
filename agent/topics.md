@@ -4,10 +4,12 @@
 Можете сами вписывать темы в начало списка — агент возьмёт их первыми.
 22.10.2026 на сайт вышел пакет из 50 статей — перед выбором темы проверь `ls content/uz/blog`, чтобы не повторяться.
 
-- [brend] Direct va telefon uchun javoblar kitobi: 15 ta tez-tez beriladigan savolga brend ovozida tayyor javob, yangilash tartibi (brend-ovoz-ohangi va meta-business-suite-avtomatik-javoblar bilan kesishmasin — faqat jamoa uchun skript-kitob) | Книга ответов для Direct и телефона: 15 частых вопросов в тоне бренда
 - [video] Karaoke-subtitr: so‘zma-so‘z ajratiladigan subtitr — qachon ushlab turadi, qachon charchatadi va CapCut/Edits’da qanday sozlash (videoga-subtitr-qoidalari bilan kesishmasin, faqat animatsiya uslubi) | Субтитры-караоке по слову: когда удерживают, а когда утомляют
 - [target] Ads Manager’da videoga SRT subtitr yuklash: fayl nomi, til kodi va qaysi joylashuvlarda ko‘rinadi (Meta Business Help bo‘yicha tekshirib yozish) | SRT-субтитры в Ads Manager: имя файла, код языка и где их видно
 - [video] Kadrdagi sarlavha (on-screen text) va subtitr: taklif yozuvi, narx plashkasi va subtitr bir kadrda qanday sig‘adi | Надпись в кадре и субтитры: как уместить оффер, плашку с ценой и субтитры в одном кадре
+- [sotuv] Javoblar kitobidan foydalanishni tekshirish: oyiga 10 ta suhbatni baholash varaqasi — javob tezligi, aniqlovchi savol, keyingi qadam (tayyor-javoblar-kitobi bilan kesishmasin, faqat nazorat) | Проверка переписки менеджеров: лист оценки 10 диалогов в месяц
+- [biznes] Yangi menejerni birinchi haftada o‘qitish: javoblar kitobi, suhbat yozuvlari va 5 kunlik reja (kichik do‘kon va klinika uchun) | Онбординг нового менеджера по продажам за 5 дней
+- [brend] Shikoyatga javob tartibi jamoa uchun: kim javob beradi, qaysi muddatda, qachon rahbarga uzatiladi (onlayn-obro-sharhlar bilan kesishmasin — faqat ichki tartib, Direct va telefon) | Регламент ответа на жалобы в Direct и по телефону: кто, когда и кому передаёт
 - [smm] Ikki tilli post va karusel: o‘zbek va rus matnini bitta postda joylash — qaysi til birinchi, uzunlik va dizayn (brend-ovoz-ohangi takrorlanmasin) | Двуязычный пост: как разместить узбекский и русский текст в одном посте
 - [biznes] 2027-yil dam olish kunlari farmoni: qo‘shimcha kunlar va ko‘chirishlar chiqqanda — do‘kon, klinika va o‘quv markazi jadvali uchun nima o‘zgaradi (president.uz’da farmon e’lon qilingandan keyin yozish; bayram-kunlari-ishlash-haqi bilan kesishmasin) | Выходные 2027: что изменит указ о переносах для графика магазина, клиники и учебного центра
 - [biznes] Smenali ish va jamlangan ish vaqti hisobi: chakana savdo va restoran uchun qisqa qo‘llanma (lex.uz’dagi Mehnat kodeksi matni bo‘yicha tekshirib yozish) | Сменный график и суммированный учёт рабочего времени в рознице и ресторане

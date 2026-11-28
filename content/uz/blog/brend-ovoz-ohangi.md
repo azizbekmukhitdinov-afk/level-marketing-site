@@ -162,4 +162,4 @@ Brendning ovoz ohangi — kompaniya qanday gapirishi haqidagi bir sahifalik qoid
 
 - [Brendbuk nima: kichik biznes uchun minimal brendbuk tarkibi](/blog/brendbuk-nima/)
 - [Brend pozitsiyalash: mijoz ongida o‘z o‘rningizni egallash](/blog/brend-pozitsiyalash/)
-- [Slogan yaratish: biznes uchun eslab qolinadigan shior](/blog/slogan-yaratish/)
+- [Tayyor javoblar kitobi: Direct va telefon uchun 15 savolga javob](/blog/tayyor-javoblar-kitobi/)

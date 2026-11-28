@@ -102,5 +102,5 @@ rubric: brend
 ## Ещё по теме
 
 - [Фирменный стиль: минимум для малого бизнеса](/ru/blog/firmennyy-stil-dlya-malogo-biznesa/)
-- [Что такое бренд и чем он отличается от логотипа](/ru/blog/chto-takoe-brend/)
+- [Книга готовых ответов: 15 вопросов для Direct и телефона](/ru/blog/kniga-gotovykh-otvetov/)
 - [Tone of voice бренда: как описать голос компании на 1 странице](/ru/blog/ton-golosa-brenda/)

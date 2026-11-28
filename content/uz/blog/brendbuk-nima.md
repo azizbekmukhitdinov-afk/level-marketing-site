@@ -102,5 +102,5 @@ Brendbuk — brendingizdan bir xil foydalanish qoidalari: logotip, ranglar, shri
 ## Shu mavzuda yana
 
 - [Vizual uslub va aydentika: kichik biznes uchun minimum](/blog/vizual-uslub-aydentika/)
-- [Brend nima va u logotipdan nimasi bilan farq qiladi](/blog/brend-nima/)
+- [Tayyor javoblar kitobi: Direct va telefon uchun 15 savolga javob](/blog/tayyor-javoblar-kitobi/)
 - [Brendning ovoz ohangi (tone of voice): 1 sahifalik qo‘llanma](/blog/brend-ovoz-ohangi/)

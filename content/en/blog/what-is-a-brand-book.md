@@ -102,5 +102,5 @@ A brand book is the set of rules for using your brand consistently: logo, colour
 ## More on this topic
 
 - [Visual identity: the minimum a small business needs](/en/blog/visual-identity-for-small-business/)
-- [What a brand is and how it differs from a logo](/en/blog/what-is-a-brand/)
+- [Saved replies library: answers to 15 questions for DMs and calls](/en/blog/saved-replies-library/)
 - [Brand tone of voice: a one-page guide for small businesses](/en/blog/brand-tone-of-voice/)
